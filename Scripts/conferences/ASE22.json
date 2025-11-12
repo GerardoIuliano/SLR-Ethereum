@@ -1,0 +1,1406 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/kbse/ase2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"8.88"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"229",
+"@dc":"229",
+"@oc":"229",
+"@id":"49831205",
+"text":":facetid:toc:db/conf/kbse/ase2022.bht"
+}
+},
+"hits":{
+"@total":"229",
+"@computed":"229",
+"@sent":"229",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1805681",
+"info":{"authors":{"author":[{"@pid":"211/3484","text":"Anh Duc Vu 0001"},{"@pid":"24/9748","text":"Timo Kehrer"},{"@pid":"145/4028","text":"Christos Tsigkanos"}]},"title":"Outcome-Preserving Input Reduction for Scientific Data Analysis Workflows.","venue":"ASE","pages":"182:1-182:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0001KT22","doi":"10.1145/3551349.3559558","ee":"https://doi.org/10.1145/3551349.3559558","url":"https://dblp.org/rec/conf/kbse/0001KT22"},
+"url":"URL#1805681"
+},
+{
+"@score":"1",
+"@id":"1805682",
+"info":{"authors":{"author":[{"@pid":"64/1715-1","text":"Andrea Stocco 0001"},{"@pid":"337/0674","text":"Paulo J. Nunes"},{"@pid":"16/608","text":"Marcelo d&apos;Amorim"},{"@pid":"54/2734","text":"Paolo Tonella"}]},"title":"ThirdEye: Attention Maps for Safe Autonomous Driving Systems.","venue":"ASE","pages":"102:1-102:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0001NDT22","doi":"10.1145/3551349.3556968","ee":"https://doi.org/10.1145/3551349.3556968","url":"https://dblp.org/rec/conf/kbse/0001NDT22"},
+"url":"URL#1805682"
+},
+{
+"@score":"1",
+"@id":"1805683",
+"info":{"authors":{"author":[{"@pid":"54/4698-1","text":"Jinfu Chen 0001"},{"@pid":"307/3719","text":"Shengran Wang"},{"@pid":"195/7753","text":"Saihua Cai"},{"@pid":"91/195-46","text":"Chi Zhang 0046"},{"@pid":"31/6601-5","text":"Haibo Chen 0005"},{"@pid":"72/7564","text":"Jingyi Chen"},{"@pid":"12/3933","text":"Jianming Zhang"}]},"title":"A Novel Coverage-guided Greybox Fuzzing based on Power Schedule Optimization with Time Complexity.","venue":"ASE","pages":"172:1-172:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0001WCZCCZ22","doi":"10.1145/3551349.3559550","ee":"https://doi.org/10.1145/3551349.3559550","url":"https://dblp.org/rec/conf/kbse/0001WCZCCZ22"},
+"url":"URL#1805683"
+},
+{
+"@score":"1",
+"@id":"1805684",
+"info":{"authors":{"author":[{"@pid":"49/8034-1","text":"Anh Tuan Nguyen 0001"},{"@pid":"325/0687","text":"Aashish Yadavally"},{"@pid":"56/6902","text":"Tien N. Nguyen"}]},"title":"Next Syntactic-Unit Code Completion and Applications.","venue":"ASE","pages":"180:1-180:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0001YN22","doi":"10.1145/3551349.3559544","ee":"https://doi.org/10.1145/3551349.3559544","url":"https://dblp.org/rec/conf/kbse/0001YN22"},
+"url":"URL#1805684"
+},
+{
+"@score":"1",
+"@id":"1805685",
+"info":{"authors":{"author":[{"@pid":"10/3099-2","text":"Liu Wang 0002"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"},{"@pid":"53/1565","text":"Xiapu Luo"},{"@pid":"58/10567","text":"Yulei Sui"}]},"title":"MalWhiteout: Reducing Label Errors in Android Malware Detection.","venue":"ASE","pages":"69:1-69:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/00020LS22","doi":"10.1145/3551349.3560418","ee":"https://doi.org/10.1145/3551349.3560418","url":"https://dblp.org/rec/conf/kbse/00020LS22"},
+"url":"URL#1805685"
+},
+{
+"@score":"1",
+"@id":"1805686",
+"info":{"authors":{"author":[{"@pid":"12/2962-2","text":"Jaehyung Lee 0002"},{"@pid":"337/0676","text":"Kisun Han"},{"@pid":"80/6889","text":"Hwanjo Yu"}]},"title":"A Light Bug Triage Framework for Applying Large Pre-trained Language Model.","venue":"ASE","pages":"3:1-3:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0002HY22","doi":"10.1145/3551349.3556898","ee":"https://doi.org/10.1145/3551349.3556898","url":"https://dblp.org/rec/conf/kbse/0002HY22"},
+"url":"URL#1805686"
+},
+{
+"@score":"1",
+"@id":"1805687",
+"info":{"authors":{"author":[{"@pid":"38/1392-2","text":"Jialu Zhang 0002"},{"@pid":"124/3254","text":"De Li"},{"@pid":"322/0412","text":"John Charles Kolesar"},{"@pid":"228/5537","text":"Hanyuan Shi"},{"@pid":"p/RuzicaPiskac","text":"Ruzica Piskac"}]},"title":"Automated Feedback Generation for Competition-Level Code.","venue":"ASE","pages":"13:1-13:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0002LKSP22","doi":"10.1145/3551349.3560425","ee":"https://doi.org/10.1145/3551349.3560425","url":"https://dblp.org/rec/conf/kbse/0002LKSP22"},
+"url":"URL#1805687"
+},
+{
+"@score":"1",
+"@id":"1805688",
+"info":{"authors":{"author":[{"@pid":"48/7536-2","text":"Chenguang Zhu 0002"},{"@pid":"96/2615-12","text":"Ye Liu 0012"},{"@pid":"227/8984","text":"Xiuheng Wu"},{"@pid":"59/871-8","text":"Yi Li 0008"}]},"title":"Identifying Solidity Smart Contract API Documentation Errors.","venue":"ASE","pages":"56:1-56:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0002LWL22","doi":"10.1145/3551349.3556963","ee":"https://doi.org/10.1145/3551349.3556963","url":"https://dblp.org/rec/conf/kbse/0002LWL22"},
+"url":"URL#1805688"
+},
+{
+"@score":"1",
+"@id":"1805689",
+"info":{"authors":{"author":[{"@pid":"27/3809-2","text":"Bernd Fischer 0002"},{"@pid":"33/5041","text":"Salvatore La Torre"},{"@pid":"11/1029","text":"Gennaro Parlato"},{"@pid":"23/8898","text":"Peter Schrammel"}]},"title":"CBMC-SSM: Bounded Model Checking of C Programs with Symbolic Shadow Memory.","venue":"ASE","pages":"156:1-156:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0002TPS22","doi":"10.1145/3551349.3559523","ee":"https://doi.org/10.1145/3551349.3559523","url":"https://dblp.org/rec/conf/kbse/0002TPS22"},
+"url":"URL#1805689"
+},
+{
+"@score":"1",
+"@id":"1805690",
+"info":{"authors":{"author":[{"@pid":"86/2228-3","text":"Rui Xie 0003"},{"@pid":"237/8490","text":"Tianxiang Hu"},{"@pid":"09/5394-4","text":"Wei Ye 0004"},{"@pid":"83/3715","text":"Shikun Zhang"}]},"title":"Low-Resources Project-Specific Code Summarization.","venue":"ASE","pages":"68:1-68:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0003HYZ22","doi":"10.1145/3551349.3556909","ee":"https://doi.org/10.1145/3551349.3556909","url":"https://dblp.org/rec/conf/kbse/0003HYZ22"},
+"url":"URL#1805690"
+},
+{
+"@score":"1",
+"@id":"1805691",
+"info":{"authors":{"author":[{"@pid":"31/6601-5","text":"Haibo Chen 0005"},{"@pid":"54/4698-1","text":"Jinfu Chen 0001"}]},"title":"Coverage-based Greybox Fuzzing with Pointer Monitoring for C Programs.","venue":"ASE","pages":"121:1-121:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0005022","doi":"10.1145/3551349.3559566","ee":"https://doi.org/10.1145/3551349.3559566","url":"https://dblp.org/rec/conf/kbse/0005022"},
+"url":"URL#1805691"
+},
+{
+"@score":"1",
+"@id":"1805692",
+"info":{"authors":{"author":[{"@pid":"16/1234-7","text":"Zhuo Zhang 0007"},{"@pid":"94/3609","text":"Yan Lei"},{"@pid":"131/4289-1","text":"Meng Yan 0001"},{"@pid":"55/2008-1","text":"Yue Yu 0001"},{"@pid":"181/3422","text":"Jiachi Chen"},{"@pid":"219/1645","text":"Shangwen Wang"},{"@pid":"81/8725","text":"Xiaoguang Mao"}]},"title":"Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach.","venue":"ASE","pages":"83:1-83:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0007LY0CWM22","doi":"10.1145/3551349.3560428","ee":"https://doi.org/10.1145/3551349.3560428","url":"https://dblp.org/rec/conf/kbse/0007LY0CWM22"},
+"url":"URL#1805692"
+},
+{
+"@score":"1",
+"@id":"1805693",
+"info":{"authors":{"author":[{"@pid":"30/5824-8","text":"Yang Sun 0008"},{"@pid":"11/8526","text":"Christopher M. Poskitt"},{"@pid":"s/JunSun1","text":"Jun Sun 0001"},{"@pid":"154/2128","text":"Yuqi Chen 0001"},{"@pid":"97/3485-6","text":"Zijiang Yang 0006"}]},"title":"LawBreaker: An Approach for Specifying Traffic Laws and Fuzzing Autonomous Vehicles.","venue":"ASE","pages":"62:1-62:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0008P00Y22","doi":"10.1145/3551349.3556897","ee":"https://doi.org/10.1145/3551349.3556897","url":"https://dblp.org/rec/conf/kbse/0008P00Y22"},
+"url":"URL#1805693"
+},
+{
+"@score":"1",
+"@id":"1805694",
+"info":{"authors":{"author":[{"@pid":"329/1040","text":"Aatira Anum Ahmad"},{"@pid":"292/5609","text":"Mubashir Anwar"},{"@pid":"172/6848","text":"Hashim Sharif"},{"@pid":"21/2267","text":"Ashish Gehani"},{"@pid":"59/3605","text":"Fareed Zaffar"}]},"title":"Trimmer: Context-Specific Code Reduction.","venue":"ASE","pages":"168:1-168:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AhmadASGZ22","doi":"10.1145/3551349.3559529","ee":"https://doi.org/10.1145/3551349.3559529","url":"https://dblp.org/rec/conf/kbse/AhmadASGZ22"},
+"url":"URL#1805694"
+},
+{
+"@score":"1",
+"@id":"1805695",
+"info":{"authors":{"author":[{"@pid":"183/1406","text":"Toufique Ahmed"},{"@pid":"d/PremkumarTDevanbu","text":"Premkumar T. Devanbu"}]},"title":"Few-shot training LLMs for project-specific code-summarization.","venue":"ASE","pages":"177:1-177:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AhmedD22","doi":"10.1145/3551349.3559555","ee":"https://doi.org/10.1145/3551349.3559555","url":"https://dblp.org/rec/conf/kbse/AhmedD22"},
+"url":"URL#1805695"
+},
+{
+"@score":"1",
+"@id":"1805696",
+"info":{"authors":{"author":[{"@pid":"223/0263","text":"Manish Ahuja"},{"@pid":"232/7277","text":"Sukhavasi Narendranath"},{"@pid":"276/3598","text":"Swapnajeet Gon Choudhury"},{"@pid":"256/4279","text":"Kaushik Amar Das"},{"@pid":"165/8254","text":"Kapil Singi"},{"@pid":"82/1315","text":"Kuntal Dey"},{"@pid":"09/6043","text":"Vikrant Kaulgud"}]},"title":"MCDA Framework for Edge-Aware Multi-Cloud Hybrid Architecture Recommendation.","venue":"ASE","pages":"137:1-137:2","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AhujaNCDSDK22","doi":"10.1145/3551349.3559501","ee":"https://doi.org/10.1145/3551349.3559501","url":"https://dblp.org/rec/conf/kbse/AhujaNCDSDK22"},
+"url":"URL#1805696"
+},
+{
+"@score":"1",
+"@id":"1805697",
+"info":{"authors":{"author":[{"@pid":"243/1650","text":"Eman Abdullah AlOmar"},{"@pid":"69/5674","text":"Anton Ivanov"},{"@pid":"259/1167","text":"Zarina Kurbatova"},{"@pid":"256/6199","text":"Yaroslav Golubev"},{"@pid":"140/0883","text":"Mohamed Wiem Mkaouer"},{"@pid":"73/6919-1","text":"Ali Ouni 0001"},{"@pid":"136/0260","text":"Timofey Bryksin"},{"@pid":"286/5987","text":"Le Nguyen"},{"@pid":"352/5876","text":"Amit Dilip Kini"},{"@pid":"337/1009","text":"Aditya Thakur 0003"}]},"title":"AntiCopyPaster: Extracting Code Duplicates As Soon As They Are Introduced in the IDE.","venue":"ASE","pages":"152:1-152:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlOmarIKGM0BNKT22","doi":"10.1145/3551349.3559537","ee":"https://doi.org/10.1145/3551349.3559537","url":"https://dblp.org/rec/conf/kbse/AlOmarIKGM0BNKT22"},
+"url":"URL#1805697"
+},
+{
+"@score":"1",
+"@id":"1805698",
+"info":{"authors":{"author":[{"@pid":"322/7488","text":"Mark W. Aldrich"},{"@pid":"207/6547","text":"Alexi Turcotte"},{"@pid":"337/0584","text":"Matthew Blanco"},{"@pid":"32/524","text":"Frank Tip"}]},"title":"Augur: Dynamic Taint Analysis for Asynchronous JavaScript.","venue":"ASE","pages":"153:1-153:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AldrichTBT22","doi":"10.1145/3551349.3559522","ee":"https://doi.org/10.1145/3551349.3559522","url":"https://dblp.org/rec/conf/kbse/AldrichTBT22"},
+"url":"URL#1805698"
+},
+{
+"@score":"1",
+"@id":"1805699",
+"info":{"authors":{"author":[{"@pid":"277/3036","text":"Lissette Almonte"},{"@pid":"75/4962","text":"Esther Guerra"},{"@pid":"29/791","text":"Iván Cantador"},{"@pid":"l/JuandeLara","text":"Juan de Lara"}]},"title":"Building recommenders for modelling languages with Droid.","venue":"ASE","pages":"155:1-155:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlmonteGCL22","doi":"10.1145/3551349.3559521","ee":"https://doi.org/10.1145/3551349.3559521","url":"https://dblp.org/rec/conf/kbse/AlmonteGCL22"},
+"url":"URL#1805699"
+},
+{
+"@score":"1",
+"@id":"1805700",
+"info":{"authors":{"author":[{"@pid":"323/4496","text":"Dharun Anandayuvaraj"},{"@pid":"182/5618-1","text":"James C. Davis 0001"}]},"title":"Reflecting on Recurring Failures in IoT Development.","venue":"ASE","pages":"185:1-185:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Anandayuvaraj022","doi":"10.1145/3551349.3559545","ee":"https://doi.org/10.1145/3551349.3559545","url":"https://dblp.org/rec/conf/kbse/Anandayuvaraj022"},
+"url":"URL#1805700"
+},
+{
+"@score":"1",
+"@id":"1805701",
+"info":{"authors":{"author":{"@pid":"337/0697","text":"Cícero A. G. Araújo"}},"title":"A model for automatic generating reusable code from multiple GUIs.","venue":"ASE","pages":"118:1-118:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Araujo22","doi":"10.1145/3551349.3559563","ee":"https://doi.org/10.1145/3551349.3559563","url":"https://dblp.org/rec/conf/kbse/Araujo22"},
+"url":"URL#1805701"
+},
+{
+"@score":"1",
+"@id":"1805702",
+"info":{"authors":{"author":[{"@pid":"337/0864","text":"Ishan Aryendu"},{"@pid":"94/3104-113","text":"Ying Wang 0113"},{"@pid":"337/0754","text":"Farah Elkourdi"},{"@pid":"243/1650","text":"Eman Abdullah AlOmar"}]},"title":"Intelligent Code Review Assignment for Large Scale Open Source Software Stacks.","venue":"ASE","pages":"221:1-221:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AryenduWEA22","doi":"10.1145/3551349.3561147","ee":"https://doi.org/10.1145/3551349.3561147","url":"https://dblp.org/rec/conf/kbse/AryenduWEA22"},
+"url":"URL#1805702"
+},
+{
+"@score":"1",
+"@id":"1805703",
+"info":{"authors":{"author":[{"@pid":"42/2865","text":"Debi Ashenden"},{"@pid":"220/3704","text":"Gail Ollis"},{"@pid":"174/7740","text":"Iain Reid"}]},"title":"Dancing, not Wrestling: Moving from Compliance to Concordance for Secure Software Development.","venue":"ASE","pages":"219:1-219:9","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AshendenOR22","doi":"10.1145/3551349.3561145","ee":"https://doi.org/10.1145/3551349.3561145","url":"https://dblp.org/rec/conf/kbse/AshendenOR22"},
+"url":"URL#1805703"
+},
+{
+"@score":"1",
+"@id":"1805704",
+"info":{"authors":{"author":[{"@pid":"318/0975","text":"Jinsheng Ba"},{"@pid":"74/3123","text":"Gregory J. Duck"},{"@pid":"04/5884","text":"Abhik Roychoudhury"}]},"title":"Efficient Greybox Fuzzing to Detect Memory Errors.","venue":"ASE","pages":"37:1-37:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BaDR22","doi":"10.1145/3551349.3561161","ee":"https://doi.org/10.1145/3551349.3561161","url":"https://dblp.org/rec/conf/kbse/BaDR22"},
+"url":"URL#1805704"
+},
+{
+"@score":"1",
+"@id":"1805705",
+"info":{"authors":{"author":[{"@pid":"257/5634","text":"Frank Bagehorn"},{"@pid":"40/1406","text":"Jesus Rios"},{"@pid":"130/2298","text":"Saurabh Jha"},{"@pid":"23/2026","text":"Robert Filepp"},{"@pid":"32/6257","text":"Larisa Shwartz"},{"@pid":"88/6485","text":"Naoki Abe"},{"@pid":"13/1520","text":"Xi Yang"}]},"title":"A fault injection platform for learning AIOps models.","venue":"ASE","pages":"130:1-130:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BagehornRJFSAY22","doi":"10.1145/3551349.3559503","ee":"https://doi.org/10.1145/3551349.3559503","url":"https://dblp.org/rec/conf/kbse/BagehornRJFSAY22"},
+"url":"URL#1805705"
+},
+{
+"@score":"1",
+"@id":"1805706",
+"info":{"authors":{"author":[{"@pid":"248/2359","text":"Hamed Barzamini"},{"@pid":"150/9109","text":"Mona Rahimi"}]},"title":"B-AIS: An Automated Process for Black-box Evaluation of Visual Perception in AI-enabled Software against Domain Semantics.","venue":"ASE","pages":"16:1-16:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BarzaminiR22","doi":"10.1145/3551349.3561162","ee":"https://doi.org/10.1145/3551349.3561162","url":"https://dblp.org/rec/conf/kbse/BarzaminiR22"},
+"url":"URL#1805706"
+},
+{
+"@score":"1",
+"@id":"1805707",
+"info":{"authors":{"author":[{"@pid":"283/7067","text":"Firas Bayram"},{"@pid":"60/2757","text":"Bestoun S. Ahmed"},{"@pid":"326/2231","text":"Erik Hallin"},{"@pid":"326/1683","text":"Anton Engman"}]},"title":"A Drift Handling Approach for Self-Adaptive ML Software in Scalable Industrial Processes.","venue":"ASE","pages":"129:1-129:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BayramAHE22","doi":"10.1145/3551349.3559495","ee":"https://doi.org/10.1145/3551349.3559495","url":"https://dblp.org/rec/conf/kbse/BayramAHE22"},
+"url":"URL#1805707"
+},
+{
+"@score":"1",
+"@id":"1805708",
+"info":{"authors":{"author":[{"@pid":"223/0332","text":"Arianna Blasi"},{"@pid":"54/2159","text":"Alessandra Gorla"},{"@pid":"e/MDErnst","text":"Michael D. Ernst"},{"@pid":"98/6514","text":"Mauro Pezzè"}]},"title":"Call Me Maybe: Using NLP to Automatically Generate Unit Test Cases Respecting Temporal Constraints.","venue":"ASE","pages":"19:1-19:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BlasiGEP22","doi":"10.1145/3551349.3556961","ee":"https://doi.org/10.1145/3551349.3556961","url":"https://dblp.org/rec/conf/kbse/BlasiGEP22"},
+"url":"URL#1805708"
+},
+{
+"@score":"1",
+"@id":"1805709",
+"info":{"authors":{"author":{"@pid":"324/8017","text":"Islem Bouzenia"}},"title":"Detecting Inconsistencies in If-Condition-Raise Statements.","venue":"ASE","pages":"195:1-195:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Bouzenia22","doi":"10.1145/3551349.3559514","ee":"https://doi.org/10.1145/3551349.3559514","url":"https://dblp.org/rec/conf/kbse/Bouzenia22"},
+"url":"URL#1805709"
+},
+{
+"@score":"1",
+"@id":"1805710",
+"info":{"authors":{"author":[{"@pid":"223/4067","text":"Houssem Ben Braiek"},{"@pid":"295/3780","text":"Ali Tfaily"},{"@pid":"32/147","text":"Foutse Khomh"},{"@pid":"50/370","text":"Thomas Reid"},{"@pid":"329/3863","text":"Ciro Guida"}]},"title":"SmOOD: Smoothness-based Out-of-Distribution Detection Approach for Surrogate Neural Networks in Aircraft Design.","venue":"ASE","pages":"94:1-94:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BraiekTKRG22","doi":"10.1145/3551349.3556936","ee":"https://doi.org/10.1145/3551349.3556936","url":"https://dblp.org/rec/conf/kbse/BraiekTKRG22"},
+"url":"URL#1805710"
+},
+{
+"@score":"1",
+"@id":"1805711",
+"info":{"authors":{"author":[{"@pid":"203/0017","text":"Simón Gutiérrez Brida"},{"@pid":"33/4870","text":"Germán Regis"},{"@pid":"233/7234","text":"Guolong Zheng"},{"@pid":"88/2247","text":"Hamid Bagheri"},{"@pid":"19/7057","text":"ThanhVu Nguyen"},{"@pid":"69/610","text":"Nazareno Aguirre"},{"@pid":"13/1323","text":"Marcelo F. Frias"}]},"title":"ICEBAR: Feedback-Driven Iterative Repair of Alloy Specifications.","venue":"ASE","pages":"55:1-55:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BridaRZBNAF22","doi":"10.1145/3551349.3556944","ee":"https://doi.org/10.1145/3551349.3556944","url":"https://dblp.org/rec/conf/kbse/BridaRZBNAF22"},
+"url":"URL#1805711"
+},
+{
+"@score":"1",
+"@id":"1805712",
+"info":{"authors":{"author":[{"@pid":"337/0851","text":"Mauro Bringolf"},{"@pid":"183/0955","text":"Dominik Winterer"},{"@pid":"s/ZhendongSu","text":"Zhendong Su 0001"}]},"title":"Finding and Understanding Incompleteness Bugs in SMT Solvers.","venue":"ASE","pages":"43:1-43:10","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BringolfW022","doi":"10.1145/3551349.3560435","ee":"https://doi.org/10.1145/3551349.3560435","url":"https://dblp.org/rec/conf/kbse/BringolfW022"},
+"url":"URL#1805712"
+},
+{
+"@score":"1",
+"@id":"1805713",
+"info":{"authors":{"author":[{"@pid":"207/7870","text":"Nghi D. Q. Bui"},{"@pid":"74/6710","text":"Yijun Yu"}]},"title":"Towards Robust Models of Code via Energy-Based Learning on Auxiliary Datasets.","venue":"ASE","pages":"147:1-147:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BuiY22","doi":"10.1145/3551349.3561171","ee":"https://doi.org/10.1145/3551349.3561171","url":"https://dblp.org/rec/conf/kbse/BuiY22"},
+"url":"URL#1805713"
+},
+{
+"@score":"1",
+"@id":"1805714",
+"info":{"authors":{"author":[{"@pid":"62/11141","text":"Matteo Camilli"},{"@pid":"80/191","text":"Raffaela Mirandola"},{"@pid":"38/5263","text":"Patrizia Scandurra"}]},"title":"XSA: eXplainable Self-Adaptation.","venue":"ASE","pages":"189:1-189:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CamilliMS22","doi":"10.1145/3551349.3559552","ee":"https://doi.org/10.1145/3551349.3559552","url":"https://dblp.org/rec/conf/kbse/CamilliMS22"},
+"url":"URL#1805714"
+},
+{
+"@score":"1",
+"@id":"1805715",
+"info":{"authors":{"author":[{"@pid":"200/2866","text":"Ezequiel Castellano"},{"@pid":"98/4236-5","text":"Xiao-Yi Zhang 0005"},{"@pid":"86/7855","text":"Paolo Arcaini"},{"@pid":"156/0024","text":"Toru Takisaka"},{"@pid":"03/2671","text":"Fuyuki Ishikawa"},{"@pid":"43/11192","text":"Nozomu Ikehata"},{"@pid":"337/0785","text":"Kosuke Iwakura"}]},"title":"Explaining the Behaviour of Game Agents Using Differential Comparison.","venue":"ASE","pages":"210:1-210:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CastellanoZATII22","doi":"10.1145/3551349.3560503","ee":"https://doi.org/10.1145/3551349.3560503","url":"https://dblp.org/rec/conf/kbse/CastellanoZATII22"},
+"url":"URL#1805715"
+},
+{
+"@score":"1",
+"@id":"1805716",
+"info":{"authors":{"author":{"@pid":"199/2211","text":"Prabuddha Chakraborty"}},"title":"Automatic Software Timing Attack Evaluation &amp; Mitigation on Clear Hardware Assumption.","venue":"ASE","pages":"192:1-192:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Chakraborty22","doi":"10.1145/3551349.3559516","ee":"https://doi.org/10.1145/3551349.3559516","url":"https://dblp.org/rec/conf/kbse/Chakraborty22"},
+"url":"URL#1805716"
+},
+{
+"@score":"1",
+"@id":"1805717",
+"info":{"authors":{"author":{"@pid":"78/425-1","text":"Animesh Chaturvedi 0001"}},"title":"Call Graph Evolution Analytics over a Version Series of an Evolving Software System.","venue":"ASE","pages":"120:1-120:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Chaturvedi22","doi":"10.1145/3551349.3559573","ee":"https://doi.org/10.1145/3551349.3559573","url":"https://dblp.org/rec/conf/kbse/Chaturvedi22"},
+"url":"URL#1805717"
+},
+{
+"@score":"1",
+"@id":"1805718",
+"info":{"authors":{"author":[{"@pid":"242/3929","text":"An Ran Chen"},{"@pid":"116/6782","text":"Tse-Hsun (Peter) Chen"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"}]},"title":"How Useful is Code Change Information for Fault Localization in Continuous Integration?","venue":"ASE","pages":"52:1-52:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenCC22","doi":"10.1145/3551349.3556931","ee":"https://doi.org/10.1145/3551349.3556931","url":"https://dblp.org/rec/conf/kbse/ChenCC22"},
+"url":"URL#1805718"
+},
+{
+"@score":"1",
+"@id":"1805719",
+"info":{"authors":{"author":[{"@pid":"120/0143","text":"Simin Chen"},{"@pid":"272/0796","text":"Mirazul Haque"},{"@pid":"95/6404-5","text":"Cong Liu 0005"},{"@pid":"03/1094-13","text":"Wei Yang 0013"}]},"title":"DeepPerform: An Efficient Approach for Performance Testing of Resource-Constrained Neural Networks.","venue":"ASE","pages":"31:1-31:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenHL022","doi":"10.1145/3551349.3561158","ee":"https://doi.org/10.1145/3551349.3561158","url":"https://dblp.org/rec/conf/kbse/ChenHL022"},
+"url":"URL#1805719"
+},
+{
+"@score":"1",
+"@id":"1805720",
+"info":{"authors":{"author":[{"@pid":"172/9949","text":"Boqi Chen"},{"@pid":"130/6479","text":"Kristóf Marussy"},{"@pid":"242/3910","text":"Sebastian Pilarski"},{"@pid":"134/9441","text":"Oszkár Semeráth"},{"@pid":"53/1883","text":"Dániel Varró"}]},"title":"Consistent Scene Graph Generation by Constraint Optimization.","venue":"ASE","pages":"25:1-25:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenMPSV22","doi":"10.1145/3551349.3560433","ee":"https://doi.org/10.1145/3551349.3560433","url":"https://dblp.org/rec/conf/kbse/ChenMPSV22"},
+"url":"URL#1805720"
+},
+{
+"@score":"1",
+"@id":"1805721",
+"info":{"authors":{"author":[{"@pid":"75/6184","text":"Miao Chen"},{"@pid":"212/1284","text":"Tengfei Tu"},{"@pid":"69/2745-1","text":"Hua Zhang 0001"},{"@pid":"64/854","text":"Qiaoyan Wen"},{"@pid":"57/7210-1","text":"Weihang Wang 0001"}]},"title":"Jasmine: A Static Analysis Framework for Spring Core Technologies.","venue":"ASE","pages":"60:1-60:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenTZW022","doi":"10.1145/3551349.3556910","ee":"https://doi.org/10.1145/3551349.3556910","url":"https://dblp.org/rec/conf/kbse/ChenTZW022"},
+"url":"URL#1805721"
+},
+{
+"@score":"1",
+"@id":"1805722",
+"info":{"authors":{"author":[{"@pid":"180/8218-1","text":"Sen Chen 0001"},{"@pid":"03/7346","text":"Yuxin Zhang"},{"@pid":"11/2636-3","text":"Lingling Fan 0003"},{"@pid":"33/5934","text":"Jiaming Li"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"AUSERA: Automated Security Vulnerability Detection for Android Apps.","venue":"ASE","pages":"154:1-154:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenZFLL22","doi":"10.1145/3551349.3559524","ee":"https://doi.org/10.1145/3551349.3559524","url":"https://dblp.org/rec/conf/kbse/ChenZFLL22"},
+"url":"URL#1805722"
+},
+{
+"@score":"1",
+"@id":"1805723",
+"info":{"authors":{"author":[{"@pid":"04/2081","text":"Yoon-Ho Choi"},{"@pid":"86/982","text":"Jaechang Nam"}]},"title":"On the Naturalness of Bytecode Instructions.","venue":"ASE","pages":"181:1-181:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChoiN22","doi":"10.1145/3551349.3559559","ee":"https://doi.org/10.1145/3551349.3559559","url":"https://dblp.org/rec/conf/kbse/ChoiN22"},
+"url":"URL#1805723"
+},
+{
+"@score":"1",
+"@id":"1805724",
+"info":{"authors":{"author":[{"@pid":"322/7802","text":"Juan Manuel Copia"},{"@pid":"80/6093","text":"Pablo Ponzio"},{"@pid":"69/610","text":"Nazareno Aguirre"},{"@pid":"54/2159","text":"Alessandra Gorla"},{"@pid":"13/1323","text":"Marcelo F. Frias"}]},"title":"LISSA: Lazy Initialization with Specialized Solver Aid.","venue":"ASE","pages":"67:1-67:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CopiaPAGF22","doi":"10.1145/3551349.3556965","ee":"https://doi.org/10.1145/3551349.3556965","url":"https://dblp.org/rec/conf/kbse/CopiaPAGF22"},
+"url":"URL#1805724"
+},
+{
+"@score":"1",
+"@id":"1805725",
+"info":{"authors":{"author":[{"@pid":"10/11515","text":"Emilio Coppa"},{"@pid":"77/6178-1","text":"Heng Yin 0001"},{"@pid":"d/CamilDemetrescu","text":"Camil Demetrescu"}]},"title":"SymFusion: Hybrid Instrumentation for Concolic Execution.","venue":"ASE","pages":"100:1-100:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CoppaYD22","doi":"10.1145/3551349.3556928","ee":"https://doi.org/10.1145/3551349.3556928","url":"https://dblp.org/rec/conf/kbse/CoppaYD22"},
+"url":"URL#1805725"
+},
+{
+"@score":"1",
+"@id":"1805726",
+"info":{"authors":{"author":[{"@pid":"337/0642","text":"Ziyu Cui"},{"@pid":"167/8963","text":"Wensheng Dou"},{"@pid":"322/8157","text":"Qianwang Dai"},{"@pid":"337/1067","text":"Jiansen Song"},{"@pid":"35/7092-49","text":"Wei Wang 0049"},{"@pid":"68/6546-1","text":"Jun Wei 0001"},{"@pid":"37/3880-4","text":"Dan Ye 0004"}]},"title":"Differentially Testing Database Transactions for Fun and Profit.","venue":"ASE","pages":"35:1-35:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CuiDDS00Y22","doi":"10.1145/3551349.3556924","ee":"https://doi.org/10.1145/3551349.3556924","url":"https://dblp.org/rec/conf/kbse/CuiDDS00Y22"},
+"url":"URL#1805726"
+},
+{
+"@score":"1",
+"@id":"1805727",
+"info":{"authors":{"author":[{"@pid":"321/1078","text":"Anh T. V. Dau"},{"@pid":"207/7870","text":"Nghi D. Q. Bui"},{"@pid":"321/0690","text":"Thang Nguyen-Duc"},{"@pid":"223/4212","text":"Hoang Thanh-Tung"}]},"title":"Towards Using Data-Influence Methods to Detect Noisy Samples in Source Code Corpora.","venue":"ASE","pages":"148:1-148:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DauBNT22","doi":"10.1145/3551349.3561168","ee":"https://doi.org/10.1145/3551349.3561168","url":"https://dblp.org/rec/conf/kbse/DauBNT22"},
+"url":"URL#1805727"
+},
+{
+"@score":"1",
+"@id":"1805728",
+"info":{"authors":{"author":{"@pid":"276/9198","text":"Mouna Dhaouadi"}},"title":"Extraction and Management of Rationale.","venue":"ASE","pages":"122:1-122:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Dhaouadi22","doi":"10.1145/3551349.3559568","ee":"https://doi.org/10.1145/3551349.3559568","url":"https://dblp.org/rec/conf/kbse/Dhaouadi22"},
+"url":"URL#1805728"
+},
+{
+"@score":"1",
+"@id":"1805729",
+"info":{"authors":{"author":[{"@pid":"276/9198","text":"Mouna Dhaouadi"},{"@pid":"147/8495","text":"Bentley Oakes"},{"@pid":"82/11109","text":"Michalis Famelis"}]},"title":"End-to-End Rationale Reconstruction.","venue":"ASE","pages":"176:1-176:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DhaouadiOF22","doi":"10.1145/3551349.3559547","ee":"https://doi.org/10.1145/3551349.3559547","url":"https://dblp.org/rec/conf/kbse/DhaouadiOF22"},
+"url":"URL#1805729"
+},
+{
+"@score":"1",
+"@id":"1805730",
+"info":{"authors":{"author":[{"@pid":"307/3900","text":"Quentin Le Dilavrec"},{"@pid":"163/0131","text":"Djamel Eddine Khelladi"},{"@pid":"09/7042","text":"Arnaud Blouin"},{"@pid":"j/JeanMarcJezequel","text":"Jean-Marc Jézéquel"}]},"title":"HyperAST: Enabling Efficient Analysis of Software Histories at Scale.","venue":"ASE","pages":"54:1-54:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DilavrecKBJ22","doi":"10.1145/3551349.3560423","ee":"https://doi.org/10.1145/3551349.3560423","url":"https://dblp.org/rec/conf/kbse/DilavrecKBJ22"},
+"url":"URL#1805730"
+},
+{
+"@score":"1",
+"@id":"1805731",
+"info":{"authors":{"author":[{"@pid":"280/0038","text":"Nesara Dissanayake"},{"@pid":"164/7182","text":"Asangi Jayatilaka"},{"@pid":"137/4679","text":"Mansooreh Zahedi"},{"@pid":"03/1909","text":"Muhammad Ali Babar 0001"}]},"title":"An Empirical Study of Automation in Software Security Patch Management.","venue":"ASE","pages":"7:1-7:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DissanayakeJZB22","doi":"10.1145/3551349.3556969","ee":"https://doi.org/10.1145/3551349.3556969","url":"https://dblp.org/rec/conf/kbse/DissanayakeJZB22"},
+"url":"URL#1805731"
+},
+{
+"@score":"1",
+"@id":"1805732",
+"info":{"authors":{"author":[{"@pid":"332/6360","text":"Zikan Dong"},{"@pid":"10/3099-2","text":"Liu Wang 0002"},{"@pid":"03/11522","text":"Hao Xie"},{"@pid":"76/10013","text":"Guoai Xu"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"}]},"title":"Privacy Analysis of Period Tracking Mobile Apps in the Post-Roe v. Wade Era.","venue":"ASE","pages":"203:1-203:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Dong0XX022","doi":"10.1145/3551349.3561343","ee":"https://doi.org/10.1145/3551349.3561343","url":"https://dblp.org/rec/conf/kbse/Dong0XX022"},
+"url":"URL#1805732"
+},
+{
+"@score":"1",
+"@id":"1805733",
+"info":{"authors":{"author":[{"@pid":"81/6559","text":"Dehui Du"},{"@pid":"c/AnaCavalcanti","text":"Ana Cavalcanti 0001"},{"@pid":"337/0739","text":"Jihui Nie"}]},"title":"RoboSimVer: A Tool for RoboSim Modeling and Analysis.","venue":"ASE","pages":"164:1-164:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Du0N22","doi":"10.1145/3551349.3559533","ee":"https://doi.org/10.1145/3551349.3559533","url":"https://dblp.org/rec/conf/kbse/Du0N22"},
+"url":"URL#1805733"
+},
+{
+"@score":"1",
+"@id":"1805734",
+"info":{"authors":{"author":[{"@pid":"250/9101","text":"Fahimeh Ebrahimi"},{"@pid":"22/8904","text":"Anas Mahmoud 0001"}]},"title":"Unsupervised Summarization of Privacy Concerns in Mobile Application Reviews.","venue":"ASE","pages":"112:1-112:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/EbrahimiM22","doi":"10.1145/3551349.3561155","ee":"https://doi.org/10.1145/3551349.3561155","url":"https://dblp.org/rec/conf/kbse/EbrahimiM22"},
+"url":"URL#1805734"
+},
+{
+"@score":"1",
+"@id":"1805735",
+"info":{"authors":{"author":[{"@pid":"220/3069","text":"Aryaz Eghbali"},{"@pid":"25/2188","text":"Michael Pradel"}]},"title":"CrystalBLEU: Precisely and Efficiently Measuring the Similarity of Code.","venue":"ASE","pages":"28:1-28:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/EghbaliP22","doi":"10.1145/3551349.3556903","ee":"https://doi.org/10.1145/3551349.3556903","url":"https://dblp.org/rec/conf/kbse/EghbaliP22"},
+"url":"URL#1805735"
+},
+{
+"@score":"1",
+"@id":"1805736",
+"info":{"authors":{"author":[{"@pid":"228/5731","text":"William Eiers"},{"@pid":"175/1595","text":"Ganesh Sankaran"},{"@pid":"74/4422","text":"Albert Li"},{"@pid":"322/7686","text":"Emily O&apos;Mahony"},{"@pid":"322/7722","text":"Benjamin Prince"},{"@pid":"07/3368","text":"Tevfik Bultan"}]},"title":"Quacky: Quantitative Access Control Permissiveness Analyzer✱.","venue":"ASE","pages":"163:1-163:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/EiersSLOPB22","doi":"10.1145/3551349.3559530","ee":"https://doi.org/10.1145/3551349.3559530","url":"https://dblp.org/rec/conf/kbse/EiersSLOPB22"},
+"url":"URL#1805736"
+},
+{
+"@score":"1",
+"@id":"1805737",
+"info":{"authors":{"author":[{"@pid":"30/6877","text":"Ge Fan"},{"@pid":"174/1652","text":"Chaoyun Zhang"},{"@pid":"78/2022","text":"Kai Wang"},{"@pid":"196/7893","text":"Junyang Chen 0001"}]},"title":"MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation.","venue":"ASE","pages":"139:1-139:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/FanZWC22","doi":"10.1145/3551349.3559496","ee":"https://doi.org/10.1145/3551349.3559496","url":"https://dblp.org/rec/conf/kbse/FanZWC22"},
+"url":"URL#1805737"
+},
+{
+"@score":"1",
+"@id":"1805738",
+"info":{"authors":{"author":[{"@pid":"313/9358","text":"Patric Feldmeier"},{"@pid":"74/2259","text":"Gordon Fraser 0001"}]},"title":"Neuroevolution-Based Generation of Tests and Oracles for Games.","venue":"ASE","pages":"72:1-72:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Feldmeier022","doi":"10.1145/3551349.3556939","ee":"https://doi.org/10.1145/3551349.3556939","url":"https://dblp.org/rec/conf/kbse/Feldmeier022"},
+"url":"URL#1805738"
+},
+{
+"@score":"1",
+"@id":"1805739",
+"info":{"authors":{"author":[{"@pid":"41/2241","text":"Raihana Ferdous"},{"@pid":"118/6464","text":"Fitsum Meshesha Kifetew"},{"@pid":"60/3087","text":"Davide Prandi"},{"@pid":"53/5222","text":"Angelo Susi"}]},"title":"Towards Agent-Based Testing of 3D Games using Reinforcement Learning.","venue":"ASE","pages":"211:1-211:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/FerdousKPS22","doi":"10.1145/3551349.3560507","ee":"https://doi.org/10.1145/3551349.3560507","url":"https://dblp.org/rec/conf/kbse/FerdousKPS22"},
+"url":"URL#1805739"
+},
+{
+"@score":"1",
+"@id":"1805740",
+"info":{"authors":{"author":{"@pid":"128/4523","text":"Sara Fernandes"}},"title":"Towards a Live Environment for Code Refactoring.","venue":"ASE","pages":"126:1-126:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Fernandes22","doi":"10.1145/3551349.3559569","ee":"https://doi.org/10.1145/3551349.3559569","url":"https://dblp.org/rec/conf/kbse/Fernandes22"},
+"url":"URL#1805740"
+},
+{
+"@score":"1",
+"@id":"1805741",
+"info":{"authors":{"author":[{"@pid":"128/4523","text":"Sara Fernandes"},{"@pid":"48/4640","text":"Ademar Aguiar"},{"@pid":"99/2599","text":"André Restivo"}]},"title":"LiveRef: a Tool for Live Refactoring Java Code.","venue":"ASE","pages":"161:1-161:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/FernandesAR22","doi":"10.1145/3551349.3559532","ee":"https://doi.org/10.1145/3551349.3559532","url":"https://dblp.org/rec/conf/kbse/FernandesAR22"},
+"url":"URL#1805741"
+},
+{
+"@score":"1",
+"@id":"1805742",
+"info":{"authors":{"author":[{"@pid":"83/5191","text":"David Fernández-Amorós"},{"@pid":"08/9","text":"Ruben Heradio"},{"@pid":"68/7033","text":"Christoph Mayr-Dorn"},{"@pid":"20/5529","text":"Alexander Egyed"}]},"title":"Scalable Sampling of Highly-Configurable Systems: Generating Random Instances of the Linux Kernel.","venue":"ASE","pages":"89:1-89:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Fernandez-Amoros22","doi":"10.1145/3551349.3556899","ee":"https://doi.org/10.1145/3551349.3556899","url":"https://dblp.org/rec/conf/kbse/Fernandez-Amoros22"},
+"url":"URL#1805742"
+},
+{
+"@score":"1",
+"@id":"1805743",
+"info":{"authors":{"author":[{"@pid":"337/0812","text":"Jingzhou Fu"},{"@pid":"51/239-6","text":"Jie Liang 0006"},{"@pid":"24/968-10","text":"Zhiyong Wu 0010"},{"@pid":"64/9796","text":"Mingzhe Wang"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"}]},"title":"Griffin : Grammar-Free DBMS Fuzzing.","venue":"ASE","pages":"49:1-49:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/FuLWWJ22","doi":"10.1145/3551349.3560431","ee":"https://doi.org/10.1145/3551349.3560431","url":"https://dblp.org/rec/conf/kbse/FuLWWJ22"},
+"url":"URL#1805743"
+},
+{
+"@score":"1",
+"@id":"1805744",
+"info":{"authors":{"author":[{"@pid":"46/5223","text":"Hui Gao"},{"@pid":"124/2236","text":"Hongyu Kuang"},{"@pid":"34/7346","text":"Kexin Sun"},{"@pid":"67/3058","text":"Xiaoxing Ma"},{"@pid":"20/5529","text":"Alexander Egyed"},{"@pid":"m/PatrickMader","text":"Patrick Mäder"},{"@pid":"07/9106","text":"Guoping Rong"},{"@pid":"29/6082","text":"Dong Shao"},{"@pid":"161/9602","text":"He Zhang 0001"}]},"title":"Using Consensual Biterms from Text Structures of Requirements and Code to Improve IR-Based Traceability Recovery.","venue":"ASE","pages":"114:1","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GaoKSMEMRSZ22","doi":"10.1145/3551349.3556948","ee":"https://doi.org/10.1145/3551349.3556948","url":"https://dblp.org/rec/conf/kbse/GaoKSMEMRSZ22"},
+"url":"URL#1805744"
+},
+{
+"@score":"1",
+"@id":"1805745",
+"info":{"authors":{"author":{"@pid":"271/4442","text":"Michael C. Gerten"}},"title":"A Framework for Testing Chemical Reaction Networks.","venue":"ASE","pages":"117:1-117:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Gerten22","doi":"10.1145/3551349.3559562","ee":"https://doi.org/10.1145/3551349.3559562","url":"https://dblp.org/rec/conf/kbse/Gerten22"},
+"url":"URL#1805745"
+},
+{
+"@score":"1",
+"@id":"1805746",
+"info":{"authors":{"author":{"@pid":"197/6070","text":"Asem Ghaleb"}},"title":"Towards Effective Static Analysis Approaches for Security Vulnerabilities in Smart Contracts.","venue":"ASE","pages":"127:1-127:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Ghaleb22","doi":"10.1145/3551349.3559567","ee":"https://doi.org/10.1145/3551349.3559567","url":"https://dblp.org/rec/conf/kbse/Ghaleb22"},
+"url":"URL#1805746"
+},
+{
+"@score":"1",
+"@id":"1805747",
+"info":{"authors":{"author":[{"@pid":"50/8657-1","text":"Ali Ghanbari 0001"},{"@pid":"m/AndrianMarcus","text":"Andrian Marcus"}]},"title":"Shibboleth: Hybrid Patch Correctness Assessment in Automated Program Repair.","venue":"ASE","pages":"166:1-166:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GhanbariM22","doi":"10.1145/3551349.3559519","ee":"https://doi.org/10.1145/3551349.3559519","url":"https://dblp.org/rec/conf/kbse/GhanbariM22"},
+"url":"URL#1805747"
+},
+{
+"@score":"1",
+"@id":"1805748",
+"info":{"authors":{"author":[{"@pid":"42/4379","text":"Olivier Le Goaër"},{"@pid":"337/0927","text":"Julien Hertout"}]},"title":"ecoCode: a SonarQube Plugin to Remove Energy Smells from Android Projects.","venue":"ASE","pages":"157:1-157:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GoaerH22","doi":"10.1145/3551349.3559518","ee":"https://doi.org/10.1145/3551349.3559518","url":"https://dblp.org/rec/conf/kbse/GoaerH22"},
+"url":"URL#1805748"
+},
+{
+"@score":"1",
+"@id":"1805749",
+"info":{"authors":{"author":[{"@pid":"318/1211","text":"Emanuela Guglielmi"},{"@pid":"259/6921","text":"Giovanni Rosa"},{"@pid":"183/2560","text":"Simone Scalabrino"},{"@pid":"09/8523","text":"Gabriele Bavota"},{"@pid":"18/6986","text":"Rocco Oliveto"}]},"title":"Sorry, I don&apos;t Understand: Improving Voice User Interface Testing.","venue":"ASE","pages":"96:1-96:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GuglielmiRSBO22","doi":"10.1145/3551349.3556934","ee":"https://doi.org/10.1145/3551349.3556934","url":"https://dblp.org/rec/conf/kbse/GuglielmiRSBO22"},
+"url":"URL#1805749"
+},
+{
+"@score":"1",
+"@id":"1805750",
+"info":{"authors":{"author":[{"@pid":"172/2564","text":"Jiawei He"},{"@pid":"182/7535","text":"Zhida Bao"},{"@pid":"231/4867","text":"Quanjun Zhang"},{"@pid":"183/2642","text":"Weisong Sun"},{"@pid":"12/8228","text":"Jiawei Liu"},{"@pid":"124/0310","text":"Chunrong Fang"},{"@pid":"77/1513-5","text":"Yun Lin 0005"}]},"title":"ElecDaug: Electromagnetic Data Augmentation for Model Repair based on Metamorphic Relation.","venue":"ASE","pages":"158:1-158:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HeBZSLF022","doi":"10.1145/3551349.3559536","ee":"https://doi.org/10.1145/3551349.3559536","url":"https://dblp.org/rec/conf/kbse/HeBZSLF022"},
+"url":"URL#1805750"
+},
+{
+"@score":"1",
+"@id":"1805751",
+"info":{"authors":{"author":[{"@pid":"185/8496","text":"Zilong He"},{"@pid":"13/3788-2","text":"Pengfei Chen 0002"},{"@pid":"45/6469","text":"Yu Luo"},{"@pid":"337/0786","text":"Qiuyu Yan"},{"@pid":"13/3715","text":"Hongyang Chen"},{"@pid":"248/2943","text":"Guangba Yu"},{"@pid":"162/4687","text":"Fangyuan Li"}]},"title":"Graph based Incident Extraction and Diagnosis in Large-Scale Online Systems.","venue":"ASE","pages":"48:1-48:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HeCLYCYL22","doi":"10.1145/3551349.3556904","ee":"https://doi.org/10.1145/3551349.3556904","url":"https://dblp.org/rec/conf/kbse/HeCLYCYL22"},
+"url":"URL#1805751"
+},
+{
+"@score":"1",
+"@id":"1805752",
+"info":{"authors":{"author":[{"@pid":"219/3596","text":"David Heidrich"},{"@pid":"85/2881-1","text":"Andreas Schreiber 0001"},{"@pid":"138/4827","text":"Sebastian Oberdörfer"}]},"title":"Towards Generating Labeled Property Graphs for Comprehending C#-based Software Projects.","venue":"ASE","pages":"228:1-228:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Heidrich0O22","doi":"10.1145/3551349.3560513","ee":"https://doi.org/10.1145/3551349.3560513","url":"https://dblp.org/rec/conf/kbse/Heidrich0O22"},
+"url":"URL#1805752"
+},
+{
+"@score":"1",
+"@id":"1805753",
+"info":{"authors":{"author":[{"@pid":"324/7860","text":"Malyun Muhudin Hilowle"},{"@pid":"97/4283-2","text":"William Yeoh 0002"},{"@pid":"00/10437","text":"Marthie Grobler"},{"@pid":"79/6301","text":"Graeme Pye"},{"@pid":"38/7597","text":"Frank Jiang 0001"}]},"title":"Towards Improving the Adoption and Usage of National Digital Identity Systems.","venue":"ASE","pages":"223:1-223:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HilowleYGPJ22","doi":"10.1145/3551349.3561144","ee":"https://doi.org/10.1145/3551349.3561144","url":"https://dblp.org/rec/conf/kbse/HilowleYGPJ22"},
+"url":"URL#1805753"
+},
+{
+"@score":"1",
+"@id":"1805754",
+"info":{"authors":{"author":[{"@pid":"37/5215","text":"Yutao Hu"},{"@pid":"z/DeqingZou","text":"Deqing Zou"},{"@pid":"315/7231","text":"Junru Peng"},{"@pid":"77/8060-1","text":"Yueming Wu 0001"},{"@pid":"167/9032","text":"Junjie Shan"},{"@pid":"98/4156","text":"Hai Jin 0001"}]},"title":"TreeCen: Building Tree Graph for Scalable Semantic Code Clone Detection.","venue":"ASE","pages":"109:1-109:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HuZPWS022","doi":"10.1145/3551349.3556927","ee":"https://doi.org/10.1145/3551349.3556927","url":"https://dblp.org/rec/conf/kbse/HuZPWS022"},
+"url":"URL#1805754"
+},
+{
+"@score":"1",
+"@id":"1805755",
+"info":{"authors":{"author":[{"@pid":"34/808-21","text":"Tao Huang 0021"},{"@pid":"13/3788-2","text":"Pengfei Chen 0002"},{"@pid":"323/7870","text":"Jingrun Zhang"},{"@pid":"03/6925","text":"Ruipeng Li"},{"@pid":"06/2293","text":"Rui Wang"}]},"title":"A Transferable Time Series Forecasting Service Using Deep Transformer Model for Online Systems.","venue":"ASE","pages":"4:1-4:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HuangCZLW22","doi":"10.1145/3551349.3560414","ee":"https://doi.org/10.1145/3551349.3560414","url":"https://dblp.org/rec/conf/kbse/HuangCZLW22"},
+"url":"URL#1805755"
+},
+{
+"@score":"1",
+"@id":"1805756",
+"info":{"authors":{"author":[{"@pid":"12/2491","text":"Qing Huang"},{"@pid":"251/2888","text":"Zhiqiang Yuan"},{"@pid":"52/6482","text":"Zhenchang Xing"},{"@pid":"47/3196-1","text":"Xiwei Xu 0001"},{"@pid":"52/4318-1","text":"Liming Zhu 0001"},{"@pid":"19/9978","text":"Qinghua Lu 0001"}]},"title":"Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code.","venue":"ASE","pages":"79:1-79:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HuangYXX0022","doi":"10.1145/3551349.3556912","ee":"https://doi.org/10.1145/3551349.3556912","url":"https://dblp.org/rec/conf/kbse/HuangYXX0022"},
+"url":"URL#1805756"
+},
+{
+"@score":"1",
+"@id":"1805757",
+"info":{"authors":{"author":[{"@pid":"296/0907","text":"Mia Mohammad Imran"},{"@pid":"326/5719","text":"Yashasvi Jain"},{"@pid":"197/4359","text":"Preetha Chatterjee"},{"@pid":"d/KostadinDamevski","text":"Kostadin Damevski"}]},"title":"Data Augmentation for Improving Emotion Recognition in Software Engineering Communication.","venue":"ASE","pages":"29:1-29:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ImranJCD22","doi":"10.1145/3551349.3556925","ee":"https://doi.org/10.1145/3551349.3556925","url":"https://dblp.org/rec/conf/kbse/ImranJCD22"},
+"url":"URL#1805757"
+},
+{
+"@score":"1",
+"@id":"1805758",
+"info":{"authors":{"author":[{"@pid":"337/0965","text":"Vipawan Jarukitpipat"},{"@pid":"337/0815","text":"Klinton Chhun"},{"@pid":"337/0925","text":"Wachirayana Wanprasert"},{"@pid":"186/1089","text":"Chaiyong Ragkhitwetsagul"},{"@pid":"20/9870","text":"Morakot Choetkiertikul"},{"@pid":"05/6316","text":"Thanwadee Sunetnanta"},{"@pid":"64/7675","text":"Raula Gaikovina Kula"},{"@pid":"180/8384","text":"Bodin Chinthanet"},{"@pid":"66/39","text":"Takashi Ishio"},{"@pid":"73/942","text":"Kenichi Matsumoto"}]},"title":"V-Achilles: An Interactive Visualization of Transitive Security Vulnerabilities.","venue":"ASE","pages":"169:1-169:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/JarukitpipatCWR22","doi":"10.1145/3551349.3559526","ee":"https://doi.org/10.1145/3551349.3559526","url":"https://dblp.org/rec/conf/kbse/JarukitpipatCWR22"},
+"url":"URL#1805758"
+},
+{
+"@score":"1",
+"@id":"1805759",
+"info":{"authors":{"author":[{"@pid":"43/164","text":"Jason Jaskolka"},{"@pid":"68/5932","text":"Brahim Hamid"}]},"title":"Towards the Integration of Human Factors in Collaborative Decision Making for Secure Architecture Design.","venue":"ASE","pages":"224:1-224:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/JaskolkaH22","doi":"10.1145/3551349.3561149","ee":"https://doi.org/10.1145/3551349.3561149","url":"https://dblp.org/rec/conf/kbse/JaskolkaH22"},
+"url":"URL#1805759"
+},
+{
+"@score":"1",
+"@id":"1805760",
+"info":{"authors":{"author":{"@pid":"91/8340","text":"Sung-Shik Jongmans"}},"title":"Towards Gradual Multiparty Session Typing.","venue":"ASE","pages":"146:1-146:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Jongmans22","doi":"10.1145/3551349.3561167","ee":"https://doi.org/10.1145/3551349.3561167","url":"https://dblp.org/rec/conf/kbse/Jongmans22"},
+"url":"URL#1805760"
+},
+{
+"@score":"1",
+"@id":"1805761",
+"info":{"authors":{"author":[{"@pid":"254/1560","text":"Ashwin Kallingal Joshy"},{"@pid":"76/5788","text":"Wei Le"}]},"title":"FuzzerAid: Grouping Fuzzed Crashes Based On Fault Signatures.","venue":"ASE","pages":"44:1-44:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/JoshyL22","doi":"10.1145/3551349.3556959","ee":"https://doi.org/10.1145/3551349.3556959","url":"https://dblp.org/rec/conf/kbse/JoshyL22"},
+"url":"URL#1805761"
+},
+{
+"@score":"1",
+"@id":"1805762",
+"info":{"authors":{"author":[{"@pid":"166/2399","text":"Sai Anirudh Karre"},{"@pid":"337/0863","text":"Vivek Pareek"},{"@pid":"293/6645","text":"Raghav Mittal"},{"@pid":"r/RaghuReddy","text":"Raghu Reddy"}]},"title":"A Role Based Model Template for Specifying Virtual Reality Software.","venue":"ASE","pages":"225:1-225:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KarrePMR22","doi":"10.1145/3551349.3560514","ee":"https://doi.org/10.1145/3551349.3560514","url":"https://dblp.org/rec/conf/kbse/KarrePMR22"},
+"url":"URL#1805762"
+},
+{
+"@score":"1",
+"@id":"1805763",
+"info":{"authors":{"author":[{"@pid":"241/5884","text":"Junaed Younus Khan"},{"@pid":"49/4012","text":"Gias Uddin 0001"}]},"title":"Automatic Code Documentation Generation Using GPT-3.","venue":"ASE","pages":"174:1-174:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Khan022","doi":"10.1145/3551349.3559548","ee":"https://doi.org/10.1145/3551349.3559548","url":"https://dblp.org/rec/conf/kbse/Khan022"},
+"url":"URL#1805763"
+},
+{
+"@score":"1",
+"@id":"1805764",
+"info":{"authors":{"author":[{"@pid":"k/JorgKienzle","text":"Jörg Kienzle"},{"@pid":"24/757","text":"Benoît Combemale"},{"@pid":"49/6874","text":"Gunter Mussbacher"},{"@pid":"99/7539","text":"Omar Alam"},{"@pid":"62/4066","text":"Francis Bordeleau"},{"@pid":"116/5369","text":"Lola Burgueño"},{"@pid":"e/GregorEngels","text":"Gregor Engels"},{"@pid":"167/4978","text":"Jessie Galasso"},{"@pid":"j/JeanMarcJezequel","text":"Jean-Marc Jézéquel"},{"@pid":"k/BettinaKemme","text":"Bettina Kemme"},{"@pid":"48/1683","text":"Sébastien Mosser 0001"},{"@pid":"s/HouariASahraoui","text":"Houari A. Sahraoui"},{"@pid":"249/2314","text":"Maximilian Schiedermeier"},{"@pid":"84/1730","text":"Eugene Syriani"}]},"title":"Global Decision Making Over Deep Variability in Feedback-Driven Software Development.","venue":"ASE","pages":"178:1-178:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KienzleCMABBEGJ22","doi":"10.1145/3551349.3559551","ee":"https://doi.org/10.1145/3551349.3559551","url":"https://dblp.org/rec/conf/kbse/KienzleCMABBEGJ22"},
+"url":"URL#1805764"
+},
+{
+"@score":"1",
+"@id":"1805765",
+"info":{"authors":{"author":[{"@pid":"221/1657","text":"Misoo Kim"},{"@pid":"219/4400","text":"Youngkyoung Kim"},{"@pid":"11/3587","text":"Kicheol Kim"},{"@pid":"16/3590-1","text":"Eunseok Lee 0001"}]},"title":"Multi-objective Optimization-based Bug-fixing Template Mining for Automated Program Repair.","venue":"ASE","pages":"179:1-179:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KimKKL22","doi":"10.1145/3551349.3559554","ee":"https://doi.org/10.1145/3551349.3559554","url":"https://dblp.org/rec/conf/kbse/KimKKL22"},
+"url":"URL#1805765"
+},
+{
+"@score":"1",
+"@id":"1805766",
+"info":{"authors":{"author":[{"@pid":"150/8893","text":"Tomasz Kuchta"},{"@pid":"337/1064","text":"Bartosz Zator"}]},"title":"Auto Off-Target: Enabling Thorough and Scalable Testing for Complex Software Systems.","venue":"ASE","pages":"12:1-12:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KuchtaZ22","doi":"10.1145/3551349.3556915","ee":"https://doi.org/10.1145/3551349.3556915","url":"https://dblp.org/rec/conf/kbse/KuchtaZ22"},
+"url":"URL#1805766"
+},
+{
+"@score":"1",
+"@id":"1805767",
+"info":{"authors":{"author":[{"@pid":"226/7719","text":"Elias Kuiter"},{"@pid":"157/3757","text":"Sebastian Krieter"},{"@pid":"257/9837","text":"Chico Sundermann"},{"@pid":"04/7056","text":"Thomas Thüm"},{"@pid":"s/GunterSaake","text":"Gunter Saake"}]},"title":"Tseitin or not Tseitin? The Impact of CNF Transformations on Feature-Model Analyses.","venue":"ASE","pages":"110:1-110:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KuiterKSTS22","doi":"10.1145/3551349.3556938","ee":"https://doi.org/10.1145/3551349.3556938","url":"https://dblp.org/rec/conf/kbse/KuiterKSTS22"},
+"url":"URL#1805767"
+},
+{
+"@score":"1",
+"@id":"1805768",
+"info":{"authors":{"author":[{"@pid":"296/1295","text":"Jasmine Latendresse"},{"@pid":"203/0013","text":"Suhaib Mujahid"},{"@pid":"01/11078-1","text":"Diego Elias Costa"},{"@pid":"05/5996","text":"Emad Shihab"}]},"title":"Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM.","venue":"ASE","pages":"73:1-73:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LatendresseMCS22","doi":"10.1145/3551349.3556896","ee":"https://doi.org/10.1145/3551349.3556896","url":"https://dblp.org/rec/conf/kbse/LatendresseMCS22"},
+"url":"URL#1805768"
+},
+{
+"@score":"1",
+"@id":"1805769",
+"info":{"authors":{"author":[{"@pid":"275/6665","text":"Haeun Lee"},{"@pid":"145/5306-2","text":"Soomin Kim 0002"},{"@pid":"49/8463","text":"Sang Kil Cha"}]},"title":"Fuzzle: Making a Puzzle for Fuzzers.","venue":"ASE","pages":"45:1-45:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Lee0C22","doi":"10.1145/3551349.3556908","ee":"https://doi.org/10.1145/3551349.3556908","url":"https://dblp.org/rec/conf/kbse/Lee0C22"},
+"url":"URL#1805769"
+},
+{
+"@score":"1",
+"@id":"1805770",
+"info":{"authors":{"author":[{"@pid":"337/0899","text":"Suwan Li"},{"@pid":"64/5155","text":"Lei Bu"},{"@pid":"86/9673","text":"Guangdong Bai"},{"@pid":"201/5394","text":"Zhixiu Guo"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"289/5543","text":"Hanlin Wei"}]},"title":"VITAS : Guided Model-based VUI Testing of VPA Apps.","venue":"ASE","pages":"115:1-115:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiBBGCW22","doi":"10.1145/3551349.3556957","ee":"https://doi.org/10.1145/3551349.3556957","url":"https://dblp.org/rec/conf/kbse/LiBBGCW22"},
+"url":"URL#1805770"
+},
+{
+"@score":"1",
+"@id":"1805771",
+"info":{"authors":{"author":[{"@pid":"50/3402","text":"Bo Li"},{"@pid":"81/6559","text":"Dehui Du"},{"@pid":"183/6561","text":"Sicong Chen"},{"@pid":"337/0585","text":"Minjun Wei"},{"@pid":"337/1047","text":"Chenghang Zheng"},{"@pid":"22/4397","text":"Xinyuan Zhang"}]},"title":"SML4ADS: An Open DSML for Autonomous Driving Scenario Representation and Generation.","venue":"ASE","pages":"145:1-145:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiDCWZZ22","doi":"10.1145/3551349.3561169","ee":"https://doi.org/10.1145/3551349.3561169","url":"https://dblp.org/rec/conf/kbse/LiDCWZZ22"},
+"url":"URL#1805771"
+},
+{
+"@score":"1",
+"@id":"1805772",
+"info":{"authors":{"author":[{"@pid":"121/5462","text":"Xueyang Li"},{"@pid":"207/8653","text":"Shangqing Liu"},{"@pid":"39/10651","text":"Ruitao Feng"},{"@pid":"134/8681","text":"Guozhu Meng"},{"@pid":"127/0713","text":"Xiaofei Xie"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"TransRepair: Context-aware Program Repair for Compilation Errors.","venue":"ASE","pages":"108:1-108:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiLFMXCL22","doi":"10.1145/3551349.3560422","ee":"https://doi.org/10.1145/3551349.3560422","url":"https://dblp.org/rec/conf/kbse/LiLFMXCL22"},
+"url":"URL#1805772"
+},
+{
+"@score":"1",
+"@id":"1805773",
+"info":{"authors":{"author":[{"@pid":"70/3488","text":"Zhong Li"},{"@pid":"42/7085","text":"Minxue Pan"},{"@pid":"76/8304-1","text":"Yu Pei 0001"},{"@pid":"13/2913-1","text":"Tian Zhang 0001"},{"@pid":"63/829","text":"Linzhang Wang"},{"@pid":"76/5446","text":"Xuandong Li"}]},"title":"Robust Learning of Deep Predictive Models from Noisy and Imbalanced Software Engineering Datasets.","venue":"ASE","pages":"86:1-86:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiP00WL22","doi":"10.1145/3551349.3556941","ee":"https://doi.org/10.1145/3551349.3556941","url":"https://dblp.org/rec/conf/kbse/LiP00WL22"},
+"url":"URL#1805773"
+},
+{
+"@score":"1",
+"@id":"1805774",
+"info":{"authors":{"author":[{"@pid":"336/8051","text":"Yuxi Ling"},{"@pid":"171/1258","text":"Kailong Wang 0001"},{"@pid":"86/9673","text":"Guangdong Bai"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"},{"@pid":"64/7695-1","text":"Jin Song Dong 0001"}]},"title":"Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions.","venue":"ASE","pages":"10:1-10:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LingWB0D22","doi":"10.1145/3551349.3560436","ee":"https://doi.org/10.1145/3551349.3560436","url":"https://dblp.org/rec/conf/kbse/LingWB0D22"},
+"url":"URL#1805774"
+},
+{
+"@score":"1",
+"@id":"1805775",
+"info":{"authors":{"author":[{"@pid":"97/2274-79","text":"Yu Liu 0079"},{"@pid":"223/2712-1","text":"Pengyu Nie 0001"},{"@pid":"133/8821","text":"Owolabi Legunsen"},{"@pid":"43/6015","text":"Milos Gligoric 0001"}]},"title":"Inline Tests.","venue":"ASE","pages":"57:1-57:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Liu0LG22","doi":"10.1145/3551349.3556952","ee":"https://doi.org/10.1145/3551349.3556952","url":"https://dblp.org/rec/conf/kbse/Liu0LG22"},
+"url":"URL#1805775"
+},
+{
+"@score":"1",
+"@id":"1805776",
+"info":{"authors":{"author":{"@pid":"96/2615-12","text":"Ye Liu 0012"}},"title":"A Unified Specification Mining Framework for Smart Contracts.","venue":"ASE","pages":"190:1-190:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Liu22","doi":"10.1145/3551349.3559512","ee":"https://doi.org/10.1145/3551349.3559512","url":"https://dblp.org/rec/conf/kbse/Liu22"},
+"url":"URL#1805776"
+},
+{
+"@score":"1",
+"@id":"1805777",
+"info":{"authors":{"author":{"@pid":"97/4626-69","text":"Yi Liu 0069"}},"title":"RESTCluster: Automated Crash Clustering for RESTful API.","venue":"ASE","pages":"198:1-198:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Liu22a","doi":"10.1145/3551349.3559511","ee":"https://doi.org/10.1145/3551349.3559511","url":"https://dblp.org/rec/conf/kbse/Liu22a"},
+"url":"URL#1805777"
+},
+{
+"@score":"1",
+"@id":"1805778",
+"info":{"authors":{"author":[{"@pid":"21/2715-61","text":"Lei Liu 0061"},{"@pid":"79/496","text":"Wei-Peng Chen"},{"@pid":"79/3898","text":"Mehdi Bahrami"},{"@pid":"52/1173","text":"Mukul R. Prasad"}]},"title":"Automatic Generation of Visualizations for Machine Learning Pipelines.","venue":"ASE","pages":"132:1-132:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuCBP22","doi":"10.1145/3551349.3559504","ee":"https://doi.org/10.1145/3551349.3559504","url":"https://dblp.org/rec/conf/kbse/LiuCBP22"},
+"url":"URL#1805778"
+},
+{
+"@score":"1",
+"@id":"1805779",
+"info":{"authors":{"author":[{"@pid":"74/6169","text":"Junrui Liu"},{"@pid":"05/4034","text":"Yanju Chen"},{"@pid":"303/4686","text":"Bryan Tan"},{"@pid":"85/3688","text":"Isil Dillig"},{"@pid":"30/4550-1","text":"Yu Feng 0001"}]},"title":"Learning Contract Invariants Using Reinforcement Learning.","venue":"ASE","pages":"63:1-63:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuCTD022","doi":"10.1145/3551349.3556962","ee":"https://doi.org/10.1145/3551349.3556962","url":"https://dblp.org/rec/conf/kbse/LiuCTD022"},
+"url":"URL#1805779"
+},
+{
+"@score":"1",
+"@id":"1805780",
+"info":{"authors":{"author":[{"@pid":"188/1100","text":"Zixi Liu"},{"@pid":"07/6095-3","text":"Yang Feng 0003"},{"@pid":"265/3446","text":"Yining Yin"},{"@pid":"75/809","text":"Jingyu Sun"},{"@pid":"86/541-1","text":"Zhenyu Chen 0001"},{"@pid":"46/5742","text":"Baowen Xu"}]},"title":"QATest: A Uniform Fuzzing Framework for Question Answering Systems.","venue":"ASE","pages":"81:1-81:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuFYS0X22","doi":"10.1145/3551349.3556929","ee":"https://doi.org/10.1145/3551349.3556929","url":"https://dblp.org/rec/conf/kbse/LiuFYS0X22"},
+"url":"URL#1805780"
+},
+{
+"@score":"1",
+"@id":"1805781",
+"info":{"authors":{"author":[{"@pid":"96/2615-12","text":"Ye Liu 0012"},{"@pid":"59/871-8","text":"Yi Li 0008"}]},"title":"InvCon: A Dynamic Invariant Detector for Ethereum Smart Contracts.","venue":"ASE","pages":"160:1-160:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuL22","doi":"10.1145/3551349.3559539","ee":"https://doi.org/10.1145/3551349.3559539","url":"https://dblp.org/rec/conf/kbse/LiuL22"},
+"url":"URL#1805781"
+},
+{
+"@score":"1",
+"@id":"1805782",
+"info":{"authors":{"author":[{"@pid":"97/4626-69","text":"Yi Liu 0069"},{"@pid":"204/3729","text":"Yuekang Li"},{"@pid":"51/3710-3","text":"Yang Liu 0003"},{"@pid":"316/0641","text":"Ruiyuan Wan"},{"@pid":"319/2693","text":"Runchao Wu"},{"@pid":"180/3253","text":"Qingkun Liu"}]},"title":"Morest: Industry Practice of Automatic RESTful API Testing.","venue":"ASE","pages":"138:1-138:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuLLWWL22","doi":"10.1145/3551349.3559498","ee":"https://doi.org/10.1145/3551349.3559498","url":"https://dblp.org/rec/conf/kbse/LiuLLWWL22"},
+"url":"URL#1805782"
+},
+{
+"@score":"1",
+"@id":"1805783",
+"info":{"authors":{"author":[{"@pid":"84/3210","text":"Pei Liu"},{"@pid":"23/7764-2","text":"Xiaoyu Sun 0002"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"04/1044","text":"Yonghui Liu"},{"@pid":"g/JohnCGrundy","text":"John Grundy 0001"},{"@pid":"53/2189-29","text":"Li Li 0029"}]},"title":"A First Look at CI/CD Adoptions in Open-Source Android Apps.","venue":"ASE","pages":"201:1-201:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuSZL0022","doi":"10.1145/3551349.3561341","ee":"https://doi.org/10.1145/3551349.3561341","url":"https://dblp.org/rec/conf/kbse/LiuSZL0022"},
+"url":"URL#1805783"
+},
+{
+"@score":"1",
+"@id":"1805784",
+"info":{"authors":{"author":[{"@pid":"274/0650","text":"José Antonio Hernández López"},{"@pid":"274/5737","text":"Martin Weyssow"},{"@pid":"32/607","text":"Jesús Sánchez Cuadrado"},{"@pid":"s/HouariASahraoui","text":"Houari A. Sahraoui"}]},"title":"AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models.","venue":"ASE","pages":"11:1-11:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LopezWCS22","doi":"10.1145/3551349.3556900","ee":"https://doi.org/10.1145/3551349.3556900","url":"https://dblp.org/rec/conf/kbse/LopezWCS22"},
+"url":"URL#1805784"
+},
+{
+"@score":"1",
+"@id":"1805785",
+"info":{"authors":{"author":[{"@pid":"18/634","text":"Weilin Luo"},{"@pid":"54/977","text":"Hai Wan"},{"@pid":"204/2879","text":"Delong Zhang"},{"@pid":"72/5841","text":"Jianfeng Du"},{"@pid":"337/1044","text":"Hengdi Su"}]},"title":"Checking LTL Satisfiability via End-to-end Learning.","venue":"ASE","pages":"21:1-21:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LuoWZDS22","doi":"10.1145/3551349.3561163","ee":"https://doi.org/10.1145/3551349.3561163","url":"https://dblp.org/rec/conf/kbse/LuoWZDS22"},
+"url":"URL#1805785"
+},
+{
+"@score":"1",
+"@id":"1805786",
+"info":{"authors":{"author":[{"@pid":"337/0807","text":"Xianchang Luo"},{"@pid":"73/7055","text":"Yinxing Xue"},{"@pid":"52/6482","text":"Zhenchang Xing"},{"@pid":"229/9223","text":"Jiamou Sun"}]},"title":"PRCBERT: Prompt Learning for Requirement Classification using BERT-based Pretrained Language Models.","venue":"ASE","pages":"75:1-75:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LuoXXS22","doi":"10.1145/3551349.3560417","ee":"https://doi.org/10.1145/3551349.3560417","url":"https://dblp.org/rec/conf/kbse/LuoXXS22"},
+"url":"URL#1805786"
+},
+{
+"@score":"1",
+"@id":"1805787",
+"info":{"authors":{"author":[{"@pid":"242/4779","text":"Zhengwei Lv"},{"@pid":"85/6436-2","text":"Chao Peng 0002"},{"@pid":"87/6853","text":"Zhao Zhang"},{"@pid":"42/6896-1","text":"Ting Su 0001"},{"@pid":"73/4566","text":"Kai Liu"},{"@pid":"86/2711","text":"Ping Yang"}]},"title":"Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning.","venue":"ASE","pages":"135:1-135:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LvPZSLY22","doi":"10.1145/3551349.3559505","ee":"https://doi.org/10.1145/3551349.3559505","url":"https://dblp.org/rec/conf/kbse/LvPZSLY22"},
+"url":"URL#1805787"
+},
+{
+"@score":"1",
+"@id":"1805788",
+"info":{"authors":{"author":[{"@pid":"215/9898","text":"Xinyao Ma"},{"@pid":"267/6667","text":"Zaiqiao Ye"},{"@pid":"57/702","text":"Sameer Patil"}]},"title":"Do Regional Variations Affect the CAPTCHA User Experience? A Comparison of CAPTCHAs in China and the United States.","venue":"ASE","pages":"220:1-220:9","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MaYP22","doi":"10.1145/3551349.3561146","ee":"https://doi.org/10.1145/3551349.3561146","url":"https://dblp.org/rec/conf/kbse/MaYP22"},
+"url":"URL#1805788"
+},
+{
+"@score":"1",
+"@id":"1805789",
+"info":{"authors":{"author":[{"@pid":"311/5363","text":"Finlay Macklon"},{"@pid":"303/0458","text":"Mohammad Reza Taesiri"},{"@pid":"223/6503","text":"Markos Viggiato"},{"@pid":"326/1172","text":"Stefan Antoszko"},{"@pid":"270/1771","text":"Natalia Romanova"},{"@pid":"304/3269","text":"Dale Paas"},{"@pid":"95/7251","text":"Cor-Paul Bezemer"}]},"title":"Automatically Detecting Visual Bugs in HTML5 Canvas Games.","venue":"ASE","pages":"15:1-15:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MacklonTVARPB22","doi":"10.1145/3551349.3556913","ee":"https://doi.org/10.1145/3551349.3556913","url":"https://dblp.org/rec/conf/kbse/MacklonTVARPB22"},
+"url":"URL#1805789"
+},
+{
+"@score":"1",
+"@id":"1805790",
+"info":{"authors":{"author":{"@pid":"93/11353","text":"Naser Al Madi"}},"title":"How Readable is Model-generated Code? Examining Readability and Visual Inspection of GitHub Copilot.","venue":"ASE","pages":"205:1-205:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Madi22","doi":"10.1145/3551349.3560438","ee":"https://doi.org/10.1145/3551349.3560438","url":"https://dblp.org/rec/conf/kbse/Madi22"},
+"url":"URL#1805790"
+},
+{
+"@score":"1",
+"@id":"1805791",
+"info":{"authors":{"author":{"@pid":"93/11353","text":"Naser Al Madi"}},"title":"Namesake: A Checker of Lexical Similarity in Identifier Names.","venue":"ASE","pages":"207:1-207:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Madi22a","doi":"10.1145/3551349.3560441","ee":"https://doi.org/10.1145/3551349.3560441","url":"https://dblp.org/rec/conf/kbse/Madi22a"},
+"url":"URL#1805791"
+},
+{
+"@score":"1",
+"@id":"1805792",
+"info":{"authors":{"author":[{"@pid":"337/1039","text":"Vikas Kumar Malviya"},{"@pid":"337/0735","text":"Chee Wei Leow"},{"@pid":"337/0844","text":"Ashok Kasthuri"},{"@pid":"337/0921","text":"Yan Naing Tun"},{"@pid":"53/8825","text":"Lwin Khin Shar"},{"@pid":"82/3572","text":"Lingxiao Jiang"}]},"title":"Right to Know, Right to Refuse: Towards UI Perception-Based Automated Fine-Grained Permission Controls for Android Apps.","venue":"ASE","pages":"186:1-186:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MalviyaLKTSJ22","doi":"10.1145/3551349.3559556","ee":"https://doi.org/10.1145/3551349.3559556","url":"https://dblp.org/rec/conf/kbse/MalviyaLKTSJ22"},
+"url":"URL#1805792"
+},
+{
+"@score":"1",
+"@id":"1805793",
+"info":{"authors":{"author":[{"@pid":"337/0837","text":"Cláudia Mamede"},{"@pid":"313/5979","text":"Eduard Pinconschi"},{"@pid":"00/6243","text":"Rui Abreu 0001"}]},"title":"A transformer-based IDE plugin for vulnerability detection.","venue":"ASE","pages":"149:1-149:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MamedeP022","doi":"10.1145/3551349.3559534","ee":"https://doi.org/10.1145/3551349.3559534","url":"https://dblp.org/rec/conf/kbse/MamedeP022"},
+"url":"URL#1805793"
+},
+{
+"@score":"1",
+"@id":"1805794",
+"info":{"authors":{"author":[{"@pid":"278/0326","text":"Forough Mehralian"},{"@pid":"266/9861","text":"Navid Salehnamadi"},{"@pid":"256/1881","text":"Syed Fatiul Huq"},{"@pid":"88/4685","text":"Sam Malek"}]},"title":"Too Much Accessibility is Harmful! Automated Detection and Analysis of Overly Accessible Elements in Mobile Apps.","venue":"ASE","pages":"103:1-103:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MehralianSHM22","doi":"10.1145/3551349.3560424","ee":"https://doi.org/10.1145/3551349.3560424","url":"https://dblp.org/rec/conf/kbse/MehralianSHM22"},
+"url":"URL#1805794"
+},
+{
+"@score":"1",
+"@id":"1805795",
+"info":{"authors":{"author":[{"@pid":"165/7494","text":"Ibrahim Mesecan"},{"@pid":"300/8326","text":"Daniel Blackwell"},{"@pid":"40/4629-1","text":"David Clark 0001"},{"@pid":"79/5975","text":"Myra B. Cohen"},{"@pid":"23/8779","text":"Justyna Petke"}]},"title":"Keeping Secrets: Multi-objective Genetic Improvement for Detecting and Reducing Information Leakage.","venue":"ASE","pages":"61:1-61:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MesecanB0CP22","doi":"10.1145/3551349.3556947","ee":"https://doi.org/10.1145/3551349.3556947","url":"https://dblp.org/rec/conf/kbse/MesecanB0CP22"},
+"url":"URL#1805795"
+},
+{
+"@score":"1",
+"@id":"1805796",
+"info":{"authors":{"author":{"@pid":"180/3638","text":"Qing Mi"}},"title":"Rank Learning-Based Code Readability Assessment with Siamese Neural Networks.","venue":"ASE","pages":"208:1-208:2","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Mi22","doi":"10.1145/3551349.3560440","ee":"https://doi.org/10.1145/3551349.3560440","url":"https://dblp.org/rec/conf/kbse/Mi22"},
+"url":"URL#1805796"
+},
+{
+"@score":"1",
+"@id":"1805797",
+"info":{"authors":{"author":[{"@pid":"180/3638","text":"Qing Mi"},{"@pid":"179/1000","text":"Xiaoke Wang"},{"@pid":"337/1045","text":"Bingnuo Chen"}]},"title":"How students choose names: A replication study.","venue":"ASE","pages":"206:1-206:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MiWC22","doi":"10.1145/3551349.3561174","ee":"https://doi.org/10.1145/3551349.3561174","url":"https://dblp.org/rec/conf/kbse/MiWC22"},
+"url":"URL#1805797"
+},
+{
+"@score":"1",
+"@id":"1805798",
+"info":{"authors":{"author":{"@pid":"337/0579","text":"Hailie Mitchell"}},"title":"Automatically Fixing Breaking Changes of Data Science Libraries.","venue":"ASE","pages":"193:1-193:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Mitchell22","doi":"10.1145/3551349.3559507","ee":"https://doi.org/10.1145/3551349.3559507","url":"https://dblp.org/rec/conf/kbse/Mitchell22"},
+"url":"URL#1805798"
+},
+{
+"@score":"1",
+"@id":"1805799",
+"info":{"authors":{"author":[{"@pid":"250/3865","text":"Amr Moussa"},{"@pid":"148/2225","text":"John-Paul Ore"}]},"title":"Maktub: Lightweight Robot System Test Creation and Automation.","venue":"ASE","pages":"162:1-162:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MoussaO22","doi":"10.1145/3551349.3559531","ee":"https://doi.org/10.1145/3551349.3559531","url":"https://dblp.org/rec/conf/kbse/MoussaO22"},
+"url":"URL#1805799"
+},
+{
+"@score":"1",
+"@id":"1805800",
+"info":{"authors":{"author":[{"@pid":"276/2326","text":"Fangwen Mu"},{"@pid":"05/3054-15","text":"Xiao Chen 0015"},{"@pid":"15/5412-6","text":"Lin Shi 0006"},{"@pid":"62/3151-9","text":"Song Wang 0009"},{"@pid":"97/6505-1","text":"Qing Wang 0001"}]},"title":"Automatic Comment Generation via Multi-Pass Deliberation.","venue":"ASE","pages":"14:1-14:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MuC0WW22","doi":"10.1145/3551349.3556917","ee":"https://doi.org/10.1145/3551349.3556917","url":"https://dblp.org/rec/conf/kbse/MuC0WW22"},
+"url":"URL#1805800"
+},
+{
+"@score":"1",
+"@id":"1805801",
+"info":{"authors":{"author":[{"@pid":"309/6666","text":"Adil Mukhtar"},{"@pid":"90/8164","text":"Birgit Hofer"},{"@pid":"j/DietmarJannach","text":"Dietmar Jannach"},{"@pid":"w/FranzWotawa","text":"Franz Wotawa"},{"@pid":"188/5759","text":"Konstantin Schekotihin"}]},"title":"Boosting Spectrum-Based Fault Localization for Spreadsheets with Product Metrics in a Learning Approach.","venue":"ASE","pages":"175:1-175:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MukhtarHJWS22","doi":"10.1145/3551349.3559546","ee":"https://doi.org/10.1145/3551349.3559546","url":"https://dblp.org/rec/conf/kbse/MukhtarHJWS22"},
+"url":"URL#1805801"
+},
+{
+"@score":"1",
+"@id":"1805802",
+"info":{"authors":{"author":[{"@pid":"337/0774","text":"Kiet Ngo"},{"@pid":"59/4389-3","text":"Vu Nguyen 0003"},{"@pid":"56/6902","text":"Tien N. Nguyen"}]},"title":"Research on Test Flakiness: from Unit to System Testing.","venue":"ASE","pages":"218:1-218:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/NgoNN22","doi":"10.1145/3551349.3563242","ee":"https://doi.org/10.1145/3551349.3563242","url":"https://dblp.org/rec/conf/kbse/NgoNN22"},
+"url":"URL#1805802"
+},
+{
+"@score":"1",
+"@id":"1805803",
+"info":{"authors":{"author":[{"@pid":"51/6992","text":"Hoan Anh Nguyen"},{"@pid":"200/1179","text":"Hung Dang Phan"},{"@pid":"160/9087","text":"Syeda Khairunnesa Samantha"},{"@pid":"58/2247","text":"Son Nguyen"},{"@pid":"325/0687","text":"Aashish Yadavally"},{"@pid":"09/486-2","text":"Shaohua Wang 0002"},{"@pid":"r/HrideshRajan","text":"Hridesh Rajan"},{"@pid":"56/6902","text":"Tien N. Nguyen"}]},"title":"A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications.","venue":"ASE","pages":"2:1-2:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/NguyenPSNYWRN22","doi":"10.1145/3551349.3560434","ee":"https://doi.org/10.1145/3551349.3560434","url":"https://dblp.org/rec/conf/kbse/NguyenPSNYWRN22"},
+"url":"URL#1805803"
+},
+{
+"@score":"1",
+"@id":"1805804",
+"info":{"authors":{"author":[{"@pid":"252/5277","text":"Vikram Nitin"},{"@pid":"185/8903","text":"Shubhi Asthana"},{"@pid":"74/1969","text":"Baishakhi Ray"},{"@pid":"138/9821","text":"Rahul Krishna"}]},"title":"CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture.","venue":"ASE","pages":"20:1-20:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/NitinARK22","doi":"10.1145/3551349.3556960","ee":"https://doi.org/10.1145/3551349.3556960","url":"https://dblp.org/rec/conf/kbse/NitinARK22"},
+"url":"URL#1805804"
+},
+{
+"@score":"1",
+"@id":"1805805",
+"info":{"authors":{"author":[{"@pid":"128/5693","text":"Ciprian Paduraru"},{"@pid":"297/9397","text":"Rares Cristea"},{"@pid":"17/512","text":"Alin Stefanescu"}]},"title":"Enhancing the security of gaming transactions using blockchain technology.","venue":"ASE","pages":"209:1-209:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PaduraruCS22","doi":"10.1145/3551349.3560504","ee":"https://doi.org/10.1145/3551349.3560504","url":"https://dblp.org/rec/conf/kbse/PaduraruCS22"},
+"url":"URL#1805805"
+},
+{
+"@score":"1",
+"@id":"1805806",
+"info":{"authors":{"author":[{"@pid":"128/5693","text":"Ciprian Paduraru"},{"@pid":"337/0900","text":"Miruna Gabriela Paduraru"},{"@pid":"337/0614","text":"Andrei Blahovici"}]},"title":"Transfer learning of cars behaviors from reality to simulation applications.","venue":"ASE","pages":"212:1-212:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PaduraruPB22","doi":"10.1145/3551349.3560506","ee":"https://doi.org/10.1145/3551349.3560506","url":"https://dblp.org/rec/conf/kbse/PaduraruPB22"},
+"url":"URL#1805806"
+},
+{
+"@score":"1",
+"@id":"1805807",
+"info":{"authors":{"author":{"@pid":"329/4857","text":"Aurora Papotti"}},"title":"Assessment of Automated (Intelligent) Toolchains.","venue":"ASE","pages":"119:1-119:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Papotti22","doi":"10.1145/3551349.3559572","ee":"https://doi.org/10.1145/3551349.3559572","url":"https://dblp.org/rec/conf/kbse/Papotti22"},
+"url":"URL#1805807"
+},
+{
+"@score":"1",
+"@id":"1805808",
+"info":{"authors":{"author":[{"@pid":"285/1631","text":"Priyavanshi Pathania"},{"@pid":"190/1193","text":"Rohit Mehra"},{"@pid":"69/3337","text":"Vibhu Saujanya Sharma"},{"@pid":"09/6043","text":"Vikrant Kaulgud"},{"@pid":"182/2338","text":"Sanjay Podder"},{"@pid":"256/6140","text":"Adam P. Burden"}]},"title":"ESAVE: Estimating Server and Virtual Machine Energy.","venue":"ASE","pages":"142:1-142:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PathaniaMSKPB22","doi":"10.1145/3551349.3561170","ee":"https://doi.org/10.1145/3551349.3561170","url":"https://dblp.org/rec/conf/kbse/PathaniaMSKPB22"},
+"url":"URL#1805808"
+},
+{
+"@score":"1",
+"@id":"1805809",
+"info":{"authors":{"author":{"@pid":"198/4933","text":"Felix Pauck"}},"title":"Scaling Arbitrary Android App Analyses.","venue":"ASE","pages":"204:1-204:7","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Pauck22","doi":"10.1145/3551349.3561339","ee":"https://doi.org/10.1145/3551349.3561339","url":"https://dblp.org/rec/conf/kbse/Pauck22"},
+"url":"URL#1805809"
+},
+{
+"@score":"1",
+"@id":"1805810",
+"info":{"authors":{"author":{"@pid":"172/1727","text":"Rajshakhar Paul"}},"title":"ASTOR: An Approach to Identify Security Code Reviews.","venue":"ASE","pages":"191:1-191:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Paul22","doi":"10.1145/3551349.3559509","ee":"https://doi.org/10.1145/3551349.3559509","url":"https://dblp.org/rec/conf/kbse/Paul22"},
+"url":"URL#1805810"
+},
+{
+"@score":"1",
+"@id":"1805811",
+"info":{"authors":{"author":[{"@pid":"122/9552","text":"Lucas Marcondes Pavelski"},{"@pid":"77/9386-1","text":"Rodrigo de Souza Braga"}]},"title":"A real-world case study for automated ticket team assignment using natural language processing and explainable models.","venue":"ASE","pages":"141:1-141:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PavelskiB22","doi":"10.1145/3551349.3561164","ee":"https://doi.org/10.1145/3551349.3561164","url":"https://dblp.org/rec/conf/kbse/PavelskiB22"},
+"url":"URL#1805811"
+},
+{
+"@score":"1",
+"@id":"1805812",
+"info":{"authors":{"author":[{"@pid":"96/10503","text":"Ate Penders"},{"@pid":"62/3310","text":"Ana Lucia Varbanescu"},{"@pid":"63/1545","text":"Gregor Pavlin"},{"@pid":"s/HJSips","text":"Henk J. Sips"}]},"title":"Design-Space Exploration for Decision-Support Software.","venue":"ASE","pages":"134:1-134:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PendersVPS22","doi":"10.1145/3551349.3559502","ee":"https://doi.org/10.1145/3551349.3559502","url":"https://dblp.org/rec/conf/kbse/PendersVPS22"},
+"url":"URL#1805812"
+},
+{
+"@score":"1",
+"@id":"1805813",
+"info":{"authors":{"author":[{"@pid":"208/4770","text":"Phuoc Pham"},{"@pid":"59/4389-3","text":"Vu Nguyen 0003"},{"@pid":"56/6902","text":"Tien N. Nguyen"}]},"title":"A Review of AI-augmented End-to-End Test Automation Tools.","venue":"ASE","pages":"214:1-214:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PhamNN22","doi":"10.1145/3551349.3563240","ee":"https://doi.org/10.1145/3551349.3563240","url":"https://dblp.org/rec/conf/kbse/PhamNN22"},
+"url":"URL#1805813"
+},
+{
+"@score":"1",
+"@id":"1805814",
+"info":{"authors":{"author":[{"@pid":"337/0809","text":"Khang Pham"},{"@pid":"59/4389-3","text":"Vu Nguyen 0003"},{"@pid":"56/6902","text":"Tien N. Nguyen"}]},"title":"Application of Natural Language Processing Towards Autonomous Software Testing.","venue":"ASE","pages":"216:1-216:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PhamNN22a","doi":"10.1145/3551349.3563241","ee":"https://doi.org/10.1145/3551349.3563241","url":"https://dblp.org/rec/conf/kbse/PhamNN22a"},
+"url":"URL#1805814"
+},
+{
+"@score":"1",
+"@id":"1805815",
+"info":{"authors":{"author":[{"@pid":"337/0824","text":"Clement Poncelet"},{"@pid":"s/KonstantinosFSagonas","text":"Konstantinos Sagonas"},{"@pid":"92/2319","text":"Nicolas Tsiftes"}]},"title":"So Many Fuzzers, So Little Time✱: Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack.","venue":"ASE","pages":"95:1-95:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PonceletST22","doi":"10.1145/3551349.3556946","ee":"https://doi.org/10.1145/3551349.3556946","url":"https://dblp.org/rec/conf/kbse/PonceletST22"},
+"url":"URL#1805815"
+},
+{
+"@score":"1",
+"@id":"1805816",
+"info":{"authors":{"author":[{"@pid":"337/0954","text":"Giacomo Priamo"},{"@pid":"32/9698","text":"Daniele Cono D&apos;Elia"},{"@pid":"24/2123","text":"Leonardo Querzoni"}]},"title":"Principled Composition of Function Variants for Dynamic Software Diversity and Program Protection.","venue":"ASE","pages":"183:1-183:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PriamoDQ22","doi":"10.1145/3551349.3559553","ee":"https://doi.org/10.1145/3551349.3559553","url":"https://dblp.org/rec/conf/kbse/PriamoDQ22"},
+"url":"URL#1805816"
+},
+{
+"@score":"1",
+"@id":"1805817",
+"info":{"authors":{"author":[{"@pid":"213/7852","text":"Binhang Qi"},{"@pid":"21/1509-1","text":"Hailong Sun 0001"},{"@pid":"14/3881-12","text":"Xiang Gao 0012"},{"@pid":"29/2726-2","text":"Hongyu Zhang 0002"}]},"title":"Patching Weak Convolutional Neural Network Models through Modularization and Composition.","venue":"ASE","pages":"74:1-74:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Qi0G022","doi":"10.1145/3551349.3561153","ee":"https://doi.org/10.1145/3551349.3561153","url":"https://dblp.org/rec/conf/kbse/Qi0G022"},
+"url":"URL#1805817"
+},
+{
+"@score":"1",
+"@id":"1805818",
+"info":{"authors":{"author":[{"@pid":"43/6161","text":"Ju Qian"},{"@pid":"337/0877","text":"Yingwei Ma"},{"@pid":"218/2056","text":"Chenghao Lin"},{"@pid":"13/3479-15","text":"Lin Chen 0015"}]},"title":"Accelerating OCR-Based Widget Localization for Test Automation of GUI Applications.","venue":"ASE","pages":"6:1-6:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/QianMLC22","doi":"10.1145/3551349.3556966","ee":"https://doi.org/10.1145/3551349.3556966","url":"https://dblp.org/rec/conf/kbse/QianMLC22"},
+"url":"URL#1805818"
+},
+{
+"@score":"1",
+"@id":"1805819",
+"info":{"authors":{"author":[{"@pid":"31/10777","text":"Xue Qin"},{"@pid":"35/9943","text":"Foyzul Hassan"}]},"title":"DyTRec: A Dynamic Testing Recommendation tool for Unity-based Virtual Reality Software.","venue":"ASE","pages":"227:1-227:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/QinH22","doi":"10.1145/3551349.3560510","ee":"https://doi.org/10.1145/3551349.3560510","url":"https://dblp.org/rec/conf/kbse/QinH22"},
+"url":"URL#1805819"
+},
+{
+"@score":"1",
+"@id":"1805820",
+"info":{"authors":{"author":[{"@pid":"337/0882","text":"Guanjie Qiu"},{"@pid":"316/0428","text":"Diwei Chen"},{"@pid":"71/208","text":"Shuai Zhang"},{"@pid":"310/1597","text":"Yitian Chai"},{"@pid":"71/4467-2","text":"Xiaodong Gu 0002"},{"@pid":"83/2622","text":"Beijun Shen"}]},"title":"Answering Software Deployment Questions via Neural Machine Reading at Scale.","venue":"ASE","pages":"151:1-151:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/QiuCZC0S22","doi":"10.1145/3551349.3559525","ee":"https://doi.org/10.1145/3551349.3559525","url":"https://dblp.org/rec/conf/kbse/QiuCZC0S22"},
+"url":"URL#1805820"
+},
+{
+"@score":"1",
+"@id":"1805821",
+"info":{"authors":{"author":[{"@pid":"155/5397","text":"Lili Quan"},{"@pid":"230/4021","text":"Qianyu Guo"},{"@pid":"127/0713","text":"Xiaofei Xie"},{"@pid":"180/8218-1","text":"Sen Chen 0001"},{"@pid":"08/2489-1","text":"Xiaohong Li 0001"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"Towards Understanding the Faults of JavaScript-Based Deep Learning Systems.","venue":"ASE","pages":"105:1-105:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/QuanGXCLL22","doi":"10.1145/3551349.3560427","ee":"https://doi.org/10.1145/3551349.3560427","url":"https://dblp.org/rec/conf/kbse/QuanGXCLL22"},
+"url":"URL#1805821"
+},
+{
+"@score":"1",
+"@id":"1805822",
+"info":{"authors":{"author":[{"@pid":"337/0610","text":"Tahmid Rafi"},{"@pid":"243/2538","text":"Xueling Zhang"},{"@pid":"31/6028","text":"Xiaoyin Wang"}]},"title":"PredART: Towards Automatic Oracle Prediction of Object Placements in Augmented Reality Testing.","venue":"ASE","pages":"77:1-77:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RafiZW22","doi":"10.1145/3551349.3561160","ee":"https://doi.org/10.1145/3551349.3561160","url":"https://dblp.org/rec/conf/kbse/RafiZW22"},
+"url":"URL#1805822"
+},
+{
+"@score":"1",
+"@id":"1805823",
+"info":{"authors":{"author":[{"@pid":"148/9922","text":"Rishabh Ranjan"},{"@pid":"337/0680","text":"Ishita Agrawal"},{"@pid":"77/1586-1","text":"Subodh Sharma 0001"}]},"title":"Exploiting Epochs and Symmetries in Analysing MPI Programs.","venue":"ASE","pages":"42:1-42:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RanjanA022","doi":"10.1145/3551349.3556954","ee":"https://doi.org/10.1145/3551349.3556954","url":"https://dblp.org/rec/conf/kbse/RanjanA022"},
+"url":"URL#1805823"
+},
+{
+"@score":"1",
+"@id":"1805824",
+"info":{"authors":{"author":[{"@pid":"22/9524","text":"Sofia Reis"},{"@pid":"00/6243","text":"Rui Abreu 0001"},{"@pid":"16/608","text":"Marcelo d&apos;Amorim"},{"@pid":"255/8946","text":"Daniel Fortunato"}]},"title":"Leveraging Practitioners&apos; Feedback to Improve a Security Linter.","venue":"ASE","pages":"66:1-66:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Reis0dF22","doi":"10.1145/3551349.3560419","ee":"https://doi.org/10.1145/3551349.3560419","url":"https://dblp.org/rec/conf/kbse/Reis0dF22"},
+"url":"URL#1805824"
+},
+{
+"@score":"1",
+"@id":"1805825",
+"info":{"authors":{"author":[{"@pid":"337/0897","text":"Gustavo Rodrigues dos Reis"},{"@pid":"16/6077","text":"Adrian Mos"},{"@pid":"05/10166","text":"Mario Cortes Cornax"},{"@pid":"l/CyrilLabbe","text":"Cyril Labbé"}]},"title":"Prototyping Deep Learning Applications with Non-Experts: An Assistant Proposition.","venue":"ASE","pages":"144:1-144:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ReisMCL22","doi":"10.1145/3551349.3561166","ee":"https://doi.org/10.1145/3551349.3561166","url":"https://dblp.org/rec/conf/kbse/ReisMCL22"},
+"url":"URL#1805825"
+},
+{
+"@score":"1",
+"@id":"1805826",
+"info":{"authors":{"author":[{"@pid":"238/3001","text":"Cedric Richter"},{"@pid":"224/4524","text":"Jan Haltermann"},{"@pid":"148/1305","text":"Marie-Christine Jakobs"},{"@pid":"198/4933","text":"Felix Pauck"},{"@pid":"337/0780","text":"Stefan Schott"},{"@pid":"w/HeikeWehrheim","text":"Heike Wehrheim"}]},"title":"Are Neural Bug Detectors Comparable to Software Developers on Variable Misuse Bugs?","venue":"ASE","pages":"9:1-9:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RichterHJPSW22","doi":"10.1145/3551349.3561156","ee":"https://doi.org/10.1145/3551349.3561156","url":"https://dblp.org/rec/conf/kbse/RichterHJPSW22"},
+"url":"URL#1805826"
+},
+{
+"@score":"1",
+"@id":"1805827",
+"info":{"authors":{"author":[{"@pid":"307/3959","text":"Alberto D. Rodriguez"},{"@pid":"154/3182","text":"Timothy Newman"},{"@pid":"320/4113","text":"Katherine R. Dearstyne"},{"@pid":"c/JaneClelandHuang","text":"Jane Cleland-Huang"}]},"title":"SAFA: A Tool for Supporting Safety Analysis in Evolving Software Systems.","venue":"ASE","pages":"165:1-165:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RodriguezNDC22","doi":"10.1145/3551349.3559535","ee":"https://doi.org/10.1145/3551349.3559535","url":"https://dblp.org/rec/conf/kbse/RodriguezNDC22"},
+"url":"URL#1805827"
+},
+{
+"@score":"1",
+"@id":"1805828",
+"info":{"authors":{"author":[{"@pid":"207/2335","text":"Rui Rua"},{"@pid":"97/3668","text":"João Saraiva"}]},"title":"E-MANAFA: Energy Monitoring and ANAlysis tool For Android.","venue":"ASE","pages":"202:1-202:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RuaS22","doi":"10.1145/3551349.3561342","ee":"https://doi.org/10.1145/3551349.3561342","url":"https://dblp.org/rec/conf/kbse/RuaS22"},
+"url":"URL#1805828"
+},
+{
+"@score":"1",
+"@id":"1805829",
+"info":{"authors":{"author":[{"@pid":"200/2829","text":"Yeonhee Ryou"},{"@pid":"323/0542","text":"Sangwoo Joh"},{"@pid":"337/0818","text":"Joonmo Yang"},{"@pid":"88/1403","text":"Sujin Kim"},{"@pid":"37/4348","text":"Youil Kim"}]},"title":"Code Understanding Linter to Detect Variable Misuse.","venue":"ASE","pages":"133:1-133:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RyouJYKK22","doi":"10.1145/3551349.3559497","ee":"https://doi.org/10.1145/3551349.3559497","url":"https://dblp.org/rec/conf/kbse/RyouJYKK22"},
+"url":"URL#1805829"
+},
+{
+"@score":"1",
+"@id":"1805830",
+"info":{"authors":{"author":[{"@pid":"321/4589","text":"Nuno Saavedra"},{"@pid":"f/JoaoFFerreira","text":"João F. Ferreira 0001"}]},"title":"GLITCH: Automated Polyglot Security Smell Detection in Infrastructure as Code.","venue":"ASE","pages":"47:1-47:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Saavedra022","doi":"10.1145/3551349.3556945","ee":"https://doi.org/10.1145/3551349.3556945","url":"https://dblp.org/rec/conf/kbse/Saavedra022"},
+"url":"URL#1805830"
+},
+{
+"@score":"1",
+"@id":"1805831",
+"info":{"authors":{"author":[{"@pid":"266/9861","text":"Navid Salehnamadi"},{"@pid":"278/0326","text":"Forough Mehralian"},{"@pid":"88/4685","text":"Sam Malek"}]},"title":"Groundhog: An Automated Accessibility Crawler for Mobile Apps.","venue":"ASE","pages":"50:1-50:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SalehnamadiMM22","doi":"10.1145/3551349.3556905","ee":"https://doi.org/10.1145/3551349.3556905","url":"https://dblp.org/rec/conf/kbse/SalehnamadiMM22"},
+"url":"URL#1805831"
+},
+{
+"@score":"1",
+"@id":"1805832",
+"info":{"authors":{"author":{"@pid":"274/7065","text":"Jaydeb Sarker"}},"title":"Identification and Mitigation of Toxic Communications Among Open Source Software Developers.","venue":"ASE","pages":"124:1-124:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Sarker22","doi":"10.1145/3551349.3559570","ee":"https://doi.org/10.1145/3551349.3559570","url":"https://dblp.org/rec/conf/kbse/Sarker22"},
+"url":"URL#1805832"
+},
+{
+"@score":"1",
+"@id":"1805833",
+"info":{"authors":{"author":{"@pid":"274/7065","text":"Jaydeb Sarker"}},"title":"&apos;Who built this crap?&apos; Developing a Software Engineering Domain Specific Toxicity Detector.","venue":"ASE","pages":"200:1-200:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Sarker22a","doi":"10.1145/3551349.3559508","ee":"https://doi.org/10.1145/3551349.3559508","url":"https://dblp.org/rec/conf/kbse/Sarker22a"},
+"url":"URL#1805833"
+},
+{
+"@score":"1",
+"@id":"1805834",
+"info":{"authors":{"author":[{"@pid":"299/8755","text":"Qingchao Shen"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"},{"@pid":"84/6889-50","text":"Jie M. Zhang"},{"@pid":"50/8499-17","text":"Haoyu Wang 0017"},{"@pid":"58/6609-7","text":"Shuang Liu 0007"},{"@pid":"337/0665","text":"Menghan Tian"}]},"title":"Natural Test Generation for Precise Testing of Question Answering Software.","venue":"ASE","pages":"71:1-71:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Shen0ZW0T22","doi":"10.1145/3551349.3556953","ee":"https://doi.org/10.1145/3551349.3556953","url":"https://dblp.org/rec/conf/kbse/Shen0ZW0T22"},
+"url":"URL#1805834"
+},
+{
+"@score":"1",
+"@id":"1805835",
+"info":{"authors":{"author":[{"@pid":"331/2215","text":"Youkun Shi"},{"@pid":"48/2168-9","text":"Yuan Zhang 0009"},{"@pid":"331/2055","text":"Tianhan Luo"},{"@pid":"138/3444","text":"Xiangyu Mao"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"Precise (Un)Affected Version Analysis for Web Vulnerabilities.","venue":"ASE","pages":"76:1-76:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Shi0LMY22","doi":"10.1145/3551349.3556933","ee":"https://doi.org/10.1145/3551349.3556933","url":"https://dblp.org/rec/conf/kbse/Shi0LMY22"},
+"url":"URL#1805835"
+},
+{
+"@score":"1",
+"@id":"1805836",
+"info":{"authors":{"author":[{"@pid":"246/7302","text":"Jieke Shi"},{"@pid":"323/9260-3","text":"Zhou Yang 0003"},{"@pid":"89/5193","text":"Bowen Xu"},{"@pid":"190/7414","text":"Hong Jin Kang"},{"@pid":"89/6793-1","text":"David Lo 0001"}]},"title":"Compressing Pre-trained Models of Code into 3 MB.","venue":"ASE","pages":"24:1-24:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Shi0XK022","doi":"10.1145/3551349.3556964","ee":"https://doi.org/10.1145/3551349.3556964","url":"https://dblp.org/rec/conf/kbse/Shi0XK022"},
+"url":"URL#1805836"
+},
+{
+"@score":"1",
+"@id":"1805837",
+"info":{"authors":{"author":[{"@pid":"290/7835","text":"Vidush Singhal"},{"@pid":"329/5647","text":"Akul Abhilash Pillai"},{"@pid":"215/5436","text":"Charitha Saumya"},{"@pid":"47/1003","text":"Milind Kulkarni 0001"},{"@pid":"133/8188","text":"Aravind Machiry"}]},"title":"Cornucopia : A Framework for Feedback Guided Generation of Binaries.","venue":"ASE","pages":"27:1-27:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SinghalPS0M22","doi":"10.1145/3551349.3561152","ee":"https://doi.org/10.1145/3551349.3561152","url":"https://dblp.org/rec/conf/kbse/SinghalPS0M22"},
+"url":"URL#1805837"
+},
+{
+"@score":"1",
+"@id":"1805838",
+"info":{"authors":{"author":[{"@pid":"287/9604","text":"Qunying Song"},{"@pid":"24/24","text":"Per Runeson"},{"@pid":"237/3553","text":"Stefan Persson"}]},"title":"A Scenario Distribution Model for Effective and Efficient Testing of Autonomous Driving Systems.","venue":"ASE","pages":"215:1-215:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SongRP22","doi":"10.1145/3551349.3563239","ee":"https://doi.org/10.1145/3551349.3563239","url":"https://dblp.org/rec/conf/kbse/SongRP22"},
+"url":"URL#1805838"
+},
+{
+"@score":"1",
+"@id":"1805839",
+"info":{"authors":{"author":[{"@pid":"96/5460","text":"Yi Song"},{"@pid":"52/2991","text":"Xiaoyuan Xie"},{"@pid":"274/8546","text":"Xihao Zhang"},{"@pid":"123/3806","text":"Quanming Liu"},{"@pid":"19/9308","text":"Ruizhi Gao"}]},"title":"Evolving Ranking-Based Failure Proximities for Better Clustering in Fault Isolation.","venue":"ASE","pages":"41:1-41:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SongXZLG22","doi":"10.1145/3551349.3556922","ee":"https://doi.org/10.1145/3551349.3556922","url":"https://dblp.org/rec/conf/kbse/SongXZLG22"},
+"url":"URL#1805839"
+},
+{
+"@score":"1",
+"@id":"1805840",
+"info":{"authors":{"author":[{"@pid":"245/4567","text":"Tim Sonnekalb"},{"@pid":"304/7585","text":"Bernd Gruner"},{"@pid":"159/1860","text":"Clemens-Alexander Brust"},{"@pid":"m/PatrickMader","text":"Patrick Mäder"}]},"title":"Generalizability of Code Clone Detection on CodeBERT.","venue":"ASE","pages":"143:1-143:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SonnekalbGBM22","doi":"10.1145/3551349.3561165","ee":"https://doi.org/10.1145/3551349.3561165","url":"https://dblp.org/rec/conf/kbse/SonnekalbGBM22"},
+"url":"URL#1805840"
+},
+{
+"@score":"1",
+"@id":"1805841",
+"info":{"authors":{"author":[{"@pid":"304/4264","text":"Meriel von Stein"},{"@pid":"e/SebastianGElbaum","text":"Sebastian G. Elbaum"}]},"title":"Finding Property Violations through Network Falsification: Challenges, Adaptations and Lessons Learned from OpenPilot.","venue":"ASE","pages":"136:1-136:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SteinE22","doi":"10.1145/3551349.3559500","ee":"https://doi.org/10.1145/3551349.3559500","url":"https://dblp.org/rec/conf/kbse/SteinE22"},
+"url":"URL#1805841"
+},
+{
+"@score":"1",
+"@id":"1805842",
+"info":{"authors":{"author":[{"@pid":"282/6051","text":"Patrick Stöckle"},{"@pid":"329/6101","text":"Theresa Wasserer"},{"@pid":"35/6730","text":"Bernd Grobauer"},{"@pid":"98/5319","text":"Alexander Pretschner"}]},"title":"Automated Identification of Security-Relevant Configuration Settings Using NLP.","venue":"ASE","pages":"131:1-131:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/StockleWGP22","doi":"10.1145/3551349.3559499","ee":"https://doi.org/10.1145/3551349.3559499","url":"https://dblp.org/rec/conf/kbse/StockleWGP22"},
+"url":"URL#1805842"
+},
+{
+"@score":"1",
+"@id":"1805843",
+"info":{"authors":{"author":[{"@pid":"296/3931","text":"Yuhui Su"},{"@pid":"180/7246","text":"Chunyang Chen 0001"},{"@pid":"14/1915-1","text":"Junjie Wang 0001"},{"@pid":"70/1220-25","text":"Zhe Liu 0025"},{"@pid":"31/3682","text":"Dandan Wang"},{"@pid":"207/7185","text":"Shoubin Li"},{"@pid":"97/6505-1","text":"Qing Wang 0001"}]},"title":"The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps.","venue":"ASE","pages":"101:1-101:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SuCWLWLW22","doi":"10.1145/3551349.3556935","ee":"https://doi.org/10.1145/3551349.3556935","url":"https://dblp.org/rec/conf/kbse/SuCWLWLW22"},
+"url":"URL#1805843"
+},
+{
+"@score":"1",
+"@id":"1805844",
+"info":{"authors":{"author":[{"@pid":"76/4725","text":"Jianzhong Su"},{"@pid":"33/5228","text":"Hong-Ning Dai"},{"@pid":"77/349","text":"Lingjun Zhao"},{"@pid":"z/ZibinZheng","text":"Zibin Zheng"},{"@pid":"53/1565","text":"Xiapu Luo"}]},"title":"Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing.","venue":"ASE","pages":"36:1-36:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SuDZZL22","doi":"10.1145/3551349.3560429","ee":"https://doi.org/10.1145/3551349.3560429","url":"https://dblp.org/rec/conf/kbse/SuDZZL22"},
+"url":"URL#1805844"
+},
+{
+"@score":"1",
+"@id":"1805845",
+"info":{"authors":{"author":[{"@pid":"16/4518","text":"Yanqi Su"},{"@pid":"337/1057","text":"Zheming Han"},{"@pid":"52/6482","text":"Zhenchang Xing"},{"@pid":"06/2072-1","text":"Xin Xia 0001"},{"@pid":"47/3196-1","text":"Xiwei Xu 0001"},{"@pid":"52/4318-1","text":"Liming Zhu 0001"},{"@pid":"19/9978","text":"Qinghua Lu 0001"}]},"title":"Constructing a System Knowledge Graph of User Tasks and Failures from Bug Reports to Support Soap Opera Testing.","venue":"ASE","pages":"26:1-26:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SuHX0X0022","doi":"10.1145/3551349.3556967","ee":"https://doi.org/10.1145/3551349.3556967","url":"https://dblp.org/rec/conf/kbse/SuHX0X0022"},
+"url":"URL#1805845"
+},
+{
+"@score":"1",
+"@id":"1805846",
+"info":{"authors":{"author":[{"@pid":"73/4961-2","text":"Jie Su 0002"},{"@pid":"00/5365","text":"Cong Tian"},{"@pid":"337/1054","text":"Zuchao Yang"},{"@pid":"337/0615","text":"Jiyu Yang"},{"@pid":"27/116-8","text":"Bin Yu 0008"},{"@pid":"39/6857","text":"Zhenhua Duan"}]},"title":"Prioritized Constraint-Aided Dynamic Partial-Order Reduction.","venue":"ASE","pages":"78:1-78:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SuTYYYD22","doi":"10.1145/3551349.3561159","ee":"https://doi.org/10.1145/3551349.3561159","url":"https://dblp.org/rec/conf/kbse/SuTYYYD22"},
+"url":"URL#1805846"
+},
+{
+"@score":"1",
+"@id":"1805847",
+"info":{"authors":{"author":{"@pid":"264/7972","text":"Sayma Sultana"}},"title":"Identification and Mitigation of Gender Biases to Promote Diversity and Inclusion among Open Source Communities.","venue":"ASE","pages":"123:1-123:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Sultana22","doi":"10.1145/3551349.3559571","ee":"https://doi.org/10.1145/3551349.3559571","url":"https://dblp.org/rec/conf/kbse/Sultana22"},
+"url":"URL#1805847"
+},
+{
+"@score":"1",
+"@id":"1805848",
+"info":{"authors":{"author":{"@pid":"264/7972","text":"Sayma Sultana"}},"title":"Identifying Sexism and Misogyny in Pull Request Comments.","venue":"ASE","pages":"197:1-197:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Sultana22a","doi":"10.1145/3551349.3559515","ee":"https://doi.org/10.1145/3551349.3559515","url":"https://dblp.org/rec/conf/kbse/Sultana22a"},
+"url":"URL#1805848"
+},
+{
+"@score":"1",
+"@id":"1805849",
+"info":{"authors":{"author":[{"@pid":"23/7764-2","text":"Xiaoyu Sun 0002"},{"@pid":"05/3054-2","text":"Xiao Chen 0002"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"84/3210","text":"Pei Liu"},{"@pid":"g/JohnCGrundy","text":"John Grundy 0001"},{"@pid":"53/2189-29","text":"Li Li 0029"}]},"title":"Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues.","venue":"ASE","pages":"70:1-70:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SunCZL0022","doi":"10.1145/3551349.3561151","ee":"https://doi.org/10.1145/3551349.3561151","url":"https://dblp.org/rec/conf/kbse/SunCZL0022"},
+"url":"URL#1805849"
+},
+{
+"@score":"1",
+"@id":"1805850",
+"info":{"authors":{"author":[{"@pid":"69/476-17","text":"Ke Sun 0017"},{"@pid":"13/7050","text":"Yifan Zhao"},{"@pid":"50/456","text":"Dan Hao 0001"},{"@pid":"z/LuZhang1","text":"Lu Zhang 0023"}]},"title":"Static Type Recommendation for Python.","venue":"ASE","pages":"98:1-98:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SunZ0Z22","doi":"10.1145/3551349.3561150","ee":"https://doi.org/10.1145/3551349.3561150","url":"https://dblp.org/rec/conf/kbse/SunZ0Z22"},
+"url":"URL#1805850"
+},
+{
+"@score":"1",
+"@id":"1805851",
+"info":{"authors":{"author":[{"@pid":"325/4461","text":"Nicholas M. Synovic"},{"@pid":"325/4826","text":"Matt Hyatt"},{"@pid":"325/4345","text":"Rohan Sethi"},{"@pid":"325/4387","text":"Sohini Thota"},{"@pid":"218/5338","text":"Shilpika"},{"@pid":"325/4929","text":"Allan J. Miller"},{"@pid":"71/2402-1","text":"Wenxin Jiang 0001"},{"@pid":"325/4677","text":"Emmanuel S. Amobi"},{"@pid":"325/4937","text":"Austin Pinderski"},{"@pid":"l/KLaufer","text":"Konstantin Läufer"},{"@pid":"218/5171","text":"Nicholas J. Hayward"},{"@pid":"146/7847","text":"Neil Klingensmith"},{"@pid":"182/5618-1","text":"James C. Davis 0001"},{"@pid":"97/6279","text":"George K. Thiruvathukal"}]},"title":"Snapshot Metrics Are Not Enough: Analyzing Software Repositories with Longitudinal Metrics.","venue":"ASE","pages":"167:1-167:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SynovicHSTSMJAP22","doi":"10.1145/3551349.3559517","ee":"https://doi.org/10.1145/3551349.3559517","url":"https://dblp.org/rec/conf/kbse/SynovicHSTSMJAP22"},
+"url":"URL#1805851"
+},
+{
+"@score":"1",
+"@id":"1805852",
+"info":{"authors":{"author":[{"@pid":"58/1874","text":"Wei Tang"},{"@pid":"183/0183","text":"Zhengzi Xu"},{"@pid":"163/6525","text":"Chengwei Liu"},{"@pid":"34/7232","text":"Jiahui Wu"},{"@pid":"189/2409","text":"Shouguo Yang"},{"@pid":"59/871-8","text":"Yi Li 0008"},{"@pid":"54/4989","text":"Ping Luo"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"Towards Understanding Third-party Library Dependency in C/C++ Ecosystem.","venue":"ASE","pages":"106:1-106:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TangXLWYLLL22","doi":"10.1145/3551349.3560432","ee":"https://doi.org/10.1145/3551349.3560432","url":"https://dblp.org/rec/conf/kbse/TangXLWYLLL22"},
+"url":"URL#1805852"
+},
+{
+"@score":"1",
+"@id":"1805853",
+"info":{"authors":{"author":[{"@pid":"123/1264","text":"Max Taylor"},{"@pid":"331/3499","text":"Johnathon Aurand"},{"@pid":"31/3488","text":"Feng Qin"},{"@pid":"18/5637","text":"Xiaorui Wang"},{"@pid":"261/6129","text":"Brandon Henry"},{"@pid":"95/3760-1","text":"Xiangyu Zhang 0001"}]},"title":"SA4U: Practical Static Analysis for Unit Type Error Detection.","venue":"ASE","pages":"87:1-87:11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TaylorAQWHZ22","doi":"10.1145/3551349.3556937","ee":"https://doi.org/10.1145/3551349.3556937","url":"https://dblp.org/rec/conf/kbse/TaylorAQWHZ22"},
+"url":"URL#1805853"
+},
+{
+"@score":"1",
+"@id":"1805854",
+"info":{"authors":{"author":[{"@pid":"56/3690","text":"Zhao Tian"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"},{"@pid":"167/2272","text":"Qihao Zhu"},{"@pid":"41/3461","text":"Junjie Yang"},{"@pid":"27/7057-1","text":"Lingming Zhang 0001"}]},"title":"Learning to Construct Better Mutation Faults.","venue":"ASE","pages":"64:1-64:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TianCZYZ22","doi":"10.1145/3551349.3556949","ee":"https://doi.org/10.1145/3551349.3556949","url":"https://dblp.org/rec/conf/kbse/TianCZYZ22"},
+"url":"URL#1805854"
+},
+{
+"@score":"1",
+"@id":"1805855",
+"info":{"authors":{"author":[{"@pid":"223/3393","text":"Haoye Tian"},{"@pid":"243/4169","text":"Xunzhu Tang"},{"@pid":"123/4524","text":"Andrew Habib"},{"@pid":"219/1645","text":"Shangwen Wang"},{"@pid":"71/7399-1","text":"Kui Liu 0001"},{"@pid":"06/2072-1","text":"Xin Xia 0001"},{"@pid":"k/JacquesKlein","text":"Jacques Klein"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"}]},"title":"Is this Change the Answer to that Problem?: Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness.","venue":"ASE","pages":"59:1-59:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TianTHW0XKB22","doi":"10.1145/3551349.3556914","ee":"https://doi.org/10.1145/3551349.3556914","url":"https://dblp.org/rec/conf/kbse/TianTHW0XKB22"},
+"url":"URL#1805855"
+},
+{
+"@score":"1",
+"@id":"1805856",
+"info":{"authors":{"author":[{"@pid":"329/9135-1","text":"Haoxiang Tian 0001"},{"@pid":"00/5453","text":"Guoquan Wu"},{"@pid":"332/5794","text":"Jiren Yan"},{"@pid":"11/6484","text":"Yan Jiang"},{"@pid":"68/6546-1","text":"Jun Wei 0001"},{"@pid":"c/WeiChen18","text":"Wei Chen 0018"},{"@pid":"49/595","text":"Shuo Li"},{"@pid":"37/3880-4","text":"Dan Ye 0004"}]},"title":"Generating Critical Test Scenarios for Autonomous Driving Systems via Influential Behavior Patterns.","venue":"ASE","pages":"46:1-46:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TianWYJ00LY22","doi":"10.1145/3551349.3560430","ee":"https://doi.org/10.1145/3551349.3560430","url":"https://dblp.org/rec/conf/kbse/TianWYJ00LY22"},
+"url":"URL#1805856"
+},
+{
+"@score":"1",
+"@id":"1805857",
+"info":{"authors":{"author":[{"@pid":"271/8344","text":"Palina Tolmach"},{"@pid":"59/871-8","text":"Yi Li 0008"},{"@pid":"55/4730-1","text":"Shang-Wei Lin 0001"}]},"title":"Property-Based Automated Repair of DeFi Protocols.","venue":"ASE","pages":"184:1-184:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Tolmach0022","doi":"10.1145/3551349.3559560","ee":"https://doi.org/10.1145/3551349.3559560","url":"https://dblp.org/rec/conf/kbse/Tolmach0022"},
+"url":"URL#1805857"
+},
+{
+"@score":"1",
+"@id":"1805858",
+"info":{"authors":{"author":[{"@pid":"337/1070","text":"Adam Tonkin"},{"@pid":"175/2898","text":"William Kosasih"},{"@pid":"00/10437","text":"Marthie Grobler"},{"@pid":"91/8376","text":"Mehwish Nasim"}]},"title":"Simulating cyber security management: A gamified approach to executive decision making.","venue":"ASE","pages":"222:1-222:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TonkinKGN22","doi":"10.1145/3551349.3561148","ee":"https://doi.org/10.1145/3551349.3561148","url":"https://dblp.org/rec/conf/kbse/TonkinKGN22"},
+"url":"URL#1805858"
+},
+{
+"@score":"1",
+"@id":"1805859",
+"info":{"authors":{"author":[{"@pid":"236/1755","text":"Sheikh Shadab Towqir"},{"@pid":"258/1277","text":"Bowen Shen"},{"@pid":"172/6776","text":"Muhammad Ali Gulzar"},{"@pid":"60/6376","text":"Na Meng 0001"}]},"title":"Detecting Build Conflicts in Software Merge for Java Programs via Static Analysis.","venue":"ASE","pages":"33:1-33:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TowqirSG022","doi":"10.1145/3551349.3556950","ee":"https://doi.org/10.1145/3551349.3556950","url":"https://dblp.org/rec/conf/kbse/TowqirSG022"},
+"url":"URL#1805859"
+},
+{
+"@score":"1",
+"@id":"1805860",
+"info":{"authors":{"author":{"@pid":"29/1074","text":"Christoph Treude"}},"title":"Taming Multi-Output Recommenders for Software Engineering.","venue":"ASE","pages":"187:1-187:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Treude22","doi":"10.1145/3551349.3559557","ee":"https://doi.org/10.1145/3551349.3559557","url":"https://dblp.org/rec/conf/kbse/Treude22"},
+"url":"URL#1805860"
+},
+{
+"@score":"1",
+"@id":"1805861",
+"info":{"authors":{"author":[{"@pid":"207/6547","text":"Alexi Turcotte"},{"@pid":"322/7488","text":"Mark W. Aldrich"},{"@pid":"32/524","text":"Frank Tip"}]},"title":"reformulator: Automated Refactoring of the N+1 Problem in Database-Backed Applications.","venue":"ASE","pages":"84:1-84:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TurcotteAT22","doi":"10.1145/3551349.3556911","ee":"https://doi.org/10.1145/3551349.3556911","url":"https://dblp.org/rec/conf/kbse/TurcotteAT22"},
+"url":"URL#1805861"
+},
+{
+"@score":"1",
+"@id":"1805862",
+"info":{"authors":{"author":{"@pid":"274/6992","text":"Asif Kamal Turzo"}},"title":"Towards Improving Code Review Effectiveness Through Task Automation.","venue":"ASE","pages":"128:1-128:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Turzo22","doi":"10.1145/3551349.3559565","ee":"https://doi.org/10.1145/3551349.3559565","url":"https://dblp.org/rec/conf/kbse/Turzo22"},
+"url":"URL#1805862"
+},
+{
+"@score":"1",
+"@id":"1805863",
+"info":{"authors":{"author":[{"@pid":"280/5060","text":"Oskar Haarklou Veileborg"},{"@pid":"329/6866","text":"Georgian-Vlad Saioc"},{"@pid":"55/6739","text":"Anders Møller"}]},"title":"Detecting Blocking Errors in Go Programs using Localized Abstract Interpretation.","venue":"ASE","pages":"32:1-32:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/VeileborgSM22","doi":"10.1145/3551349.3561154","ee":"https://doi.org/10.1145/3551349.3561154","url":"https://dblp.org/rec/conf/kbse/VeileborgSM22"},
+"url":"URL#1805863"
+},
+{
+"@score":"1",
+"@id":"1805864",
+"info":{"authors":{"author":[{"@pid":"253/6180","text":"Ennio Visconti"},{"@pid":"145/4028","text":"Christos Tsigkanos"},{"@pid":"131/6717","text":"Laura Nenzi"}]},"title":"WebMonitor: Verification of Web User Interfaces.","venue":"ASE","pages":"170:1-170:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ViscontiTN22","doi":"10.1145/3551349.3559538","ee":"https://doi.org/10.1145/3551349.3559538","url":"https://dblp.org/rec/conf/kbse/ViscontiTN22"},
+"url":"URL#1805864"
+},
+{
+"@score":"1",
+"@id":"1805865",
+"info":{"authors":{"author":[{"@pid":"337/0703","text":"Sivani Voruganti"},{"@pid":"250/2929","text":"Kevin Jesse"},{"@pid":"d/PremkumarTDevanbu","text":"Premkumar T. Devanbu"}]},"title":"FlexType: A Plug-and-Play Framework for Type Inference Models.","venue":"ASE","pages":"159:1-159:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/VorugantiJD22","doi":"10.1145/3551349.3559527","ee":"https://doi.org/10.1145/3551349.3559527","url":"https://dblp.org/rec/conf/kbse/VorugantiJD22"},
+"url":"URL#1805865"
+},
+{
+"@score":"1",
+"@id":"1805866",
+"info":{"authors":{"author":[{"@pid":"10/5630-114","text":"Xin Wang 0114"},{"@pid":"82/1364-4","text":"Xiao Liu 0004"},{"@pid":"178/6404","text":"Pingyi Zhou"},{"@pid":"337/0574","text":"Qixia Liu"},{"@pid":"01/2537-16","text":"Jin Liu 0016"},{"@pid":"72/4250-10","text":"Hao Wu 0010"},{"@pid":"37/1980","text":"Xiaohui Cui"}]},"title":"Test-Driven Multi-Task Learning with Functionally Equivalent Code Transformation for Neural Code Generation.","venue":"ASE","pages":"188:1-188:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangLZLLWC22","doi":"10.1145/3551349.3559549","ee":"https://doi.org/10.1145/3551349.3559549","url":"https://dblp.org/rec/conf/kbse/WangLZLLWC22"},
+"url":"URL#1805866"
+},
+{
+"@score":"1",
+"@id":"1805867",
+"info":{"authors":{"author":[{"@pid":"69/6403","text":"Sen Wang"},{"@pid":"337/0909","text":"Zhuheng Sheng"},{"@pid":"148/9997-1","text":"Jingwei Xu 0001"},{"@pid":"28/4743","text":"Taolue Chen 0001"},{"@pid":"222/8224","text":"Junjun Zhu"},{"@pid":"73/5468","text":"Shuhui Zhang"},{"@pid":"25/4120-1","text":"Yuan Yao 0001"},{"@pid":"67/3058","text":"Xiaoxing Ma"}]},"title":"ADEPT: A Testing Platform for Simulated Autonomous Driving.","venue":"ASE","pages":"150:1-150:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangS0CZZ0M22","doi":"10.1145/3551349.3559528","ee":"https://doi.org/10.1145/3551349.3559528","url":"https://dblp.org/rec/conf/kbse/WangS0CZZ0M22"},
+"url":"URL#1805867"
+},
+{
+"@score":"1",
+"@id":"1805868",
+"info":{"authors":{"author":[{"@pid":"10/1491-6","text":"Jingbo Wang 0006"},{"@pid":"w/ChaoWang","text":"Chao Wang 0001"}]},"title":"Learning to Synthesize Relational Invariants.","venue":"ASE","pages":"65:1-65:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangW22","doi":"10.1145/3551349.3556942","ee":"https://doi.org/10.1145/3551349.3556942","url":"https://dblp.org/rec/conf/kbse/WangW22"},
+"url":"URL#1805868"
+},
+{
+"@score":"1",
+"@id":"1805869",
+"info":{"authors":{"author":[{"@pid":"41/5010","text":"Gan Wang"},{"@pid":"71/7089","text":"Zan Wang"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"},{"@pid":"64/3062-5","text":"Xiang Chen 0005"},{"@pid":"51/5332-10","text":"Ming Yan 0010"}]},"title":"An Empirical Study on Numerical Bugs in Deep Learning Programs.","venue":"ASE","pages":"173:1-173:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangWCCY22","doi":"10.1145/3551349.3559561","ee":"https://doi.org/10.1145/3551349.3559561","url":"https://dblp.org/rec/conf/kbse/WangWCCY22"},
+"url":"URL#1805869"
+},
+{
+"@score":"1",
+"@id":"1805870",
+"info":{"authors":{"author":[{"@pid":"188/7759","text":"Chao Wang"},{"@pid":"92/9102","text":"Rongxin Wu"},{"@pid":"50/6802","text":"Haohao Song"},{"@pid":"60/3690","text":"Jiwu Shu"},{"@pid":"56/5562","text":"Guoqing Li"}]},"title":"smartPip: A Smart Approach to Resolving Python Dependency Conflict Issues.","venue":"ASE","pages":"93:1-93:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangWSSL22","doi":"10.1145/3551349.3560437","ee":"https://doi.org/10.1145/3551349.3560437","url":"https://dblp.org/rec/conf/kbse/WangWSSL22"},
+"url":"URL#1805870"
+},
+{
+"@score":"1",
+"@id":"1805871",
+"info":{"authors":{"author":[{"@pid":"337/0577","text":"Kazuki Wayama"},{"@pid":"30/4670","text":"Tomoyuki Yokogawa"},{"@pid":"87/4954","text":"Sousuke Amasaki"},{"@pid":"21/5939","text":"Hirohisa Aman"},{"@pid":"89/187","text":"Kazutami Arimoto"}]},"title":"Verifying Game Logic in Unreal Engine 5 Blueprint Visual Scripting System Using Model Checking.","venue":"ASE","pages":"213:1-213:8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WayamaYAAA22","doi":"10.1145/3551349.3560505","ee":"https://doi.org/10.1145/3551349.3560505","url":"https://dblp.org/rec/conf/kbse/WayamaYAAA22"},
+"url":"URL#1805871"
+},
+{
+"@score":"1",
+"@id":"1805872",
+"info":{"authors":{"author":[{"@pid":"337/0753","text":"Chenhao Wei"},{"@pid":"78/5386-1","text":"Lu Xiao 0001"},{"@pid":"51/8403-1","text":"Tingting Yu 0001"},{"@pid":"96/3374","text":"Xinyu Chen"},{"@pid":"49/67-30","text":"Xiao Wang 0030"},{"@pid":"71/7474","text":"Sunny Wong 0001"},{"@pid":"337/0611","text":"Abigail Clune"}]},"title":"Automatically Tagging the &quot;AAA&quot; Pattern in Unit Test Cases Using Machine Learning Models.","venue":"ASE","pages":"194:1-194:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Wei0YCWWC22","doi":"10.1145/3551349.3559510","ee":"https://doi.org/10.1145/3551349.3559510","url":"https://dblp.org/rec/conf/kbse/Wei0YCWWC22"},
+"url":"URL#1805872"
+},
+{
+"@score":"1",
+"@id":"1805873",
+"info":{"authors":{"author":{"@pid":"337/0949","text":"Frank Dixon Whitworth"}},"title":"Execution Path Detection through Dynamic Analysis in Black-Box Testing Environments.","venue":"ASE","pages":"196:1-196:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Whitworth22","doi":"10.1145/3551349.3559506","ee":"https://doi.org/10.1145/3551349.3559506","url":"https://dblp.org/rec/conf/kbse/Whitworth22"},
+"url":"URL#1805873"
+},
+{
+"@score":"1",
+"@id":"1805874",
+"info":{"authors":{"author":{"@pid":"227/8984","text":"Xiuheng Wu"}},"title":"Software Evolution Management with Differential Facts.","venue":"ASE","pages":"199:1-199:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Wu22","doi":"10.1145/3551349.3559513","ee":"https://doi.org/10.1145/3551349.3559513","url":"https://dblp.org/rec/conf/kbse/Wu22"},
+"url":"URL#1805874"
+},
+{
+"@score":"1",
+"@id":"1805875",
+"info":{"authors":{"author":[{"@pid":"92/9102","text":"Rongxin Wu"},{"@pid":"337/0791","text":"Minglei Chen"},{"@pid":"240/2235-1","text":"Chengpeng Wang 0001"},{"@pid":"24/1495","text":"Gang Fan"},{"@pid":"13/7697","text":"Jiguang Qiu"},{"@pid":"51/7008-1","text":"Charles Zhang 0001"}]},"title":"Accelerating Build Dependency Error Detection via Virtual Build.","venue":"ASE","pages":"5:1-5:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WuCWFQZ22","doi":"10.1145/3551349.3556930","ee":"https://doi.org/10.1145/3551349.3556930","url":"https://dblp.org/rec/conf/kbse/WuCWFQZ22"},
+"url":"URL#1805875"
+},
+{
+"@score":"1",
+"@id":"1805876",
+"info":{"authors":{"author":[{"@pid":"77/8060-1","text":"Yueming Wu 0001"},{"@pid":"337/0846","text":"Siyue Feng"},{"@pid":"z/DeqingZou","text":"Deqing Zou"},{"@pid":"98/4156","text":"Hai Jin 0001"}]},"title":"Detecting Semantic Code Clones by Building AST-based Markov Chains Model.","venue":"ASE","pages":"34:1-34:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WuFZ022","doi":"10.1145/3551349.3560426","ee":"https://doi.org/10.1145/3551349.3560426","url":"https://dblp.org/rec/conf/kbse/WuFZ022"},
+"url":"URL#1805876"
+},
+{
+"@score":"1",
+"@id":"1805877",
+"info":{"authors":{"author":[{"@pid":"12/4118-1","text":"Yiwen Wu 0001"},{"@pid":"06/6785-26","text":"Yang Zhang 0026"},{"@pid":"158/4231","text":"Kele Xu"},{"@pid":"12/5838-6","text":"Tao Wang 0006"},{"@pid":"02/661","text":"Huaimin Wang"}]},"title":"Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects.","venue":"ASE","pages":"111:1-111:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WuZXWW22","doi":"10.1145/3551349.3556940","ee":"https://doi.org/10.1145/3551349.3556940","url":"https://dblp.org/rec/conf/kbse/WuZXWW22"},
+"url":"URL#1805877"
+},
+{
+"@score":"1",
+"@id":"1805878",
+"info":{"authors":{"author":[{"@pid":"00/6220-2","text":"Yan Xiao 0002"},{"@pid":"77/1513-1","text":"Yun Lin 0001"},{"@pid":"98/5324","text":"Ivan Beschastnikh"},{"@pid":"134/1902","text":"Changsheng Sun"},{"@pid":"r/DSRosenblum","text":"David S. Rosenblum"},{"@pid":"64/7695-1","text":"Jin Song Dong 0001"}]},"title":"Repairing Failure-inducing Inputs with Input Reflection.","venue":"ASE","pages":"85:1-85:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Xiao0BSRD22","doi":"10.1145/3551349.3556932","ee":"https://doi.org/10.1145/3551349.3556932","url":"https://dblp.org/rec/conf/kbse/Xiao0BSRD22"},
+"url":"URL#1805878"
+},
+{
+"@score":"1",
+"@id":"1805879",
+"info":{"authors":{"author":[{"@pid":"52/2991","text":"Xiaoyuan Xie"},{"@pid":"337/0811","text":"Pengbo Yin"},{"@pid":"257/0002","text":"Songqiang Chen"}]},"title":"Boosting the Revealing of Detected Violations in Deep Learning Testing: A Diversity-Guided Method.","venue":"ASE","pages":"17:1-17:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/XieYC22","doi":"10.1145/3551349.3556919","ee":"https://doi.org/10.1145/3551349.3556919","url":"https://dblp.org/rec/conf/kbse/XieYC22"},
+"url":"URL#1805879"
+},
+{
+"@score":"1",
+"@id":"1805880",
+"info":{"authors":{"author":[{"@pid":"312/7216","text":"Fuman Xie"},{"@pid":"24/6547","text":"Yanjun Zhang"},{"@pid":"122/7526","text":"Chuan Yan"},{"@pid":"337/0899","text":"Suwan Li"},{"@pid":"64/5155","text":"Lei Bu"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"70/6862","text":"Zi Huang"},{"@pid":"86/9673","text":"Guangdong Bai"}]},"title":"Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps.","venue":"ASE","pages":"90:1-90:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/XieZYLBCHB22","doi":"10.1145/3551349.3560416","ee":"https://doi.org/10.1145/3551349.3560416","url":"https://dblp.org/rec/conf/kbse/XieZYLBCHB22"},
+"url":"URL#1805880"
+},
+{
+"@score":"1",
+"@id":"1805881",
+"info":{"authors":{"author":[{"@pid":"77/2901","text":"Qi Xin"},{"@pid":"18/8523","text":"Qirun Zhang"},{"@pid":"35/805","text":"Alessandro Orso"}]},"title":"Studying and Understanding the Tradeoffs Between Generality and Reduction in Software Debloating.","venue":"ASE","pages":"99:1-99:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/XinZO22","doi":"10.1145/3551349.3556970","ee":"https://doi.org/10.1145/3551349.3556970","url":"https://dblp.org/rec/conf/kbse/XinZO22"},
+"url":"URL#1805881"
+},
+{
+"@score":"1",
+"@id":"1805882",
+"info":{"authors":{"author":[{"@pid":"337/0749","text":"Meiqiu Xu"},{"@pid":"94/3104-38","text":"Ying Wang 0038"},{"@pid":"c/SCCheung","text":"Shing-Chi Cheung"},{"@pid":"22/4635-1","text":"Hai Yu 0001"},{"@pid":"55/1401-1","text":"Zhiliang Zhu 0001"}]},"title":"Insight: Exploring Cross-Ecosystem Vulnerability Impacts.","venue":"ASE","pages":"58:1-58:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/XuWCY022","doi":"10.1145/3551349.3556921","ee":"https://doi.org/10.1145/3551349.3556921","url":"https://dblp.org/rec/conf/kbse/XuWCY022"},
+"url":"URL#1805882"
+},
+{
+"@score":"1",
+"@id":"1805883",
+"info":{"authors":{"author":[{"@pid":"183/6386","text":"Jiwei Yan"},{"@pid":"174/4065","text":"Shixin Zhang"},{"@pid":"125/1824","text":"Yepang Liu 0001"},{"@pid":"15/4660","text":"Xi Deng"},{"@pid":"89/5901-9","text":"Jun Yan 0009"},{"@pid":"07/314-1","text":"Jian Zhang 0001"}]},"title":"A Comprehensive Evaluation of Android ICC Resolution Techniques.","venue":"ASE","pages":"1:1-1:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YanZ0DY022","doi":"10.1145/3551349.3560420","ee":"https://doi.org/10.1145/3551349.3560420","url":"https://dblp.org/rec/conf/kbse/YanZ0DY022"},
+"url":"URL#1805883"
+},
+{
+"@score":"1",
+"@id":"1805884",
+"info":{"authors":{"author":[{"@pid":"32/2760-2","text":"Chenyang Yang 0002"},{"@pid":"329/4324","text":"Rachel A. Brower-Sinning"},{"@pid":"51/1171","text":"Grace A. Lewis"},{"@pid":"85/3873","text":"Christian Kästner"}]},"title":"Data Leakage in Notebooks: Static Detection and Better Processes.","venue":"ASE","pages":"30:1-30:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YangBLK22","doi":"10.1145/3551349.3556918","ee":"https://doi.org/10.1145/3551349.3556918","url":"https://dblp.org/rec/conf/kbse/YangBLK22"},
+"url":"URL#1805884"
+},
+{
+"@score":"1",
+"@id":"1805885",
+"info":{"authors":{"author":[{"@pid":"208/7008","text":"Deheng Yang"},{"@pid":"81/8725","text":"Xiaoguang Mao"},{"@pid":"77/303","text":"Liqian Chen"},{"@pid":"242/3922","text":"Xuezheng Xu"},{"@pid":"94/3609","text":"Yan Lei"},{"@pid":"89/6793-1","text":"David Lo 0001"},{"@pid":"208/3438","text":"Jiayu He"}]},"title":"TransplantFix: Graph Differencing-based Code Transplantation for Automated Program Repair.","venue":"ASE","pages":"107:1-107:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YangMCXL0H22","doi":"10.1145/3551349.3556893","ee":"https://doi.org/10.1145/3551349.3556893","url":"https://dblp.org/rec/conf/kbse/YangMCXL0H22"},
+"url":"URL#1805885"
+},
+{
+"@score":"1",
+"@id":"1805886",
+"info":{"authors":{"author":[{"@pid":"248/9228","text":"Chengran Yang"},{"@pid":"89/5193","text":"Bowen Xu"},{"@pid":"07/10158","text":"Ferdian Thung"},{"@pid":"329/6344","text":"Yucen Shi"},{"@pid":"06/5919-11","text":"Ting Zhang 0011"},{"@pid":"323/9260-3","text":"Zhou Yang 0003"},{"@pid":"05/3403-14","text":"Xin Zhou 0014"},{"@pid":"246/7302","text":"Jieke Shi"},{"@pid":"212/0387","text":"Junda He"},{"@pid":"35/10082","text":"DongGyun Han"},{"@pid":"89/6793-1","text":"David Lo 0001"}]},"title":"Answer Summarization for Technical Queries: Benchmark and New Approach.","venue":"ASE","pages":"8:1-8:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YangXTSZ0ZSHH022","doi":"10.1145/3551349.3560421","ee":"https://doi.org/10.1145/3551349.3560421","url":"https://dblp.org/rec/conf/kbse/YangXTSZ0ZSHH022"},
+"url":"URL#1805886"
+},
+{
+"@score":"1",
+"@id":"1805887",
+"info":{"authors":{"author":[{"@pid":"39/1576","text":"Xiaoyi Yang"},{"@pid":"243/2538","text":"Xueling Zhang"}]},"title":"A Study of User Privacy in Android Mobile AR Apps.","venue":"ASE","pages":"226:1-226:5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YangZ22","doi":"10.1145/3551349.3560512","ee":"https://doi.org/10.1145/3551349.3560512","url":"https://dblp.org/rec/conf/kbse/YangZ22"},
+"url":"URL#1805887"
+},
+{
+"@score":"1",
+"@id":"1805888",
+"info":{"authors":{"author":[{"@pid":"220/3295","text":"He Ye"},{"@pid":"135/6372","text":"Matias Martinez"},{"@pid":"53/1565","text":"Xiapu Luo"},{"@pid":"15/4777-1","text":"Tao Zhang 0001"},{"@pid":"62/5292","text":"Martin Monperrus"}]},"title":"SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics.","venue":"ASE","pages":"92:1-92:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YeML0M22","doi":"10.1145/3551349.3556926","ee":"https://doi.org/10.1145/3551349.3556926","url":"https://dblp.org/rec/conf/kbse/YeML0M22"},
+"url":"URL#1805888"
+},
+{
+"@score":"1",
+"@id":"1805889",
+"info":{"authors":{"author":[{"@pid":"297/2408","text":"Zijing Yin"},{"@pid":"135/9001","text":"Yiwen Xu"},{"@pid":"228/5716","text":"Chijin Zhou"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"}]},"title":"Empirical Study of System Resources Abused by IoT Attackers.","venue":"ASE","pages":"39:1-39:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YinXZ022","doi":"10.1145/3551349.3556901","ee":"https://doi.org/10.1145/3551349.3556901","url":"https://dblp.org/rec/conf/kbse/YinXZ022"},
+"url":"URL#1805889"
+},
+{
+"@score":"1",
+"@id":"1805890",
+"info":{"authors":{"author":[{"@pid":"311/8860","text":"Yuanping Yu"},{"@pid":"205/2209","text":"Xiangkun Jia"},{"@pid":"158/7566","text":"Yuwei Liu"},{"@pid":"123/2365","text":"Yanhao Wang"},{"@pid":"55/7141","text":"Qian Sang"},{"@pid":"94/3019","text":"Chao Zhang"},{"@pid":"46/3714","text":"Purui Su"}]},"title":"HTFuzz: Heap Operation Sequence Sensitive Fuzzing.","venue":"ASE","pages":"53:1-53:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YuJLWSZS22","doi":"10.1145/3551349.3560415","ee":"https://doi.org/10.1145/3551349.3560415","url":"https://dblp.org/rec/conf/kbse/YuJLWSZS22"},
+"url":"URL#1805890"
+},
+{
+"@score":"1",
+"@id":"1805891",
+"info":{"authors":{"author":[{"@pid":"295/5277","text":"Yuanyuan Yuan"},{"@pid":"44/8421","text":"Qi Pang"},{"@pid":"42/1503-11","text":"Shuai Wang 0011"}]},"title":"Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing.","venue":"ASE","pages":"113:1-113:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YuanPW22","doi":"10.1145/3551349.3561157","ee":"https://doi.org/10.1145/3551349.3561157","url":"https://dblp.org/rec/conf/kbse/YuanPW22"},
+"url":"URL#1805891"
+},
+{
+"@score":"1",
+"@id":"1805892",
+"info":{"authors":{"author":[{"@pid":"242/3959","text":"Zhiqiang Zang"},{"@pid":"329/5884","text":"Nathan Wiatrek"},{"@pid":"43/6015","text":"Milos Gligoric 0001"},{"@pid":"153/5261","text":"August Shi"}]},"title":"Compiler Testing using Template Java Programs.","venue":"ASE","pages":"23:1-23:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZangWGS22","doi":"10.1145/3551349.3556958","ee":"https://doi.org/10.1145/3551349.3556958","url":"https://dblp.org/rec/conf/kbse/ZangWGS22"},
+"url":"URL#1805892"
+},
+{
+"@score":"1",
+"@id":"1805893",
+"info":{"authors":{"author":[{"@pid":"94/4084","text":"Chen Zhang"},{"@pid":"61/9197","text":"Bihuan Chen 0001"},{"@pid":"05/3941","text":"Junhao Hu"},{"@pid":"14/6370-1","text":"Xin Peng 0001"},{"@pid":"37/4220","text":"Wenyun Zhao"}]},"title":"BuildSonic: Detecting and Repairing Performance-Related Configuration Smells for Continuous Integration Builds.","venue":"ASE","pages":"18:1-18:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Zhang0H0Z22","doi":"10.1145/3551349.3556923","ee":"https://doi.org/10.1145/3551349.3556923","url":"https://dblp.org/rec/conf/kbse/Zhang0H0Z22"},
+"url":"URL#1805893"
+},
+{
+"@score":"1",
+"@id":"1805894",
+"info":{"authors":{"author":{"@pid":"57/4707","text":"Yifan Zhang"}},"title":"Leveraging Artificial Intelligence on Binary Code Comprehension.","venue":"ASE","pages":"125:1-125:3","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Zhang22","doi":"10.1145/3551349.3559564","ee":"https://doi.org/10.1145/3551349.3559564","url":"https://dblp.org/rec/conf/kbse/Zhang22"},
+"url":"URL#1805894"
+},
+{
+"@score":"1",
+"@id":"1805895",
+"info":{"authors":{"author":[{"@pid":"211/9458-1","text":"Jiashuo Zhang 0001"},{"@pid":"414/7138","text":"Jianbo Gao"},{"@pid":"61/500-37","text":"Yue Li 0037"},{"@pid":"188/0560","text":"Ziming Chen"},{"@pid":"78/7008","text":"Zhi Guan"},{"@pid":"70/2509-1","text":"Zhong Chen 0001"}]},"title":"Xscope: Hunting for Cross-Chain Bridge Attacks.","venue":"ASE","pages":"171:1-171:4","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangGLCGC22","doi":"10.1145/3551349.3559520","ee":"https://doi.org/10.1145/3551349.3559520","url":"https://dblp.org/rec/conf/kbse/ZhangGLCGC22"},
+"url":"URL#1805895"
+},
+{
+"@score":"1",
+"@id":"1805896",
+"info":{"authors":{"author":[{"@pid":"222/5594","text":"Lyuye Zhang"},{"@pid":"163/6525","text":"Chengwei Liu"},{"@pid":"183/0183","text":"Zhengzi Xu"},{"@pid":"180/8218-1","text":"Sen Chen 0001"},{"@pid":"11/2636-3","text":"Lingling Fan 0003"},{"@pid":"61/9197","text":"Bihuan Chen 0001"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"Has My Release Disobeyed Semantic Versioning? Static Detection Based on Semantic Differencing.","venue":"ASE","pages":"51:1-51:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangLXCF0022","doi":"10.1145/3551349.3556956","ee":"https://doi.org/10.1145/3551349.3556956","url":"https://dblp.org/rec/conf/kbse/ZhangLXCF0022"},
+"url":"URL#1805896"
+},
+{
+"@score":"1",
+"@id":"1805897",
+"info":{"authors":{"author":[{"@pid":"94/7109-3","text":"Jiyang Zhang 0003"},{"@pid":"255/5631","text":"Sheena Panthaplackel"},{"@pid":"223/2712-1","text":"Pengyu Nie 0001"},{"@pid":"148/9553","text":"Junyi Jessy Li"},{"@pid":"43/6015","text":"Milos Gligoric 0001"}]},"title":"CoditT5: Pretraining for Source Code and Natural Language Editing.","venue":"ASE","pages":"22:1-22:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangP0LG22","doi":"10.1145/3551349.3556955","ee":"https://doi.org/10.1145/3551349.3556955","url":"https://dblp.org/rec/conf/kbse/ZhangP0LG22"},
+"url":"URL#1805897"
+},
+{
+"@score":"1",
+"@id":"1805898",
+"info":{"authors":{"author":[{"@pid":"220/2005","text":"Yingyi Zhang"},{"@pid":"71/7089","text":"Zan Wang"},{"@pid":"155/6527","text":"Jiajun Jiang"},{"@pid":"276/1228","text":"Hanmo You"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"}]},"title":"Toward Improving the Robustness of Deep Learning Models via Model Transformation.","venue":"ASE","pages":"104:1-104:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangWJYC22","doi":"10.1145/3551349.3556920","ee":"https://doi.org/10.1145/3551349.3556920","url":"https://dblp.org/rec/conf/kbse/ZhangWJYC22"},
+"url":"URL#1805898"
+},
+{
+"@score":"1",
+"@id":"1805899",
+"info":{"authors":{"author":[{"@pid":"270/7873","text":"Zhaodi Zhang"},{"@pid":"172/6565","text":"Yiting Wu"},{"@pid":"147/8363-3","text":"Si Liu 0003"},{"@pid":"72/2590-12","text":"Jing Liu 0012"},{"@pid":"83/5342-2","text":"Min Zhang 0002"}]},"title":"Provably Tightest Linear Approximation for Robustness Verification of Sigmoid-like Neural Networks.","venue":"ASE","pages":"80:1-80:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangWLLZ22","doi":"10.1145/3551349.3556907","ee":"https://doi.org/10.1145/3551349.3556907","url":"https://dblp.org/rec/conf/kbse/ZhangWLLZ22"},
+"url":"URL#1805899"
+},
+{
+"@score":"1",
+"@id":"1805900",
+"info":{"authors":{"author":[{"@pid":"230/8027","text":"Yedi Zhang"},{"@pid":"28/6429-7","text":"Zhe Zhao 0007"},{"@pid":"252/5255","text":"Guangke Chen"},{"@pid":"09/10016","text":"Fu Song"},{"@pid":"83/5342-2","text":"Min Zhang 0002"},{"@pid":"28/4743","text":"Taolue Chen 0001"},{"@pid":"s/JunSun1","text":"Jun Sun 0001"}]},"title":"QVIP: An ILP-based Formal Verification Approach for Quantized Neural Networks.","venue":"ASE","pages":"82:1-82:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangZCSZCS22","doi":"10.1145/3551349.3556916","ee":"https://doi.org/10.1145/3551349.3556916","url":"https://dblp.org/rec/conf/kbse/ZhangZCSZCS22"},
+"url":"URL#1805900"
+},
+{
+"@score":"1",
+"@id":"1805901",
+"info":{"authors":{"author":[{"@pid":"09/5661-6","text":"Yuchen Zhang 0006"},{"@pid":"193/3538","text":"Yunhang Zhang"},{"@pid":"44/3319","text":"Georgios Portokalidis"},{"@pid":"90/514-24","text":"Jun Xu 0024"}]},"title":"Towards Understanding the Runtime Performance of Rust.","venue":"ASE","pages":"140:1-140:6","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangZPX22","doi":"10.1145/3551349.3559494","ee":"https://doi.org/10.1145/3551349.3559494","url":"https://dblp.org/rec/conf/kbse/ZhangZPX22"},
+"url":"URL#1805901"
+},
+{
+"@score":"1",
+"@id":"1805902",
+"info":{"authors":{"author":[{"@pid":"141/9087","text":"Yunfan Zhang"},{"@pid":"282/0660","text":"Ruidong Zhu"},{"@pid":"82/2673","text":"Yingfei Xiong 0001"},{"@pid":"x/TaoXie","text":"Tao Xie 0001"}]},"title":"Efficient Synthesis of Method Call Sequences for Test Generation and Bounded Verification.","venue":"ASE","pages":"38:1-38:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangZXX22","doi":"10.1145/3551349.3556951","ee":"https://doi.org/10.1145/3551349.3556951","url":"https://dblp.org/rec/conf/kbse/ZhangZXX22"},
+"url":"URL#1805902"
+},
+{
+"@score":"1",
+"@id":"1805903",
+"info":{"authors":{"author":{"@pid":"06/5514-1","text":"Hao Zhong 0001"}},"title":"Enriching Compiler Testing with Real Program from Bug Report.","venue":"ASE","pages":"40:1-40:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Zhong22","doi":"10.1145/3551349.3556894","ee":"https://doi.org/10.1145/3551349.3556894","url":"https://dblp.org/rec/conf/kbse/Zhong22"},
+"url":"URL#1805903"
+},
+{
+"@score":"1",
+"@id":"1805904",
+"info":{"authors":{"author":{"@pid":"06/5514-1","text":"Hao Zhong 0001"}},"title":"Which Exception Shall We Throw?","venue":"ASE","pages":"116:1-116:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Zhong22a","doi":"10.1145/3551349.3556895","ee":"https://doi.org/10.1145/3551349.3556895","url":"https://dblp.org/rec/conf/kbse/Zhong22a"},
+"url":"URL#1805904"
+},
+{
+"@score":"1",
+"@id":"1805905",
+"info":{"authors":{"author":[{"@pid":"314/6736","text":"Wenkang Zhong"},{"@pid":"337/0981","text":"Hongliang Ge"},{"@pid":"337/0588","text":"Hongfei Ai"},{"@pid":"142/1532","text":"Chuanyi Li"},{"@pid":"71/7399-1","text":"Kui Liu 0001"},{"@pid":"128/5781","text":"Jidong Ge"},{"@pid":"36/4256-3","text":"Bin Luo 0003"}]},"title":"StandUp4NPR: Standardizing SetUp for Empirically Comparing Neural Program Repair Systems.","venue":"ASE","pages":"97:1-97:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhongGALLG022","doi":"10.1145/3551349.3556943","ee":"https://doi.org/10.1145/3551349.3556943","url":"https://dblp.org/rec/conf/kbse/ZhongGALLG022"},
+"url":"URL#1805905"
+},
+{
+"@score":"1",
+"@id":"1805906",
+"info":{"authors":{"author":[{"@pid":"136/9853","text":"Zhichao Zhou"},{"@pid":"06/3406","text":"Yuming Zhou"},{"@pid":"124/0310","text":"Chunrong Fang"},{"@pid":"86/541-1","text":"Zhenyu Chen 0001"},{"@pid":"120/1174","text":"Yutian Tang"}]},"title":"Selectively Combining Multiple Coverage Goals in Search-Based Unit Test Generation.","venue":"ASE","pages":"91:1-91:12","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhouZF0T22","doi":"10.1145/3551349.3556902","ee":"https://doi.org/10.1145/3551349.3556902","url":"https://dblp.org/rec/conf/kbse/ZhouZF0T22"},
+"url":"URL#1805906"
+},
+{
+"@score":"1",
+"@id":"1805907",
+"info":{"authors":{"author":[{"@pid":"55/5471","text":"Jie Zhu"},{"@pid":"07/8764","text":"Leye Wang"},{"@pid":"01/2095-1","text":"Xiao Han 0001"}]},"title":"Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment.","venue":"ASE","pages":"88:1-88:13","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhuW022","doi":"10.1145/3551349.3556906","ee":"https://doi.org/10.1145/3551349.3556906","url":"https://dblp.org/rec/conf/kbse/ZhuW022"},
+"url":"URL#1805907"
+},
+{
+"@score":"1",
+"@id":"1805908",
+"info":{"authors":{"author":[{"@pid":"317/4409","text":"Ilia Zlatkin"},{"@pid":"43/8810","text":"Grigory Fedyukovich"}]},"title":"Horntinuum: Autonomous Testing using Constrained Horn Clauses.","venue":"ASE","pages":"217:1","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZlatkinF22","doi":"10.1145/3551349.3563235","ee":"https://doi.org/10.1145/3551349.3563235","url":"https://dblp.org/rec/conf/kbse/ZlatkinF22"},
+"url":"URL#1805908"
+},
+{
+"@score":"1",
+"@id":"1860741",
+"info":{"title":"37th IEEE/ACM International Conference on Automated Software Engineering, ASE 2022, Rochester, MI, USA, October 10-14, 2022","venue":"ASE","publisher":"ACM","year":"2022","type":"Editorship","key":"conf/kbse/2022","doi":"10.1145/3551349","ee":"https://doi.org/10.1145/3551349","url":"https://dblp.org/rec/conf/kbse/2022"},
+"url":"URL#1860741"
+}
+]
+}
+}
+}

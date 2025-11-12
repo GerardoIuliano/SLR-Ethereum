@@ -1,0 +1,686 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/sigsoft/fse2024c.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"12.22"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"109",
+"@dc":"109",
+"@oc":"109",
+"@id":"49846084",
+"text":":facetid:toc:db/conf/sigsoft/fse2024c.bht"
+}
+},
+"hits":{
+"@total":"109",
+"@computed":"109",
+"@sent":"109",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"778837",
+"info":{"authors":{"author":[{"@pid":"224/0761","text":"Xi Zheng 0001"},{"@pid":"m/AloysiusKMok","text":"Aloysius K. Mok"},{"@pid":"p/RuzicaPiskac","text":"Ruzica Piskac"},{"@pid":"15/5471","text":"Yong Jae Lee"},{"@pid":"87/2250","text":"Bhaskar Krishnamachari"},{"@pid":"64/4129","text":"Dakai Zhu 0001"},{"@pid":"31/4030","text":"Oleg Sokolsky"},{"@pid":"l/InsupLee","text":"Insup Lee 0001"}]},"title":"Testing Learning-Enabled Cyber-Physical Systems with Large-Language Models: A Formal Approach.","venue":"SIGSOFT FSE Companion","pages":"467-471","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/0002MPLK0S024","doi":"10.1145/3663529.3663779","ee":"https://doi.org/10.1145/3663529.3663779","url":"https://dblp.org/rec/conf/sigsoft/0002MPLK0S024"},
+"url":"URL#778837"
+},
+{
+"@score":"1",
+"@id":"778838",
+"info":{"authors":{"author":[{"@pid":"12/4049-1","text":"Li Huang 0001"},{"@pid":"m/BertrandMeyer","text":"Bertrand Meyer 0001"},{"@pid":"237/7721","text":"Ilgiz Mustafin"},{"@pid":"o/ManuelOriol","text":"Manuel Oriol"}]},"title":"Execution-Free Program Repair.","venue":"SIGSOFT FSE Companion","pages":"517-521","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/00030MO24","doi":"10.1145/3663529.3663789","ee":"https://doi.org/10.1145/3663529.3663789","url":"https://dblp.org/rec/conf/sigsoft/00030MO24"},
+"url":"URL#778838"
+},
+{
+"@score":"1",
+"@id":"778839",
+"info":{"authors":{"author":[{"@pid":"14/7249-4","text":"Xinyi Wang 0004"},{"@pid":"25/5352-1","text":"Shaukat Ali 0001"},{"@pid":"78/8234","text":"Aitor Arrieta"},{"@pid":"86/7855","text":"Paolo Arcaini"},{"@pid":"276/2313","text":"Maite Arratibel"}]},"title":"Application of Quantum Extreme Learning Machines for QoS Prediction of Elevators&apos; Software in an Industrial Context.","venue":"SIGSOFT FSE Companion","pages":"399-410","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/00040AAA24","doi":"10.1145/3663529.3663859","ee":"https://doi.org/10.1145/3663529.3663859","url":"https://dblp.org/rec/conf/sigsoft/00040AAA24"},
+"url":"URL#778839"
+},
+{
+"@score":"1",
+"@id":"778840",
+"info":{"authors":{"author":[{"@pid":"51/239-6","text":"Jie Liang 0006"},{"@pid":"64/9796","text":"Mingzhe Wang"},{"@pid":"228/5716","text":"Chijin Zhou"},{"@pid":"24/968-10","text":"Zhiyong Wu 0010"},{"@pid":"21/5921","text":"Jianzhong Liu"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"}]},"title":"Dodrio: Parallelizing Taint Analysis Based Fuzzing via Redundancy-Free Scheduling.","venue":"SIGSOFT FSE Companion","pages":"244-254","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/0006WZWL024","doi":"10.1145/3663529.3663844","ee":"https://doi.org/10.1145/3663529.3663844","url":"https://dblp.org/rec/conf/sigsoft/0006WZWL024"},
+"url":"URL#778840"
+},
+{
+"@score":"1",
+"@id":"778841",
+"info":{"authors":{"author":[{"@pid":"380/0866","text":"Aaron Abraham"},{"@pid":"380/0798","text":"Yash Dani"},{"@pid":"13/351","text":"Kevin Zhang"}]},"title":"Productionizing PILAR as a Logstash Plugin.","venue":"SIGSOFT FSE Companion","pages":"689-691","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/AbrahamDZ24","doi":"10.1145/3663529.3664460","ee":"https://doi.org/10.1145/3663529.3664460","url":"https://dblp.org/rec/conf/sigsoft/AbrahamDZ24"},
+"url":"URL#778841"
+},
+{
+"@score":"1",
+"@id":"778842",
+"info":{"authors":{"author":[{"@pid":"133/1539","text":"Juan Pablo Sandoval Alcocer"},{"@pid":"162/7281","text":"Leonel Merino"},{"@pid":"161/1049","text":"Alison Fernandez-Blanco"},{"@pid":"254/7670","text":"William Ravelo-Méndez"},{"@pid":"199/1932","text":"Camilo Escobar-Velásquez"},{"@pid":"65/7207","text":"Mario Linares-Vásquez"}]},"title":"A Developer&apos;s Guide to Building and Testing Accessible Mobile Apps.","venue":"SIGSOFT FSE Companion","pages":"713-715","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/AlcocerMFREL24","doi":"10.1145/3663529.3663821","ee":"https://doi.org/10.1145/3663529.3663821","url":"https://dblp.org/rec/conf/sigsoft/AlcocerMFREL24"},
+"url":"URL#778842"
+},
+{
+"@score":"1",
+"@id":"778843",
+"info":{"authors":{"author":[{"@pid":"98/6159","text":"Nadia Alshahwan"},{"@pid":"368/7519","text":"Jubin Chheda"},{"@pid":"368/7171","text":"Anastasia Finogenova"},{"@pid":"267/2807","text":"Beliz Gokkaya"},{"@pid":"h/MarkHarman","text":"Mark Harman"},{"@pid":"367/9534","text":"Inna Harper"},{"@pid":"148/4976","text":"Alexandru Marginean"},{"@pid":"147/1220","text":"Shubho Sengupta"},{"@pid":"367/9540","text":"Eddy Wang"}]},"title":"Automated Unit Test Improvement using Large Language Models at Meta.","venue":"SIGSOFT FSE Companion","pages":"185-196","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/AlshahwanCFGHHM24","doi":"10.1145/3663529.3663839","ee":"https://doi.org/10.1145/3663529.3663839","url":"https://dblp.org/rec/conf/sigsoft/AlshahwanCFGHHM24"},
+"url":"URL#778843"
+},
+{
+"@score":"1",
+"@id":"778844",
+"info":{"authors":{"author":[{"@pid":"98/6159","text":"Nadia Alshahwan"},{"@pid":"h/MarkHarman","text":"Mark Harman"},{"@pid":"148/4976","text":"Alexandru Marginean"},{"@pid":"368/6049","text":"Rotem Tal"},{"@pid":"367/9540","text":"Eddy Wang"}]},"title":"Observation-Based Unit Test Generation at Meta.","venue":"SIGSOFT FSE Companion","pages":"173-184","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/AlshahwanHMTW24","doi":"10.1145/3663529.3663838","ee":"https://doi.org/10.1145/3663529.3663838","url":"https://dblp.org/rec/conf/sigsoft/AlshahwanHMTW24"},
+"url":"URL#778844"
+},
+{
+"@score":"1",
+"@id":"778845",
+"info":{"authors":{"author":[{"@pid":"360/6976","text":"Sai Krishna Avula"},{"@pid":"167/4011","text":"Shouvick Mondal"}]},"title":"MineCPP: Mining Bug Fix Pairs and Their Structures.","venue":"SIGSOFT FSE Companion","pages":"552-556","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/AvulaM24","doi":"10.1145/3663529.3663797","ee":"https://doi.org/10.1145/3663529.3663797","url":"https://dblp.org/rec/conf/sigsoft/AvulaM24"},
+"url":"URL#778845"
+},
+{
+"@score":"1",
+"@id":"778846",
+"info":{"authors":{"author":[{"@pid":"185/5421","text":"Sana Belguith"},{"@pid":"11/7621","text":"Inah Omoronyia"},{"@pid":"83/1979","text":"Ruzanna Chitchyan"}]},"title":"Personal Data-Less Personalized Software Applications.","venue":"SIGSOFT FSE Companion","pages":"477-481","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/BelguithOC24","doi":"10.1145/3663529.3663781","ee":"https://doi.org/10.1145/3663529.3663781","url":"https://dblp.org/rec/conf/sigsoft/BelguithOC24"},
+"url":"URL#778846"
+},
+{
+"@score":"1",
+"@id":"778847",
+"info":{"authors":{"author":[{"@pid":"274/5801","text":"Leon Bettscheider"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"Look Ma, No Input Samples! Mining Input Grammars from Code with Symbolic Parsing.","venue":"SIGSOFT FSE Companion","pages":"522-526","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/BettscheiderZ24","doi":"10.1145/3663529.3663790","ee":"https://doi.org/10.1145/3663529.3663790","url":"https://dblp.org/rec/conf/sigsoft/BettscheiderZ24"},
+"url":"URL#778847"
+},
+{
+"@score":"1",
+"@id":"778848",
+"info":{"authors":{"author":[{"@pid":"226/1256","text":"Xiaohan Bi"},{"@pid":"231/1452","text":"Ruobing Zhao"},{"@pid":"213/7852","text":"Binhang Qi"},{"@pid":"21/1509-1","text":"Hailong Sun 0001"},{"@pid":"14/3881-12","text":"Xiang Gao 0012"},{"@pid":"55/2008-1","text":"Yue Yu 0001"},{"@pid":"64/658","text":"Xiaojun Liang"}]},"title":"ModelFoundry: A Tool for DNN Modularization and On-Demand Model Reuse Inspired by the Wisdom of Software Engineering.","venue":"SIGSOFT FSE Companion","pages":"617-621","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/BiZQ0GYL24","doi":"10.1145/3663529.3663810","ee":"https://doi.org/10.1145/3663529.3663810","url":"https://dblp.org/rec/conf/sigsoft/BiZQ0GYL24"},
+"url":"URL#778848"
+},
+{
+"@score":"1",
+"@id":"778849",
+"info":{"authors":{"author":[{"@pid":"247/3993","text":"Paul Maximilian Bittner"},{"@pid":"271/4415","text":"Alexander Schultheiß"},{"@pid":"355/1373","text":"Benjamin Moosherr"},{"@pid":"24/9748","text":"Timo Kehrer"},{"@pid":"04/7056","text":"Thomas Thüm"}]},"title":"Variability-Aware Differencing with DiffDetective.","venue":"SIGSOFT FSE Companion","pages":"632-636","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/BittnerSMKT24","doi":"10.1145/3663529.3663813","ee":"https://doi.org/10.1145/3663529.3663813","url":"https://dblp.org/rec/conf/sigsoft/BittnerSMKT24"},
+"url":"URL#778849"
+},
+{
+"@score":"1",
+"@id":"778850",
+"info":{"authors":{"author":[{"@pid":"377/2329","text":"Pedro Carrott"},{"@pid":"321/4589","text":"Nuno Saavedra"},{"@pid":"329/1038","text":"Kyle Thompson"},{"@pid":"11/3644","text":"Sorin Lerner"},{"@pid":"f/JoaoFFerreira","text":"João F. Ferreira 0001"},{"@pid":"280/5467","text":"Emily First"}]},"title":"CoqPyt: Proof Navigation in Python in the Era of LLMs.","venue":"SIGSOFT FSE Companion","pages":"637-641","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/CarrottSTL0F24","doi":"10.1145/3663529.3663814","ee":"https://doi.org/10.1145/3663529.3663814","url":"https://dblp.org/rec/conf/sigsoft/CarrottSTL0F24"},
+"url":"URL#778850"
+},
+{
+"@score":"1",
+"@id":"778851",
+"info":{"authors":{"author":[{"@pid":"376/7938","text":"Sopot Cela"},{"@pid":"76/9578","text":"Andrea Ciancone"},{"@pid":"19/4273","text":"Per Gustafsson"},{"@pid":"150/7817","text":"Ákos Hajdu"},{"@pid":"44/4993-1","text":"Yue Jia 0001"},{"@pid":"207/7178","text":"Timotej Kapus"},{"@pid":"380/0674","text":"Maksym Koshtenko"},{"@pid":"270/7720","text":"Will Lewis"},{"@pid":"50/9092","text":"Ke Mao"},{"@pid":"372/5135","text":"Dragos Martac"}]},"title":"Automated End-to-End Dynamic Taint Analysis for WhatsApp.","venue":"SIGSOFT FSE Companion","pages":"21-26","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/CelaCGH0KKLMM24","doi":"10.1145/3663529.3663824","ee":"https://doi.org/10.1145/3663529.3663824","url":"https://dblp.org/rec/conf/sigsoft/CelaCGH0KKLMM24"},
+"url":"URL#778851"
+},
+{
+"@score":"1",
+"@id":"778852",
+"info":{"authors":{"author":[{"@pid":"380/0634","text":"Sagar Bhikan Chavan"},{"@pid":"167/4011","text":"Shouvick Mondal"}]},"title":"Do Large Language Models Recognize Python Identifier Swaps in Their Generated Code?","venue":"SIGSOFT FSE Companion","pages":"663-664","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ChavanM24","doi":"10.1145/3663529.3663869","ee":"https://doi.org/10.1145/3663529.3663869","url":"https://dblp.org/rec/conf/sigsoft/ChavanM24"},
+"url":"URL#778852"
+},
+{
+"@score":"1",
+"@id":"778853",
+"info":{"authors":{"author":[{"@pid":"188/5666","text":"Lennon Chaves"},{"@pid":"384/0997","text":"Flavia Camila Morais Oliveira"},{"@pid":"354/9772","text":"Leonardo Tiago 0001"}]},"title":"Automating Issue Reporting in Software Testing: Lessons Learned from Using the Template Generator Tool.","venue":"SIGSOFT FSE Companion","pages":"278-282","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ChavesOT24","doi":"10.1145/3663529.3663847","ee":"https://doi.org/10.1145/3663529.3663847","url":"https://dblp.org/rec/conf/sigsoft/ChavesOT24"},
+"url":"URL#778853"
+},
+{
+"@score":"1",
+"@id":"778854",
+"info":{"authors":{"author":{"@pid":"192/0196","text":"Zhiyuan Chen"}},"title":"Studying Privacy Leaks in Android App Logs.","venue":"SIGSOFT FSE Companion","pages":"692-694","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Chen24","doi":"10.1145/3663529.3664461","ee":"https://doi.org/10.1145/3663529.3664461","url":"https://dblp.org/rec/conf/sigsoft/Chen24"},
+"url":"URL#778854"
+},
+{
+"@score":"1",
+"@id":"778855",
+"info":{"authors":{"author":[{"@pid":"233/1090","text":"Yinghao Chen"},{"@pid":"364/2839","text":"Zehao Hu"},{"@pid":"132/3563","text":"Chen Zhi"},{"@pid":"231/8546","text":"Junxiao Han"},{"@pid":"d/ShuiguangDeng","text":"Shuiguang Deng"},{"@pid":"74/3786","text":"Jianwei Yin"}]},"title":"ChatUniTest: A Framework for LLM-Based Test Generation.","venue":"SIGSOFT FSE Companion","pages":"572-576","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ChenHZHDY24","doi":"10.1145/3663529.3663801","ee":"https://doi.org/10.1145/3663529.3663801","url":"https://dblp.org/rec/conf/sigsoft/ChenHZHDY24"},
+"url":"URL#778855"
+},
+{
+"@score":"1",
+"@id":"778856",
+"info":{"authors":{"author":[{"@pid":"16/3966","text":"Filipe Roseiro Côgo"},{"@pid":"202/1487","text":"Gopi Krishnan Rajbahadur"},{"@pid":"187/9420","text":"Dayi Lin"},{"@pid":"h/AhmedEHassan","text":"Ahmed E. Hassan"}]},"title":"A Tutorial on Software Engineering for FMware.","venue":"SIGSOFT FSE Companion","pages":"710-712","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/CogoRLH24","doi":"10.1145/3663529.3663820","ee":"https://doi.org/10.1145/3663529.3663820","url":"https://dblp.org/rec/conf/sigsoft/CogoRLH24"},
+"url":"URL#778856"
+},
+{
+"@score":"1",
+"@id":"778857",
+"info":{"authors":{"author":{"@pid":"79/5975","text":"Myra B. Cohen"}},"title":"It&apos;s Organic: Software Testing of Emerging Domains (Keynote).","venue":"SIGSOFT FSE Companion","pages":"2-3","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Cohen24","doi":"10.1145/3663529.3674720","ee":"https://doi.org/10.1145/3663529.3674720","url":"https://dblp.org/rec/conf/sigsoft/Cohen24"},
+"url":"URL#778857"
+},
+{
+"@score":"1",
+"@id":"778858",
+"info":{"authors":{"author":[{"@pid":"222/1638","text":"Joshua Heneage Dawes"},{"@pid":"b/DomenicoBianculli","text":"Domenico Bianculli"}]},"title":"Checking Complex Source Code-Level Constraints using Runtime Verification.","venue":"SIGSOFT FSE Companion","pages":"255-265","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DawesB24","doi":"10.1145/3663529.3663845","ee":"https://doi.org/10.1145/3663529.3663845","url":"https://dblp.org/rec/conf/sigsoft/DawesB24"},
+"url":"URL#778858"
+},
+{
+"@score":"1",
+"@id":"778859",
+"info":{"authors":{"author":[{"@pid":"214/8020","text":"Elizabeth Dinella"},{"@pid":"32/2903","text":"Shuvendu K. Lahiri"},{"@pid":"92/6794","text":"Mayur Naik"}]},"title":"Inferring Natural Preconditions via Program Transformation.","venue":"SIGSOFT FSE Companion","pages":"657-658","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DinellaLN24","doi":"10.1145/3663529.3663865","ee":"https://doi.org/10.1145/3663529.3663865","url":"https://dblp.org/rec/conf/sigsoft/DinellaLN24"},
+"url":"URL#778859"
+},
+{
+"@score":"1",
+"@id":"778860",
+"info":{"authors":{"author":[{"@pid":"363/4540","text":"Xuanwen Ding"},{"@pid":"228/5755","text":"Qingshun Wang"},{"@pid":"03/1467","text":"Dan Liu"},{"@pid":"89/2985","text":"Lihua Xu"},{"@pid":"71/2308","text":"Jun Xiao"},{"@pid":"247/5223","text":"Bojun Zhang"},{"@pid":"181/2710","text":"Xue Li"},{"@pid":"10/10585","text":"Liang Dou"},{"@pid":"42/963-1","text":"Liang He 0001"},{"@pid":"x/TaoXie","text":"Tao Xie 0001"}]},"title":"FinHunter: Improved Search-Based Test Generation for Structural Testing of FinTech Systems.","venue":"SIGSOFT FSE Companion","pages":"10-20","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DingWLXXZLD0024","doi":"10.1145/3663529.3663823","ee":"https://doi.org/10.1145/3663529.3663823","url":"https://dblp.org/rec/conf/sigsoft/DingWLXXZLD0024"},
+"url":"URL#778860"
+},
+{
+"@score":"1",
+"@id":"778861",
+"info":{"authors":{"author":[{"@pid":"199/4885","text":"Craig Disselkoen"},{"@pid":"317/0570","text":"Aaron Eline"},{"@pid":"164/4402","text":"Shaobo He"},{"@pid":"160/8521","text":"Kyle Headley"},{"@pid":"h/MichaelWHicks","text":"Michael Hicks 0001"},{"@pid":"203/8410","text":"Kesha Hietala"},{"@pid":"278/8923","text":"John H. Kastner"},{"@pid":"17/6735","text":"Anwar Mamat"},{"@pid":"176/4985","text":"Matt McCutchen"},{"@pid":"66/4832","text":"Neha Rungta"},{"@pid":"361/2446","text":"Bhakti Shah"},{"@pid":"55/1457","text":"Emina Torlak"},{"@pid":"83/3060","text":"Andrew Wells"}]},"title":"How We Built Cedar: A Verification-Guided Approach.","venue":"SIGSOFT FSE Companion","pages":"351-357","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DisselkoenEHH0H24","doi":"10.1145/3663529.3663854","ee":"https://doi.org/10.1145/3663529.3663854","url":"https://dblp.org/rec/conf/sigsoft/DisselkoenEHH0H24"},
+"url":"URL#778861"
+},
+{
+"@score":"1",
+"@id":"778862",
+"info":{"authors":{"author":[{"@pid":"135/5982","text":"Omer Dunay"},{"@pid":"20/2560","text":"Daniel Cheng"},{"@pid":"367/9567","text":"Adam Tait"},{"@pid":"220/5515","text":"Parth Thakkar"},{"@pid":"20/1971","text":"Peter C. Rigby"},{"@pid":"59/948","text":"Andy Chiu"},{"@pid":"140/7342","text":"Imad Ahmad"},{"@pid":"147/7706","text":"Arun Ganesan"},{"@pid":"203/9619","text":"Chandra Shekhar Maddila"},{"@pid":"65/7449","text":"Vijayaraghavan Murali"},{"@pid":"252/5766","text":"Ali Tayyebi"},{"@pid":"91/1758","text":"Nachiappan Nagappan"}]},"title":"Multi-line AI-Assisted Code Authoring.","venue":"SIGSOFT FSE Companion","pages":"150-160","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DunayCTTRCAGMMT24","doi":"10.1145/3663529.3663836","ee":"https://doi.org/10.1145/3663529.3663836","url":"https://dblp.org/rec/conf/sigsoft/DunayCTTRCAGMMT24"},
+"url":"URL#778862"
+},
+{
+"@score":"1",
+"@id":"778863",
+"info":{"authors":{"author":[{"@pid":"367/5843","text":"Pau Duran"},{"@pid":"347/9437","text":"Joel Castaño"},{"@pid":"42/5204-1","text":"Cristina Gómez 0001"},{"@pid":"124/8870","text":"Silverio Martínez-Fernández"}]},"title":"GAISSALabel: A Tool for Energy Labeling of ML Models.","venue":"SIGSOFT FSE Companion","pages":"622-626","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/DuranC0M24","doi":"10.1145/3663529.3663811","ee":"https://doi.org/10.1145/3663529.3663811","url":"https://dblp.org/rec/conf/sigsoft/DuranC0M24"},
+"url":"URL#778863"
+},
+{
+"@score":"1",
+"@id":"778864",
+"info":{"authors":{"author":[{"@pid":"310/4638","text":"Federico Formica"},{"@pid":"345/9555","text":"Mohammad Mahdi Mahboob"},{"@pid":"185/2359","text":"Mehrnoosh Askarpour"},{"@pid":"121/2789","text":"Claudio Menghi"}]},"title":"ATheNA-S: A Testing Tool for Simulink Models Driven by Software Requirements and Domain Expertise.","venue":"SIGSOFT FSE Companion","pages":"587-591","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/FormicaMAM24","doi":"10.1145/3663529.3663804","ee":"https://doi.org/10.1145/3663529.3663804","url":"https://dblp.org/rec/conf/sigsoft/FormicaMAM24"},
+"url":"URL#778864"
+},
+{
+"@score":"1",
+"@id":"778865",
+"info":{"authors":{"author":[{"@pid":"189/5215","text":"Davi Freitas"},{"@pid":"119/0420","text":"Breno Miranda"},{"@pid":"72/4526","text":"Juliano Iyoda"}]},"title":"RFNIT: Robotic Framework for Non-invasive Testing.","venue":"SIGSOFT FSE Companion","pages":"667-668","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/FreitasMI24","doi":"10.1145/3663529.3663871","ee":"https://doi.org/10.1145/3663529.3663871","url":"https://dblp.org/rec/conf/sigsoft/FreitasMI24"},
+"url":"URL#778865"
+},
+{
+"@score":"1",
+"@id":"778866",
+"info":{"authors":{"author":[{"@pid":"249/9625","text":"Eliakim Gama"},{"@pid":"133/2120","text":"Matheus Paixão"},{"@pid":"88/8007","text":"Mariela I. Cortés"},{"@pid":"380/0860","text":"Lucas Monteiro"}]},"title":"Towards Realistic SATD Identification through Machine Learning Models: Ongoing Research and Preliminary Results.","venue":"SIGSOFT FSE Companion","pages":"675-676","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/GamaPCM24","doi":"10.1145/3663529.3663876","ee":"https://doi.org/10.1145/3663529.3663876","url":"https://dblp.org/rec/conf/sigsoft/GamaPCM24"},
+"url":"URL#778866"
+},
+{
+"@score":"1",
+"@id":"778867",
+"info":{"authors":{"author":[{"@pid":"25/2165-2","text":"Zhipeng Gao 0002"},{"@pid":"188/5957","text":"Zhipeng Xue"},{"@pid":"49/10052-8","text":"Xing Hu 0008"},{"@pid":"96/7305","text":"Weiyi Shang"},{"@pid":"06/2072-1","text":"Xin Xia 0001"}]},"title":"Easy over Hard: A Simple Baseline for Test Failures Causes Prediction.","venue":"SIGSOFT FSE Companion","pages":"306-317","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/GaoX0S024","doi":"10.1145/3663529.3663850","ee":"https://doi.org/10.1145/3663529.3663850","url":"https://dblp.org/rec/conf/sigsoft/GaoX0S024"},
+"url":"URL#778867"
+},
+{
+"@score":"1",
+"@id":"778868",
+"info":{"authors":{"author":[{"@pid":"366/6183","text":"Calin Georgescu"},{"@pid":"246/3262","text":"Mitchell Olsthoorn"},{"@pid":"225/1579","text":"Pouria Derakhshanfar"},{"@pid":"140/9107","text":"Marat Akhin"},{"@pid":"90/7547","text":"Annibale Panichella"}]},"title":"Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler.","venue":"SIGSOFT FSE Companion","pages":"197-207","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/GeorgescuODAP24","doi":"10.1145/3663529.3663864","ee":"https://doi.org/10.1145/3663529.3663864","url":"https://dblp.org/rec/conf/sigsoft/GeorgescuODAP24"},
+"url":"URL#778868"
+},
+{
+"@score":"1",
+"@id":"778869",
+"info":{"authors":{"author":[{"@pid":"374/9060","text":"Drishti Goel"},{"@pid":"308/6819","text":"Fiza Husain"},{"@pid":"09/6710","text":"Aditya Singh"},{"@pid":"133/2312","text":"Supriyo Ghosh"},{"@pid":"238/8492","text":"Anjaly Parayil"},{"@pid":"47/9801","text":"Chetan Bansal"},{"@pid":"188/3475","text":"Xuchao Zhang"},{"@pid":"313/9883","text":"Saravan Rajmohan"}]},"title":"X-Lifecycle Learning for Cloud Incident Management using LLMs.","venue":"SIGSOFT FSE Companion","pages":"417-428","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/GoelHSGPBZR24","doi":"10.1145/3663529.3663861","ee":"https://doi.org/10.1145/3663529.3663861","url":"https://dblp.org/rec/conf/sigsoft/GoelHSGPBZR24"},
+"url":"URL#778869"
+},
+{
+"@score":"1",
+"@id":"778870",
+"info":{"authors":{"author":[{"@pid":"226/6106","text":"Kangzheng Gu"},{"@pid":"48/2168-9","text":"Yuan Zhang 0009"},{"@pid":"139/0685","text":"Jiajun Cao"},{"@pid":"89/6413","text":"Xin Tan"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"How Well Industry-Level Cause Bisection Works in Real-World: A Study on Linux Kernel.","venue":"SIGSOFT FSE Companion","pages":"62-73","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Gu0CT024","doi":"10.1145/3663529.3663828","ee":"https://doi.org/10.1145/3663529.3663828","url":"https://dblp.org/rec/conf/sigsoft/Gu0CT024"},
+"url":"URL#778870"
+},
+{
+"@score":"1",
+"@id":"778871",
+"info":{"authors":{"author":{"@pid":"338/6143","text":"Carol Hanna"}},"title":"Toward Systematizing Hot Fixing for Production Software.","venue":"SIGSOFT FSE Companion","pages":"677-679","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Hanna24","doi":"10.1145/3663529.3664456","ee":"https://doi.org/10.1145/3663529.3664456","url":"https://dblp.org/rec/conf/sigsoft/Hanna24"},
+"url":"URL#778871"
+},
+{
+"@score":"1",
+"@id":"778872",
+"info":{"authors":{"author":[{"@pid":"h/AhmedEHassan","text":"Ahmed E. Hassan"},{"@pid":"187/9420","text":"Dayi Lin"},{"@pid":"202/1487","text":"Gopi Krishnan Rajbahadur"},{"@pid":"130/2374","text":"Keheliya Gallaba"},{"@pid":"16/3966","text":"Filipe Roseiro Côgo"},{"@pid":"193/7174-2","text":"Boyuan Chen 0002"},{"@pid":"07/1059-1","text":"Haoxiang Zhang 0001"},{"@pid":"321/8120","text":"Kishanthan Thangarajah"},{"@pid":"97/10540","text":"Gustavo Ansaldi Oliva"},{"@pid":"326/5075","text":"Jiahuei (Justina) Lin"},{"@pid":"226/8897","text":"Wali Mohammad Abdullah"},{"@pid":"50/23","text":"Zhen Ming (Jack) Jiang"}]},"title":"Rethinking Software Engineering in the Era of Foundation Models: A Curated Catalogue of Challenges in the Development of Trustworthy FMware.","venue":"SIGSOFT FSE Companion","pages":"294-305","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HassanLRGC00TOL24","doi":"10.1145/3663529.3663849","ee":"https://doi.org/10.1145/3663529.3663849","url":"https://dblp.org/rec/conf/sigsoft/HassanLRGC00TOL24"},
+"url":"URL#778872"
+},
+{
+"@score":"1",
+"@id":"778873",
+"info":{"authors":{"author":[{"@pid":"380/0643","text":"Zara Hassan"},{"@pid":"29/1074","text":"Christoph Treude"},{"@pid":"10/3457","text":"Michael Norrish"},{"@pid":"w/GrahamJWilliams","text":"Graham J. Williams"},{"@pid":"88/4178","text":"Alex Potanin"}]},"title":"Reproducibility Debt: Challenges and Future Pathways.","venue":"SIGSOFT FSE Companion","pages":"462-466","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HassanTNWP24","doi":"10.1145/3663529.3663778","ee":"https://doi.org/10.1145/3663529.3663778","url":"https://dblp.org/rec/conf/sigsoft/HassanTNWP24"},
+"url":"URL#778873"
+},
+{
+"@score":"1",
+"@id":"778874",
+"info":{"authors":{"author":[{"@pid":"04/2980","text":"Ekaterina A. Holdener"},{"@pid":"379/9991","text":"Daniel Shown"}]},"title":"Building Software Engineering Capacity through a University Open Source Program Office.","venue":"SIGSOFT FSE Companion","pages":"659-660","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HoldenerS24","doi":"10.1145/3663529.3663866","ee":"https://doi.org/10.1145/3663529.3663866","url":"https://dblp.org/rec/conf/sigsoft/HoldenerS24"},
+"url":"URL#778874"
+},
+{
+"@score":"1",
+"@id":"778875",
+"info":{"authors":{"author":[{"@pid":"337/8660","text":"Lennart Holsten"},{"@pid":"186/2756","text":"Jacob Krüger"},{"@pid":"00/3032","text":"Thomas Leich"}]},"title":"Insights into Transitioning towards Electrics/Electronics Platform Management in the Automotive Industry.","venue":"SIGSOFT FSE Companion","pages":"161-172","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HolstenKL24","doi":"10.1145/3663529.3663837","ee":"https://doi.org/10.1145/3663529.3663837","url":"https://dblp.org/rec/conf/sigsoft/HolstenKL24"},
+"url":"URL#778875"
+},
+{
+"@score":"1",
+"@id":"778876",
+"info":{"authors":{"author":[{"@pid":"72/6887-4","text":"Yang Hong 0004"},{"@pid":"140/7129","text":"Chakkrit Tantithamthavorn"},{"@pid":"296/4337","text":"Jirat Pasuksmit"},{"@pid":"138/8517","text":"Patanamon Thongtanunam"},{"@pid":"41/5132","text":"Arik Friedman"},{"@pid":"87/2635-9","text":"Xing Zhao 0009"},{"@pid":"368/8720","text":"Anton Krasikov"}]},"title":"Practitioners&apos; Challenges and Perceptions of CI Build Failure Predictions at Atlassian.","venue":"SIGSOFT FSE Companion","pages":"370-381","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HongTPTFZK24","doi":"10.1145/3663529.3663856","ee":"https://doi.org/10.1145/3663529.3663856","url":"https://dblp.org/rec/conf/sigsoft/HongTPTFZK24"},
+"url":"URL#778876"
+},
+{
+"@score":"1",
+"@id":"778877",
+"info":{"authors":{"author":{"@pid":"378/8725","text":"Andre Hora"}},"title":"Monitoring the Execution of 14K Tests: Methods Tend to Have One Path That Is Significantly More Executed.","venue":"SIGSOFT FSE Companion","pages":"532-536","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Hora24","doi":"10.1145/3663529.3663792","ee":"https://doi.org/10.1145/3663529.3663792","url":"https://dblp.org/rec/conf/sigsoft/Hora24"},
+"url":"URL#778877"
+},
+{
+"@score":"1",
+"@id":"778878",
+"info":{"authors":{"author":{"@pid":"378/8725","text":"Andre Hora"}},"title":"Test Polarity: Detecting Positive and Negative Tests.","venue":"SIGSOFT FSE Companion","pages":"537-541","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Hora24a","doi":"10.1145/3663529.3663793","ee":"https://doi.org/10.1145/3663529.3663793","url":"https://dblp.org/rec/conf/sigsoft/Hora24a"},
+"url":"URL#778878"
+},
+{
+"@score":"1",
+"@id":"778879",
+"info":{"authors":{"author":{"@pid":"378/8725","text":"Andre Hora"}},"title":"Predicting Test Results without Execution.","venue":"SIGSOFT FSE Companion","pages":"542-546","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Hora24b","doi":"10.1145/3663529.3663794","ee":"https://doi.org/10.1145/3663529.3663794","url":"https://dblp.org/rec/conf/sigsoft/Hora24b"},
+"url":"URL#778879"
+},
+{
+"@score":"1",
+"@id":"778880",
+"info":{"authors":{"author":{"@pid":"378/8725","text":"Andre Hora"}},"title":"PathSpotter: Exploring Tested Paths to Discover Missing Tests.","venue":"SIGSOFT FSE Companion","pages":"647-651","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Hora24c","doi":"10.1145/3663529.3663816","ee":"https://doi.org/10.1145/3663529.3663816","url":"https://dblp.org/rec/conf/sigsoft/Hora24c"},
+"url":"URL#778880"
+},
+{
+"@score":"1",
+"@id":"778881",
+"info":{"authors":{"author":[{"@pid":"362/6396","text":"Philémon Houdaille"},{"@pid":"163/0131","text":"Djamel Eddine Khelladi"},{"@pid":"24/757","text":"Benoît Combemale"},{"@pid":"49/6874","text":"Gunter Mussbacher"}]},"title":"On Polyglot Program Testing.","venue":"SIGSOFT FSE Companion","pages":"507-511","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/HoudailleKCM24","doi":"10.1145/3663529.3663787","ee":"https://doi.org/10.1145/3663529.3663787","url":"https://dblp.org/rec/conf/sigsoft/HoudailleKCM24"},
+"url":"URL#778881"
+},
+{
+"@score":"1",
+"@id":"778882",
+"info":{"authors":{"author":[{"@pid":"j/MLJaccheri","text":"Letizia Jaccheri"},{"@pid":"166/5787-1","text":"Anh Nguyen-Duc 0001"}]},"title":"Software Engineering and Gender: A Tutorial.","venue":"SIGSOFT FSE Companion","pages":"704-706","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Jaccheri024","doi":"10.1145/3663529.3663818","ee":"https://doi.org/10.1145/3663529.3663818","url":"https://dblp.org/rec/conf/sigsoft/Jaccheri024"},
+"url":"URL#778882"
+},
+{
+"@score":"1",
+"@id":"778883",
+"info":{"authors":{"author":[{"@pid":"223/4549","text":"Ridhi Jain"},{"@pid":"159/1593","text":"Norbert Tihanyi"},{"@pid":"340/4063","text":"Mthandazo Ndhlovu"},{"@pid":"142/9937","text":"Mohamed Amine Ferrag"},{"@pid":"42/4311","text":"Lucas C. Cordeiro"}]},"title":"Rapid Taint Assisted Concolic Execution (TACE).","venue":"SIGSOFT FSE Companion","pages":"627-631","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/JainTNFC24","doi":"10.1145/3663529.3663812","ee":"https://doi.org/10.1145/3663529.3663812","url":"https://dblp.org/rec/conf/sigsoft/JainTNFC24"},
+"url":"URL#778883"
+},
+{
+"@score":"1",
+"@id":"778884",
+"info":{"authors":{"author":[{"@pid":"21/4633-1","text":"Yu Jiang 0001"},{"@pid":"51/239-6","text":"Jie Liang 0006"},{"@pid":"237/8603","text":"Fuchen Ma"},{"@pid":"217/3726","text":"Yuanliang Chen"},{"@pid":"228/5716","text":"Chijin Zhou"},{"@pid":"276/1779","text":"Yuheng Shen"},{"@pid":"24/968-10","text":"Zhiyong Wu 0010"},{"@pid":"337/0812","text":"Jingzhou Fu"},{"@pid":"64/9796","text":"Mingzhe Wang"},{"@pid":"66/5479-1","text":"Shanshan Li 0001"},{"@pid":"06/2243","text":"Quan Zhang"}]},"title":"When Fuzzing Meets LLMs: Challenges and Opportunities.","venue":"SIGSOFT FSE Companion","pages":"492-496","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Jiang0MCZSWFWLZ24","doi":"10.1145/3663529.3663784","ee":"https://doi.org/10.1145/3663529.3663784","url":"https://dblp.org/rec/conf/sigsoft/Jiang0MCZSWFWLZ24"},
+"url":"URL#778884"
+},
+{
+"@score":"1",
+"@id":"778885",
+"info":{"authors":{"author":[{"@pid":"282/3818","text":"Nafiz Imtiaz Khan"},{"@pid":"f/VladimirFilkov","text":"Vladimir Filkov"}]},"title":"From Models to Practice: Enhancing OSS Project Sustainability with Evidence-Based Advice.","venue":"SIGSOFT FSE Companion","pages":"457-461","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/KhanF24","doi":"10.1145/3663529.3663777","ee":"https://doi.org/10.1145/3663529.3663777","url":"https://dblp.org/rec/conf/sigsoft/KhanF24"},
+"url":"URL#778885"
+},
+{
+"@score":"1",
+"@id":"778886",
+"info":{"authors":{"author":[{"@pid":"276/3316","text":"Dong Jae Kim"},{"@pid":"330/7530","text":"Steven Locke"},{"@pid":"116/6782","text":"Tse-Hsun (Peter) Chen"},{"@pid":"150/5496","text":"Andrei Toma"},{"@pid":"217/7064","text":"Sarah Sajedi"},{"@pid":"217/7144","text":"Steve Sporea"},{"@pid":"352/0163","text":"Laura Weinkam"}]},"title":"Decoding Anomalies! Unraveling Operational Challenges in Human-in-the-Loop Anomaly Validation.","venue":"SIGSOFT FSE Companion","pages":"382-387","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/KimLCTSSW24","doi":"10.1145/3663529.3663857","ee":"https://doi.org/10.1145/3663529.3663857","url":"https://dblp.org/rec/conf/sigsoft/KimLCTSSW24"},
+"url":"URL#778886"
+},
+{
+"@score":"1",
+"@id":"778887",
+"info":{"authors":{"author":[{"@pid":"05/3393","text":"Miqing Li"},{"@pid":"69/510-1","text":"Tao Chen 0001"}]},"title":"Methodology and Guidelines for Evaluating Multi-objective Search-Based Software Engineering.","venue":"SIGSOFT FSE Companion","pages":"707-709","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/LiC24","doi":"10.1145/3663529.3663819","ee":"https://doi.org/10.1145/3663529.3663819","url":"https://dblp.org/rec/conf/sigsoft/LiC24"},
+"url":"URL#778887"
+},
+{
+"@score":"1",
+"@id":"778888",
+"info":{"authors":{"author":{"@pid":"133/2695","text":"Lin Ling"}},"title":"Evaluating Social Bias in Code Generation Models.","venue":"SIGSOFT FSE Companion","pages":"695-697","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Ling24","doi":"10.1145/3663529.3664462","ee":"https://doi.org/10.1145/3663529.3664462","url":"https://dblp.org/rec/conf/sigsoft/Ling24"},
+"url":"URL#778888"
+},
+{
+"@score":"1",
+"@id":"778889",
+"info":{"authors":{"author":[{"@pid":"155/5016","text":"Luyao Liu"},{"@pid":"297/2178","text":"Guofeng Zhang 0005"},{"@pid":"02/4907","text":"Zhenbang Chen"},{"@pid":"64/856-1","text":"Ji Wang 0001"}]},"title":"Hybrid Regression Test Selection by Synergizing File and Method Call Dependences.","venue":"SIGSOFT FSE Companion","pages":"669-670","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Liu0C024","doi":"10.1145/3663529.3663872","ee":"https://doi.org/10.1145/3663529.3663872","url":"https://dblp.org/rec/conf/sigsoft/Liu0C024"},
+"url":"URL#778889"
+},
+{
+"@score":"1",
+"@id":"778890",
+"info":{"authors":{"author":[{"@pid":"91/4193","text":"Haoran Liu"},{"@pid":"162/7150","text":"Zhouyang Jia"},{"@pid":"67/3567","text":"Huiping Zhou"},{"@pid":"26/2372","text":"Haifang Zhou"},{"@pid":"66/5479-1","text":"Shanshan Li 0001"}]},"title":"Go the Extra Mile: Fixing Propagated Error-Handling Bugs.","venue":"SIGSOFT FSE Companion","pages":"661-662","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/LiuJZZ024","doi":"10.1145/3663529.3663868","ee":"https://doi.org/10.1145/3663529.3663868","url":"https://dblp.org/rec/conf/sigsoft/LiuJZZ024"},
+"url":"URL#778890"
+},
+{
+"@score":"1",
+"@id":"778891",
+"info":{"authors":{"author":[{"@pid":"97/2274-79","text":"Yu Liu 0079"},{"@pid":"293/0646","text":"Aditya Thimmaiah"},{"@pid":"133/8821","text":"Owolabi Legunsen"},{"@pid":"43/6015","text":"Milos Gligoric 0001"}]},"title":"ExLi: An Inline-Test Generation Tool for Java.","venue":"SIGSOFT FSE Companion","pages":"652-656","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/LiuTL024","doi":"10.1145/3663529.3663817","ee":"https://doi.org/10.1145/3663529.3663817","url":"https://dblp.org/rec/conf/sigsoft/LiuTL024"},
+"url":"URL#778891"
+},
+{
+"@score":"1",
+"@id":"778892",
+"info":{"authors":{"author":[{"@pid":"15/5923-14","text":"Chao Liu 0014"},{"@pid":"21/274","text":"Xindong Zhang"},{"@pid":"29/2726-2","text":"Hongyu Zhang 0002"},{"@pid":"11/7182","text":"Zhiyuan Wan"},{"@pid":"05/1834","text":"Zhan Huang"},{"@pid":"131/4289-1","text":"Meng Yan 0001"}]},"title":"An Empirical Study of Code Search in Intelligent Coding Assistant: Perceptions, Expectations, and Directions.","venue":"SIGSOFT FSE Companion","pages":"283-293","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/LiuZ0WH024","doi":"10.1145/3663529.3663848","ee":"https://doi.org/10.1145/3663529.3663848","url":"https://dblp.org/rec/conf/sigsoft/LiuZ0WH024"},
+"url":"URL#778892"
+},
+{
+"@score":"1",
+"@id":"778893",
+"info":{"authors":{"author":[{"@pid":"36/349","text":"Jing Luo"},{"@pid":"192/6867","text":"Heyuan Shi"},{"@pid":"90/10193","text":"Yongchao Zhang"},{"@pid":"153/0092","text":"Runzhe Wang"},{"@pid":"276/1779","text":"Yuheng Shen"},{"@pid":"313/6868","text":"Yuao Chen"},{"@pid":"246/5359","text":"Xiaohai Shi"},{"@pid":"235/2186","text":"Rongkai Liu"},{"@pid":"73/6116","text":"Chao Hu"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"}]},"title":"CVECenter: Industry Practice of Automated Vulnerability Management for Linux Distribution Community.","venue":"SIGSOFT FSE Companion","pages":"329-339","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/LuoSZWSCSLHJ24","doi":"10.1145/3663529.3663852","ee":"https://doi.org/10.1145/3663529.3663852","url":"https://dblp.org/rec/conf/sigsoft/LuoSZWSCSLHJ24"},
+"url":"URL#778893"
+},
+{
+"@score":"1",
+"@id":"778894",
+"info":{"authors":{"author":[{"@pid":"366/4398","text":"Oscar Manglaras"},{"@pid":"91/3786","text":"Alex Farkas"},{"@pid":"96/1286","text":"Peter Fule"},{"@pid":"29/1074","text":"Christoph Treude"},{"@pid":"94/7030-7","text":"Markus Wagner 0007"}]},"title":"MicroKarta: Visualising Microservice Architectures.","venue":"SIGSOFT FSE Companion","pages":"607-611","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ManglarasFFT024","doi":"10.1145/3663529.3663808","ee":"https://doi.org/10.1145/3663529.3663808","url":"https://dblp.org/rec/conf/sigsoft/ManglarasFFT024"},
+"url":"URL#778894"
+},
+{
+"@score":"1",
+"@id":"778895",
+"info":{"authors":{"author":[{"@pid":"336/4656","text":"Wren McQueary"},{"@pid":"360/7749","text":"Sadia Afrin Mim"},{"@pid":"241/6890","text":"Md. Nishat Raihan"},{"@pid":"75/2200","text":"Justin Smith 0001"},{"@pid":"116/6719","text":"Brittany Johnson"}]},"title":"Py-holmes: Causal Testing for Deep Neural Networks in Python.","venue":"SIGSOFT FSE Companion","pages":"602-606","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/McQuearyMR0J24","doi":"10.1145/3663529.3663807","ee":"https://doi.org/10.1145/3663529.3663807","url":"https://dblp.org/rec/conf/sigsoft/McQuearyMR0J24"},
+"url":"URL#778895"
+},
+{
+"@score":"1",
+"@id":"778896",
+"info":{"authors":{"author":{"@pid":"217/3743","text":"Walter Lucas Monteiro de Mendonça"}},"title":"Towards a Theory for Source Code Rejuvenation.","venue":"SIGSOFT FSE Companion","pages":"701-703","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Mendonca24","doi":"10.1145/3663529.3664464","ee":"https://doi.org/10.1145/3663529.3664464","url":"https://dblp.org/rec/conf/sigsoft/Mendonca24"},
+"url":"URL#778896"
+},
+{
+"@score":"1",
+"@id":"778897",
+"info":{"authors":{"author":[{"@pid":"335/8162","text":"Asmar Muqeet"},{"@pid":"25/5352-1","text":"Shaukat Ali 0001"},{"@pid":"40/7423-2","text":"Tao Yue 0002"},{"@pid":"86/7855","text":"Paolo Arcaini"}]},"title":"A Machine Learning-Based Error Mitigation Approach for Reliable Software Development on IBM&apos;s Quantum Computers.","venue":"SIGSOFT FSE Companion","pages":"80-91","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Muqeet00A24","doi":"10.1145/3663529.3663830","ee":"https://doi.org/10.1145/3663529.3663830","url":"https://dblp.org/rec/conf/sigsoft/Muqeet00A24"},
+"url":"URL#778897"
+},
+{
+"@score":"1",
+"@id":"778898",
+"info":{"authors":{"author":[{"@pid":"380/0546","text":"Ivonildo Pereira Gomes Neto"},{"@pid":"25/5780","text":"João Mendes"},{"@pid":"148/1325","text":"Waldemar Ferreira"},{"@pid":"117/5548","text":"Luis Rivero 0001"},{"@pid":"117/5583","text":"Davi Viana"},{"@pid":"58/232","text":"Sérgio Soares"}]},"title":"An LGPD Compliance Inspection Checklist to Assess IoT Solutions.","venue":"SIGSOFT FSE Companion","pages":"340-350","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/NetoMF0VS24","doi":"10.1145/3663529.3663853","ee":"https://doi.org/10.1145/3663529.3663853","url":"https://dblp.org/rec/conf/sigsoft/NetoMF0VS24"},
+"url":"URL#778898"
+},
+{
+"@score":"1",
+"@id":"778899",
+"info":{"authors":{"author":[{"@pid":"237/4644","text":"Yu Nong"},{"@pid":"241/5752","text":"Haoran Yang"},{"@pid":"21/3047-1","text":"Feng Chen 0001"},{"@pid":"117/7062","text":"Haipeng Cai"}]},"title":"VinJ: An Automated Tool for Large-Scale Software Vulnerability Data Generation.","venue":"SIGSOFT FSE Companion","pages":"567-571","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/NongYCC24","doi":"10.1145/3663529.3663800","ee":"https://doi.org/10.1145/3663529.3663800","url":"https://dblp.org/rec/conf/sigsoft/NongYCC24"},
+"url":"URL#778899"
+},
+{
+"@score":"1",
+"@id":"778900",
+"info":{"authors":{"author":[{"@pid":"04/2051","text":"Edson OliveiraJr"},{"@pid":"156/1916","text":"Fernanda Madeiral"},{"@pid":"88/10587","text":"Alcemir Rodrigues Santos"},{"@pid":"c/ChristinavonFlachGChavez","text":"Christina von Flach"},{"@pid":"58/232","text":"Sérgio Soares"}]},"title":"A Vision on Open Science for the Evolution of Software Engineering Research and Practice.","venue":"SIGSOFT FSE Companion","pages":"512-516","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/OliveiraJrMSFS24","doi":"10.1145/3663529.3663788","ee":"https://doi.org/10.1145/3663529.3663788","url":"https://dblp.org/rec/conf/sigsoft/OliveiraJrMSFS24"},
+"url":"URL#778900"
+},
+{
+"@score":"1",
+"@id":"778901",
+"info":{"authors":{"author":[{"@pid":"380/0616","text":"Karl Öqvist"},{"@pid":"380/0856","text":"Jacob Messinger"},{"@pid":"151/6085","text":"Rebekka Wohlrab"}]},"title":"Supporting Early Architectural Decision-Making through Tradeoff Analysis: A Study with Volvo Cars.","venue":"SIGSOFT FSE Companion","pages":"411-416","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/OqvistMW24","doi":"10.1145/3663529.3663860","ee":"https://doi.org/10.1145/3663529.3663860","url":"https://dblp.org/rec/conf/sigsoft/OqvistMW24"},
+"url":"URL#778901"
+},
+{
+"@score":"1",
+"@id":"778902",
+"info":{"authors":{"author":[{"@pid":"124/0383","text":"Shengyi Pan"},{"@pid":"161/1073","text":"Lingfeng Bao"},{"@pid":"239/4155","text":"Jiayuan Zhou"},{"@pid":"49/10052-8","text":"Xing Hu 0008"},{"@pid":"06/2072-1","text":"Xin Xia 0001"},{"@pid":"35/1103","text":"Shanping Li"}]},"title":"Unveil the Mystery of Critical Software Vulnerabilities.","venue":"SIGSOFT FSE Companion","pages":"138-149","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PanBZ00L24","doi":"10.1145/3663529.3663835","ee":"https://doi.org/10.1145/3663529.3663835","url":"https://dblp.org/rec/conf/sigsoft/PanBZ00L24"},
+"url":"URL#778902"
+},
+{
+"@score":"1",
+"@id":"778903",
+"info":{"authors":{"author":[{"@pid":"380/0646","text":"Hetvi Patel"},{"@pid":"380/0463","text":"Kevin Amit Shah"},{"@pid":"167/4011","text":"Shouvick Mondal"}]},"title":"Do Large Language Models Generate Similar Codes from Mutated Prompts? A Case Study of Gemini Pro.","venue":"SIGSOFT FSE Companion","pages":"671-672","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PatelSM24","doi":"10.1145/3663529.3663873","ee":"https://doi.org/10.1145/3663529.3663873","url":"https://dblp.org/rec/conf/sigsoft/PatelSM24"},
+"url":"URL#778903"
+},
+{
+"@score":"1",
+"@id":"778904",
+"info":{"authors":{"author":[{"@pid":"23/8779","text":"Justyna Petke"},{"@pid":"135/6372","text":"Matias Martinez"},{"@pid":"43/10965","text":"Maria Kechagia"},{"@pid":"61/7634","text":"Aldeida Aleti"},{"@pid":"18/7526","text":"Federica Sarro"}]},"title":"The Patch Overfitting Problem in Automated Program Repair: Practical Magnitude and a Baseline for Realistic Benchmarking.","venue":"SIGSOFT FSE Companion","pages":"452-456","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PetkeMKAS24","doi":"10.1145/3663529.3663776","ee":"https://doi.org/10.1145/3663529.3663776","url":"https://dblp.org/rec/conf/sigsoft/PetkeMKAS24"},
+"url":"URL#778904"
+},
+{
+"@score":"1",
+"@id":"778905",
+"info":{"authors":{"author":[{"@pid":"221/1040","text":"Dimitrios Platis"},{"@pid":"223/4537","text":"Linda Erlenhov"},{"@pid":"56/1704","text":"Francisco Gomes de Oliveira Neto"}]},"title":"The Lion, the Ecologist and the Plankton: A Classification of Species in Multi-bot Ecosystems.","venue":"SIGSOFT FSE Companion","pages":"482-486","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PlatisEN24","doi":"10.1145/3663529.3663782","ee":"https://doi.org/10.1145/3663529.3663782","url":"https://dblp.org/rec/conf/sigsoft/PlatisEN24"},
+"url":"URL#778905"
+},
+{
+"@score":"1",
+"@id":"778906",
+"info":{"authors":{"author":[{"@pid":"367/5093","text":"Dorin Pomian"},{"@pid":"367/4542","text":"Abhiram Bellur"},{"@pid":"223/3868","text":"Malinda Dilhara"},{"@pid":"259/1167","text":"Zarina Kurbatova"},{"@pid":"243/2565","text":"Egor Bogomolov"},{"@pid":"116/9954","text":"Andrey Sokolov"},{"@pid":"136/0260","text":"Timofey Bryksin"},{"@pid":"36/5445","text":"Danny Dig"}]},"title":"EM-Assist: Safe Automated ExtractMethod Refactoring with LLMs.","venue":"SIGSOFT FSE Companion","pages":"582-586","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PomianBDKBSBD24","doi":"10.1145/3663529.3663803","ee":"https://doi.org/10.1145/3663529.3663803","url":"https://dblp.org/rec/conf/sigsoft/PomianBDKBSBD24"},
+"url":"URL#778906"
+},
+{
+"@score":"1",
+"@id":"778907",
+"info":{"authors":{"author":[{"@pid":"242/2058","text":"Ivan Postolski"},{"@pid":"b/VictorABraberman","text":"Víctor A. Braberman"},{"@pid":"g/DiegoGarbervetsky","text":"Diego Garbervetsky"},{"@pid":"21/1391","text":"Sebastián Uchitel"}]},"title":"Verification of Programs with Common Fragments.","venue":"SIGSOFT FSE Companion","pages":"487-491","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/PostolskiBGU24","doi":"10.1145/3663529.3663783","ee":"https://doi.org/10.1145/3663529.3663783","url":"https://dblp.org/rec/conf/sigsoft/PostolskiBGU24"},
+"url":"URL#778907"
+},
+{
+"@score":"1",
+"@id":"778908",
+"info":{"authors":{"author":{"@pid":"359/6012","text":"Md Nakhla Rafi"}},"title":"Enhancing Code Representation for Improved Graph Neural Network-Based Fault Localization.","venue":"SIGSOFT FSE Companion","pages":"686-688","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Rafi24","doi":"10.1145/3663529.3664459","ee":"https://doi.org/10.1145/3663529.3664459","url":"https://dblp.org/rec/conf/sigsoft/Rafi24"},
+"url":"URL#778908"
+},
+{
+"@score":"1",
+"@id":"778909",
+"info":{"authors":{"author":[{"@pid":"242/2132","text":"Devjeet Roy"},{"@pid":"188/3475","text":"Xuchao Zhang"},{"@pid":"372/0122","text":"Rashi Bhave"},{"@pid":"47/9801","text":"Chetan Bansal"},{"@pid":"127/9211","text":"Pedro Henrique B. Las-Casas"},{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"313/9883","text":"Saravan Rajmohan"}]},"title":"Exploring LLM-Based Agents for Root Cause Analysis.","venue":"SIGSOFT FSE Companion","pages":"208-219","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/RoyZBBLFR24","doi":"10.1145/3663529.3663841","ee":"https://doi.org/10.1145/3663529.3663841","url":"https://dblp.org/rec/conf/sigsoft/RoyZBBLFR24"},
+"url":"URL#778909"
+},
+{
+"@score":"1",
+"@id":"778910",
+"info":{"authors":{"author":[{"@pid":"267/9338","text":"Jordan Samhi"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"AndroLog: Android Instrumentation and Code Coverage Analysis.","venue":"SIGSOFT FSE Companion","pages":"597-601","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SamhiZ24","doi":"10.1145/3663529.3663806","ee":"https://doi.org/10.1145/3663529.3663806","url":"https://dblp.org/rec/conf/sigsoft/SamhiZ24"},
+"url":"URL#778910"
+},
+{
+"@score":"1",
+"@id":"778911",
+"info":{"authors":{"author":[{"@pid":"128/2872","text":"Ronnie de Souza Santos"},{"@pid":"128/2725","text":"Cleyton V. C. de Magalhães"},{"@pid":"54/6297","text":"Robson Santos"},{"@pid":"376/0801","text":"Jorge Correia-Neto"}]},"title":"Exploring Hybrid Work Realities: A Case Study with Software Professionals from Underrepresented Groups.","venue":"SIGSOFT FSE Companion","pages":"27-37","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SantosMSC24","doi":"10.1145/3663529.3663825","ee":"https://doi.org/10.1145/3663529.3663825","url":"https://dblp.org/rec/conf/sigsoft/SantosMSC24"},
+"url":"URL#778911"
+},
+{
+"@score":"1",
+"@id":"778912",
+"info":{"authors":{"author":[{"@pid":"364/9829","text":"Komal Sarda"},{"@pid":"263/7399","text":"Zakeya Namrud"},{"@pid":"55/887","text":"Marin Litoiu"},{"@pid":"32/6257","text":"Larisa Shwartz"},{"@pid":"191/6222","text":"Ian Watts"}]},"title":"Leveraging Large Language Models for the Auto-remediation of Microservice Applications: An Experimental Study.","venue":"SIGSOFT FSE Companion","pages":"358-369","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SardaNLSW24","doi":"10.1145/3663529.3663855","ee":"https://doi.org/10.1145/3663529.3663855","url":"https://dblp.org/rec/conf/sigsoft/SardaNLSW24"},
+"url":"URL#778912"
+},
+{
+"@score":"1",
+"@id":"778913",
+"info":{"authors":{"author":{"@pid":"305/0448","text":"Issam Sedki"}},"title":"A Preliminary Study on the Privacy Concerns of Using IP Addresses in Log Data.","venue":"SIGSOFT FSE Companion","pages":"527-531","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Sedki24","doi":"10.1145/3663529.3663791","ee":"https://doi.org/10.1145/3663529.3663791","url":"https://dblp.org/rec/conf/sigsoft/Sedki24"},
+"url":"URL#778913"
+},
+{
+"@score":"1",
+"@id":"778914",
+"info":{"authors":{"author":[{"@pid":"376/0979","text":"Kleice Silva"},{"@pid":"159/6043","text":"Ann Barcomb"},{"@pid":"128/2872","text":"Ronnie de Souza Santos"}]},"title":"Paths to Testing: Why Women Enter and Remain in Software Testing?","venue":"SIGSOFT FSE Companion","pages":"4-9","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SilvaBS24","doi":"10.1145/3663529.3663822","ee":"https://doi.org/10.1145/3663529.3663822","url":"https://dblp.org/rec/conf/sigsoft/SilvaBS24"},
+"url":"URL#778914"
+},
+{
+"@score":"1",
+"@id":"778915",
+"info":{"authors":{"author":[{"@pid":"332/6097","text":"Marius Smytzek"},{"@pid":"271/8343","text":"Martin Eberlein"},{"@pid":"352/2962","text":"Batuhan Serce"},{"@pid":"55/4092","text":"Lars Grunske"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"Tests4Py: A Benchmark for System Testing.","venue":"SIGSOFT FSE Companion","pages":"557-561","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SmytzekESGZ24","doi":"10.1145/3663529.3663798","ee":"https://doi.org/10.1145/3663529.3663798","url":"https://dblp.org/rec/conf/sigsoft/SmytzekESGZ24"},
+"url":"URL#778915"
+},
+{
+"@score":"1",
+"@id":"778916",
+"info":{"authors":{"author":[{"@pid":"380/0747","text":"Edson Soares"},{"@pid":"133/2120","text":"Matheus Paixão"},{"@pid":"148/4956","text":"Allysson Allex Araújo"}]},"title":"MicroSensor: Towards an Extensible Tool for the Static Analysis of Microservices Systems in Continuous Integration.","venue":"SIGSOFT FSE Companion","pages":"673-674","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SoaresPA24","doi":"10.1145/3663529.3663874","ee":"https://doi.org/10.1145/3663529.3663874","url":"https://dblp.org/rec/conf/sigsoft/SoaresPA24"},
+"url":"URL#778916"
+},
+{
+"@score":"1",
+"@id":"778917",
+"info":{"authors":{"author":[{"@pid":"287/9604","text":"Qunying Song"},{"@pid":"31/2107","text":"Emelie Engström"},{"@pid":"24/24","text":"Per Runeson"}]},"title":"An Empirically Grounded Path Forward for Scenario-Based Testing of Autonomous Driving Systems.","venue":"SIGSOFT FSE Companion","pages":"232-243","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/SongER24","doi":"10.1145/3663529.3663843","ee":"https://doi.org/10.1145/3663529.3663843","url":"https://dblp.org/rec/conf/sigsoft/SongER24"},
+"url":"URL#778917"
+},
+{
+"@score":"1",
+"@id":"778918",
+"info":{"authors":{"author":{"@pid":"123/2501","text":"Debora Souza"}},"title":"Comparing Gemini Pro and GPT-3.5 in Algorithmic Problems.","venue":"SIGSOFT FSE Companion","pages":"698-700","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Souza24","doi":"10.1145/3663529.3664463","ee":"https://doi.org/10.1145/3663529.3664463","url":"https://dblp.org/rec/conf/sigsoft/Souza24"},
+"url":"URL#778918"
+},
+{
+"@score":"1",
+"@id":"778919",
+"info":{"authors":{"author":[{"@pid":"218/0106","text":"Fabian Stolp"},{"@pid":"380/0800","text":"Malte Stellmacher"},{"@pid":"63/152","text":"Bert Arnrich"}]},"title":"CognitIDE: An IDE Plugin for Mapping Physiological Measurements to Source Code.","venue":"SIGSOFT FSE Companion","pages":"592-596","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/StolpSA24","doi":"10.1145/3663529.3663805","ee":"https://doi.org/10.1145/3663529.3663805","url":"https://dblp.org/rec/conf/sigsoft/StolpSA24"},
+"url":"URL#778919"
+},
+{
+"@score":"1",
+"@id":"778920",
+"info":{"authors":{"author":[{"@pid":"331/9674","text":"Szymon Stradowski"},{"@pid":"74/4587","text":"Lech Madeyski"}]},"title":"Costs and Benefits of Machine Learning Software Defect Prediction: Industrial Case Study.","venue":"SIGSOFT FSE Companion","pages":"92-103","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/StradowskiM24","doi":"10.1145/3663529.3663831","ee":"https://doi.org/10.1145/3663529.3663831","url":"https://dblp.org/rec/conf/sigsoft/StradowskiM24"},
+"url":"URL#778920"
+},
+{
+"@score":"1",
+"@id":"778921",
+"info":{"authors":{"author":[{"@pid":"295/8020","text":"Jingling Sun"},{"@pid":"42/6896-1","text":"Ting Su 0001"},{"@pid":"s/JunSun1","text":"Jun Sun 0001"},{"@pid":"21/8669","text":"Jianwen Li"},{"@pid":"253/2113","text":"Mengfei Wang"},{"@pid":"33/1678","text":"Geguang Pu"}]},"title":"Property-Based Testing for Validating User Privacy-Related Functionalities in Social Media Apps.","venue":"SIGSOFT FSE Companion","pages":"440-451","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Sun00LWP24","doi":"10.1145/3663529.3663863","ee":"https://doi.org/10.1145/3663529.3663863","url":"https://dblp.org/rec/conf/sigsoft/Sun00LWP24"},
+"url":"URL#778921"
+},
+{
+"@score":"1",
+"@id":"778922",
+"info":{"authors":{"author":[{"@pid":"69/8595","text":"Zhu Tao"},{"@pid":"99/9999","text":"Yongqiang Gao"},{"@pid":"362/2286","text":"Jiayi Qi"},{"@pid":"85/6436-2","text":"Chao Peng 0002"},{"@pid":"322/8584","text":"Qinyun Wu"},{"@pid":"64/3062","text":"Xiang Chen"},{"@pid":"86/2711","text":"Ping Yang"}]},"title":"Neat: Mobile App Layout Similarity Comparison Based on Graph Convolutional Networks.","venue":"SIGSOFT FSE Companion","pages":"104-114","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/TaoGQPWCY24","doi":"10.1145/3663529.3663832","ee":"https://doi.org/10.1145/3663529.3663832","url":"https://dblp.org/rec/conf/sigsoft/TaoGQPWCY24"},
+"url":"URL#778922"
+},
+{
+"@score":"1",
+"@id":"778923",
+"info":{"authors":{"author":[{"@pid":"318/2875","text":"Jurriaan Den Toonder"},{"@pid":"380/0853","text":"Paul Braakman"},{"@pid":"163/2121","text":"Thomas Durieux"}]},"title":"S.C.A.L.E: A CO2-Aware Scheduler for OpenShift at ING.","venue":"SIGSOFT FSE Companion","pages":"429-439","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ToonderBD24","doi":"10.1145/3663529.3663862","ee":"https://doi.org/10.1145/3663529.3663862","url":"https://dblp.org/rec/conf/sigsoft/ToonderBD24"},
+"url":"URL#778923"
+},
+{
+"@score":"1",
+"@id":"778924",
+"info":{"authors":{"author":[{"@pid":"252/5934","text":"Mert Toslali"},{"@pid":"55/4033","text":"Edward C. Snible"},{"@pid":"27/4364","text":"Jing Chen"},{"@pid":"219/8325","text":"Alan Cha"},{"@pid":"71/78","text":"Sandeep Singh"},{"@pid":"52/3200","text":"Michael H. Kalantar"},{"@pid":"p/SParthasarathy2","text":"Srinivasan Parthasarathy 0002"}]},"title":"AgraBOT: Accelerating Third-Party Security Risk Management in Enterprise Setting through Generative AI.","venue":"SIGSOFT FSE Companion","pages":"74-79","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ToslaliSCCSK024","doi":"10.1145/3663529.3663829","ee":"https://doi.org/10.1145/3663529.3663829","url":"https://dblp.org/rec/conf/sigsoft/ToslaliSCCSK024"},
+"url":"URL#778924"
+},
+{
+"@score":"1",
+"@id":"778925",
+"info":{"authors":{"author":[{"@pid":"181/2613-61","text":"Ke Wang 0061"},{"@pid":"61/500-37","text":"Yue Li 0037"},{"@pid":"130/6621","text":"Che Wang"},{"@pid":"414/7138","text":"Jianbo Gao"},{"@pid":"78/7008","text":"Zhi Guan"},{"@pid":"70/2509-1","text":"Zhong Chen 0001"}]},"title":"XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges.","venue":"SIGSOFT FSE Companion","pages":"612-616","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Wang0WGG024","doi":"10.1145/3663529.3663809","ee":"https://doi.org/10.1145/3663529.3663809","url":"https://dblp.org/rec/conf/sigsoft/Wang0WGG024"},
+"url":"URL#778925"
+},
+{
+"@score":"1",
+"@id":"778926",
+"info":{"authors":{"author":[{"@pid":"42/1503-35","text":"Shuai Wang 0035"},{"@pid":"205/4276","text":"Xinyu Lian"},{"@pid":"64/6363","text":"Qingyu Li"},{"@pid":"48/3911","text":"Darko Marinov"},{"@pid":"90/7566","text":"Tianyin Xu"}]},"title":"Ctest4J: A Practical Configuration Testing Framework for Java.","venue":"SIGSOFT FSE Companion","pages":"562-566","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/WangLLMX24","doi":"10.1145/3663529.3663799","ee":"https://doi.org/10.1145/3663529.3663799","url":"https://dblp.org/rec/conf/sigsoft/WangLLMX24"},
+"url":"URL#778926"
+},
+{
+"@score":"1",
+"@id":"778927",
+"info":{"authors":{"author":[{"@pid":"181/2894","text":"Yiran Wang"},{"@pid":"274/0650","text":"José Antonio Hernández López"},{"@pid":"n/UlfNilsson","text":"Ulf Nilsson"},{"@pid":"53/1883","text":"Dániel Varró"}]},"title":"Using Run-Time Information to Enhance Static Analysis of Machine Learning Code in Notebooks.","venue":"SIGSOFT FSE Companion","pages":"497-501","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/WangLNV24","doi":"10.1145/3663529.3663785","ee":"https://doi.org/10.1145/3663529.3663785","url":"https://dblp.org/rec/conf/sigsoft/WangLNV24"},
+"url":"URL#778927"
+},
+{
+"@score":"1",
+"@id":"778928",
+"info":{"authors":{"author":{"@pid":"355/4519","text":"Jie JW Wu"}},"title":"AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven Requirement Engineering.","venue":"SIGSOFT FSE Companion","pages":"472-476","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Wu24","doi":"10.1145/3663529.3663780","ee":"https://doi.org/10.1145/3663529.3663780","url":"https://dblp.org/rec/conf/sigsoft/Wu24"},
+"url":"URL#778928"
+},
+{
+"@score":"1",
+"@id":"778929",
+"info":{"authors":{"author":[{"@pid":"09/3641","text":"Shengnan Wu"},{"@pid":"84/2979","text":"Yongxiang Hu"},{"@pid":"229/3504","text":"Yingchuan Wang"},{"@pid":"185/1472","text":"Jiazhen Gu"},{"@pid":"33/6937","text":"Jin Meng"},{"@pid":"380/0811","text":"Liujie Fan"},{"@pid":"380/0681","text":"Zhongshi Luan"},{"@pid":"10/5630-2","text":"Xin Wang 0002"},{"@pid":"27/6390","text":"Yangfan Zhou"}]},"title":"Combating Missed Recalls in E-commerce Search: A CoT-Prompting Testing Approach.","venue":"SIGSOFT FSE Companion","pages":"220-231","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/WuHWGMFL0Z24","doi":"10.1145/3663529.3663842","ee":"https://doi.org/10.1145/3663529.3663842","url":"https://dblp.org/rec/conf/sigsoft/WuHWGMFL0Z24"},
+"url":"URL#778929"
+},
+{
+"@score":"1",
+"@id":"778930",
+"info":{"authors":{"author":[{"@pid":"240/3883","text":"Yonghao Wu"},{"@pid":"10/1143-2","text":"Zheng Li 0002"},{"@pid":"84/6889-50","text":"Jie M. Zhang"},{"@pid":"29/4867-30","text":"Yong Liu 0030"}]},"title":"ConDefects: A Complementary Dataset to Address the Data Leakage Concern for LLM-Based Fault Localization and Program Repair.","venue":"SIGSOFT FSE Companion","pages":"642-646","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/WuLZ024","doi":"10.1145/3663529.3663815","ee":"https://doi.org/10.1145/3663529.3663815","url":"https://dblp.org/rec/conf/sigsoft/WuLZ024"},
+"url":"URL#778930"
+},
+{
+"@score":"1",
+"@id":"778931",
+"info":{"authors":{"author":[{"@pid":"297/0893-4","text":"Zhaorui Yang 0004"},{"@pid":"65/1219","text":"Haichao Zhu"},{"@pid":"04/2024-20","text":"Qian Zhang 0020"}]},"title":"Testing AI Systems Leveraging Graph Perturbation.","venue":"SIGSOFT FSE Companion","pages":"665-666","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/YangZ024","doi":"10.1145/3663529.3663870","ee":"https://doi.org/10.1145/3663529.3663870","url":"https://dblp.org/rec/conf/sigsoft/YangZ024"},
+"url":"URL#778931"
+},
+{
+"@score":"1",
+"@id":"778932",
+"info":{"authors":{"author":[{"@pid":"380/0881","text":"Zhenhe Yao"},{"@pid":"183/6736","text":"Changhua Pei"},{"@pid":"20/4079","text":"Wenxiao Chen"},{"@pid":"149/6891","text":"Hanzhang Wang"},{"@pid":"278/0498","text":"Liangfei Su"},{"@pid":"03/6445","text":"Huai Jiang"},{"@pid":"72/9947","text":"Zhe Xie"},{"@pid":"119/6181","text":"Xiaohui Nie"},{"@pid":"p/DanPei","text":"Dan Pei"}]},"title":"Chain-of-Event: Interpretable Root Cause Analysis for Microservices through Automatically Learning Weighted Event Causal Graph.","venue":"SIGSOFT FSE Companion","pages":"50-61","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/YaoPCWSJXNP24","doi":"10.1145/3663529.3663827","ee":"https://doi.org/10.1145/3663529.3663827","url":"https://dblp.org/rec/conf/sigsoft/YaoPCWSJXNP24"},
+"url":"URL#778932"
+},
+{
+"@score":"1",
+"@id":"778933",
+"info":{"authors":{"author":{"@pid":"380/0740","text":"Chihao Yu"}},"title":"Unlocking the Full Potential of AI Chatbots: A Guide to Maximizing Your Digital Companions.","venue":"SIGSOFT FSE Companion","pages":"680-682","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Yu24","doi":"10.1145/3663529.3664457","ee":"https://doi.org/10.1145/3663529.3664457","url":"https://dblp.org/rec/conf/sigsoft/Yu24"},
+"url":"URL#778933"
+},
+{
+"@score":"1",
+"@id":"778934",
+"info":{"authors":{"author":[{"@pid":"07/6449","text":"Zhaoyang Yu"},{"@pid":"164/6802","text":"Minghua Ma"},{"@pid":"174/1652","text":"Chaoyun Zhang"},{"@pid":"148/9596","text":"Si Qin"},{"@pid":"98/3089-6","text":"Yu Kang 0006"},{"@pid":"47/9801","text":"Chetan Bansal"},{"@pid":"313/9883","text":"Saravan Rajmohan"},{"@pid":"47/10488","text":"Yingnong Dang"},{"@pid":"183/6736","text":"Changhua Pei"},{"@pid":"p/DanPei","text":"Dan Pei"},{"@pid":"120/0743","text":"Qingwei Lin"},{"@pid":"87/461-1","text":"Dongmei Zhang 0001"}]},"title":"MonitorAssistant: Simplifying Cloud Service Monitoring via Large Language Models.","venue":"SIGSOFT FSE Companion","pages":"38-49","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/YuMZQ0BRDPPL024","doi":"10.1145/3663529.3663826","ee":"https://doi.org/10.1145/3663529.3663826","url":"https://dblp.org/rec/conf/sigsoft/YuMZQ0BRDPPL024"},
+"url":"URL#778934"
+},
+{
+"@score":"1",
+"@id":"778935",
+"info":{"authors":{"author":[{"@pid":"355/1428","text":"Philipp Zellmer"},{"@pid":"186/2756","text":"Jacob Krüger"},{"@pid":"00/3032","text":"Thomas Leich"}]},"title":"Decision Making for Managing Automotive Platforms: An Interview Survey on the State-of-Practice.","venue":"SIGSOFT FSE Companion","pages":"318-328","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZellmerKL24","doi":"10.1145/3663529.3663851","ee":"https://doi.org/10.1145/3663529.3663851","url":"https://dblp.org/rec/conf/sigsoft/ZellmerKL24"},
+"url":"URL#778935"
+},
+{
+"@score":"1",
+"@id":"778936",
+"info":{"authors":{"author":{"@pid":"86/7054","text":"Yichi Zhang"}},"title":"Detecting Code Comment Inconsistencies using LLM and Program Analysis.","venue":"SIGSOFT FSE Companion","pages":"683-685","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Zhang24","doi":"10.1145/3663529.3664458","ee":"https://doi.org/10.1145/3663529.3664458","url":"https://dblp.org/rec/conf/sigsoft/Zhang24"},
+"url":"URL#778936"
+},
+{
+"@score":"1",
+"@id":"778937",
+"info":{"authors":{"author":[{"@pid":"188/3475","text":"Xuchao Zhang"},{"@pid":"133/2312","text":"Supriyo Ghosh"},{"@pid":"47/9801","text":"Chetan Bansal"},{"@pid":"159/0037","text":"Rujia Wang"},{"@pid":"164/6802","text":"Minghua Ma"},{"@pid":"98/3089-6","text":"Yu Kang 0006"},{"@pid":"313/9883","text":"Saravan Rajmohan"}]},"title":"Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4.","venue":"SIGSOFT FSE Companion","pages":"266-277","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangGBWM0R24","doi":"10.1145/3663529.3663846","ee":"https://doi.org/10.1145/3663529.3663846","url":"https://dblp.org/rec/conf/sigsoft/ZhangGBWM0R24"},
+"url":"URL#778937"
+},
+{
+"@score":"1",
+"@id":"778938",
+"info":{"authors":{"author":[{"@pid":"87/6853","text":"Zhao Zhang"},{"@pid":"254/1865","text":"Yican Sun"},{"@pid":"213/8284","text":"Ruyi Ji"},{"@pid":"63/9705","text":"Siyuan Li"},{"@pid":"362/5930","text":"Xuanyu Peng"},{"@pid":"380/0812","text":"Zhechong Huang"},{"@pid":"157/2891","text":"Sizhe Li"},{"@pid":"314/6277","text":"Tianran Zhu"},{"@pid":"82/2673","text":"Yingfei Xiong 0001"}]},"title":"ASAC: A Benchmark for Algorithm Synthesis.","venue":"SIGSOFT FSE Companion","pages":"577-581","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangSJLPHLZ024","doi":"10.1145/3663529.3663802","ee":"https://doi.org/10.1145/3663529.3663802","url":"https://dblp.org/rec/conf/sigsoft/ZhangSJLPHLZ024"},
+"url":"URL#778938"
+},
+{
+"@score":"1",
+"@id":"778939",
+"info":{"authors":{"author":[{"@pid":"356/7242","text":"Dylan Zhang"},{"@pid":"188/3475","text":"Xuchao Zhang"},{"@pid":"47/9801","text":"Chetan Bansal"},{"@pid":"127/9211","text":"Pedro Henrique B. Las-Casas"},{"@pid":"f/RFonseca","text":"Rodrigo Fonseca"},{"@pid":"313/9883","text":"Saravan Rajmohan"}]},"title":"LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents.","venue":"SIGSOFT FSE Companion","pages":"388-398","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangZBLFR24","doi":"10.1145/3663529.3663858","ee":"https://doi.org/10.1145/3663529.3663858","url":"https://dblp.org/rec/conf/sigsoft/ZhangZBLFR24"},
+"url":"URL#778939"
+},
+{
+"@score":"1",
+"@id":"778940",
+"info":{"authors":{"author":[{"@pid":"54/6434","text":"Shenglin Zhang"},{"@pid":"50/2644","text":"Jun Zhu"},{"@pid":"245/3282","text":"Bowen Hao"},{"@pid":"150/3609","text":"Yongqian Sun"},{"@pid":"119/6181","text":"Xiaohui Nie"},{"@pid":"173/0953","text":"Jingwen Zhu"},{"@pid":"05/8005","text":"Xilin Liu"},{"@pid":"85/6692","text":"Xiaoqian Li"},{"@pid":"21/11039","text":"Yuchi Ma"},{"@pid":"p/DanPei","text":"Dan Pei"}]},"title":"Fault Diagnosis for Test Alarms in Microservices through Multi-source Data.","venue":"SIGSOFT FSE Companion","pages":"115-125","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangZHSNZLLMP24","doi":"10.1145/3663529.3663833","ee":"https://doi.org/10.1145/3663529.3663833","url":"https://dblp.org/rec/conf/sigsoft/ZhangZHSNZLLMP24"},
+"url":"URL#778940"
+},
+{
+"@score":"1",
+"@id":"778941",
+"info":{"authors":{"author":[{"@pid":"54/6434","text":"Shenglin Zhang"},{"@pid":"77/6283","text":"Yongxin Zhao"},{"@pid":"120/4209","text":"Xiao Xiong"},{"@pid":"150/3609","text":"Yongqian Sun"},{"@pid":"119/6181","text":"Xiaohui Nie"},{"@pid":"147/7521","text":"Jiacheng Zhang"},{"@pid":"234/8145","text":"Fenglai Wang"},{"@pid":"374/2976","text":"Xian Zheng"},{"@pid":"94/6098","text":"Yuzhi Zhang"},{"@pid":"p/DanPei","text":"Dan Pei"}]},"title":"Illuminating the Gray Zone: Non-intrusive Gray Failure Localization in Server Operating Systems.","venue":"SIGSOFT FSE Companion","pages":"126-137","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangZXSNZWZZP24","doi":"10.1145/3663529.3663834","ee":"https://doi.org/10.1145/3663529.3663834","url":"https://dblp.org/rec/conf/sigsoft/ZhangZXSNZWZZP24"},
+"url":"URL#778941"
+},
+{
+"@score":"1",
+"@id":"778942",
+"info":{"authors":{"author":[{"@pid":"06/2243","text":"Quan Zhang"},{"@pid":"341/1644","text":"Binqi Zeng"},{"@pid":"228/5716","text":"Chijin Zhou"},{"@pid":"376/9081","text":"Gwihwan Go"},{"@pid":"192/6867","text":"Heyuan Shi"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"}]},"title":"Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.","venue":"SIGSOFT FSE Companion","pages":"502-506","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhangZZGS024","doi":"10.1145/3663529.3663786","ee":"https://doi.org/10.1145/3663529.3663786","url":"https://dblp.org/rec/conf/sigsoft/ZhangZZGS024"},
+"url":"URL#778942"
+},
+{
+"@score":"1",
+"@id":"778943",
+"info":{"authors":{"author":[{"@pid":"00/6525","text":"Zihan Zhou"},{"@pid":"131/0127","text":"Zhongkai Zhao"},{"@pid":"322/8818","text":"Bonan Kou"},{"@pid":"17/322-1","text":"Tianyi Zhang 0001"}]},"title":"Decide: Knowledge-Based Version Incompatibility Detection in Deep Learning Stacks.","venue":"SIGSOFT FSE Companion","pages":"547-551","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/ZhouZK024","doi":"10.1145/3663529.3663796","ee":"https://doi.org/10.1145/3663529.3663796","url":"https://dblp.org/rec/conf/sigsoft/ZhouZK024"},
+"url":"URL#778943"
+},
+{
+"@score":"1",
+"@id":"778944",
+"info":{"authors":{"author":{"@pid":"19/3622-1","text":"Thomas Zimmermann 0001"}},"title":"The Incredible Machine: Developer Productivity and the Impact of AI on Productivity (Keynote).","venue":"SIGSOFT FSE Companion","pages":"1","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sigsoft/Zimmermann24","doi":"10.1145/3663529.3674721","ee":"https://doi.org/10.1145/3663529.3674721","url":"https://dblp.org/rec/conf/sigsoft/Zimmermann24"},
+"url":"URL#778944"
+},
+{
+"@score":"1",
+"@id":"802247",
+"info":{"authors":{"author":{"@pid":"16/608","text":"Marcelo d&apos;Amorim"}},"title":"Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering, FSE 2024, Porto de Galinhas, Brazil, July 15-19, 2024","venue":"SIGSOFT FSE Companion","publisher":"ACM","year":"2024","type":"Editorship","key":"conf/sigsoft/2024c","doi":"10.1145/3663529","ee":"https://doi.org/10.1145/3663529","url":"https://dblp.org/rec/conf/sigsoft/2024c"},
+"url":"URL#802247"
+}
+]
+}
+}
+}

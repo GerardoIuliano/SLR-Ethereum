@@ -1,0 +1,146 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/ase/ase28.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.13"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"19",
+"@dc":"19",
+"@oc":"19",
+"@id":"49858981",
+"text":":facetid:toc:db/journals/ase/ase28.bht"
+}
+},
+"hits":{
+"@total":"19",
+"@computed":"19",
+"@sent":"19",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1977994",
+"info":{"authors":{"author":[{"@pid":"258/8832","text":"Chaima Abid"},{"@pid":"192/5071","text":"Vahid Alizadeh"},{"@pid":"90/382","text":"Marouane Kessentini"},{"@pid":"276/9198","text":"Mouna Dhaouadi"},{"@pid":"90/3774","text":"Rick Kazman"}]},"title":"Prioritizing refactorings for security-critical code.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"4","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/AbidAKDK21","doi":"10.1007/S10515-021-00281-2","ee":"https://doi.org/10.1007/s10515-021-00281-2","url":"https://dblp.org/rec/journals/ase/AbidAKDK21"},
+"url":"URL#1977994"
+},
+{
+"@score":"1",
+"@id":"1977995",
+"info":{"authors":{"author":[{"@pid":"89/10140","text":"Aftab Ali"},{"@pid":"97/8764","text":"Naveed Khan"},{"@pid":"55/4626","text":"Mamun I. Abu-Tair"},{"@pid":"29/3819","text":"Joost Noppen"},{"@pid":"m/SallyIMcClean","text":"Sally I. McClean"},{"@pid":"59/1274","text":"Ian R. McChesney"}]},"title":"Discriminating features-based cost-sensitive approach for software defect prediction.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"11","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/AliKANMM21","doi":"10.1007/S10515-021-00289-8","ee":"https://doi.org/10.1007/s10515-021-00289-8","url":"https://dblp.org/rec/journals/ase/AliKANMM21"},
+"url":"URL#1977995"
+},
+{
+"@score":"1",
+"@id":"1977996",
+"info":{"authors":{"author":[{"@pid":"184/8089","text":"Rafi Almhana"},{"@pid":"90/382","text":"Marouane Kessentini"}]},"title":"Considering dependencies between bug reports to improve bugs triage.","venue":"Autom. Softw. Eng.","volume":"28","number":"1","pages":"1","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/AlmhanaK21","doi":"10.1007/S10515-020-00279-2","ee":"https://doi.org/10.1007/s10515-020-00279-2","url":"https://dblp.org/rec/journals/ase/AlmhanaK21"},
+"url":"URL#1977996"
+},
+{
+"@score":"1",
+"@id":"1977997",
+"info":{"authors":{"author":[{"@pid":"289/6796","text":"Fariha Ashfaq"},{"@pid":"49/2640","text":"Imran Sarwar Bajwa"}]},"title":"Natural language ambiguity resolution by intelligent semantic annotation of software requirements.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"13","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/AshfaqB21","doi":"10.1007/S10515-021-00291-0","ee":"https://doi.org/10.1007/s10515-021-00291-0","url":"https://dblp.org/rec/journals/ase/AshfaqB21"},
+"url":"URL#1977997"
+},
+{
+"@score":"1",
+"@id":"1977998",
+"info":{"authors":{"author":[{"@pid":"278/9962","text":"Baber Majid Bhatti"},{"@pid":"83/3078","text":"Sameera Mubarak"},{"@pid":"41/2694","text":"Sev V. Nagalingam"}]},"title":"Information security implications of using NLP in IT outsourcing: a Diffusion of Innovation theory perspective.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"12","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/BhattiMN21","doi":"10.1007/S10515-021-00286-X","ee":"https://doi.org/10.1007/s10515-021-00286-x","url":"https://dblp.org/rec/journals/ase/BhattiMN21"},
+"url":"URL#1977998"
+},
+{
+"@score":"1",
+"@id":"1977999",
+"info":{"authors":{"author":[{"@pid":"199/9966","text":"Mabrouka Chouchane"},{"@pid":"62/5331","text":"Makram Soui"},{"@pid":"08/565","text":"Khaled Ghédira"}]},"title":"The impact of the code smells of the presentation layer on the diffuseness of aesthetic defects of Android apps.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"20","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/ChouchaneSG21","doi":"10.1007/S10515-021-00297-8","ee":"https://doi.org/10.1007/s10515-021-00297-8","url":"https://dblp.org/rec/journals/ase/ChouchaneSG21"},
+"url":"URL#1977999"
+},
+{
+"@score":"1",
+"@id":"1978000",
+"info":{"authors":{"author":[{"@pid":"295/4379","text":"Mohammad Derakhshandi"},{"@pid":"15/8435","text":"Shekoufeh Kolahdouz Rahimi"},{"@pid":"98/7772","text":"Javier Troya"},{"@pid":"27/4190","text":"Kevin Lano"}]},"title":"A model-driven framework for developing android-based classic multiplayer 2D board games.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"7","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/DerakhshandiRTL21","doi":"10.1007/S10515-021-00282-1","ee":"https://doi.org/10.1007/s10515-021-00282-1","url":"https://dblp.org/rec/journals/ase/DerakhshandiRTL21"},
+"url":"URL#1978000"
+},
+{
+"@score":"1",
+"@id":"1978001",
+"info":{"authors":{"author":[{"@pid":"284/3049","text":"Mohammadali Gharaat"},{"@pid":"202/2858","text":"Mohammadreza Sharbaf"},{"@pid":"82/4850","text":"Bahman Zamani"},{"@pid":"70/2136","text":"Abdelwahab Hamou-Lhadj"}]},"title":"ALBA: a model-driven framework for the automatic generation of android location-based apps.","venue":"Autom. Softw. Eng.","volume":"28","number":"1","pages":"2","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/GharaatSZH21","doi":"10.1007/S10515-020-00278-3","ee":"https://doi.org/10.1007/s10515-020-00278-3","url":"https://dblp.org/rec/journals/ase/GharaatSZH21"},
+"url":"URL#1978001"
+},
+{
+"@score":"1",
+"@id":"1978002",
+"info":{"authors":{"author":{"@pid":"190/8878","text":"Somya Goyal"}},"title":"Predicting the Defects using Stacked Ensemble Learner with Filtered Dataset.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"14","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/Goyal21","doi":"10.1007/S10515-021-00285-Y","ee":"https://doi.org/10.1007/s10515-021-00285-y","url":"https://dblp.org/rec/journals/ase/Goyal21"},
+"url":"URL#1978002"
+},
+{
+"@score":"1",
+"@id":"1978003",
+"info":{"authors":{"author":[{"@pid":"129/0254","text":"Daniel Honsel"},{"@pid":"201/7771","text":"Verena Herbold"},{"@pid":"w/StephanWaack","text":"Stephan Waack"},{"@pid":"g/JensGrabowski","text":"Jens Grabowski"}]},"title":"Investigation and prediction of open source software evolution using automated parameter mining for agent-based simulation.","venue":"Autom. Softw. Eng.","volume":"28","number":"1","pages":"3","year":"2021","type":"Journal Articles","access":"open","key":"journals/ase/HonselHWG21","doi":"10.1007/S10515-021-00280-3","ee":"https://doi.org/10.1007/s10515-021-00280-3","url":"https://dblp.org/rec/journals/ase/HonselHWG21"},
+"url":"URL#1978003"
+},
+{
+"@score":"1",
+"@id":"1978004",
+"info":{"authors":{"author":[{"@pid":"255/6568","text":"Jongwook Jeong"},{"@pid":"62/3070","text":"Neunghoe Kim"}]},"title":"Does sentiment help requirement engineering: exploring sentiments in user comments to discover informative comments.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"18","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/JeongK21","doi":"10.1007/S10515-021-00295-W","ee":"https://doi.org/10.1007/s10515-021-00295-w","url":"https://dblp.org/rec/journals/ase/JeongK21"},
+"url":"URL#1978004"
+},
+{
+"@score":"1",
+"@id":"1978005",
+"info":{"authors":{"author":[{"@pid":"123/1024","text":"M. Karthikeyan"},{"@pid":"12/7431","text":"T. S. Subashini"},{"@pid":"336/4704","text":"R. Jebakumar 0001"}]},"title":"SSD based waste separation in smart garbage using augmented clustering NMS.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"17","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/KarthikeyanSJ21","doi":"10.1007/S10515-021-00296-9","ee":"https://doi.org/10.1007/s10515-021-00296-9","url":"https://dblp.org/rec/journals/ase/KarthikeyanSJ21"},
+"url":"URL#1978005"
+},
+{
+"@score":"1",
+"@id":"1978006",
+"info":{"authors":{"author":[{"@pid":"144/4778","text":"Pingfan Kong"},{"@pid":"53/2189-29","text":"Li Li 0029"},{"@pid":"82/4977-1","text":"Jun Gao 0001"},{"@pid":"243/2279","text":"Timothée Riom"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"},{"@pid":"k/JacquesKlein","text":"Jacques Klein"}]},"title":"ANCHOR: locating android framework-specific crashing faults.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"10","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/KongLGRZBK21","doi":"10.1007/S10515-021-00290-1","ee":"https://doi.org/10.1007/s10515-021-00290-1","url":"https://dblp.org/rec/journals/ase/KongLGRZBK21"},
+"url":"URL#1978006"
+},
+{
+"@score":"1",
+"@id":"1978007",
+"info":{"authors":{"author":[{"@pid":"118/5367-1","text":"Sebastian Nielebock 0001"},{"@pid":"158/8506","text":"Robert Heumüller"},{"@pid":"271/8009","text":"Kevin Michael Schott"},{"@pid":"64/1579","text":"Frank Ortmeier"}]},"title":"Guided pattern mining for API misuse detection by change-based code analysis.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"15","year":"2021","type":"Journal Articles","access":"open","key":"journals/ase/NielebockHSO21","doi":"10.1007/S10515-021-00294-X","ee":"https://doi.org/10.1007/s10515-021-00294-x","url":"https://dblp.org/rec/journals/ase/NielebockHSO21"},
+"url":"URL#1978007"
+},
+{
+"@score":"1",
+"@id":"1978008",
+"info":{"authors":{"author":[{"@pid":"286/5002","text":"R. Dhaya 0001"},{"@pid":"286/4783","text":"Kanthavel Radhakrishnan"}]},"title":"Cloud - based multiple importance sampling algorithm with AI based CNN classifier for secure infrastructure.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"16","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/RamakrishnanR21","doi":"10.1007/S10515-021-00293-Y","ee":"https://doi.org/10.1007/s10515-021-00293-y","url":"https://dblp.org/rec/journals/ase/RamakrishnanR21"},
+"url":"URL#1978008"
+},
+{
+"@score":"1",
+"@id":"1978009",
+"info":{"authors":{"author":[{"@pid":"249/9270","text":"Sangeeta"},{"@pid":"288/1787","text":"Sitender"},{"@pid":"22/960","text":"Kapil Sharma"},{"@pid":"59/5401","text":"Manju Bala"}]},"title":"New failure rate model for iterative software development life cycle process.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"9","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/SangeetaSSB21","doi":"10.1007/S10515-021-00288-9","ee":"https://doi.org/10.1007/s10515-021-00288-9","url":"https://dblp.org/rec/journals/ase/SangeetaSSB21"},
+"url":"URL#1978009"
+},
+{
+"@score":"1",
+"@id":"1978010",
+"info":{"authors":{"author":[{"@pid":"303/1809","text":"D. Selvapandian"},{"@pid":"121/3587","text":"R. Santhosh"}]},"title":"Deep learning approach for intrusion detection in IoT-multi cloud environment.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"19","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/SelvapandianS21","doi":"10.1007/S10515-021-00298-7","ee":"https://doi.org/10.1007/s10515-021-00298-7","url":"https://dblp.org/rec/journals/ase/SelvapandianS21"},
+"url":"URL#1978010"
+},
+{
+"@score":"1",
+"@id":"1978011",
+"info":{"authors":{"author":[{"@pid":"209/5983","text":"Benoît Verhaeghe"},{"@pid":"21/1959","text":"Nicolas Anquetil"},{"@pid":"03/4195","text":"Anne Etien"},{"@pid":"d/SDucasse","text":"Stéphane Ducasse"},{"@pid":"146/7694","text":"Abderrahmane Seriai"},{"@pid":"161/3302","text":"Mustapha Derras"}]},"title":"GUI visual aspect migration: a framework agnostic solution.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"6","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/VerhaegheAEDSD21","doi":"10.1007/S10515-021-00284-Z","ee":"https://doi.org/10.1007/s10515-021-00284-z","url":"https://dblp.org/rec/journals/ase/VerhaegheAEDSD21"},
+"url":"URL#1978011"
+},
+{
+"@score":"1",
+"@id":"1978012",
+"info":{"authors":{"author":[{"@pid":"67/6649-13","text":"Yi Wang 0013"},{"@pid":"84/6534","text":"David F. Redmiles"}]},"title":"IIAG: a data-driven and theory-inspired approach for advising how to interact with new remote collaborators in OSS teams.","venue":"Autom. Softw. Eng.","volume":"28","number":"2","pages":"5","year":"2021","type":"Journal Articles","access":"closed","key":"journals/ase/WangR21","doi":"10.1007/S10515-021-00283-0","ee":"https://doi.org/10.1007/s10515-021-00283-0","url":"https://dblp.org/rec/journals/ase/WangR21"},
+"url":"URL#1978012"
+}
+]
+}
+}
+}

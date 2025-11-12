@@ -1,0 +1,368 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icst/icst2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"2.06"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"56",
+"@dc":"56",
+"@oc":"56",
+"@id":"49823705",
+"text":":facetid:toc:db/conf/icst/icst2022.bht"
+}
+},
+"hits":{
+"@total":"56",
+"@computed":"56",
+"@sent":"56",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1778553",
+"info":{"authors":{"author":[{"@pid":"254/7657","text":"Ali S. Alotaibi"},{"@pid":"238/2169","text":"Paul T. Chiou"},{"@pid":"04/4583","text":"William G. J. Halfond"}]},"title":"Automated Detection of TalkBack Interactive Accessibility Failures in Android Applications.","venue":"ICST","pages":"232-243","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/AlotaibiCH22","doi":"10.1109/ICST53961.2022.00033","ee":"https://doi.org/10.1109/ICST53961.2022.00033","url":"https://dblp.org/rec/conf/icst/AlotaibiCH22"},
+"url":"URL#1778553"
+},
+{
+"@score":"1",
+"@id":"1778554",
+"info":{"authors":{"author":[{"@pid":"242/6274","text":"Ibrahim Althomali"},{"@pid":"47/5095","text":"Gregory M. Kapfhammer"},{"@pid":"33/13","text":"Phil McMinn"}]},"title":"Automated Repair of Responsive Web Page Layouts.","venue":"ICST","pages":"140-150","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/AlthomaliKM22","doi":"10.1109/ICST53961.2022.00025","ee":"https://doi.org/10.1109/ICST53961.2022.00025","url":"https://dblp.org/rec/conf/icst/AlthomaliKM22"},
+"url":"URL#1778554"
+},
+{
+"@score":"1",
+"@id":"1778555",
+"info":{"authors":{"author":[{"@pid":"86/7855","text":"Paolo Arcaini"},{"@pid":"250/1753","text":"Andrea Bombarda"},{"@pid":"165/4705","text":"Silvia Bonfanti"},{"@pid":"25/4463","text":"Angelo Gargantini"},{"@pid":"321/9975","text":"Daniele Gamba"},{"@pid":"262/0668","text":"Rita Pedercini"}]},"title":"Robustness assessment and improvement of a neural network for blood oxygen pressure estimation.","venue":"ICST","pages":"312-322","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ArcainiBBGGP22","doi":"10.1109/ICST53961.2022.00040","ee":"https://doi.org/10.1109/ICST53961.2022.00040","url":"https://dblp.org/rec/conf/icst/ArcainiBBGGP22"},
+"url":"URL#1778555"
+},
+{
+"@score":"1",
+"@id":"1778556",
+"info":{"authors":{"author":[{"@pid":"86/7855","text":"Paolo Arcaini"},{"@pid":"98/4236-5","text":"Xiao-Yi Zhang 0005"},{"@pid":"03/2671","text":"Fuyuki Ishikawa"}]},"title":"Less is More: Simplification of Test Scenarios for Autonomous Driving System Testing.","venue":"ICST","pages":"279-290","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ArcainiZI22","doi":"10.1109/ICST53961.2022.00037","ee":"https://doi.org/10.1109/ICST53961.2022.00037","url":"https://dblp.org/rec/conf/icst/ArcainiZI22"},
+"url":"URL#1778556"
+},
+{
+"@score":"1",
+"@id":"1778557",
+"info":{"authors":{"author":[{"@pid":"266/2190","text":"Hooman Asadian"},{"@pid":"150/7924","text":"Paul Fiterau-Brostean"},{"@pid":"j/BengtJonsson","text":"Bengt Jonsson 0001"},{"@pid":"s/KonstantinosFSagonas","text":"Konstantinos Sagonas"}]},"title":"Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.","venue":"ICST","pages":"70-81","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/AsadianFJS22","doi":"10.1109/ICST53961.2022.00019","ee":"https://doi.org/10.1109/ICST53961.2022.00019","url":"https://dblp.org/rec/conf/icst/AsadianFJS22"},
+"url":"URL#1778557"
+},
+{
+"@score":"1",
+"@id":"1778558",
+"info":{"authors":{"author":[{"@pid":"219/3800","text":"Muhammad Ashfaq"},{"@pid":"121/2885","text":"Rubing Huang"},{"@pid":"40/3836","text":"Dave Towey"},{"@pid":"209/2136","text":"Michael Omari"},{"@pid":"177/9204","text":"Dmitry A. Yashunin"},{"@pid":"204/7687","text":"Patrick Kwaku Kudjo"},{"@pid":"15/4777-1","text":"Tao Zhang 0001"}]},"title":"Summary of SWFC-ART: A Cost-effective Approach for Fixed-Size-Candidate-Set Adaptive Random Testing through Small World Graphs.","venue":"ICST","pages":"460","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/AshfaqHTOYKZ22","doi":"10.1109/ICST53961.2022.00053","ee":"https://doi.org/10.1109/ICST53961.2022.00053","url":"https://dblp.org/rec/conf/icst/AshfaqHTOYKZ22"},
+"url":"URL#1778558"
+},
+{
+"@score":"1",
+"@id":"1778559",
+"info":{"authors":{"author":[{"@pid":"219/2231","text":"Dario Asprone"},{"@pid":"299/8771","text":"Jonathan Metzman"},{"@pid":"299/8741","text":"Abhishek Arya"},{"@pid":"148/4898","text":"Giovani Guizzo"},{"@pid":"18/7526","text":"Federica Sarro"}]},"title":"Comparing Fuzzers on a Level Playing Field with FuzzBench.","venue":"ICST","pages":"302-311","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/AsproneMAGS22","doi":"10.1109/ICST53961.2022.00039","ee":"https://doi.org/10.1109/ICST53961.2022.00039","url":"https://dblp.org/rec/conf/icst/AsproneMAGS22"},
+"url":"URL#1778559"
+},
+{
+"@score":"1",
+"@id":"1778560",
+"info":{"authors":{"author":[{"@pid":"50/2547","text":"Tobias Bachmann"},{"@pid":"225/0640","text":"Djurre van der Wal"},{"@pid":"29/2704","text":"Machiel van der Bijl"},{"@pid":"322/0172","text":"Daan van der Meij"},{"@pid":"20/1283","text":"Ana Oprescu"}]},"title":"Translating EULYNX SysML Models into Symbolic Transition Systems for Model-Based Testing of Railway Signaling Systems.","venue":"ICST","pages":"355-364","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/BachmannWBMO22","doi":"10.1109/ICST53961.2022.00044","ee":"https://doi.org/10.1109/ICST53961.2022.00044","url":"https://dblp.org/rec/conf/icst/BachmannWBMO22"},
+"url":"URL#1778560"
+},
+{
+"@score":"1",
+"@id":"1778561",
+"info":{"authors":{"author":[{"@pid":"322/0108","text":"João Becho"},{"@pid":"174/2172","text":"Frederico Cerveira"},{"@pid":"38/5295","text":"João Leitão 0001"},{"@pid":"165/3656","text":"Rui André Oliveira"}]},"title":"TESRAC: A Framework for Test Suite Reduction Assessment at Scale.","venue":"ICST","pages":"174-184","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/BechoCLO22","doi":"10.1109/ICST53961.2022.00028","ee":"https://doi.org/10.1109/ICST53961.2022.00028","url":"https://dblp.org/rec/conf/icst/BechoCLO22"},
+"url":"URL#1778561"
+},
+{
+"@score":"1",
+"@id":"1778564",
+"info":{"authors":{"author":[{"@pid":"322/0426","text":"Cecilio Cannavacciuolo"},{"@pid":"27/2914","text":"Leonardo Mariani"}]},"title":"Smoke Testing of Cloud Systems.","venue":"ICST","pages":"47-57","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/CannavacciuoloM22","doi":"10.1109/ICST53961.2022.00016","ee":"https://doi.org/10.1109/ICST53961.2022.00016","url":"https://dblp.org/rec/conf/icst/CannavacciuoloM22"},
+"url":"URL#1778564"
+},
+{
+"@score":"1",
+"@id":"1778569",
+"info":{"authors":{"author":[{"@pid":"161/3922","text":"Pedro Delgado-Pérez"},{"@pid":"83/6174","text":"Francisco Chicano"}]},"title":"An Experimental and Practical Study on the Equivalent Mutant Connection: An Evolutionary Approach.","venue":"ICST","pages":"462","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Delgado-PerezC22","doi":"10.1109/ICST53961.2022.00055","ee":"https://doi.org/10.1109/ICST53961.2022.00055","url":"https://dblp.org/rec/conf/icst/Delgado-PerezC22"},
+"url":"URL#1778569"
+},
+{
+"@score":"1",
+"@id":"1778571",
+"info":{"authors":{"author":{"@pid":"140/0391","text":"Arpita Dutta"}},"title":"Poster: EBFL-An Ensemble Classifier based Fault Localization.","venue":"ICST","pages":"473-476","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Dutta22","doi":"10.1109/ICST53961.2022.00059","ee":"https://doi.org/10.1109/ICST53961.2022.00059","url":"https://dblp.org/rec/conf/icst/Dutta22"},
+"url":"URL#1778571"
+},
+{
+"@score":"1",
+"@id":"1778572",
+"info":{"authors":{"author":[{"@pid":"146/7991","text":"Saikat Dutta 0001"},{"@pid":"322/0486","text":"Anshul Arunachalam"},{"@pid":"00/4734","text":"Sasa Misailovic"}]},"title":"To Seed or Not to Seed? An Empirical Analysis of Usage of Seeds for Testing in Machine Learning Projects.","venue":"ICST","pages":"151-161","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/DuttaAM22","doi":"10.1109/ICST53961.2022.00026","ee":"https://doi.org/10.1109/ICST53961.2022.00026","url":"https://dblp.org/rec/conf/icst/DuttaAM22"},
+"url":"URL#1778572"
+},
+{
+"@score":"1",
+"@id":"1778573",
+"info":{"authors":{"author":[{"@pid":"43/11032","text":"Sudakshina Dutta"},{"@pid":"60/7052","text":"Debarshi Kumar Sanyal"}]},"title":"Locating Code Omission Error due to Incorrect Polymorphic Method Call.","venue":"ICST","pages":"465-468","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/DuttaS22","doi":"10.1109/ICST53961.2022.00057","ee":"https://doi.org/10.1109/ICST53961.2022.00057","url":"https://dblp.org/rec/conf/icst/DuttaS22"},
+"url":"URL#1778573"
+},
+{
+"@score":"1",
+"@id":"1778574",
+"info":{"authors":{"author":{"@pid":"286/6927","text":"Max Eisele"}},"title":"Debugger-driven Embedded Fuzzing.","venue":"ICST","pages":"483-485","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Eisele22","doi":"10.1109/ICST53961.2022.00062","ee":"https://doi.org/10.1109/ICST53961.2022.00062","url":"https://dblp.org/rec/conf/icst/Eisele22"},
+"url":"URL#1778574"
+},
+{
+"@score":"1",
+"@id":"1778575",
+"info":{"authors":{"author":[{"@pid":"150/7924","text":"Paul Fiterau-Brostean"},{"@pid":"j/BengtJonsson","text":"Bengt Jonsson 0001"},{"@pid":"s/KonstantinosFSagonas","text":"Konstantinos Sagonas"},{"@pid":"322/0092","text":"Fredrik Tåquist"}]},"title":"DTLS-Fuzzer: A DTLS Protocol State Fuzzer.","venue":"ICST","pages":"456-458","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Fiterau-Brostean22","doi":"10.1109/ICST53961.2022.00051","ee":"https://doi.org/10.1109/ICST53961.2022.00051","url":"https://dblp.org/rec/conf/icst/Fiterau-Brostean22"},
+"url":"URL#1778575"
+},
+{
+"@score":"1",
+"@id":"1778578",
+"info":{"authors":{"author":[{"@pid":"200/2827","text":"Luca Gazzola"},{"@pid":"27/2914","text":"Leonardo Mariani"},{"@pid":"146/5318","text":"Matteo Orrù"},{"@pid":"98/6514","text":"Mauro Pezzè"},{"@pid":"177/2521","text":"Martin Tappler"}]},"title":"Testing Software in Production Environments with Data from the Field.","venue":"ICST","pages":"58-69","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/GazzolaMOPT22","doi":"10.1109/ICST53961.2022.00017","ee":"https://doi.org/10.1109/ICST53961.2022.00017","url":"https://dblp.org/rec/conf/icst/GazzolaMOPT22"},
+"url":"URL#1778578"
+},
+{
+"@score":"1",
+"@id":"1778579",
+"info":{"authors":{"author":[{"@pid":"316/0255","text":"Monika Rani Golla"},{"@pid":"148/8632","text":"Sangharatna Godboley"}]},"title":"Poster: A gCov based new profiler, gMCov, for MC/DC and SC-MCC.","venue":"ICST","pages":"469-472","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/GollaG22","doi":"10.1109/ICST53961.2022.00058","ee":"https://doi.org/10.1109/ICST53961.2022.00058","url":"https://dblp.org/rec/conf/icst/GollaG22"},
+"url":"URL#1778579"
+},
+{
+"@score":"1",
+"@id":"1778580",
+"info":{"authors":{"author":[{"@pid":"218/4241","text":"Katharina Götz"},{"@pid":"313/9358","text":"Patric Feldmeier"},{"@pid":"74/2259","text":"Gordon Fraser 0001"}]},"title":"Model-based Testing of Scratch Programs.","venue":"ICST","pages":"411-421","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/GotzFF22","doi":"10.1109/ICST53961.2022.00047","ee":"https://doi.org/10.1109/ICST53961.2022.00047","url":"https://dblp.org/rec/conf/icst/GotzFF22"},
+"url":"URL#1778580"
+},
+{
+"@score":"1",
+"@id":"1778581",
+"info":{"authors":{"author":[{"@pid":"44/6063","text":"Martin Gruber"},{"@pid":"74/2259","text":"Gordon Fraser 0001"}]},"title":"A Survey on How Test Flakiness Affects Developers and What Support They Need To Address It.","venue":"ICST","pages":"82-92","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/GruberF22","doi":"10.1109/ICST53961.2022.00020","ee":"https://doi.org/10.1109/ICST53961.2022.00020","url":"https://dblp.org/rec/conf/icst/GruberF22"},
+"url":"URL#1778581"
+},
+{
+"@score":"1",
+"@id":"1778583",
+"info":{"authors":{"author":[{"@pid":"202/9996","text":"Sarra Habchi"},{"@pid":"296/1216","text":"Guillaume Haben"},{"@pid":"00/7677","text":"Mike Papadakis"},{"@pid":"73/10839","text":"Maxime Cordy"},{"@pid":"95/5206","text":"Yves Le Traon"}]},"title":"A Qualitative Study on the Sources, Impacts, and Mitigation Strategies of Flaky Tests.","venue":"ICST","pages":"244-255","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/HabchiHPCT22","doi":"10.1109/ICST53961.2022.00034","ee":"https://doi.org/10.1109/ICST53961.2022.00034","url":"https://dblp.org/rec/conf/icst/HabchiHPCT22"},
+"url":"URL#1778583"
+},
+{
+"@score":"1",
+"@id":"1778585",
+"info":{"authors":{"author":[{"@pid":"224/4524","text":"Jan Haltermann"},{"@pid":"w/HeikeWehrheim","text":"Heike Wehrheim"}]},"title":"Machine Learning Based Invariant Generation: A Framework and Reproducibility Study.","venue":"ICST","pages":"12-23","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/HaltermannW22","doi":"10.1109/ICST53961.2022.00012","ee":"https://doi.org/10.1109/ICST53961.2022.00012","url":"https://dblp.org/rec/conf/icst/HaltermannW22"},
+"url":"URL#1778585"
+},
+{
+"@score":"1",
+"@id":"1778586",
+"info":{"authors":{"author":[{"@pid":"84/4762","text":"Mohammad Mehedi Hassan"},{"@pid":"06/10426","text":"Akond Rahman"}]},"title":"As Code Testing: Characterizing Test Quality in Open Source Ansible Development.","venue":"ICST","pages":"208-219","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/HassanR22","doi":"10.1109/ICST53961.2022.00031","ee":"https://doi.org/10.1109/ICST53961.2022.00031","url":"https://dblp.org/rec/conf/icst/HassanR22"},
+"url":"URL#1778586"
+},
+{
+"@score":"1",
+"@id":"1778587",
+"info":{"authors":{"author":[{"@pid":"303/0408","text":"Robert Sebastian Herlim"},{"@pid":"76/5961","text":"Yunho Kim"},{"@pid":"11/6551","text":"Moonzoo Kim"}]},"title":"CITRUS: Automated Unit Testing Tool for Real-world C++ Programs.","venue":"ICST","pages":"400-410","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/HerlimKK22","doi":"10.1109/ICST53961.2022.00046","ee":"https://doi.org/10.1109/ICST53961.2022.00046","url":"https://dblp.org/rec/conf/icst/HerlimKK22"},
+"url":"URL#1778587"
+},
+{
+"@score":"1",
+"@id":"1778592",
+"info":{"authors":{"author":[{"@pid":"284/4174","text":"Neetha Jambigi"},{"@pid":"152/9554-1","text":"Thomas Bach 0001"},{"@pid":"320/7532","text":"Felix Schabernack"},{"@pid":"49/2990","text":"Michael Felderer"}]},"title":"Automatic Error Classification and Root Cause Determination while Replaying Recorded Workload Data at SAP HANA.","venue":"ICST","pages":"323-333","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/JambigiBSF22","doi":"10.1109/ICST53961.2022.00041","ee":"https://doi.org/10.1109/ICST53961.2022.00041","url":"https://dblp.org/rec/conf/icst/JambigiBSF22"},
+"url":"URL#1778592"
+},
+{
+"@score":"1",
+"@id":"1778593",
+"info":{"authors":{"author":[{"@pid":"213/1173","text":"Renhe Jiang"},{"@pid":"229/9288","text":"Zhengzhao Chen"},{"@pid":"76/8304-1","text":"Yu Pei 0001"},{"@pid":"42/7085","text":"Minxue Pan"},{"@pid":"13/2913-1","text":"Tian Zhang 0001"},{"@pid":"76/5446","text":"Xuandong Li"}]},"title":"Documentation-based functional constraint generation for library methods.","venue":"ICST","pages":"463","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/JiangCPPZL22","doi":"10.1109/ICST53961.2022.00056","ee":"https://doi.org/10.1109/ICST53961.2022.00056","url":"https://dblp.org/rec/conf/icst/JiangCPPZL22"},
+"url":"URL#1778593"
+},
+{
+"@score":"1",
+"@id":"1778594",
+"info":{"authors":{"author":[{"@pid":"118/6464","text":"Fitsum Meshesha Kifetew"},{"@pid":"90/7547","text":"Annibale Panichella"}]},"title":"Message from the Program Co-Chairs.","venue":"ICST","pages":"xiii","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/KifetewP22","doi":"10.1109/ICST53961.2022.00006","ee":"https://doi.org/10.1109/ICST53961.2022.00006","url":"https://dblp.org/rec/conf/icst/KifetewP22"},
+"url":"URL#1778594"
+},
+{
+"@score":"1",
+"@id":"1778595",
+"info":{"authors":{"author":[{"@pid":"76/5961","text":"Yunho Kim"},{"@pid":"28/7539","text":"Shin Hong"}]},"title":"Learning-based Mutant Reduction Using Fine-grained Mutation Operators.","venue":"ICST","pages":"464","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/KimH22","doi":"10.1109/ICST53961.2022.00065","ee":"https://doi.org/10.1109/ICST53961.2022.00065","url":"https://dblp.org/rec/conf/icst/KimH22"},
+"url":"URL#1778595"
+},
+{
+"@score":"1",
+"@id":"1778596",
+"info":{"authors":{"author":[{"@pid":"221/1657","text":"Misoo Kim"},{"@pid":"219/4400","text":"Youngkyoung Kim"},{"@pid":"16/3590-1","text":"Eunseok Lee 0001"}]},"title":"An Empirical Study of IR-based Bug Localization for Deep Learning-based Software.","venue":"ICST","pages":"128-139","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/KimKL22","doi":"10.1109/ICST53961.2022.00024","ee":"https://doi.org/10.1109/ICST53961.2022.00024","url":"https://dblp.org/rec/conf/icst/KimKL22"},
+"url":"URL#1778596"
+},
+{
+"@score":"1",
+"@id":"1778598",
+"info":{"authors":{"author":[{"@pid":"163/3117","text":"Andrei Lascu"},{"@pid":"11/5933","text":"Alastair F. Donaldson"},{"@pid":"91/9231","text":"Tobias Grosser"},{"@pid":"16/3869","text":"Torsten Hoefler"}]},"title":"Metamorphic Fuzzing of C++ Libraries.","venue":"ICST","pages":"35-46","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/LascuDGH22","doi":"10.1109/ICST53961.2022.00015","ee":"https://doi.org/10.1109/ICST53961.2022.00015","url":"https://dblp.org/rec/conf/icst/LascuDGH22"},
+"url":"URL#1778598"
+},
+{
+"@score":"1",
+"@id":"1778600",
+"info":{"authors":{"author":[{"@pid":"322/0121","text":"Ahcheong Lee"},{"@pid":"322/0639","text":"Irfan Ariq"},{"@pid":"76/5961","text":"Yunho Kim"},{"@pid":"11/6551","text":"Moonzoo Kim"}]},"title":"POWER: Program Option-Aware Fuzzer for High Bug Detection Ability.","venue":"ICST","pages":"220-231","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/LeeAKK22","doi":"10.1109/ICST53961.2022.00032","ee":"https://doi.org/10.1109/ICST53961.2022.00032","url":"https://dblp.org/rec/conf/icst/LeeAKK22"},
+"url":"URL#1778600"
+},
+{
+"@score":"1",
+"@id":"1778602",
+"info":{"authors":{"author":[{"@pid":"56/9382","text":"Maurizio Leotta"},{"@pid":"322/0739","text":"Antonio Molinari"},{"@pid":"88/555","text":"Filippo Ricca"}]},"title":"Assessor: a PO-Based WebDriver Test Suites Generator from Selenium IDE Recordings.","venue":"ICST","pages":"389-399","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/LeottaMR22","doi":"10.1109/ICST53961.2022.00045","ee":"https://doi.org/10.1109/ICST53961.2022.00045","url":"https://dblp.org/rec/conf/icst/LeottaMR22"},
+"url":"URL#1778602"
+},
+{
+"@score":"1",
+"@id":"1778603",
+"info":{"authors":{"author":[{"@pid":"87/5404","text":"Jun-Wei Lin"},{"@pid":"88/4685","text":"Sam Malek"}]},"title":"GUI Test Transfer from Web to Android.","venue":"ICST","pages":"1-11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/LinM22","doi":"10.1109/ICST53961.2022.00011","ee":"https://doi.org/10.1109/ICST53961.2022.00011","url":"https://dblp.org/rec/conf/icst/LinM22"},
+"url":"URL#1778603"
+},
+{
+"@score":"1",
+"@id":"1778604",
+"info":{"authors":{"author":[{"@pid":"146/4908","text":"Sonal Mahajan"},{"@pid":"52/1173","text":"Mukul R. Prasad"}]},"title":"Providing Real-time Assistance for Repairing Runtime Exceptions using Stack Overflow Posts.","venue":"ICST","pages":"196-207","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/MahajanP22","doi":"10.1109/ICST53961.2022.00030","ee":"https://doi.org/10.1109/ICST53961.2022.00030","url":"https://dblp.org/rec/conf/icst/MahajanP22"},
+"url":"URL#1778604"
+},
+{
+"@score":"1",
+"@id":"1778605",
+"info":{"authors":{"author":[{"@pid":"117/5451","text":"Riyadh Mahmood"},{"@pid":"293/1719","text":"Jay Pennington"},{"@pid":"268/6049","text":"Danny Tsang"},{"@pid":"234/3115","text":"Tan Tran"},{"@pid":"322/0035","text":"Andrea Bogle"}]},"title":"A Framework for Automated API Fuzzing at Enterprise Scale.","venue":"ICST","pages":"377-388","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/MahmoodPTTB22","doi":"10.1109/ICST53961.2022.00018","ee":"https://doi.org/10.1109/ICST53961.2022.00018","url":"https://dblp.org/rec/conf/icst/MahmoodPTTB22"},
+"url":"URL#1778605"
+},
+{
+"@score":"1",
+"@id":"1778608",
+"info":{"authors":{"author":[{"@pid":"50/9092","text":"Ke Mao"},{"@pid":"207/7178","text":"Timotej Kapus"},{"@pid":"146/7893","text":"Lambros Petrou"},{"@pid":"150/7817","text":"Ákos Hajdu"},{"@pid":"168/1149","text":"Matteo Marescotti"},{"@pid":"139/8150","text":"Andreas Löscher"},{"@pid":"h/MarkHarman","text":"Mark Harman"},{"@pid":"91/6951","text":"Dino Distefano"}]},"title":"FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp.","venue":"ICST","pages":"267-278","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/MaoKPHMLHD22","doi":"10.1109/ICST53961.2022.00036","ee":"https://doi.org/10.1109/ICST53961.2022.00036","url":"https://dblp.org/rec/conf/icst/MaoKPHMLHD22"},
+"url":"URL#1778608"
+},
+{
+"@score":"1",
+"@id":"1778610",
+"info":{"authors":{"author":[{"@pid":"185/1029","text":"Felipe R. Monteiro"},{"@pid":"127/1726","text":"Mikhail R. Gadelha"},{"@pid":"42/4311","text":"Lucas C. Cordeiro"}]},"title":"Summary of Model Checking C++ Programs.","venue":"ICST","pages":"461","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/MonteiroGC22","doi":"10.1109/ICST53961.2022.00054","ee":"https://doi.org/10.1109/ICST53961.2022.00054","url":"https://dblp.org/rec/conf/icst/MonteiroGC22"},
+"url":"URL#1778610"
+},
+{
+"@score":"1",
+"@id":"1778613",
+"info":{"authors":{"author":{"@pid":"205/3917","text":"Amirfarhad Nilizadeh"}},"title":"Automated Program Repair and Test Overfitting: Measurements and Approaches using Formal Methods.","venue":"ICST","pages":"480-482","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Nilizadeh22","doi":"10.1109/ICST53961.2022.00061","ee":"https://doi.org/10.1109/ICST53961.2022.00061","url":"https://dblp.org/rec/conf/icst/Nilizadeh22"},
+"url":"URL#1778613"
+},
+{
+"@score":"1",
+"@id":"1778615",
+"info":{"authors":{"author":[{"@pid":"54/7256","text":"Okan Örsan Özener"},{"@pid":"98/2704","text":"Hasan Sözer"}]},"title":"Summary of An Effective Formulation of the Multi-Criteria Test Suite Minimization Problem.","venue":"ICST","pages":"459","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/OzenerS22","doi":"10.1109/ICST53961.2022.00052","ee":"https://doi.org/10.1109/ICST53961.2022.00052","url":"https://dblp.org/rec/conf/icst/OzenerS22"},
+"url":"URL#1778615"
+},
+{
+"@score":"1",
+"@id":"1778616",
+"info":{"authors":{"author":[{"@pid":"128/5693","text":"Ciprian Paduraru"},{"@pid":"246/9062","text":"Miruna Paduraru"},{"@pid":"17/512","text":"Alin Stefanescu"}]},"title":"RiverGame - a game testing tool using artificial intelligence.","venue":"ICST","pages":"422-432","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/PaduraruPS22","doi":"10.1109/ICST53961.2022.00048","ee":"https://doi.org/10.1109/ICST53961.2022.00048","url":"https://dblp.org/rec/conf/icst/PaduraruPS22"},
+"url":"URL#1778616"
+},
+{
+"@score":"1",
+"@id":"1778617",
+"info":{"authors":{"author":[{"@pid":"276/3422","text":"Owain Parry"},{"@pid":"47/5095","text":"Gregory M. Kapfhammer"},{"@pid":"116/7598","text":"Michael Hilton"},{"@pid":"33/13","text":"Phil McMinn"}]},"title":"Evaluating Features for Machine Learning Detection of Order- and Non-Order-Dependent Flaky Tests.","venue":"ICST","pages":"93-104","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ParryKHM22","doi":"10.1109/ICST53961.2022.00021","ee":"https://doi.org/10.1109/ICST53961.2022.00021","url":"https://dblp.org/rec/conf/icst/ParryKHM22"},
+"url":"URL#1778617"
+},
+{
+"@score":"1",
+"@id":"1778621",
+"info":{"authors":{"author":[{"@pid":"322/0727","text":"Jesse Postema"},{"@pid":"51/2761","text":"Johan Fabry"},{"@pid":"321/9938","text":"Yannick Barthol"},{"@pid":"20/1283","text":"Ana Oprescu"}]},"title":"Testing a PL/I Compiler Using Precomputation-based Program Generation.","venue":"ICST","pages":"334-344","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/PostemaFBO22","doi":"10.1109/ICST53961.2022.00042","ee":"https://doi.org/10.1109/ICST53961.2022.00042","url":"https://dblp.org/rec/conf/icst/PostemaFBO22"},
+"url":"URL#1778621"
+},
+{
+"@score":"1",
+"@id":"1778622",
+"info":{"authors":{"author":[{"@pid":"274/7734","text":"Sergio Quijano"},{"@pid":"120/5957","text":"Mahsa Varshosaz"}]},"title":"Model-Based Testing for System-Level Safety of Autonomous Underwater Robots.","venue":"ICST","pages":"486-488","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/QuijanoV22","doi":"10.1109/ICST53961.2022.00063","ee":"https://doi.org/10.1109/ICST53961.2022.00063","url":"https://dblp.org/rec/conf/icst/QuijanoV22"},
+"url":"URL#1778622"
+},
+{
+"@score":"1",
+"@id":"1778626",
+"info":{"authors":{"author":[{"@pid":"238/3001","text":"Cedric Richter"},{"@pid":"w/HeikeWehrheim","text":"Heike Wehrheim"}]},"title":"Learning Realistic Mutations: Bug Creation for Neural Bug Detectors.","venue":"ICST","pages":"162-173","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/RichterW22","doi":"10.1109/ICST53961.2022.00027","ee":"https://doi.org/10.1109/ICST53961.2022.00027","url":"https://dblp.org/rec/conf/icst/RichterW22"},
+"url":"URL#1778626"
+},
+{
+"@score":"1",
+"@id":"1778627",
+"info":{"authors":{"author":[{"@pid":"263/2993","text":"Andrea Romdhana"},{"@pid":"52/3888","text":"Mariano Ceccato"},{"@pid":"54/3464","text":"Alessio Merlo"},{"@pid":"54/2734","text":"Paolo Tonella"}]},"title":"IFRIT: Focused Testing through Deep Reinforcement Learning.","venue":"ICST","pages":"24-34","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/RomdhanaCMT22","doi":"10.1109/ICST53961.2022.00013","ee":"https://doi.org/10.1109/ICST53961.2022.00013","url":"https://dblp.org/rec/conf/icst/RomdhanaCMT22"},
+"url":"URL#1778627"
+},
+{
+"@score":"1",
+"@id":"1778628",
+"info":{"authors":{"author":[{"@pid":"242/3903","text":"Richard Rutledge"},{"@pid":"35/805","text":"Alessandro Orso"}]},"title":"Automating Differential Testing with Overapproximate Symbolic Execution.","venue":"ICST","pages":"256-266","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/RutledgeO22","doi":"10.1109/ICST53961.2022.00035","ee":"https://doi.org/10.1109/ICST53961.2022.00035","url":"https://dblp.org/rec/conf/icst/RutledgeO22"},
+"url":"URL#1778628"
+},
+{
+"@score":"1",
+"@id":"1778634",
+"info":{"authors":{"author":[{"@pid":"315/9596","text":"Alexander Senchenko"},{"@pid":"146/9834","text":"Jordan Patterson"},{"@pid":"12/9204","text":"Hamman Samuel"},{"@pid":"321/9895","text":"Dan Ispir"}]},"title":"SUPERNOVA: Automating Test Selection and Defect Prevention in AAA Video Games Using Risk Based Testing and Machine Learning.","venue":"ICST","pages":"345-354","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/SenchenkoPSI22","doi":"10.1109/ICST53961.2022.00043","ee":"https://doi.org/10.1109/ICST53961.2022.00043","url":"https://dblp.org/rec/conf/icst/SenchenkoPSI22"},
+"url":"URL#1778634"
+},
+{
+"@score":"1",
+"@id":"1778635",
+"info":{"authors":{"author":[{"@pid":"322/0743","text":"Samiha Shimmi"},{"@pid":"150/9109","text":"Mona Rahimi"}]},"title":"Patterns of Code-to-Test Co-evolution for Automated Test Suite Maintenance.","venue":"ICST","pages":"116-127","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ShimmiR22","doi":"10.1109/ICST53961.2022.00023","ee":"https://doi.org/10.1109/ICST53961.2022.00023","url":"https://dblp.org/rec/conf/icst/ShimmiR22"},
+"url":"URL#1778635"
+},
+{
+"@score":"1",
+"@id":"1778639",
+"info":{"authors":{"author":[{"@pid":"73/157","text":"Rachel Tzoref-Brill"},{"@pid":"13/1472","text":"Saurabh Sinha"},{"@pid":"292/2884","text":"Antonio Abu Nassar"},{"@pid":"322/0191","text":"Victoria Goldin"},{"@pid":"57/5283","text":"Haim Kermany"}]},"title":"TackleTest: A Tool for Amplifying Test Generation via Type-Based Combinatorial Coverage.","venue":"ICST","pages":"444-455","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Tzoref-BrillSNG22","doi":"10.1109/ICST53961.2022.00050","ee":"https://doi.org/10.1109/ICST53961.2022.00050","url":"https://dblp.org/rec/conf/icst/Tzoref-BrillSNG22"},
+"url":"URL#1778639"
+},
+{
+"@score":"1",
+"@id":"1778643",
+"info":{"authors":{"author":{"@pid":"37/573","text":"Tuba Yavuz"}},"title":"SIFT: A Tool for Property Directed Symbolic Execution of Multithreaded Software.","venue":"ICST","pages":"433-443","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Yavuz22","doi":"10.1109/ICST53961.2022.00049","ee":"https://doi.org/10.1109/ICST53961.2022.00049","url":"https://dblp.org/rec/conf/icst/Yavuz22"},
+"url":"URL#1778643"
+},
+{
+"@score":"1",
+"@id":"1778644",
+"info":{"authors":{"author":[{"@pid":"241/2412","text":"Juyeon Yoon"},{"@pid":"321/9882","text":"Seungjoon Chung"},{"@pid":"274/7925","text":"Kihyuck Shin"},{"@pid":"99/6681","text":"Jinhan Kim"},{"@pid":"28/7539","text":"Shin Hong"},{"@pid":"06/1626","text":"Shin Yoo"}]},"title":"Repairing Fragile GUI Test Cases Using Word and Layout Embedding.","venue":"ICST","pages":"291-301","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/YoonCSKHY22","doi":"10.1109/ICST53961.2022.00038","ee":"https://doi.org/10.1109/ICST53961.2022.00038","url":"https://dblp.org/rec/conf/icst/YoonCSKHY22"},
+"url":"URL#1778644"
+},
+{
+"@score":"1",
+"@id":"1778645",
+"info":{"authors":{"author":[{"@pid":"147/2984","text":"Hengbiao Yu"},{"@pid":"146/9119","text":"Banghu Yin"},{"@pid":"60/8079","text":"Xin Yi"}]},"title":"Symbolic Verification of Message Signatures in MPI.","venue":"ICST","pages":"185-195","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/YuYY22","doi":"10.1109/ICST53961.2022.00029","ee":"https://doi.org/10.1109/ICST53961.2022.00029","url":"https://dblp.org/rec/conf/icst/YuYY22"},
+"url":"URL#1778645"
+},
+{
+"@score":"1",
+"@id":"1778646",
+"info":{"authors":{"author":[{"@pid":"309/6215","text":"Louise Zetterlund"},{"@pid":"255/6042","text":"Deepika Tiwari"},{"@pid":"62/5292","text":"Martin Monperrus"},{"@pid":"57/3320","text":"Benoit Baudry"}]},"title":"Harvesting Production GraphQL Queries to Detect Schema Faults.","venue":"ICST","pages":"365-376","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ZetterlundTMB22","doi":"10.1109/ICST53961.2022.00014","ee":"https://doi.org/10.1109/ICST53961.2022.00014","url":"https://dblp.org/rec/conf/icst/ZetterlundTMB22"},
+"url":"URL#1778646"
+},
+{
+"@score":"1",
+"@id":"1778648",
+"info":{"authors":{"author":[{"@pid":"49/5096-1","text":"Man Zhang 0001"},{"@pid":"139/2185","text":"Asma Belhadi"},{"@pid":"59/2858","text":"Andrea Arcuri"}]},"title":"JavaScript Instrumentation for Search-Based Software Testing: A Study with RESTful APIs.","venue":"ICST","pages":"105-115","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/ZhangBA22","doi":"10.1109/ICST53961.2022.00022","ee":"https://doi.org/10.1109/ICST53961.2022.00022","url":"https://dblp.org/rec/conf/icst/ZhangBA22"},
+"url":"URL#1778648"
+},
+{
+"@score":"1",
+"@id":"1778649",
+"info":{"authors":{"author":{"@pid":"75/3989","text":"Daniel Zimmermann"}},"title":"Automated GUI-based Software-Testing Using Deep Neuroevolution.","venue":"ICST","pages":"477-479","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icst/Zimmermann22","doi":"10.1109/ICST53961.2022.00060","ee":"https://doi.org/10.1109/ICST53961.2022.00060","url":"https://dblp.org/rec/conf/icst/Zimmermann22"},
+"url":"URL#1778649"
+},
+{
+"@score":"1",
+"@id":"1860389",
+"info":{"title":"15th IEEE Conference on Software Testing, Verification and Validation, ICST 2022, Valencia, Spain, April 4-14, 2022","venue":"ICST","publisher":"IEEE","year":"2022","type":"Editorship","key":"conf/icst/2022","doi":"10.1109/ICST53961.2022","ee":"https://doi.org/10.1109/ICST53961.2022","url":"https://dblp.org/rec/conf/icst/2022"},
+"url":"URL#1860389"
+}
+]
+}
+}
+}

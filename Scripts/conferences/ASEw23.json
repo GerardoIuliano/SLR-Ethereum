@@ -1,0 +1,206 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/kbse/ase2023w.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"3.79"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"29",
+"@dc":"29",
+"@oc":"29",
+"@id":"49831207",
+"text":":facetid:toc:db/conf/kbse/ase2023w.bht"
+}
+},
+"hits":{
+"@total":"29",
+"@computed":"29",
+"@sent":"29",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1297441",
+"info":{"authors":{"author":[{"@pid":"354/6191","text":"Alexandre Abreu"},{"@pid":"118/5967","text":"Nuno Macedo 0001"},{"@pid":"26/7495","text":"Alexandra Mendes"}]},"title":"Exploring Automatic Specification Repair in Dafny Programs.","venue":"ASEW","pages":"105-112","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AbreuMM23","doi":"10.1109/ASEW60602.2023.00019","ee":"https://doi.org/10.1109/ASEW60602.2023.00019","url":"https://dblp.org/rec/conf/kbse/AbreuMM23"},
+"url":"URL#1297441"
+},
+{
+"@score":"1",
+"@id":"1297443",
+"info":{"authors":{"author":[{"@pid":"88/932","text":"Issam Al-Azzoni"},{"@pid":"78/4883","text":"Reiko Heckel"}]},"title":"Modelling Multi-Party Role-Based Access Control Policies for iContractML Smart Contracts.","venue":"ASEW","pages":"100-104","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlAzzoniH23","doi":"10.1109/ASEW60602.2023.00018","ee":"https://doi.org/10.1109/ASEW60602.2023.00018","url":"https://dblp.org/rec/conf/kbse/AlAzzoniH23"},
+"url":"URL#1297443"
+},
+{
+"@score":"1",
+"@id":"1297444",
+"info":{"authors":{"author":[{"@pid":"360/7523","text":"João Cambaia De Almeida"},{"@pid":"84/5384","text":"Fernando Brito e Abreu"},{"@pid":"381/0970","text":"Duarte Sampaio de Almeida"}]},"title":"Cross-Platform Mobile App Development: The IscteSpots experience.","venue":"ASEW","pages":"11-16","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlmeidaAA23","doi":"10.1109/ASEW60602.2023.00006","ee":"https://doi.org/10.1109/ASEW60602.2023.00006","url":"https://dblp.org/rec/conf/kbse/AlmeidaAA23"},
+"url":"URL#1297444"
+},
+{
+"@score":"1",
+"@id":"1297448",
+"info":{"authors":{"author":[{"@pid":"121/0133","text":"Michael Auer"},{"@pid":"74/2259","text":"Gordon Fraser 0001"}]},"title":"Exploring Android Apps Using Motif Actions.","venue":"ASEW","pages":"135-142","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AuerF23","doi":"10.1109/ASEW60602.2023.00023","ee":"https://doi.org/10.1109/ASEW60602.2023.00023","url":"https://dblp.org/rec/conf/kbse/AuerF23"},
+"url":"URL#1297448"
+},
+{
+"@score":"1",
+"@id":"1297449",
+"info":{"authors":{"author":[{"@pid":"21/1998","text":"Marco Autili"},{"@pid":"143/4024","text":"Alessio Bucaioni"},{"@pid":"282/8284","text":"Gianluca Filippone"},{"@pid":"81/5298","text":"Farnaz Fotrousi"},{"@pid":"360/7635","text":"Rim Saddem"},{"@pid":"168/2456","text":"Gian Luca Scoccia"}]},"title":"5th International Workshop on Automated and Verifiable Software System Development (ASYDE 2023).","venue":"ASEW","pages":"9-10","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AutiliBFFSS23","doi":"10.1109/ASEW60602.2023.00034","ee":"https://doi.org/10.1109/ASEW60602.2023.00034","url":"https://dblp.org/rec/conf/kbse/AutiliBFFSS23"},
+"url":"URL#1297449"
+},
+{
+"@score":"1",
+"@id":"1297450",
+"info":{"authors":{"author":[{"@pid":"21/1998","text":"Marco Autili"},{"@pid":"282/8284","text":"Gianluca Filippone"},{"@pid":"t/MassimoTivoli","text":"Massimo Tivoli"}]},"title":"Migrating from Monoliths to Microservices: Enforcing Correct Coordination.","venue":"ASEW","pages":"113-118","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AutiliFT23","doi":"10.1109/ASEW60602.2023.00020","ee":"https://doi.org/10.1109/ASEW60602.2023.00020","url":"https://dblp.org/rec/conf/kbse/AutiliFT23"},
+"url":"URL#1297450"
+},
+{
+"@score":"1",
+"@id":"1297467",
+"info":{"authors":{"author":[{"@pid":"48/6411","text":"Mohan Baruwal Chhetri"},{"@pid":"82/1364-4","text":"Xiao Liu 0004"},{"@pid":"00/10437","text":"Marthie Grobler"},{"@pid":"76/7114","text":"Thuong N. Hoang"},{"@pid":"r/KarenRenaud","text":"Karen Renaud"},{"@pid":"19/1006-2","text":"Chetan Arora 0002"}]},"title":"Report on the 4th Workshop on Human-Centric Software Engineering &amp; Cyber Security (HCSE&amp;CS 2023).","venue":"ASEW","pages":"1-2","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChhetriLGHRA23","doi":"10.1109/ASEW60602.2023.00033","ee":"https://doi.org/10.1109/ASEW60602.2023.00033","url":"https://dblp.org/rec/conf/kbse/ChhetriLGHRA23"},
+"url":"URL#1297467"
+},
+{
+"@score":"1",
+"@id":"1297470",
+"info":{"authors":{"author":[{"@pid":"280/5994","text":"Vincent Depassier"},{"@pid":"87/5890","text":"Romina Torres"}]},"title":"A Human-Centric Cyber Security Training Tool for Prioritizing MSNAs.","venue":"ASEW","pages":"54-61","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DepassierT23","doi":"10.1109/ASEW60602.2023.00012","ee":"https://doi.org/10.1109/ASEW60602.2023.00012","url":"https://dblp.org/rec/conf/kbse/DepassierT23"},
+"url":"URL#1297470"
+},
+{
+"@score":"1",
+"@id":"1297479",
+"info":{"authors":{"author":[{"@pid":"360/7426","text":"Vincent Frattaroli"},{"@pid":"42/4379","text":"Olivier Le Goaër"},{"@pid":"151/0701","text":"Olivier Philippot"}]},"title":"Ecological Impact of Native Versus Cross-Platform Mobile Apps: A Preliminary Study.","venue":"ASEW","pages":"3-8","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/FrattaroliGP23","doi":"10.1109/ASEW60602.2023.00005","ee":"https://doi.org/10.1109/ASEW60602.2023.00005","url":"https://dblp.org/rec/conf/kbse/FrattaroliGP23"},
+"url":"URL#1297479"
+},
+{
+"@score":"1",
+"@id":"1297482",
+"info":{"authors":{"author":[{"@pid":"360/7090","text":"Ruizhen Gu"},{"@pid":"94/5122","text":"José Miguel Rojas"}]},"title":"An Empirical Study on the Adoption of Scripted GUI Testing for Android Apps.","venue":"ASEW","pages":"179-182","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GuR23","doi":"10.1109/ASEW60602.2023.00030","ee":"https://doi.org/10.1109/ASEW60602.2023.00030","url":"https://dblp.org/rec/conf/kbse/GuR23"},
+"url":"URL#1297482"
+},
+{
+"@score":"1",
+"@id":"1297483",
+"info":{"authors":{"author":[{"@pid":"300/9123","text":"Édouard Guégain"},{"@pid":"33/3201","text":"Amir Taherkordi"},{"@pid":"00/9990","text":"Clément Quinton"}]},"title":"ICO: A Platform for Optimizing Highly Configurable Systems.","venue":"ASEW","pages":"62-67","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GuegainTQ23","doi":"10.1109/ASEW60602.2023.00013","ee":"https://doi.org/10.1109/ASEW60602.2023.00013","url":"https://dblp.org/rec/conf/kbse/GuegainTQ23"},
+"url":"URL#1297483"
+},
+{
+"@score":"1",
+"@id":"1297492",
+"info":{"authors":{"author":[{"@pid":"182/7376","text":"Haonan Hu"},{"@pid":"74/1932-11","text":"Yue Liu 0011"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"04/1044","text":"Yonghui Liu"},{"@pid":"23/7764-2","text":"Xiaoyu Sun 0002"},{"@pid":"140/7129","text":"Chakkrit Tantithamthavorn"},{"@pid":"53/2189-29","text":"Li Li 0029"}]},"title":"Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection.","venue":"ASEW","pages":"17-23","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HuLZLSTL23","doi":"10.1109/ASEW60602.2023.00007","ee":"https://doi.org/10.1109/ASEW60602.2023.00007","url":"https://dblp.org/rec/conf/kbse/HuLZLSTL23"},
+"url":"URL#1297492"
+},
+{
+"@score":"1",
+"@id":"1297501",
+"info":{"authors":{"author":{"@pid":"360/7465","text":"Fabian Jezuita"}},"title":"Improving AFLGo&apos;s Directed Fuzzing by Considering Indirect Function Calls.","venue":"ASEW","pages":"143-150","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Jezuita23","doi":"10.1109/ASEW60602.2023.00024","ee":"https://doi.org/10.1109/ASEW60602.2023.00024","url":"https://dblp.org/rec/conf/kbse/Jezuita23"},
+"url":"URL#1297501"
+},
+{
+"@score":"1",
+"@id":"1297515",
+"info":{"authors":{"author":[{"@pid":"174/8669","text":"Yavuz Köroglu"},{"@pid":"w/FranzWotawa","text":"Franz Wotawa"}]},"title":"Continuous Domain Input Abstraction and Fault Detection Capability in Combinatorial Testing.","venue":"ASEW","pages":"167-170","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KorogluW23","doi":"10.1109/ASEW60602.2023.00027","ee":"https://doi.org/10.1109/ASEW60602.2023.00027","url":"https://dblp.org/rec/conf/kbse/KorogluW23"},
+"url":"URL#1297515"
+},
+{
+"@score":"1",
+"@id":"1297560",
+"info":{"authors":{"author":[{"@pid":"251/7654","text":"Sri Harsha Mekala"},{"@pid":"04/4615","text":"Zubair A. Baig"},{"@pid":"140/7443","text":"Adnan Anwar"},{"@pid":"01/10456","text":"Naeem Syed"}]},"title":"DoS Attacks, Human Factors, and Evidence Extraction for the Industrial Internet of Things (IIoT) Paradigm.","venue":"ASEW","pages":"32-39","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MekalaBAS23","doi":"10.1109/ASEW60602.2023.00009","ee":"https://doi.org/10.1109/ASEW60602.2023.00009","url":"https://dblp.org/rec/conf/kbse/MekalaBAS23"},
+"url":"URL#1297560"
+},
+{
+"@score":"1",
+"@id":"1297561",
+"info":{"authors":{"author":[{"@pid":"350/1734","text":"Mashal Afzal Memon"},{"@pid":"168/2456","text":"Gian Luca Scoccia"},{"@pid":"21/1998","text":"Marco Autili"}]},"title":"Automated Negotiation - Preliminary Results of a Systematic Mapping Study.","venue":"ASEW","pages":"94-99","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MemonSA23","doi":"10.1109/ASEW60602.2023.00017","ee":"https://doi.org/10.1109/ASEW60602.2023.00017","url":"https://dblp.org/rec/conf/kbse/MemonSA23"},
+"url":"URL#1297561"
+},
+{
+"@score":"1",
+"@id":"1297574",
+"info":{"authors":{"author":[{"@pid":"208/7434","text":"Humphrey O. Obie"},{"@pid":"356/6808","text":"Juliet Ukwella"},{"@pid":"274/7598","text":"Kashumi Madampe"},{"@pid":"g/JohnCGrundy","text":"John C. Grundy"},{"@pid":"13/7475","text":"Mojtaba Shahin"}]},"title":"Towards an Understanding of Developers&apos; Perceptions of Transparency in Software Development: A Preliminary Study.","venue":"ASEW","pages":"40-45","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ObieUMGS23","doi":"10.1109/ASEW60602.2023.00010","ee":"https://doi.org/10.1109/ASEW60602.2023.00010","url":"https://dblp.org/rec/conf/kbse/ObieUMGS23"},
+"url":"URL#1297574"
+},
+{
+"@score":"1",
+"@id":"1297575",
+"info":{"authors":{"author":[{"@pid":"118/8800","text":"Jacques Ophoff"},{"@pid":"r/KarenRenaud","text":"Karen Vera Renaud"}]},"title":"Universal Design for Website Authentication: Views and Experiences of Senior Citizens.","venue":"ASEW","pages":"46-53","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/OphoffR23","doi":"10.1109/ASEW60602.2023.00011","ee":"https://doi.org/10.1109/ASEW60602.2023.00011","url":"https://dblp.org/rec/conf/kbse/OphoffR23"},
+"url":"URL#1297575"
+},
+{
+"@score":"1",
+"@id":"1297581",
+"info":{"authors":{"author":[{"@pid":"360/7175","text":"Vladislav Pikulin"},{"@pid":"203/3301","text":"Daiki Kubo"},{"@pid":"360/7349","text":"Kaveesha Nissanka"},{"@pid":"360/7142","text":"Sadeeptha Bandara"},{"@pid":"360/6940","text":"Muhammad A. Shamsiemon"},{"@pid":"360/7032","text":"Arissha Yasmin"},{"@pid":"164/7182","text":"Asangi Jayatilaka"},{"@pid":"162/9083","text":"Anuradha Madugalla"},{"@pid":"99/10608","text":"Tanjila Kanij"}]},"title":"Towards Developer-Centered Secure Coding Training.","venue":"ASEW","pages":"24-31","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PikulinKNBSYJMK23","doi":"10.1109/ASEW60602.2023.00008","ee":"https://doi.org/10.1109/ASEW60602.2023.00008","url":"https://dblp.org/rec/conf/kbse/PikulinKNBSYJMK23"},
+"url":"URL#1297581"
+},
+{
+"@score":"1",
+"@id":"1297585",
+"info":{"authors":{"author":[{"@pid":"251/1271","text":"Moeketsi Raselimo"},{"@pid":"55/4092","text":"Lars Grunske"},{"@pid":"27/3809-2","text":"Bernd Fischer 0002"}]},"title":"Static Test Case Prioritization Strategies for Grammar-Based Testing.","venue":"ASEW","pages":"151-158","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RaselimoGF23","doi":"10.1109/ASEW60602.2023.00025","ee":"https://doi.org/10.1109/ASEW60602.2023.00025","url":"https://dblp.org/rec/conf/kbse/RaselimoGF23"},
+"url":"URL#1297585"
+},
+{
+"@score":"1",
+"@id":"1297587",
+"info":{"authors":{"author":[{"@pid":"334/1386","text":"Mosab Rezaei"},{"@pid":"94/7413","text":"Hamed Alhoori"},{"@pid":"150/9109","text":"Mona Rahimi"}]},"title":"Test Case Recommendations with Distributed Representation of Code Syntactic Features.","venue":"ASEW","pages":"159-166","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RezaeiAR23","doi":"10.1109/ASEW60602.2023.00026","ee":"https://doi.org/10.1109/ASEW60602.2023.00026","url":"https://dblp.org/rec/conf/kbse/RezaeiAR23"},
+"url":"URL#1297587"
+},
+{
+"@score":"1",
+"@id":"1297589",
+"info":{"authors":{"author":[{"@pid":"360/7619","text":"Ioana-Claudia Rotaru"},{"@pid":"25/4766","text":"Andreea Vescan"}]},"title":"Test Case Prioritization Based on Neural Network Classification with Artifacts Traceability.","venue":"ASEW","pages":"78-87","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RotaruV23","doi":"10.1109/ASEW60602.2023.00015","ee":"https://doi.org/10.1109/ASEW60602.2023.00015","url":"https://dblp.org/rec/conf/kbse/RotaruV23"},
+"url":"URL#1297589"
+},
+{
+"@score":"1",
+"@id":"1297592",
+"info":{"authors":{"author":[{"@pid":"52/6989","text":"Sébastien Salva"},{"@pid":"306/6278","text":"Jarod Sue"}]},"title":"Automated Test Case Generation for Service Composition from Event Logs.","venue":"ASEW","pages":"127-134","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SalvaS23","doi":"10.1109/ASEW60602.2023.00022","ee":"https://doi.org/10.1109/ASEW60602.2023.00022","url":"https://dblp.org/rec/conf/kbse/SalvaS23"},
+"url":"URL#1297592"
+},
+{
+"@score":"1",
+"@id":"1297594",
+"info":{"authors":{"author":{"@pid":"168/2456","text":"Gian Luca Scoccia"}},"title":"Exploring Early Adopters&apos; Perceptions of ChatGPT as a Code Generation Tool.","venue":"ASEW","pages":"88-93","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Scoccia23","doi":"10.1109/ASEW60602.2023.00016","ee":"https://doi.org/10.1109/ASEW60602.2023.00016","url":"https://dblp.org/rec/conf/kbse/Scoccia23"},
+"url":"URL#1297594"
+},
+{
+"@score":"1",
+"@id":"1297617",
+"info":{"authors":{"author":[{"@pid":"25/4766","text":"Andreea Vescan"},{"@pid":"124/0924","text":"Radu Dan Gaceanu"},{"@pid":"347/8723","text":"Arnold Szederjesi-Dragomir"}]},"title":"Neural Network-Based Test Case Prioritization in Continuous Integration.","venue":"ASEW","pages":"68-77","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/VescanGS23","doi":"10.1109/ASEW60602.2023.00014","ee":"https://doi.org/10.1109/ASEW60602.2023.00014","url":"https://dblp.org/rec/conf/kbse/VescanGS23"},
+"url":"URL#1297617"
+},
+{
+"@score":"1",
+"@id":"1297632",
+"info":{"authors":{"author":{"@pid":"38/893","text":"Terrence Wong"}},"title":"Chouette: An Automated Cross-Platform UI Crawler for Improving App Quality.","venue":"ASEW","pages":"175-178","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Wong23","doi":"10.1109/ASEW60602.2023.00029","ee":"https://doi.org/10.1109/ASEW60602.2023.00029","url":"https://dblp.org/rec/conf/kbse/Wong23"},
+"url":"URL#1297632"
+},
+{
+"@score":"1",
+"@id":"1297675",
+"info":{"authors":{"author":[{"@pid":"75/3989","text":"Daniel Zimmermann"},{"@pid":"309/1850","text":"Patrick Deubel"},{"@pid":"51/1757","text":"Anne Koziolek"}]},"title":"Evaluating the Effectiveness of Neuroevolution for Automated GUI-Based Software Testing.","venue":"ASEW","pages":"119-126","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZimmermannDK23","doi":"10.1109/ASEW60602.2023.00021","ee":"https://doi.org/10.1109/ASEW60602.2023.00021","url":"https://dblp.org/rec/conf/kbse/ZimmermannDK23"},
+"url":"URL#1297675"
+},
+{
+"@score":"1",
+"@id":"1297676",
+"info":{"authors":{"author":[{"@pid":"75/3989","text":"Daniel Zimmermann"},{"@pid":"51/1757","text":"Anne Koziolek"}]},"title":"GUI-Based Software Testing: An Automated Approach Using GPT-4 and Selenium WebDriver.","venue":"ASEW","pages":"171-174","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZimmermannK23","doi":"10.1109/ASEW60602.2023.00028","ee":"https://doi.org/10.1109/ASEW60602.2023.00028","url":"https://dblp.org/rec/conf/kbse/ZimmermannK23"},
+"url":"URL#1297676"
+},
+{
+"@score":"1",
+"@id":"1355422",
+"info":{"title":"38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023 - Workshops, Luxembourg, September 11-15, 2023","venue":"ASEW","publisher":"IEEE","year":"2023","type":"Editorship","key":"conf/kbse/2023w","doi":"10.1109/ASEW60602.2023","ee":"https://doi.org/10.1109/ASEW60602.2023","url":"https://dblp.org/rec/conf/kbse/2023w"},
+"url":"URL#1355422"
+}
+]
+}
+}
+}

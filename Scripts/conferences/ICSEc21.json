@@ -1,0 +1,770 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icse/icse2021c.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"7.54"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"123",
+"@dc":"123",
+"@oc":"123",
+"@id":"49823044",
+"text":":facetid:toc:db/conf/icse/icse2021c.bht"
+}
+},
+"hits":{
+"@total":"123",
+"@computed":"123",
+"@sent":"123",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2252404",
+"info":{"authors":{"author":[{"@pid":"21/7271","text":"Alessio Ferrari 0001"},{"@pid":"32/3188-1","text":"Liping Zhao 0001"},{"@pid":"227/5241","text":"Waad Alhoshan"}]},"title":"NLP for Requirements Engineering: Tasks, Techniques, Tools, and Technologies.","venue":"ICSE","pages":"322-323","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/00010A21","doi":"10.1109/ICSE-COMPANION52605.2021.00137","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00137","url":"https://dblp.org/rec/conf/icse/00010A21"},
+"url":"URL#2252404"
+},
+{
+"@score":"1",
+"@id":"2252410",
+"info":{"authors":{"author":[{"@pid":"20/241-24","text":"Muhammad Usman 0024"},{"@pid":"214/0370","text":"Yannic Noller"},{"@pid":"03/4368","text":"Corina S. Pasareanu"},{"@pid":"126/5212","text":"Youcheng Sun"},{"@pid":"16/7856","text":"Divya Gopinath"}]},"title":"NEUROSPF: A Tool for the Symbolic Analysis of Neural Networks.","venue":"ICSE","pages":"25-28","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/0024NPSG21","doi":"10.1109/ICSE-COMPANION52605.2021.00027","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00027","url":"https://dblp.org/rec/conf/icse/0024NPSG21"},
+"url":"URL#2252410"
+},
+{
+"@score":"1",
+"@id":"2252411",
+"info":{"authors":{"author":[{"@pid":"145/7705","text":"Aniya Aggarwal"},{"@pid":"136/8639","text":"Samiulla Shaikh"},{"@pid":"11/7555","text":"Sandeep Hans"},{"@pid":"212/5345","text":"Swastik Haldar"},{"@pid":"14/1838","text":"Rema Ananthanarayanan"},{"@pid":"54/4272","text":"Diptikalyan Saha"}]},"title":"Testing Framework for Black-box AI Models.","venue":"ICSE","pages":"81-84","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AggarwalSHHAS21","doi":"10.1109/ICSE-COMPANION52605.2021.00041","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00041","url":"https://dblp.org/rec/conf/icse/AggarwalSHHAS21"},
+"url":"URL#2252411"
+},
+{
+"@score":"1",
+"@id":"2252417",
+"info":{"authors":{"author":{"@pid":"295/7772","text":"Reem Aleithan"}},"title":"Explainable Just-In-Time Bug Prediction: Are We There Yet?","venue":"ICSE","pages":"129-131","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Aleithan21","doi":"10.1109/ICSE-COMPANION52605.2021.00056","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00056","url":"https://dblp.org/rec/conf/icse/Aleithan21"},
+"url":"URL#2252417"
+},
+{
+"@score":"1",
+"@id":"2252420",
+"info":{"authors":{"author":[{"@pid":"285/5366","text":"Thibault Allançon"},{"@pid":"241/3970","text":"Antoine Pietri"},{"@pid":"53/2641","text":"Stefano Zacchiroli"}]},"title":"The Software Heritage Filesystem (SwhFS): Integrating Source Code Archival with Development.","venue":"ICSE","pages":"45-48","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AllanconPZ21","doi":"10.1109/ICSE-COMPANION52605.2021.00032","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00032","url":"https://dblp.org/rec/conf/icse/AllanconPZ21"},
+"url":"URL#2252420"
+},
+{
+"@score":"1",
+"@id":"2252422",
+"info":{"authors":{"author":[{"@pid":"243/5980","text":"Sumaya Almanee"},{"@pid":"294/0896","text":"Arda Ünal"},{"@pid":"31/1273","text":"Mathias Payer"},{"@pid":"06/6932","text":"Joshua Garcia"}]},"title":"Too Quiet in the Library: An Empirical Study of Security Updates in Android Apps&apos; Native Code.","venue":"ICSE","pages":"170","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AlmaneeUPG21a","doi":"10.1109/ICSE-COMPANION52605.2021.00072","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00072","url":"https://dblp.org/rec/conf/icse/AlmaneeUPG21a"},
+"url":"URL#2252422"
+},
+{
+"@score":"1",
+"@id":"2252423",
+"info":{"authors":{"author":{"@pid":"295/8063","text":"Washington Henrique de Carvalho Almeida"}},"title":"A Model using Agile Methodologies for Defining Metrics to be used by the Public Sector in Brazil to set Remuneration for Outsourced Software Development.","venue":"ICSE","pages":"272-274","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Almeida21","doi":"10.1109/ICSE-COMPANION52605.2021.00125","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00125","url":"https://dblp.org/rec/conf/icse/Almeida21"},
+"url":"URL#2252423"
+},
+{
+"@score":"1",
+"@id":"2252426",
+"info":{"authors":{"author":[{"@pid":"294/1258","text":"Abdulrahman Alshammari"},{"@pid":"294/1113","text":"Christopher Morris 0003"},{"@pid":"116/7598","text":"Michael Hilton"},{"@pid":"84/1826-1","text":"Jonathan Bell 0001"}]},"title":"FlakeFlagger: Predicting Flakiness Without Rerunning Tests.","venue":"ICSE","pages":"187","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Alshammari0H021","doi":"10.1109/ICSE-COMPANION52605.2021.00081","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00081","url":"https://dblp.org/rec/conf/icse/Alshammari0H021"},
+"url":"URL#2252426"
+},
+{
+"@score":"1",
+"@id":"2252429",
+"info":{"authors":{"author":[{"@pid":"179/3368","text":"Reem S. Alsuhaibani"},{"@pid":"38/10404","text":"Christian D. Newman"},{"@pid":"87/10404","text":"Michael John Decker"},{"@pid":"96/812","text":"Michael L. Collard"},{"@pid":"m/JonathanIMaletic","text":"Jonathan I. Maletic"}]},"title":"A Survey on Method Naming Standards: Questions and Responses Artifact.","venue":"ICSE","pages":"242-243","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AlsuhaibaniNDCM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00112","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00112","url":"https://dblp.org/rec/conf/icse/AlsuhaibaniNDCM21a"},
+"url":"URL#2252429"
+},
+{
+"@score":"1",
+"@id":"2252431",
+"info":{"authors":{"author":{"@pid":"295/8082","text":"Miguel Ángel Álvarez-García"}},"title":"Automation and Evaluation of Mutation Testing for the New C++ Standards.","venue":"ICSE","pages":"150-152","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Alvarez-Garcia21","doi":"10.1109/ICSE-COMPANION52605.2021.00063","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00063","url":"https://dblp.org/rec/conf/icse/Alvarez-Garcia21"},
+"url":"URL#2252431"
+},
+{
+"@score":"1",
+"@id":"2252433",
+"info":{"authors":{"author":[{"@pid":"186/6501","text":"Amit Seal Ami"},{"@pid":"222/2853","text":"Kaushal Kafle"},{"@pid":"136/8334","text":"Adwait Nadkarni"},{"@pid":"02/320","text":"Denys Poshyvanyk"},{"@pid":"151/7453","text":"Kevin Moran"}]},"title":"µSE: Mutation-Based Evaluation of Security-Focused Static Analysis Tools for Android.","venue":"ICSE","pages":"53-56","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AmiKNPM21","doi":"10.1109/ICSE-COMPANION52605.2021.00034","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00034","url":"https://dblp.org/rec/conf/icse/AmiKNPM21"},
+"url":"URL#2252433"
+},
+{
+"@score":"1",
+"@id":"2252444",
+"info":{"authors":{"author":[{"@pid":"212/5599","text":"Teodora Baluta"},{"@pid":"150/5333","text":"Zheng Leong Chua"},{"@pid":"129/1623","text":"Kuldeep S. Meel"},{"@pid":"90/105","text":"Prateek Saxena"}]},"title":"Scalable Quantitative Verification for Deep Neural Networks.","venue":"ICSE","pages":"248-249","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BalutaCMS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00115","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00115","url":"https://dblp.org/rec/conf/icse/BalutaCMS21a"},
+"url":"URL#2252444"
+},
+{
+"@score":"1",
+"@id":"2252446",
+"info":{"authors":{"author":[{"@pid":"182/9633","text":"Qinkun Bao"},{"@pid":"148/9655","text":"Zihao Wang"},{"@pid":"l/JamesRLarus","text":"James R. Larus"},{"@pid":"54/2696","text":"Dinghao Wu"}]},"title":"Abacus: A Tool for Precise Side-Channel Analysis.","venue":"ICSE","pages":"238-239","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BaoWLW21","doi":"10.1109/ICSE-COMPANION52605.2021.00110","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00110","url":"https://dblp.org/rec/conf/icse/BaoWLW21"},
+"url":"URL#2252446"
+},
+{
+"@score":"1",
+"@id":"2252450",
+"info":{"authors":{"author":{"@pid":"216/6227","text":"David Berend"}},"title":"Distribution Awareness for AI System Testing.","venue":"ICSE","pages":"96-98","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Berend21","doi":"10.1109/ICSE-COMPANION52605.2021.00045","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00045","url":"https://dblp.org/rec/conf/icse/Berend21"},
+"url":"URL#2252450"
+},
+{
+"@score":"1",
+"@id":"2252451",
+"info":{"authors":{"author":[{"@pid":"295/8248","text":"Gabriel Bessler"},{"@pid":"295/7949","text":"Josh Cordova"},{"@pid":"295/7903","text":"Shaheen Cullen-Baratloo"},{"@pid":"295/8205","text":"Sofiane Dissem"},{"@pid":"295/7891","text":"Emily Lu"},{"@pid":"295/8096","text":"Sofia Devin"},{"@pid":"295/8243","text":"Ibrahim Abughararh"},{"@pid":"130/1704","text":"Lucas Bang"}]},"title":"Metrinome: Path Complexity Predicts Symbolic Execution Path Explosion.","venue":"ICSE","pages":"29-32","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BesslerCCDLDAB21","doi":"10.1109/ICSE-COMPANION52605.2021.00028","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00028","url":"https://dblp.org/rec/conf/icse/BesslerCCDLDAB21"},
+"url":"URL#2252451"
+},
+{
+"@score":"1",
+"@id":"2252458",
+"info":{"authors":{"author":[{"@pid":"187/9149","text":"Larissa Braz"},{"@pid":"235/0216","text":"Enrico Fregnan"},{"@pid":"11/7657","text":"Gül Çalikli"},{"@pid":"83/5261","text":"Alberto Bacchelli"}]},"title":"Data and Materials for: Why Don&apos;t Developers Detect Improper Input Validation?&apos;; DROP TABLE Papers; -.","venue":"ICSE","pages":"203-204","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BrazFCB21a","doi":"10.1109/ICSE-COMPANION52605.2021.00090","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00090","url":"https://dblp.org/rec/conf/icse/BrazFCB21a"},
+"url":"URL#2252458"
+},
+{
+"@score":"1",
+"@id":"2252460",
+"info":{"authors":{"author":[{"@pid":"203/0017","text":"Simón Gutiérrez Brida"},{"@pid":"33/4870","text":"Germán Regis"},{"@pid":"233/7234","text":"Guolong Zheng"},{"@pid":"88/2247","text":"Hamid Bagheri"},{"@pid":"19/7057","text":"ThanhVu Nguyen"},{"@pid":"69/610","text":"Nazareno Aguirre"},{"@pid":"13/1323","text":"Marcelo F. Frias"}]},"title":"Artifact of Bounded Exhaustive Search of Alloy Specification Repairs.","venue":"ICSE","pages":"209-210","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BridaRZBNAF21a","doi":"10.1109/ICSE-COMPANION52605.2021.00093","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00093","url":"https://dblp.org/rec/conf/icse/BridaRZBNAF21a"},
+"url":"URL#2252460"
+},
+{
+"@score":"1",
+"@id":"2252467",
+"info":{"authors":{"author":[{"@pid":"200/9066","text":"Gemma Catolino"},{"@pid":"116/6732","text":"Fabio Palomba"},{"@pid":"29/4648","text":"Damian Andrew Tamburri"},{"@pid":"s/AlexanderSerebrenik","text":"Alexander Serebrenik"}]},"title":"Understanding Community Smells Variability: A Statistical Approach: Replication Package Instructions.","venue":"ICSE","pages":"196-197","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/CatolinoPTS21","doi":"10.1109/ICSE-COMPANION52605.2021.00086","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00086","url":"https://dblp.org/rec/conf/icse/CatolinoPTS21"},
+"url":"URL#2252467"
+},
+{
+"@score":"1",
+"@id":"2252471",
+"info":{"authors":{"author":{"@pid":"64/5715","text":"Yufeng Chen"}},"title":"NodeSRT: A Selective Regression Testing Tool for Node.js Application.","venue":"ICSE","pages":"126-128","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Chen21","doi":"10.1109/ICSE-COMPANION52605.2021.00055","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00055","url":"https://dblp.org/rec/conf/icse/Chen21"},
+"url":"URL#2252471"
+},
+{
+"@score":"1",
+"@id":"2252472",
+"info":{"authors":{"author":[{"@pid":"266/4499","text":"Binger Chen"},{"@pid":"38/8707","text":"Ziawasch Abedjan"}]},"title":"RPT: Effective and Efficient Retrieval of Program Translations from Big Code.","venue":"ICSE","pages":"252-253","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ChenA21","doi":"10.1109/ICSE-COMPANION52605.2021.00117","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00117","url":"https://dblp.org/rec/conf/icse/ChenA21"},
+"url":"URL#2252472"
+},
+{
+"@score":"1",
+"@id":"2252476",
+"info":{"authors":{"author":[{"@pid":"68/7033","text":"Christoph Mayr-Dorn"},{"@pid":"276/3324","text":"Stefan Bichler"},{"@pid":"276/3482","text":"Felix Keplinger"},{"@pid":"20/5529","text":"Alexander Egyed"}]},"title":"Guiding Engineers with the Passive Process Engine Environment.","venue":"ICSE","pages":"49-52","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ChristophSFA21","doi":"10.1109/ICSE-COMPANION52605.2021.00033","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00033","url":"https://dblp.org/rec/conf/icse/ChristophSFA21"},
+"url":"URL#2252476"
+},
+{
+"@score":"1",
+"@id":"2252479",
+"info":{"authors":{"author":[{"@pid":"210/7846","text":"Nathan Cooper"},{"@pid":"133/8133","text":"Carlos Bernal-Cárdenas"},{"@pid":"123/7738","text":"Oscar Chaparro"},{"@pid":"151/7453","text":"Kevin Moran"},{"@pid":"02/320","text":"Denys Poshyvanyk"}]},"title":"A Replication Package for It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports.","venue":"ICSE","pages":"160-161","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/CooperBCMP21a","doi":"10.1109/ICSE-COMPANION52605.2021.00067","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00067","url":"https://dblp.org/rec/conf/icse/CooperBCMP21a"},
+"url":"URL#2252479"
+},
+{
+"@score":"1",
+"@id":"2252480",
+"info":{"authors":{"author":{"@pid":"279/0113","text":"Francisco Handrick da Costa"}},"title":"On the Interplay Between Static and Dynamic Analysis for Mining Sandboxes.","venue":"ICSE","pages":"315-319","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Costa21","doi":"10.1109/ICSE-COMPANION52605.2021.00135","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00135","url":"https://dblp.org/rec/conf/icse/Costa21"},
+"url":"URL#2252480"
+},
+{
+"@score":"1",
+"@id":"2252482",
+"info":{"authors":{"author":[{"@pid":"153/5130","text":"Gwendal Daniel"},{"@pid":"18/948","text":"Jordi Cabot"}]},"title":"The Software Challenges of Building Smart Chatbots.","venue":"ICSE","pages":"324-325","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DanielC21","doi":"10.1109/ICSE-COMPANION52605.2021.00138","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00138","url":"https://dblp.org/rec/conf/icse/DanielC21"},
+"url":"URL#2252482"
+},
+{
+"@score":"1",
+"@id":"2252486",
+"info":{"authors":{"author":[{"@pid":"258/0786","text":"Utkarsh Desai"},{"@pid":"83/5000","text":"Giriprasad Sridhara"},{"@pid":"138/3209","text":"Srikanth Tamilselvam"}]},"title":"Advances in Code Summarization.","venue":"ICSE","pages":"330-331","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DesaiST21","doi":"10.1109/ICSE-COMPANION52605.2021.00141","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00141","url":"https://dblp.org/rec/conf/icse/DesaiST21"},
+"url":"URL#2252486"
+},
+{
+"@score":"1",
+"@id":"2252488",
+"info":{"authors":{"author":[{"@pid":"189/6251","text":"Tapajit Dey"},{"@pid":"256/6143","text":"Andrey Karnauch"},{"@pid":"79/6124","text":"Audris Mockus"}]},"title":"Replication Package for Representation of Developer Expertise in Open Source Software.","venue":"ICSE","pages":"236-237","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DeyKM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00109","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00109","url":"https://dblp.org/rec/conf/icse/DeyKM21a"},
+"url":"URL#2252488"
+},
+{
+"@score":"1",
+"@id":"2252492",
+"info":{"authors":{"author":[{"@pid":"286/5283","text":"Swaroopa Dola"},{"@pid":"d/MatthewBDwyer","text":"Matthew B. Dwyer"},{"@pid":"s/MaryLouSoffa","text":"Mary Lou Soffa"}]},"title":"Artifact: Distribution-Aware Testing of Neural Networks Using Generative Models.","venue":"ICSE","pages":"205-206","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DolaDS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00091","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00091","url":"https://dblp.org/rec/conf/icse/DolaDS21a"},
+"url":"URL#2252492"
+},
+{
+"@score":"1",
+"@id":"2252493",
+"info":{"authors":{"author":[{"@pid":"72/6497","text":"Francisco Durán 0001"},{"@pid":"198/4936","text":"Ajay Krishna 0001"},{"@pid":"78/7396","text":"Michel Le Pallec"},{"@pid":"11/4980","text":"Radu Mateescu 0001"},{"@pid":"86/2766","text":"Gwen Salaün"}]},"title":"R-MOZART: A Reconfiguration Tool for WebThings Applications.","venue":"ICSE","pages":"41-44","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Duran0P0S21","doi":"10.1109/ICSE-COMPANION52605.2021.00031","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00031","url":"https://dblp.org/rec/conf/icse/Duran0P0S21"},
+"url":"URL#2252493"
+},
+{
+"@score":"1",
+"@id":"2252494",
+"info":{"authors":{"author":{"@pid":"183/0542","text":"Omar Elazhary"}},"title":"Investigating the Interplay between Developers and Automation.","venue":"ICSE","pages":"153-155","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Elazhary21","doi":"10.1109/ICSE-COMPANION52605.2021.00064","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00064","url":"https://dblp.org/rec/conf/icse/Elazhary21"},
+"url":"URL#2252494"
+},
+{
+"@score":"1",
+"@id":"2252496",
+"info":{"authors":{"author":{"@pid":"190/1215","text":"Sarah Elder"}},"title":"Vulnerability Detection is Just the Beginning.","venue":"ICSE","pages":"304-308","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Elder21","doi":"10.1109/ICSE-COMPANION52605.2021.00133","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00133","url":"https://dblp.org/rec/conf/icse/Elder21"},
+"url":"URL#2252496"
+},
+{
+"@score":"1",
+"@id":"2252501",
+"info":{"authors":{"author":[{"@pid":"216/8359","text":"Saad Ezzini"},{"@pid":"146/0408","text":"Sallam Abualhaija"},{"@pid":"19/1006-2","text":"Chetan Arora 0002"},{"@pid":"25/6367","text":"Mehrdad Sabetzadeh"},{"@pid":"93/1501","text":"Lionel C. Briand"}]},"title":"MAANA: An Automated Tool for DoMAin-Specific HANdling of Ambiguity.","venue":"ICSE","pages":"188-189","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/EzziniA0SB21a","doi":"10.1109/ICSE-COMPANION52605.2021.00082","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00082","url":"https://dblp.org/rec/conf/icse/EzziniA0SB21a"},
+"url":"URL#2252501"
+},
+{
+"@score":"1",
+"@id":"2252502",
+"info":{"authors":{"author":[{"@pid":"217/3729","text":"Sarah Fakhoury"},{"@pid":"242/2132","text":"Devjeet Roy"},{"@pid":"295/8184","text":"Harry Pines"},{"@pid":"295/7913","text":"Tyler Cleveland"},{"@pid":"239/9475","text":"Cole S. Peterson"},{"@pid":"45/5572","text":"Venera Arnaoudova"},{"@pid":"08/3315","text":"Bonita Sharif"},{"@pid":"m/JonathanIMaletic","text":"Jonathan I. Maletic"}]},"title":"gazel: Supporting Source Code Edits in Eye-Tracking Studies.","venue":"ICSE","pages":"69-72","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/FakhouryRPCPASM21","doi":"10.1109/ICSE-COMPANION52605.2021.00038","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00038","url":"https://dblp.org/rec/conf/icse/FakhouryRPCPASM21"},
+"url":"URL#2252502"
+},
+{
+"@score":"1",
+"@id":"2252509",
+"info":{"authors":{"author":[{"@pid":"201/2972","text":"Armstrong Foundjem"},{"@pid":"177/0479","text":"Ellis E. Eghan"},{"@pid":"98/6356","text":"Bram Adams"}]},"title":"An Open Dataset for Onboarding new Contributors: Empirical Study of OpenStack Ecosystem.","venue":"ICSE","pages":"240-241","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/FoundjemEA21a","doi":"10.1109/ICSE-COMPANION52605.2021.00111","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00111","url":"https://dblp.org/rec/conf/icse/FoundjemEA21a"},
+"url":"URL#2252509"
+},
+{
+"@score":"1",
+"@id":"2252515",
+"info":{"authors":{"author":{"@pid":"291/2680","text":"Aitor Gartziandia"}},"title":"Microservice-Based Performance Problem Detection in Cyber-Physical System Software Updates.","venue":"ICSE","pages":"147-149","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Gartziandia21","doi":"10.1109/ICSE-COMPANION52605.2021.00062","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00062","url":"https://dblp.org/rec/conf/icse/Gartziandia21"},
+"url":"URL#2252515"
+},
+{
+"@score":"1",
+"@id":"2252522",
+"info":{"authors":{"author":[{"@pid":"93/11109","text":"Rahul Gopinath"},{"@pid":"127/4008","text":"Hamed Nemati"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"Replication Package for Input Algebras.","venue":"ICSE","pages":"219","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GopinathNZ21a","doi":"10.1109/ICSE-COMPANION52605.2021.00098","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00098","url":"https://dblp.org/rec/conf/icse/GopinathNZ21a"},
+"url":"URL#2252522"
+},
+{
+"@score":"1",
+"@id":"2252527",
+"info":{"authors":{"author":[{"@pid":"294/1324","text":"Felix Grund"},{"@pid":"122/3522","text":"Shaiful Alam Chowdhury"},{"@pid":"222/5882","text":"Nick C. Bradley"},{"@pid":"289/0232","text":"Braxton Hall"},{"@pid":"18/1889","text":"Reid Holmes"}]},"title":"CodeShovel: A Reusable and Available Tool for Extracting Source Code Histories.","venue":"ICSE","pages":"221-222","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GrundCBHH21a","doi":"10.1109/ICSE-COMPANION52605.2021.00100","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00100","url":"https://dblp.org/rec/conf/icse/GrundCBHH21a"},
+"url":"URL#2252527"
+},
+{
+"@score":"1",
+"@id":"2252531",
+"info":{"authors":{"author":[{"@pid":"148/4898","text":"Giovani Guizzo"},{"@pid":"23/8779","text":"Justyna Petke"},{"@pid":"18/7526","text":"Federica Sarro"},{"@pid":"h/MarkHarman","text":"Mark Harman"}]},"title":"Artifact for Enhancing Genetic Improvement of Software with Regression Test Selection.","venue":"ICSE","pages":"220","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GuizzoPSH21a","doi":"10.1109/ICSE-COMPANION52605.2021.00099","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00099","url":"https://dblp.org/rec/conf/icse/GuizzoPSH21a"},
+"url":"URL#2252531"
+},
+{
+"@score":"1",
+"@id":"2252537",
+"info":{"authors":{"author":[{"@pid":"262/9440","text":"Stefanus A. Haryono"},{"@pid":"07/10158","text":"Ferdian Thung"},{"@pid":"89/6793-1","text":"David Lo 0001"},{"@pid":"82/3572","text":"Lingxiao Jiang"},{"@pid":"l/JuliaLLawall","text":"Julia Lawall"},{"@pid":"190/7414","text":"Hong Jin Kang"},{"@pid":"262/9475","text":"Lucas Serrano"},{"@pid":"27/4405","text":"Gilles Muller"}]},"title":"AndroEvolve: Automated Update for Android Deprecated-API Usages.","venue":"ICSE","pages":"1-4","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HaryonoT0JLKSM21","doi":"10.1109/ICSE-COMPANION52605.2021.00021","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00021","url":"https://dblp.org/rec/conf/icse/HaryonoT0JLKSM21"},
+"url":"URL#2252537"
+},
+{
+"@score":"1",
+"@id":"2252539",
+"info":{"authors":{"author":[{"@pid":"57/4288","text":"Hideaki Hata"},{"@pid":"64/7675","text":"Raula Gaikovina Kula"},{"@pid":"66/39","text":"Takashi Ishio"},{"@pid":"29/1074","text":"Christoph Treude"}]},"title":"Research Artifact: The Potential of Meta-Maintenance on GitHub.","venue":"ICSE","pages":"192-193","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HataKIT21a","doi":"10.1109/ICSE-COMPANION52605.2021.00084","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00084","url":"https://dblp.org/rec/conf/icse/HataKIT21a"},
+"url":"URL#2252539"
+},
+{
+"@score":"1",
+"@id":"2252540",
+"info":{"authors":{"author":[{"@pid":"287/4336","text":"Madeleine Havranek"},{"@pid":"133/8133","text":"Carlos Bernal-Cárdenas"},{"@pid":"210/7846","text":"Nathan Cooper"},{"@pid":"123/7738","text":"Oscar Chaparro"},{"@pid":"02/320","text":"Denys Poshyvanyk"},{"@pid":"151/7453","text":"Kevin Moran"}]},"title":"V2S: A Tool for Translating Video Recordings of Mobile App Usages into Replayable Scenarios.","venue":"ICSE","pages":"65-68","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HavranekBCCPM21","doi":"10.1109/ICSE-COMPANION52605.2021.00037","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00037","url":"https://dblp.org/rec/conf/icse/HavranekBCCPM21"},
+"url":"URL#2252540"
+},
+{
+"@score":"1",
+"@id":"2252543",
+"info":{"authors":{"author":[{"@pid":"18/813-12","text":"Hao He 0012"},{"@pid":"22/583","text":"Yulin Xu"},{"@pid":"73/1713","text":"Xiao Cheng"},{"@pid":"10/8523","text":"Guangtai Liang"},{"@pid":"07/4732-1","text":"Minghui Zhou 0001"}]},"title":"MigrationAdvisor: Recommending Library Migrations from Large-Scale Open-Source Data.","venue":"ICSE","pages":"9-12","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HeXCLZ21","doi":"10.1109/ICSE-COMPANION52605.2021.00023","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00023","url":"https://dblp.org/rec/conf/icse/HeXCLZ21"},
+"url":"URL#2252543"
+},
+{
+"@score":"1",
+"@id":"2252545",
+"info":{"authors":{"author":[{"@pid":"230/1294","text":"Xincheng He"},{"@pid":"19/360-3","text":"Lei Xu 0003"},{"@pid":"95/3760-1","text":"Xiangyu Zhang 0001"},{"@pid":"02/7131","text":"Rui Hao"},{"@pid":"07/6095-3","text":"Yang Feng 0003"},{"@pid":"46/5742","text":"Baowen Xu"}]},"title":"PyART: Python API Recommendation in Real-Time.","venue":"ICSE","pages":"246-247","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HeXZHFX21a","doi":"10.1109/ICSE-COMPANION52605.2021.00114","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00114","url":"https://dblp.org/rec/conf/icse/HeXZHFX21a"},
+"url":"URL#2252545"
+},
+{
+"@score":"1",
+"@id":"2252547",
+"info":{"authors":{"author":[{"@pid":"217/1922","text":"Jordan Henkel"},{"@pid":"278/0406","text":"Denini Silva"},{"@pid":"62/8372","text":"Leopoldo Teixeira"},{"@pid":"16/608","text":"Marcelo d&apos;Amorim"},{"@pid":"r/TWReps","text":"Thomas W. Reps"}]},"title":"Shipwright: A Human-in-the-Loop System for Dockerfile Repair.","venue":"ICSE","pages":"198-199","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HenkelSTdR21a","doi":"10.1109/ICSE-COMPANION52605.2021.00087","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00087","url":"https://dblp.org/rec/conf/icse/HenkelSTdR21a"},
+"url":"URL#2252547"
+},
+{
+"@score":"1",
+"@id":"2252549",
+"info":{"authors":{"author":{"@pid":"158/8506","text":"Robert Heumüller"}},"title":"Learning to Boost the Efficiency of Modern Code Review.","venue":"ICSE","pages":"275-277","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Heumuller21","doi":"10.1109/ICSE-COMPANION52605.2021.00126","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00126","url":"https://dblp.org/rec/conf/icse/Heumuller21"},
+"url":"URL#2252549"
+},
+{
+"@score":"1",
+"@id":"2252550",
+"info":{"authors":{"author":{"@pid":"33/4346","text":"Rashina Hoda"}},"title":"Decoding Grounded Theory for Software Engineering.","venue":"ICSE","pages":"326-327","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Hoda21","doi":"10.1109/ICSE-COMPANION52605.2021.00139","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00139","url":"https://dblp.org/rec/conf/icse/Hoda21"},
+"url":"URL#2252550"
+},
+{
+"@score":"1",
+"@id":"2252555",
+"info":{"authors":{"author":[{"@pid":"86/2055","text":"Sungjae Hwang"},{"@pid":"21/1162","text":"Sungho Lee"},{"@pid":"51/4060","text":"Jihoon Kim"},{"@pid":"03/2760","text":"Sukyoung Ryu"}]},"title":"JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs.","venue":"ICSE","pages":"171-172","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HwangLKR21a","doi":"10.1109/ICSE-COMPANION52605.2021.00073","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00073","url":"https://dblp.org/rec/conf/icse/HwangLKR21a"},
+"url":"URL#2252555"
+},
+{
+"@score":"1",
+"@id":"2252564",
+"info":{"authors":{"author":[{"@pid":"223/4525","text":"Xianhao Jin"},{"@pid":"22/10607","text":"Francisco Servant"}]},"title":"CIBench: A Dataset and Collection of Techniques for Build and Test Selection and Prioritization in Continuous Integration.","venue":"ICSE","pages":"166-167","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/JinS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00070","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00070","url":"https://dblp.org/rec/conf/icse/JinS21a"},
+"url":"URL#2252564"
+},
+{
+"@score":"1",
+"@id":"2252566",
+"info":{"authors":{"author":[{"@pid":"179/5471","text":"An Ju"},{"@pid":"77/10504","text":"Hitesh Sajnani"},{"@pid":"287/4532","text":"Scot Kelly"},{"@pid":"32/7057","text":"Kim Herzig"}]},"title":"Research Tools, Survey Responses, and Interview Analysis from a Case Study of Onboarding Software Teams at Microsoft.","venue":"ICSE","pages":"224","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/JuSKH21a","doi":"10.1109/ICSE-COMPANION52605.2021.00102","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00102","url":"https://dblp.org/rec/conf/icse/JuSKH21a"},
+"url":"URL#2252566"
+},
+{
+"@score":"1",
+"@id":"2252569",
+"info":{"authors":{"author":{"@pid":"243/3156","text":"Mehdi Keshani"}},"title":"Scalable Call Graph Constructor for Maven.","venue":"ICSE","pages":"99-101","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Keshani21","doi":"10.1109/ICSE-COMPANION52605.2021.00046","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00046","url":"https://dblp.org/rec/conf/icse/Keshani21"},
+"url":"URL#2252569"
+},
+{
+"@score":"1",
+"@id":"2252577",
+"info":{"authors":{"author":{"@pid":"267/2504","text":"Nina Körber"}},"title":"Anomaly Detection in Scratch Assignments.","venue":"ICSE","pages":"111-113","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Korber21","doi":"10.1109/ICSE-COMPANION52605.2021.00050","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00050","url":"https://dblp.org/rec/conf/icse/Korber21"},
+"url":"URL#2252577"
+},
+{
+"@score":"1",
+"@id":"2252580",
+"info":{"authors":{"author":[{"@pid":"254/7656","text":"Yigit Küçük"},{"@pid":"133/4679","text":"Tim A. D. Henderson"},{"@pid":"86/795","text":"Andy Podgurski"}]},"title":"Artifact for Improving Fault Localization by Integrating Value and Predicate Based Causal Inference Techniques.","venue":"ICSE","pages":"181-182","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/KucukHP21a","doi":"10.1109/ICSE-COMPANION52605.2021.00078","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00078","url":"https://dblp.org/rec/conf/icse/KucukHP21a"},
+"url":"URL#2252580"
+},
+{
+"@score":"1",
+"@id":"2252584",
+"info":{"authors":{"author":{"@pid":"242/4566","text":"Viet-Man Le"}},"title":"Group Recommendation Techniques for Feature Modeling and Configuration.","venue":"ICSE","pages":"266-268","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Le21","doi":"10.1109/ICSE-COMPANION52605.2021.00123","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00123","url":"https://dblp.org/rec/conf/icse/Le21"},
+"url":"URL#2252584"
+},
+{
+"@score":"1",
+"@id":"2252591",
+"info":{"authors":{"author":{"@pid":"83/5144","text":"Junjie Li"}},"title":"A Better Approach to Track the Evolution of Static Code Warnings.","venue":"ICSE","pages":"135-137","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Li21","doi":"10.1109/ICSE-COMPANION52605.2021.00058","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00058","url":"https://dblp.org/rec/conf/icse/Li21"},
+"url":"URL#2252591"
+},
+{
+"@score":"1",
+"@id":"2252596",
+"info":{"authors":{"author":[{"@pid":"06/721-7","text":"Wen Li 0007"},{"@pid":"60/6376","text":"Na Meng 0001"},{"@pid":"53/2189-29","text":"Li Li 0029"},{"@pid":"117/7062","text":"Haipeng Cai"}]},"title":"Understanding Language Selection in Multi-language Software Projects on GitHub.","venue":"ICSE","pages":"256-257","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LiM0C21","doi":"10.1109/ICSE-COMPANION52605.2021.00119","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00119","url":"https://dblp.org/rec/conf/icse/LiM0C21"},
+"url":"URL#2252596"
+},
+{
+"@score":"1",
+"@id":"2252597",
+"info":{"authors":{"author":[{"@pid":"260/6811","text":"Jintang Li"},{"@pid":"29/6948","text":"Kun Xu"},{"@pid":"01/5394-1","text":"Liang Chen 0001"},{"@pid":"z/ZibinZheng","text":"Zibin Zheng"},{"@pid":"82/1364-4","text":"Xiao Liu 0004"}]},"title":"GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software.","venue":"ICSE","pages":"13-16","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LiXCZL21","doi":"10.1109/ICSE-COMPANION52605.2021.00024","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00024","url":"https://dblp.org/rec/conf/icse/LiXCZL21"},
+"url":"URL#2252597"
+},
+{
+"@score":"1",
+"@id":"2252600",
+"info":{"authors":{"author":[{"@pid":"78/2101","text":"Jinkun Lin"},{"@pid":"45/8399","text":"Shaowei Cai 0001"},{"@pid":"64/2272","text":"Bing He"},{"@pid":"21/3023","text":"Yingjie Fu"},{"@pid":"98/10657-2","text":"Chuan Luo 0002"},{"@pid":"120/0743","text":"Qingwei Lin"}]},"title":"FastCA: An Effective and Efficient Tool for Combinatorial Covering Array Generation.","venue":"ICSE","pages":"77-80","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LinCHFLL21","doi":"10.1109/ICSE-COMPANION52605.2021.00040","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00040","url":"https://dblp.org/rec/conf/icse/LinCHFLL21"},
+"url":"URL#2252600"
+},
+{
+"@score":"1",
+"@id":"2252602",
+"info":{"authors":{"author":[{"@pid":"225/3671","text":"Xuanyi Lin"},{"@pid":"267/8144","text":"Zedong Peng"},{"@pid":"65/4493","text":"Nan Niu"},{"@pid":"95/5409-3","text":"Wentao Wang 0003"},{"@pid":"93/4010-3","text":"Hui Liu 0003"}]},"title":"Finding Metamorphic Relations for Scientific Software.","venue":"ICSE","pages":"254-255","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LinPNWL21","doi":"10.1109/ICSE-COMPANION52605.2021.00118","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00118","url":"https://dblp.org/rec/conf/icse/LinPNWL21"},
+"url":"URL#2252602"
+},
+{
+"@score":"1",
+"@id":"2252604",
+"info":{"authors":{"author":{"@pid":"186/0772","text":"Changlin Liu"}},"title":"ProMal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning.","venue":"ICSE","pages":"144-146","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Liu21","doi":"10.1109/ICSE-COMPANION52605.2021.00061","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00061","url":"https://dblp.org/rec/conf/icse/Liu21"},
+"url":"URL#2252604"
+},
+{
+"@score":"1",
+"@id":"2252617",
+"info":{"authors":{"author":[{"@pid":"294/1239","text":"Amir Makhshari"},{"@pid":"72/4471-1","text":"Ali Mesbah 0001"}]},"title":"IoT Development In The Wild: Bug Taxonomy and Developer Challenges.","venue":"ICSE","pages":"225-226","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Makhshari021a","doi":"10.1109/ICSE-COMPANION52605.2021.00103","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00103","url":"https://dblp.org/rec/conf/icse/Makhshari021a"},
+"url":"URL#2252617"
+},
+{
+"@score":"1",
+"@id":"2252619",
+"info":{"authors":{"author":[{"@pid":"m/ShaharMaoz","text":"Shahar Maoz"},{"@pid":"04/7076","text":"Jan Oliver Ringert"}]},"title":"Reactive Synthesis with Spectra: A Tutorial.","venue":"ICSE","pages":"320-321","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MaozR21","doi":"10.1109/ICSE-COMPANION52605.2021.00136","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00136","url":"https://dblp.org/rec/conf/icse/MaozR21"},
+"url":"URL#2252619"
+},
+{
+"@score":"1",
+"@id":"2252621",
+"info":{"authors":{"author":[{"@pid":"m/ShaharMaoz","text":"Shahar Maoz"},{"@pid":"43/8047","text":"Rafi Shalom"}]},"title":"Unrealizable Cores for Reactive Systems Specifications: Artifact.","venue":"ICSE","pages":"217-218","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MaozS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00097","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00097","url":"https://dblp.org/rec/conf/icse/MaozS21a"},
+"url":"URL#2252621"
+},
+{
+"@score":"1",
+"@id":"2252631",
+"info":{"authors":{"author":{"@pid":"246/4742","text":"Raul Medeiros"}},"title":"Unburdening Onboarding in Software Product Lines.","venue":"ICSE","pages":"260-262","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Medeiros21","doi":"10.1109/ICSE-COMPANION52605.2021.00121","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00121","url":"https://dblp.org/rec/conf/icse/Medeiros21"},
+"url":"URL#2252631"
+},
+{
+"@score":"1",
+"@id":"2252636",
+"info":{"authors":{"author":[{"@pid":"121/2789","text":"Claudio Menghi"},{"@pid":"275/3780","text":"Enrico Viganò"},{"@pid":"b/DomenicoBianculli","text":"Domenico Bianculli"},{"@pid":"93/1501","text":"Lionel C. Briand"}]},"title":"ThEodorE: a Trace Checker for CPS Properties.","venue":"ICSE","pages":"183-184","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MenghiVBB21a","doi":"10.1109/ICSE-COMPANION52605.2021.00079","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00079","url":"https://dblp.org/rec/conf/icse/MenghiVBB21a"},
+"url":"URL#2252636"
+},
+{
+"@score":"1",
+"@id":"2252639",
+"info":{"authors":{"author":[{"@pid":"241/4759","text":"Courtney Miller"},{"@pid":"145/4090","text":"Paige Rodeghero"},{"@pid":"s/MargaretAnneDStorey","text":"Margaret-Anne D. Storey"},{"@pid":"166/1017","text":"Denae Ford"},{"@pid":"19/3622-1","text":"Thomas Zimmermann 0001"}]},"title":"Survey Instruments for &quot;How Was Your Weekend?&quot; Software Development Teams Working from Home During COVID-19.","venue":"ICSE","pages":"223","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MillerRSF021a","doi":"10.1109/ICSE-COMPANION52605.2021.00101","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00101","url":"https://dblp.org/rec/conf/icse/MillerRSF021a"},
+"url":"URL#2252639"
+},
+{
+"@score":"1",
+"@id":"2252640",
+"info":{"authors":{"author":{"@pid":"207/9516","text":"Agustín Mista"}},"title":"MUTAGEN: Faster Mutation-Based Random Testing.","venue":"ICSE","pages":"120-122","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Mista21","doi":"10.1109/ICSE-COMPANION52605.2021.00053","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00053","url":"https://dblp.org/rec/conf/icse/Mista21"},
+"url":"URL#2252640"
+},
+{
+"@score":"1",
+"@id":"2252641",
+"info":{"authors":{"author":{"@pid":"27/9551","text":"Armin Moin"}},"title":"Data Analytics and Machine Learning Methods, Techniques and Tool for Model-Driven Engineering of Smart IoT Services.","venue":"ICSE","pages":"287-292","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Moin21","doi":"10.1109/ICSE-COMPANION52605.2021.00130","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00130","url":"https://dblp.org/rec/conf/icse/Moin21"},
+"url":"URL#2252641"
+},
+{
+"@score":"1",
+"@id":"2252644",
+"info":{"authors":{"author":[{"@pid":"189/6361","text":"Facundo Molina"},{"@pid":"80/6093","text":"Pablo Ponzio"},{"@pid":"69/610","text":"Nazareno Aguirre"},{"@pid":"13/1323","text":"Marcelo F. Frias"}]},"title":"EvoSpex: An Evolutionary Algorithm for Learning Postconditions (artifact).","venue":"ICSE","pages":"185-186","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MolinaPAF21a","doi":"10.1109/ICSE-COMPANION52605.2021.00080","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00080","url":"https://dblp.org/rec/conf/icse/MolinaPAF21a"},
+"url":"URL#2252644"
+},
+{
+"@score":"1",
+"@id":"2252645",
+"info":{"authors":{"author":{"@pid":"290/1569","text":"Luciano de Aguiar Monteiro"}},"title":"A Proposal to Systematize Introducing DevOps into the Software Development Process.","venue":"ICSE","pages":"269-271","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Monteiro21","doi":"10.1109/ICSE-COMPANION52605.2021.00124","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00124","url":"https://dblp.org/rec/conf/icse/Monteiro21"},
+"url":"URL#2252645"
+},
+{
+"@score":"1",
+"@id":"2252649",
+"info":{"authors":{"author":{"@pid":"44/6242","text":"Manish Motwani"}},"title":"High-Quality Automated Program Repair.","venue":"ICSE","pages":"309-314","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Motwani21","doi":"10.1109/ICSE-COMPANION52605.2021.00134","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00134","url":"https://dblp.org/rec/conf/icse/Motwani21"},
+"url":"URL#2252649"
+},
+{
+"@score":"1",
+"@id":"2252651",
+"info":{"authors":{"author":[{"@pid":"143/2688","text":"Rashmi Mudduluru"},{"@pid":"294/1334","text":"Jason Waataja"},{"@pid":"153/5835","text":"Suzanne Millstein"},{"@pid":"e/MDErnst","text":"Michael D. Ernst"}]},"title":"Verifying Determinism in Sequential Programs.","venue":"ICSE","pages":"213-214","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MudduluruWME21a","doi":"10.1109/ICSE-COMPANION52605.2021.00095","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00095","url":"https://dblp.org/rec/conf/icse/MudduluruWME21a"},
+"url":"URL#2252651"
+},
+{
+"@score":"1",
+"@id":"2252659",
+"info":{"authors":{"author":[{"@pid":"278/0436","text":"KimHao Nguyen"},{"@pid":"19/7057","text":"ThanhVu Nguyen"}]},"title":"Artifact for &quot;GenTree: Using Decision Trees to Learn Interactions for Configurable Software&quot;.","venue":"ICSE","pages":"177-178","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NguyenN21a","doi":"10.1109/ICSE-COMPANION52605.2021.00076","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00076","url":"https://dblp.org/rec/conf/icse/NguyenN21a"},
+"url":"URL#2252659"
+},
+{
+"@score":"1",
+"@id":"2252661",
+"info":{"authors":{"author":[{"@pid":"202/1480","text":"Ansong Ni"},{"@pid":"15/1367","text":"Daniel Ramos"},{"@pid":"243/2592","text":"Aidan Z. H. Yang"},{"@pid":"94/3399","text":"Inês Lynce"},{"@pid":"57/1074","text":"Vasco Manquinho"},{"@pid":"14/8296","text":"Ruben Martins"},{"@pid":"93/4573","text":"Claire Le Goues"}]},"title":"Replication of SOAR: A Synthesis Approach for Data Science API Refactoring.","venue":"ICSE","pages":"190-191","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NiRYLMMG21a","doi":"10.1109/ICSE-COMPANION52605.2021.00083","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00083","url":"https://dblp.org/rec/conf/icse/NiRYLMMG21a"},
+"url":"URL#2252661"
+},
+{
+"@score":"1",
+"@id":"2252663",
+"info":{"authors":{"author":[{"@pid":"223/2712-1","text":"Pengyu Nie 0001"},{"@pid":"54/6008","text":"Karl Palmskog"},{"@pid":"148/9553","text":"Junyi Jessy Li"},{"@pid":"43/6015","text":"Milos Gligoric 0001"}]},"title":"Roosterize: Suggesting Lemma Names for Coq Verification Projects Using Deep Learning.","venue":"ICSE","pages":"21-24","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NiePLG21","doi":"10.1109/ICSE-COMPANION52605.2021.00026","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00026","url":"https://dblp.org/rec/conf/icse/NiePLG21"},
+"url":"URL#2252663"
+},
+{
+"@score":"1",
+"@id":"2252665",
+"info":{"authors":{"author":[{"@pid":"205/6706","text":"Benjamin Barslev Nielsen"},{"@pid":"222/7658","text":"Martin Toldam Torp"},{"@pid":"55/6739","text":"Anders Møller"}]},"title":"Semantic Patches for Adaptation of JavaScript Programs to Evolving Libraries.","venue":"ICSE","pages":"229","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NielsenTM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00105","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00105","url":"https://dblp.org/rec/conf/icse/NielsenTM21a"},
+"url":"URL#2252665"
+},
+{
+"@score":"1",
+"@id":"2252674",
+"info":{"authors":{"author":[{"@pid":"144/4242","text":"Jihyeok Park"},{"@pid":"282/5695","text":"Seungmin An"},{"@pid":"285/4769","text":"Dongjun Youn"},{"@pid":"285/5328","text":"Gyeongwon Kim"},{"@pid":"03/2760","text":"Sukyoung Ryu"}]},"title":"JEST: N+1-Version Differential Testing of Both JavaScript Engines and Specification.","venue":"ICSE","pages":"156-157","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ParkAYKR21a","doi":"10.1109/ICSE-COMPANION52605.2021.00065","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00065","url":"https://dblp.org/rec/conf/icse/ParkAYKR21a"},
+"url":"URL#2252674"
+},
+{
+"@score":"1",
+"@id":"2252677",
+"info":{"authors":{"author":[{"@pid":"172/1727","text":"Rajshakhar Paul"},{"@pid":"274/6992","text":"Asif Kamal Turzo"},{"@pid":"18/11159","text":"Amiangshu Bosu"}]},"title":"A Dataset of Vulnerable Code Changes of the Chromium OS Project.","venue":"ICSE","pages":"244-245","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/PaulTB21a","doi":"10.1109/ICSE-COMPANION52605.2021.00113","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00113","url":"https://dblp.org/rec/conf/icse/PaulTB21a"},
+"url":"URL#2252677"
+},
+{
+"@score":"1",
+"@id":"2252679",
+"info":{"authors":{"author":[{"@pid":"120/4147","text":"Norman Peitek"},{"@pid":"a/SvenApel","text":"Sven Apel"},{"@pid":"46/2873","text":"Chris Parnin"},{"@pid":"82/6574","text":"André Brechmann"},{"@pid":"88/7055","text":"Janet Siegmund"}]},"title":"Program Comprehension and Code Complexity Metrics: A Replication Package of an fMRI Study.","venue":"ICSE","pages":"168-169","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/PeitekAPBS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00071","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00071","url":"https://dblp.org/rec/conf/icse/PeitekAPBS21a"},
+"url":"URL#2252679"
+},
+{
+"@score":"1",
+"@id":"2252680",
+"info":{"authors":{"author":{"@pid":"295/8226","text":"Carlos Diego Cavalcanti Pereira"}},"title":"A Functional Paradigm for Capacity Planning of Cloud Computing Workloads.","venue":"ICSE","pages":"281-283","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Pereira21","doi":"10.1109/ICSE-COMPANION52605.2021.00128","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00128","url":"https://dblp.org/rec/conf/icse/Pereira21"},
+"url":"URL#2252680"
+},
+{
+"@score":"1",
+"@id":"2252681",
+"info":{"authors":{"author":[{"@pid":"207/7193","text":"Sara Pérez-Soler"},{"@pid":"75/4962","text":"Esther Guerra"},{"@pid":"l/JuandeLara","text":"Juan de Lara"}]},"title":"Creating and Migrating Chatbots with Conga.","venue":"ICSE","pages":"37-40","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Perez-SolerGL21","doi":"10.1109/ICSE-COMPANION52605.2021.00030","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00030","url":"https://dblp.org/rec/conf/icse/Perez-SolerGL21"},
+"url":"URL#2252681"
+},
+{
+"@score":"1",
+"@id":"2252684",
+"info":{"authors":{"author":[{"@pid":"287/4329","text":"Matt Pope"},{"@pid":"78/6446","text":"Jonathan Sillito"}]},"title":"Quartermaster: A Tool for Modeling and Simulating System Degradation.","venue":"ICSE","pages":"57-60","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/PopeS21","doi":"10.1109/ICSE-COMPANION52605.2021.00035","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00035","url":"https://dblp.org/rec/conf/icse/PopeS21"},
+"url":"URL#2252684"
+},
+{
+"@score":"1",
+"@id":"2252689",
+"info":{"authors":{"author":{"@pid":"153/4246-1","text":"Pooja Rani 0001"}},"title":"Speculative Analysis for Quality Assessment of Code Comments.","venue":"ICSE","pages":"299-303","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Rani21","doi":"10.1109/ICSE-COMPANION52605.2021.00132","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00132","url":"https://dblp.org/rec/conf/icse/Rani21"},
+"url":"URL#2252689"
+},
+{
+"@score":"1",
+"@id":"2252691",
+"info":{"authors":{"author":[{"@pid":"238/0237","text":"Frédéric Recoules"},{"@pid":"b/SebastienBardin","text":"Sébastien Bardin"},{"@pid":"75/3724","text":"Richard Bonichon"},{"@pid":"86/636","text":"Matthieu Lemerre"},{"@pid":"07/2632","text":"Laurent Mounier"},{"@pid":"37/5694","text":"Marie-Laure Potet"}]},"title":"RUSTInA: Automatically Checking and Patching Inline Assembly Interface Compliance (Artifact Evaluation): Accepted submission #992 - &quot;Interface Compliance of Inline Assembly: Automatically Check, Patch and Refine&quot;.","venue":"ICSE","pages":"201-202","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/RecoulesBBLMP21a","doi":"10.1109/ICSE-COMPANION52605.2021.00089","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00089","url":"https://dblp.org/rec/conf/icse/RecoulesBBLMP21a"},
+"url":"URL#2252691"
+},
+{
+"@score":"1",
+"@id":"2252696",
+"info":{"authors":{"author":[{"@pid":"276/3272","text":"Alan Romano"},{"@pid":"276/3557","text":"Zihe Song"},{"@pid":"278/0658","text":"Sampath Grandhi"},{"@pid":"03/1094-13","text":"Wei Yang 0013"},{"@pid":"57/7210-1","text":"Weihang Wang 0001"}]},"title":"UI-Based Flaky Tests Dataset.","venue":"ICSE","pages":"234-235","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/RomanoSGYW21a","doi":"10.1109/ICSE-COMPANION52605.2021.00108","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00108","url":"https://dblp.org/rec/conf/icse/RomanoSGYW21a"},
+"url":"URL#2252696"
+},
+{
+"@score":"1",
+"@id":"2252698",
+"info":{"authors":{"author":{"@pid":"246/4773","text":"Kamil Rosiak"}},"title":"Extractive Multi Product-Line Engineering.","venue":"ICSE","pages":"263-265","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Rosiak21","doi":"10.1109/ICSE-COMPANION52605.2021.00122","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00122","url":"https://dblp.org/rec/conf/icse/Rosiak21"},
+"url":"URL#2252698"
+},
+{
+"@score":"1",
+"@id":"2252699",
+"info":{"authors":{"author":[{"@pid":"188/8181","text":"C. M. Khaled Saifullah"},{"@pid":"88/9972","text":"Muhammad Asaduzzaman"},{"@pid":"03/5761","text":"Chanchal K. Roy"}]},"title":"COSTER: A Tool for Finding Fully Qualified Names of API Elements in Online Code Snippets.","venue":"ICSE","pages":"73-76","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SaifullahAR21","doi":"10.1109/ICSE-COMPANION52605.2021.00039","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00039","url":"https://dblp.org/rec/conf/icse/SaifullahAR21"},
+"url":"URL#2252699"
+},
+{
+"@score":"1",
+"@id":"2252702",
+"info":{"authors":{"author":[{"@pid":"243/2569","text":"Vitalis Salis"},{"@pid":"234/7643","text":"Thodoris Sotiropoulos"},{"@pid":"63/5819","text":"Panos Louridas"},{"@pid":"s/DiomidisSpinellis","text":"Diomidis Spinellis"},{"@pid":"29/8061","text":"Dimitris Mitropoulos"}]},"title":"A Replication Package for PyCG: Practical Call Graph Generation in Python.","venue":"ICSE","pages":"200","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SalisSLSM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00088","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00088","url":"https://dblp.org/rec/conf/icse/SalisSLSM21a"},
+"url":"URL#2252702"
+},
+{
+"@score":"1",
+"@id":"2252704",
+"info":{"authors":{"author":[{"@pid":"267/9338","text":"Jordan Samhi"},{"@pid":"72/11467","text":"Alexandre Bartel"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"},{"@pid":"k/JacquesKlein","text":"Jacques Klein"}]},"title":"A Partial Replication of &quot;RAICC: Revealing Atypical Inter-Component Communication in Android Apps&quot;.","venue":"ICSE","pages":"207-208","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SamhiBBK21a","doi":"10.1109/ICSE-COMPANION52605.2021.00092","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00092","url":"https://dblp.org/rec/conf/icse/SamhiBBK21a"},
+"url":"URL#2252704"
+},
+{
+"@score":"1",
+"@id":"2252710",
+"info":{"authors":{"author":{"@pid":"295/8332","text":"Jinyang Shao"}},"title":"Testing Object Detection for Autonomous Driving Systems via 3D Reconstruction.","venue":"ICSE","pages":"117-119","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Shao21","doi":"10.1109/ICSE-COMPANION52605.2021.00052","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00052","url":"https://dblp.org/rec/conf/icse/Shao21"},
+"url":"URL#2252710"
+},
+{
+"@score":"1",
+"@id":"2252711",
+"info":{"authors":{"author":{"@pid":"84/11310","text":"Fei Shao"}},"title":"WebEvo: Taming Web Application Evolution via Semantic Structure Change Detection.","venue":"ICSE","pages":"141-143","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Shao21a","doi":"10.1109/ICSE-COMPANION52605.2021.00060","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00060","url":"https://dblp.org/rec/conf/icse/Shao21a"},
+"url":"URL#2252711"
+},
+{
+"@score":"1",
+"@id":"2252716",
+"info":{"authors":{"author":[{"@pid":"202/8415","text":"David Shriver"},{"@pid":"e/SebastianGElbaum","text":"Sebastian G. Elbaum"},{"@pid":"d/MatthewBDwyer","text":"Matthew B. Dwyer"}]},"title":"Artifact: Reducing DNN Properties to Enable Falsification with Adversarial Attacks.","venue":"ICSE","pages":"162-163","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ShriverED21a","doi":"10.1109/ICSE-COMPANION52605.2021.00068","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00068","url":"https://dblp.org/rec/conf/icse/ShriverED21a"},
+"url":"URL#2252716"
+},
+{
+"@score":"1",
+"@id":"2252720",
+"info":{"authors":{"author":[{"@pid":"242/6247","text":"Devika Sondhi"},{"@pid":"294/1121","text":"Avyakt Gupta"},{"@pid":"294/1048","text":"Salil Purandare"},{"@pid":"188/3630","text":"Ankit Rana"},{"@pid":"294/1256","text":"Deepanshu Kaushal"},{"@pid":"65/5006","text":"Rahul Purandare"}]},"title":"Dataset to Study Indirectly Dependent Documentation in GitHub Repositories.","venue":"ICSE","pages":"215-216","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SondhiGPRKP21a","doi":"10.1109/ICSE-COMPANION52605.2021.00096","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00096","url":"https://dblp.org/rec/conf/icse/SondhiGPRKP21a"},
+"url":"URL#2252720"
+},
+{
+"@score":"1",
+"@id":"2252723",
+"info":{"authors":{"author":[{"@pid":"62/1539-3","text":"Wei Song 0003"},{"@pid":"194/7004","text":"Mengqi Han"},{"@pid":"68/4706-1","text":"Jeff Huang 0001"}]},"title":"IMGDroid: A Static Analyzer for Detecting Image Loading Defects in Android Applications.","venue":"ICSE","pages":"164-165","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SongH021a","doi":"10.1109/ICSE-COMPANION52605.2021.00069","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00069","url":"https://dblp.org/rec/conf/icse/SongH021a"},
+"url":"URL#2252723"
+},
+{
+"@score":"1",
+"@id":"2252725",
+"info":{"authors":{"author":[{"@pid":"234/7643","text":"Thodoris Sotiropoulos"},{"@pid":"248/8003","text":"Stefanos Chaliasos"},{"@pid":"117/6972","text":"Vaggelis Atlidakis"},{"@pid":"29/8061","text":"Dimitris Mitropoulos"},{"@pid":"s/DiomidisSpinellis","text":"Diomidis Spinellis"}]},"title":"Replication Package for Article: Data-Oriented Differential Testing of Object-Relational Mapping Systems.","venue":"ICSE","pages":"194-195","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SotiropoulosCAM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00085","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00085","url":"https://dblp.org/rec/conf/icse/SotiropoulosCAM21a"},
+"url":"URL#2252725"
+},
+{
+"@score":"1",
+"@id":"2252727",
+"info":{"authors":{"author":{"@pid":"295/8020","text":"Jingling Sun"}},"title":"SetDroid: Detecting User-Configurable Setting Issues of Android Apps via Metamorphic Fuzzing.","venue":"ICSE","pages":"108-110","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Sun21","doi":"10.1109/ICSE-COMPANION52605.2021.00049","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00049","url":"https://dblp.org/rec/conf/icse/Sun21"},
+"url":"URL#2252727"
+},
+{
+"@score":"1",
+"@id":"2252729",
+"info":{"authors":{"author":[{"@pid":"72/7683-1","text":"Ruoxi Sun 0001"},{"@pid":"35/7092-334","text":"Wei Wang 0334"},{"@pid":"166/1912","text":"Minhui Xue 0001"},{"@pid":"85/85","text":"Gareth Tyson"},{"@pid":"55/3548","text":"Seyit Camtepe"},{"@pid":"56/8102","text":"Damith C. Ranasinghe"}]},"title":"An Empirical Assessment of Global COVID-19 Contact Tracing Applications.","venue":"ICSE","pages":"173-174","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SunWXTCR21a","doi":"10.1109/ICSE-COMPANION52605.2021.00074","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00074","url":"https://dblp.org/rec/conf/icse/SunWXTCR21a"},
+"url":"URL#2252729"
+},
+{
+"@score":"1",
+"@id":"2252731",
+"info":{"authors":{"author":[{"@pid":"285/1619","text":"Stan Swanborn"},{"@pid":"35/1083","text":"Ivano Malavolta"}]},"title":"Robot Runner: A Tool for Automatically Executing Experiments on Robotics Software.","venue":"ICSE","pages":"33-36","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SwanbornM21","doi":"10.1109/ICSE-COMPANION52605.2021.00029","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00029","url":"https://dblp.org/rec/conf/icse/SwanbornM21"},
+"url":"URL#2252731"
+},
+{
+"@score":"1",
+"@id":"2252735",
+"info":{"authors":{"author":[{"@pid":"167/0208","text":"Valerio Terragni"},{"@pid":"183/0177","text":"Gunel Jahangirova"},{"@pid":"54/2734","text":"Paolo Tonella"},{"@pid":"98/6514","text":"Mauro Pezzè"}]},"title":"GAssert: A Fully Automated Tool to Improve Assertion Oracles.","venue":"ICSE","pages":"85-88","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/TerragniJTP21","doi":"10.1109/ICSE-COMPANION52605.2021.00042","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00042","url":"https://dblp.org/rec/conf/icse/TerragniJTP21"},
+"url":"URL#2252735"
+},
+{
+"@score":"1",
+"@id":"2252736",
+"info":{"authors":{"author":{"@pid":"246/4716","text":"Ananga Thapaliya"}},"title":"Effect on Brain Activity while Programming with (without) Music.","venue":"ICSE","pages":"93-95","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Thapaliya21","doi":"10.1109/ICSE-COMPANION52605.2021.00044","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00044","url":"https://dblp.org/rec/conf/icse/Thapaliya21"},
+"url":"URL#2252736"
+},
+{
+"@score":"1",
+"@id":"2252737",
+"info":{"authors":{"author":{"@pid":"203/9585","text":"Deyu Tian"}},"title":"Detecting User-Perceived Failure in Mobile Applications via Mining User Traces.","venue":"ICSE","pages":"123-125","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Tian21","doi":"10.1109/ICSE-COMPANION52605.2021.00054","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00054","url":"https://dblp.org/rec/conf/icse/Tian21"},
+"url":"URL#2252737"
+},
+{
+"@score":"1",
+"@id":"2252738",
+"info":{"authors":{"author":{"@pid":"85/3621","text":"Rafael Toledo"}},"title":"Interactive Graph Exploration for Comprehension of Static Analysis Results.","venue":"ICSE","pages":"284-286","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Toledo21","doi":"10.1109/ICSE-COMPANION52605.2021.00129","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00129","url":"https://dblp.org/rec/conf/icse/Toledo21"},
+"url":"URL#2252738"
+},
+{
+"@score":"1",
+"@id":"2252739",
+"info":{"authors":{"author":[{"@pid":"52/972","text":"Richard Torkar"},{"@pid":"78/6422","text":"Carlo A. Furia"},{"@pid":"97/831","text":"Robert Feldt"}]},"title":"Bayesian Data Analysis for Software Engineering.","venue":"ICSE","pages":"328-329","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/TorkarFF21","doi":"10.1109/ICSE-COMPANION52605.2021.00140","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00140","url":"https://dblp.org/rec/conf/icse/TorkarFF21"},
+"url":"URL#2252739"
+},
+{
+"@score":"1",
+"@id":"2252740",
+"info":{"authors":{"author":{"@pid":"166/2138","text":"Bianca Trinkenreich"}},"title":"Please Don&apos;t Go - Increasing Women&apos;s Participation in Open Source Software.","venue":"ICSE","pages":"138-140","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Trinkenreich21","doi":"10.1109/ICSE-COMPANION52605.2021.00059","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00059","url":"https://dblp.org/rec/conf/icse/Trinkenreich21"},
+"url":"URL#2252740"
+},
+{
+"@score":"1",
+"@id":"2252741",
+"info":{"authors":{"author":{"@pid":"166/2138","text":"Bianca Trinkenreich"}},"title":"Please Don&apos;t Go - A Comprehensive Approach to Increase Women&apos;s Participation in Open Source Software.","venue":"ICSE","pages":"293-298","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Trinkenreich21a","doi":"10.1109/ICSE-COMPANION52605.2021.00131","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00131","url":"https://dblp.org/rec/conf/icse/Trinkenreich21a"},
+"url":"URL#2252741"
+},
+{
+"@score":"1",
+"@id":"2252742",
+"info":{"authors":{"author":[{"@pid":"217/6951","text":"Michael Alexander Tröls"},{"@pid":"27/5485","text":"Atif Mashkoor"},{"@pid":"20/5529","text":"Alexander Egyed"}]},"title":"Team-Oriented Consistency Checking of Heterogeneous Engineering Artifacts.","venue":"ICSE","pages":"250-251","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/TrolsME21","doi":"10.1109/ICSE-COMPANION52605.2021.00116","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00116","url":"https://dblp.org/rec/conf/icse/TrolsME21"},
+"url":"URL#2252742"
+},
+{
+"@score":"1",
+"@id":"2252744",
+"info":{"authors":{"author":[{"@pid":"236/4840","text":"Andrew Truelove"},{"@pid":"a/EduardoSantanadeAlmeida","text":"Eduardo Santana de Almeida"},{"@pid":"57/5553","text":"Iftekhar Ahmed 0001"}]},"title":"We&apos;ll Fix it in Post: What Do Bug Fixes in Video Game Update Notes Tell Us?","venue":"ICSE","pages":"258-259","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/TrueloveA021a","doi":"10.1109/ICSE-COMPANION52605.2021.00120","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00120","url":"https://dblp.org/rec/conf/icse/TrueloveA021a"},
+"url":"URL#2252744"
+},
+{
+"@score":"1",
+"@id":"2252747",
+"info":{"authors":{"author":[{"@pid":"286/1500","text":"Aparna Vadlamani"},{"@pid":"286/1785","text":"Rishitha Kalicheti"},{"@pid":"76/1783","text":"Sridhar Chimalakonda"}]},"title":"APIScanner - Towards Automated Detection of Deprecated APIs in Python Libraries.","venue":"ICSE","pages":"5-8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/VadlamaniKC21","doi":"10.1109/ICSE-COMPANION52605.2021.00022","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00022","url":"https://dblp.org/rec/conf/icse/VadlamaniKC21"},
+"url":"URL#2252747"
+},
+{
+"@score":"1",
+"@id":"2252748",
+"info":{"authors":{"author":[{"@pid":"224/8958","text":"Ville Vakkuri"},{"@pid":"224/8748","text":"Kai-Kristian Kemell"},{"@pid":"71/5809","text":"Pekka Abrahamsson"}]},"title":"Technical Briefing: Hands-On Session on the Development of Trustworthy AI Software.","venue":"ICSE","pages":"332-333","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/VakkuriKA21","doi":"10.1109/ICSE-COMPANION52605.2021.00142","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00142","url":"https://dblp.org/rec/conf/icse/VakkuriKA21"},
+"url":"URL#2252748"
+},
+{
+"@score":"1",
+"@id":"2252749",
+"info":{"authors":{"author":{"@pid":"246/5342","text":"Olivia Rodríguez-Valdés"}},"title":"Towards a Testing Tool that Learns to Test.","venue":"ICSE","pages":"278-280","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Valdes21","doi":"10.1109/ICSE-COMPANION52605.2021.00127","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00127","url":"https://dblp.org/rec/conf/icse/Valdes21"},
+"url":"URL#2252749"
+},
+{
+"@score":"1",
+"@id":"2252750",
+"info":{"authors":{"author":{"@pid":"283/3421","text":"Pablo Valle"}},"title":"Metamorphic Testing of Autonomous Vehicles: A Case Study on Simulink.","venue":"ICSE","pages":"105-107","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Valle21","doi":"10.1109/ICSE-COMPANION52605.2021.00048","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00048","url":"https://dblp.org/rec/conf/icse/Valle21"},
+"url":"URL#2252750"
+},
+{
+"@score":"1",
+"@id":"2252753",
+"info":{"authors":{"author":{"@pid":"228/7035","text":"Elisabet Lobo Vesga"}},"title":"Let&apos;s not Make a Fuzz about it.","venue":"ICSE","pages":"114-116","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Vesga21","doi":"10.1109/ICSE-COMPANION52605.2021.00051","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00051","url":"https://dblp.org/rec/conf/icse/Vesga21"},
+"url":"URL#2252753"
+},
+{
+"@score":"1",
+"@id":"2252759",
+"info":{"authors":{"author":[{"@pid":"11/7182","text":"Zhiyuan Wan"},{"@pid":"06/2072-1","text":"Xin Xia 0001"},{"@pid":"89/6793-1","text":"David Lo 0001"},{"@pid":"181/3422","text":"Jiachi Chen"},{"@pid":"53/1565","text":"Xiapu Luo"},{"@pid":"95/6761","text":"Xiaohu Yang 0001"}]},"title":"Smart Contract Security: A Practitioners&apos; Perspective: The Artifact of a Paper Accepted in the 43rd IEEE/ACM International Conference on Software Engineering (ICSE 2021).","venue":"ICSE","pages":"227-228","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Wan00CLY21a","doi":"10.1109/ICSE-COMPANION52605.2021.00104","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00104","url":"https://dblp.org/rec/conf/icse/Wan00CLY21a"},
+"url":"URL#2252759"
+},
+{
+"@score":"1",
+"@id":"2252761",
+"info":{"authors":{"author":[{"@pid":"183/4488","text":"Chengcheng Wan 0001"},{"@pid":"231/6618","text":"Shicheng Liu"},{"@pid":"h/HenryHoffmann","text":"Henry Hoffmann"},{"@pid":"73/1498","text":"Michael Maire"},{"@pid":"31/5916-1","text":"Shan Lu 0001"}]},"title":"A Replication of Are Machine Learning Cloud APIs Used Correctly.","venue":"ICSE","pages":"158-159","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/WanLHM021a","doi":"10.1109/ICSE-COMPANION52605.2021.00066","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00066","url":"https://dblp.org/rec/conf/icse/WanLHM021a"},
+"url":"URL#2252761"
+},
+{
+"@score":"1",
+"@id":"2252763",
+"info":{"authors":{"author":[{"@pid":"13/1898","text":"Bin Wang"},{"@pid":"35/2899-10","text":"Han Liu 0010"},{"@pid":"15/5923-32","text":"Chao Liu 0032"},{"@pid":"22/4055","text":"Zhiqiang Yang"},{"@pid":"66/8779","text":"Qian Ren"},{"@pid":"276/3327","text":"Huixuan Zheng"},{"@pid":"20/5237-1","text":"Hong Lei 0001"}]},"title":"BLOCKEYE: Hunting for DeFi Attacks on Blockchain.","venue":"ICSE","pages":"17-20","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Wang0LYRZL21","doi":"10.1109/ICSE-COMPANION52605.2021.00025","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00025","url":"https://dblp.org/rec/conf/icse/Wang0LYRZL21"},
+"url":"URL#2252763"
+},
+{
+"@score":"1",
+"@id":"2252765",
+"info":{"authors":{"author":{"@pid":"194/5872","text":"Zehao Wang"}},"title":"Understanding the Challenges and Assisting Developers with Developing Spark Applications.","venue":"ICSE","pages":"132-134","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Wang21","doi":"10.1109/ICSE-COMPANION52605.2021.00057","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00057","url":"https://dblp.org/rec/conf/icse/Wang21"},
+"url":"URL#2252765"
+},
+{
+"@score":"1",
+"@id":"2252777",
+"info":{"authors":{"author":[{"@pid":"285/5209","text":"Max Weber"},{"@pid":"a/SvenApel","text":"Sven Apel"},{"@pid":"99/1780","text":"Norbert Siegmund"}]},"title":"White-Box Performance-Influence Models: A Profiling and Learning Approach (Replication Package).","venue":"ICSE","pages":"232-233","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/WeberAS21a","doi":"10.1109/ICSE-COMPANION52605.2021.00107","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00107","url":"https://dblp.org/rec/conf/icse/WeberAS21a"},
+"url":"URL#2252777"
+},
+{
+"@score":"1",
+"@id":"2252787",
+"info":{"authors":{"author":[{"@pid":"20/2970-30","text":"Lin Yang 0030"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"},{"@pid":"71/7089","text":"Zan Wang"},{"@pid":"55/7249","text":"Weijing Wang"},{"@pid":"155/6527","text":"Jiajun Jiang"},{"@pid":"278/9712","text":"Xuyuan Dong"},{"@pid":"35/4073-10","text":"Wenbin Zhang 0010"}]},"title":"PLELog: Semi-Supervised Log-Based Anomaly Detection via Probabilistic Label Estimation.","venue":"ICSE","pages":"230-231","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Yang0WWJDZ21","doi":"10.1109/ICSE-COMPANION52605.2021.00106","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00106","url":"https://dblp.org/rec/conf/icse/Yang0WWJDZ21"},
+"url":"URL#2252787"
+},
+{
+"@score":"1",
+"@id":"2252791",
+"info":{"authors":{"author":[{"@pid":"46/999","text":"Bo Yang"},{"@pid":"52/6482","text":"Zhenchang Xing"},{"@pid":"06/2072-1","text":"Xin Xia 0001"},{"@pid":"180/7246","text":"Chunyang Chen 0001"},{"@pid":"159/9503","text":"Deheng Ye"},{"@pid":"35/1103","text":"Shanping Li"}]},"title":"UIS-Hunter: Detecting UI Design Smells in Android Apps.","venue":"ICSE","pages":"89-92","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/YangX0CYL21a","doi":"10.1109/ICSE-COMPANION52605.2021.00043","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00043","url":"https://dblp.org/rec/conf/icse/YangX0CYL21a"},
+"url":"URL#2252791"
+},
+{
+"@score":"1",
+"@id":"2252797",
+"info":{"authors":{"author":{"@pid":"127/2145-2","text":"Mingyue Zhang 0002"}},"title":"System Component-Level Self-Adaptations for Security via Bayesian Games.","venue":"ICSE","pages":"102-104","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Zhang21","doi":"10.1109/ICSE-COMPANION52605.2021.00047","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00047","url":"https://dblp.org/rec/conf/icse/Zhang21"},
+"url":"URL#2252797"
+},
+{
+"@score":"1",
+"@id":"2252800",
+"info":{"authors":{"author":[{"@pid":"37/3328","text":"Yuanliang Zhang"},{"@pid":"141/6073","text":"Haochen He"},{"@pid":"133/8821","text":"Owolabi Legunsen"},{"@pid":"66/5479-1","text":"Shanshan Li 0001"},{"@pid":"92/748-6","text":"Wei Dong 0006"},{"@pid":"90/7566","text":"Tianyin Xu"}]},"title":"An Evolutionary Study of Configuration Design and Implementation in Cloud Systems.","venue":"ICSE","pages":"175-176","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ZhangHLL0X21a","doi":"10.1109/ICSE-COMPANION52605.2021.00075","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00075","url":"https://dblp.org/rec/conf/icse/ZhangHLL0X21a"},
+"url":"URL#2252800"
+},
+{
+"@score":"1",
+"@id":"2252803",
+"info":{"authors":{"author":[{"@pid":"04/2024-20","text":"Qian Zhang 0020"},{"@pid":"136/5405","text":"Jiyuan Wang"},{"@pid":"172/6776","text":"Muhammad Ali Gulzar"},{"@pid":"129/1434","text":"Rohan Padhye"},{"@pid":"56/5320","text":"Miryung Kim"}]},"title":"Efficient Fuzz Testing for Apache Spark Using Framework Abstraction.","venue":"ICSE","pages":"61-64","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ZhangWGPK21","doi":"10.1109/ICSE-COMPANION52605.2021.00036","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00036","url":"https://dblp.org/rec/conf/icse/ZhangWGPK21"},
+"url":"URL#2252803"
+},
+{
+"@score":"1",
+"@id":"2252807",
+"info":{"authors":{"author":[{"@pid":"177/4379","text":"Zelin Zhao"},{"@pid":"08/8179-1","text":"Yanyan Jiang 0001"},{"@pid":"97/2966-1","text":"Chang Xu 0001"},{"@pid":"127/0906","text":"Tianxiao Gu"},{"@pid":"67/3058","text":"Xiaoxing Ma"}]},"title":"PASTA: Synthesizing Object State Transformers for Dynamic Software Updates.","venue":"ICSE","pages":"211-212","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Zhao00GM21a","doi":"10.1109/ICSE-COMPANION52605.2021.00094","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00094","url":"https://dblp.org/rec/conf/icse/Zhao00GM21a"},
+"url":"URL#2252807"
+},
+{
+"@score":"1",
+"@id":"2252811",
+"info":{"authors":{"author":[{"@pid":"233/7234","text":"Guolong Zheng"},{"@pid":"19/7057","text":"ThanhVu Nguyen"},{"@pid":"203/0017","text":"Simón Gutiérrez Brida"},{"@pid":"33/4870","text":"Germán Regis"},{"@pid":"13/1323","text":"Marcelo F. Frias"},{"@pid":"69/610","text":"Nazareno Aguirre"},{"@pid":"88/2247","text":"Hamid Bagheri"}]},"title":"Artifact of &apos;FLACK: Counterexample-Guided Fault Localization for Alloy Models&apos;.","venue":"ICSE","pages":"179-180","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ZhengNBRFAB21a","doi":"10.1109/ICSE-COMPANION52605.2021.00077","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021.00077","url":"https://dblp.org/rec/conf/icse/ZhengNBRFAB21a"},
+"url":"URL#2252811"
+},
+{
+"@score":"1",
+"@id":"2333024",
+"info":{"title":"43rd IEEE/ACM International Conference on Software Engineering: Companion Proceedings, ICSE Companion 2021, Madrid, Spain, May 25-28, 2021","venue":"ICSE","publisher":"IEEE","year":"2021","type":"Editorship","key":"conf/icse/2021c","doi":"10.1109/ICSE-COMPANION52605.2021","ee":"https://doi.org/10.1109/ICSE-Companion52605.2021","url":"https://dblp.org/rec/conf/icse/2021c"},
+"url":"URL#2333024"
+}
+]
+}
+}
+}

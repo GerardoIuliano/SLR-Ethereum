@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icse/nier2025.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"3.76"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"49823127",
+"text":":facetid:toc:db/conf/icse/nier2025.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"223902",
+"info":{"authors":{"author":[{"@pid":"246/8147-1","text":"Zijie Huang 0001"},{"@pid":"60/6665","text":"Lizhi Cai"},{"@pid":"408/1155","text":"Xuan Mao"},{"@pid":"86/8501-4","text":"Kang Yang 0004"}]},"title":"Towards Early Warning and Migration of High-Risk Dormant Open-Source Software Dependencies.","venue":"NIER@ICSE","pages":"121-125","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/0001CMY25","doi":"10.1109/ICSE-NIER66352.2025.00030","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00030","url":"https://dblp.org/rec/conf/icse/0001CMY25"},
+"url":"URL#223902"
+},
+{
+"@score":"1",
+"@id":"223912",
+"info":{"authors":{"author":[{"@pid":"72/1334-13","text":"Chong Wang 0013"},{"@pid":"200/8104","text":"Zhenpeng Chen"},{"@pid":"137/8830","text":"Tianlin Li"},{"@pid":"178/5679","text":"Yilun Zhang"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework.","venue":"NIER@ICSE","pages":"56-60","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/0013CLZ025","doi":"10.1109/ICSE-NIER66352.2025.00017","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00017","url":"https://dblp.org/rec/conf/icse/0013CLZ025"},
+"url":"URL#223912"
+},
+{
+"@score":"1",
+"@id":"223921",
+"info":{"authors":{"author":[{"@pid":"329/3995","text":"Paschal C. Amusuo"},{"@pid":"391/3436","text":"Parth V. Patil"},{"@pid":"391/4463","text":"Owen Cochell"},{"@pid":"391/3237","text":"Taylor Le Lievre"},{"@pid":"182/5618-1","text":"James C. Davis 0001"}]},"title":"A Unit Proofing Framework for Code-level Verification: A Research Agenda.","venue":"NIER@ICSE","pages":"36-40","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AmusuoPCL025","doi":"10.1109/ICSE-NIER66352.2025.00013","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00013","url":"https://dblp.org/rec/conf/icse/AmusuoPCL025"},
+"url":"URL#223921"
+},
+{
+"@score":"1",
+"@id":"223944",
+"info":{"authors":{"author":[{"@pid":"167/7836","text":"Nimrod Busany"},{"@pid":"395/1398","text":"Hananel Hadad"},{"@pid":"395/1347","text":"Zofia Maszlanka"},{"@pid":"408/1203","text":"Rohit Shelke"},{"@pid":"05/1330","text":"Gregory Price"},{"@pid":"152/3876","text":"Okhaide Akhigbe"},{"@pid":"a/DanielAmyot","text":"Daniel Amyot"}]},"title":"Optimizing Experiment Configurations for LLM Applications Through Exploratory Analysis.","venue":"NIER@ICSE","pages":"46-50","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BusanyHMSPAA25","doi":"10.1109/ICSE-NIER66352.2025.00015","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00015","url":"https://dblp.org/rec/conf/icse/BusanyHMSPAA25"},
+"url":"URL#223944"
+},
+{
+"@score":"1",
+"@id":"223948",
+"info":{"authors":{"author":[{"@pid":"249/4472","text":"Maria Camporese"},{"@pid":"59/6145","text":"Fabio Massacci"}]},"title":"Using ML filters to help automated vulnerability repairs: when it helps and when it doesn&apos;t.","venue":"NIER@ICSE","pages":"66-70","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/CamporeseM25","doi":"10.1109/ICSE-NIER66352.2025.00019","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00019","url":"https://dblp.org/rec/conf/icse/CamporeseM25"},
+"url":"URL#223948"
+},
+{
+"@score":"1",
+"@id":"223976",
+"info":{"authors":{"author":{"@pid":"151/1378","text":"Istvan David"}},"title":"SusDevOps: Promoting Sustainability to a First Principle in Software Delivery.","venue":"NIER@ICSE","pages":"106-110","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/David25","doi":"10.1109/ICSE-NIER66352.2025.00027","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00027","url":"https://dblp.org/rec/conf/icse/David25"},
+"url":"URL#223976"
+},
+{
+"@score":"1",
+"@id":"223983",
+"info":{"authors":{"author":[{"@pid":"162/5729","text":"Long Doan"},{"@pid":"19/7057","text":"ThanhVu Nguyen"}]},"title":"AI-Assisted Autoformalization of Combinatorics Problems in Proof Assistants.","venue":"NIER@ICSE","pages":"1-5","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DoanN25","doi":"10.1109/ICSE-NIER66352.2025.00006","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00006","url":"https://dblp.org/rec/conf/icse/DoanN25"},
+"url":"URL#223983"
+},
+{
+"@score":"1",
+"@id":"224009",
+"info":{"authors":{"author":[{"@pid":"325/0896","text":"Yuanjun Gong"},{"@pid":"59/6145","text":"Fabio Massacci"}]},"title":"When in Doubt Throw It Out: Building on Confident Learning for Vulnerability Detection.","venue":"NIER@ICSE","pages":"26-30","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GongM25","doi":"10.1109/ICSE-NIER66352.2025.00011","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00011","url":"https://dblp.org/rec/conf/icse/GongM25"},
+"url":"URL#224009"
+},
+{
+"@score":"1",
+"@id":"224018",
+"info":{"authors":{"author":[{"@pid":"274/7979","text":"A. Finn Hackett"},{"@pid":"98/5324","text":"Ivan Beschastnikh"}]},"title":"Listening to the Firehose: Sonifying Z3&apos;s Behavior.","venue":"NIER@ICSE","pages":"11-15","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/HackettB25","doi":"10.1109/ICSE-NIER66352.2025.00008","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00008","url":"https://dblp.org/rec/conf/icse/HackettB25"},
+"url":"URL#224018"
+},
+{
+"@score":"1",
+"@id":"224045",
+"info":{"authors":{"author":[{"@pid":"340/8354","text":"Gayatri Priyadarsini Kancherla"},{"@pid":"61/10308","text":"Abhishek Bichhawat"}]},"title":"A Unified Browser-Based Consent Management Framework.","venue":"NIER@ICSE","pages":"61-65","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/KancherlaB25","doi":"10.1109/ICSE-NIER66352.2025.00018","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00018","url":"https://dblp.org/rec/conf/icse/KancherlaB25"},
+"url":"URL#224045"
+},
+{
+"@score":"1",
+"@id":"224057",
+"info":{"authors":{"author":[{"@pid":"408/1132","text":"Robin Kimmel"},{"@pid":"27/10220","text":"Judith Michael"},{"@pid":"02/6598-1","text":"Andreas Wortmann 0001"},{"@pid":"261/8568","text":"Jingxi Zhang"}]},"title":"Digital Twins for Software Engineering Processes.","venue":"NIER@ICSE","pages":"16-20","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/KimmelM0Z25","doi":"10.1109/ICSE-NIER66352.2025.00009","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00009","url":"https://dblp.org/rec/conf/icse/KimmelM0Z25"},
+"url":"URL#224057"
+},
+{
+"@score":"1",
+"@id":"224062",
+"info":{"authors":{"author":[{"@pid":"67/6188-16","text":"Abhishek Kumar 0016"},{"@pid":"408/1069","text":"Sandhya Sankar"},{"@pid":"00/1589","text":"Sonia Haiduc"},{"@pid":"43/4145-1","text":"Partha Pratim Das 0001"},{"@pid":"c/PPChakrabarti","text":"Partha Pratim Chakrabarti"}]},"title":"LLMs as Evaluators: A Novel Approach to Commit Message Quality Assessment.","venue":"NIER@ICSE","pages":"111-115","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/KumarSH0C25","doi":"10.1109/ICSE-NIER66352.2025.00028","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00028","url":"https://dblp.org/rec/conf/icse/KumarSH0C25"},
+"url":"URL#224062"
+},
+{
+"@score":"1",
+"@id":"224070",
+"info":{"authors":{"author":[{"@pid":"408/1036","text":"Nate Levin"},{"@pid":"169/0360-2","text":"Chengpeng Li 0002"},{"@pid":"184/2322","text":"Yule Zhang"},{"@pid":"153/5261","text":"August Shi"},{"@pid":"25/1049","text":"Wing Lam"}]},"title":"Takuan: Using Dynamic Invariants to Debug Order-Dependent Flaky Tests.","venue":"NIER@ICSE","pages":"81-85","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LevinLZSL25","doi":"10.1109/ICSE-NIER66352.2025.00022","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00022","url":"https://dblp.org/rec/conf/icse/LevinLZSL25"},
+"url":"URL#224070"
+},
+{
+"@score":"1",
+"@id":"224073",
+"info":{"authors":{"author":[{"@pid":"31/3035","text":"Fengjie Li"},{"@pid":"155/6527","text":"Jiajun Jiang"},{"@pid":"135/6009","text":"Jiajun Sun"},{"@pid":"29/2726","text":"Hongyu Zhang"}]},"title":"Evaluating the Generalizability of LLMs in Automated Program Repair.","venue":"NIER@ICSE","pages":"91-95","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LiJSZ25","doi":"10.1109/ICSE-NIER66352.2025.00024","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00024","url":"https://dblp.org/rec/conf/icse/LiJSZ25"},
+"url":"URL#224073"
+},
+{
+"@score":"1",
+"@id":"224105",
+"info":{"authors":{"author":[{"@pid":"31/8127","text":"Shane McIntosh"},{"@pid":"408/0983","text":"Luca Milanesio"},{"@pid":"161/7500","text":"Antonio Barone"},{"@pid":"408/1197","text":"Jacek Centkowski"},{"@pid":"408/0949","text":"Marcin Czech"},{"@pid":"408/1153","text":"Fabio Ponciroli"}]},"title":"Using Reinforcement Learning to Sustain the Performance of Version Control Repositories.","venue":"NIER@ICSE","pages":"116-120","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/McIntoshMBCCP25","doi":"10.1109/ICSE-NIER66352.2025.00029","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00029","url":"https://dblp.org/rec/conf/icse/McIntoshMBCCP25"},
+"url":"URL#224105"
+},
+{
+"@score":"1",
+"@id":"224127",
+"info":{"authors":{"author":[{"@pid":"384/5358","text":"Marc North"},{"@pid":"62/8811","text":"Amir Atapour-Abarghouei"},{"@pid":"96/6687","text":"Nelly Bencomo"}]},"title":"Beyond Syntax: How Do LLMs Understand Code?","venue":"NIER@ICSE","pages":"86-90","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NorthAB25","doi":"10.1109/ICSE-NIER66352.2025.00023","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00023","url":"https://dblp.org/rec/conf/icse/NorthAB25"},
+"url":"URL#224127"
+},
+{
+"@score":"1",
+"@id":"224133",
+"info":{"authors":{"author":[{"@pid":"391/3436","text":"Parth V. Patil"},{"@pid":"71/2402-1","text":"Wenxin Jiang 0001"},{"@pid":"299/4420","text":"Huiyun Peng"},{"@pid":"347/0506","text":"Daniel Lugo"},{"@pid":"354/7378","text":"Kelechi G. Kalu"},{"@pid":"408/1345","text":"Josh LeBlanc"},{"@pid":"271/3108","text":"Lawrence Smith"},{"@pid":"395/6128","text":"Hyeonwoo Heo"},{"@pid":"395/7175","text":"Nathanael Aou"},{"@pid":"182/5618-1","text":"James C. Davis 0001"}]},"title":"Recommending Pre-Trained Models for IoT Devices.","venue":"NIER@ICSE","pages":"126-130","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/PatilJPLKLSHA025","doi":"10.1109/ICSE-NIER66352.2025.00031","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00031","url":"https://dblp.org/rec/conf/icse/PatilJPLKLSHA025"},
+"url":"URL#224133"
+},
+{
+"@score":"1",
+"@id":"224134",
+"info":{"authors":{"author":[{"@pid":"222/9172","text":"Nitish Patkar"},{"@pid":"400/1337","text":"Aimen Fahmi"},{"@pid":"24/9748","text":"Timo Kehrer"},{"@pid":"47/4243","text":"Norbert Seyff"}]},"title":"What is a Feature, Really? Toward a Unified Understanding Across SE Disciplines.","venue":"NIER@ICSE","pages":"41-45","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/PatkarFKS25","doi":"10.1109/ICSE-NIER66352.2025.00014","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00014","url":"https://dblp.org/rec/conf/icse/PatkarFKS25"},
+"url":"URL#224134"
+},
+{
+"@score":"1",
+"@id":"224177",
+"info":{"authors":{"author":[{"@pid":"346/4156","text":"Liangying Shao"},{"@pid":"74/8828","text":"Yanfu Yan"},{"@pid":"02/320","text":"Denys Poshyvanyk"},{"@pid":"05/9013","text":"Jinsong Su"}]},"title":"UniGenCoder: Merging SEQ2SEQ and SEQ2TREE Paradigms for Unified Code Generation.","venue":"NIER@ICSE","pages":"71-75","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ShaoYPS25","doi":"10.1109/ICSE-NIER66352.2025.00020","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00020","url":"https://dblp.org/rec/conf/icse/ShaoYPS25"},
+"url":"URL#224177"
+},
+{
+"@score":"1",
+"@id":"224183",
+"info":{"authors":{"author":[{"@pid":"258/3172","text":"Junjie Sheng"},{"@pid":"400/4071","text":"Yanqiu Lin"},{"@pid":"400/5302","text":"Jiehao Wu"},{"@pid":"32/9679","text":"Yanhong Huang"},{"@pid":"58/3735","text":"Jianqi Shi"},{"@pid":"83/5342","text":"Min Zhang"},{"@pid":"84/4695","text":"Xiangfeng Wang"}]},"title":"SolSearch: An LLM-Driven Framework for Efficient SAT-Solving Code Generation.","venue":"NIER@ICSE","pages":"6-10","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ShengLWHSZW25","doi":"10.1109/ICSE-NIER66352.2025.00007","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00007","url":"https://dblp.org/rec/conf/icse/ShengLWHSZW25"},
+"url":"URL#224183"
+},
+{
+"@score":"1",
+"@id":"224197",
+"info":{"authors":{"author":[{"@pid":"386/4985","text":"Benedikt Steininger"},{"@pid":"406/1684","text":"Chrysanthi Papamichail"},{"@pid":"73/2689","text":"David Stark"},{"@pid":"60/1425","text":"Dejan Nickovic"},{"@pid":"50/5924","text":"Alessio Gambi"}]},"title":"Automatically Generating Content for Testing Autonomous Vehicles from User Descriptions.","venue":"NIER@ICSE","pages":"76-80","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SteiningerPSNG25","doi":"10.1109/ICSE-NIER66352.2025.00021","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00021","url":"https://dblp.org/rec/conf/icse/SteiningerPSNG25"},
+"url":"URL#224197"
+},
+{
+"@score":"1",
+"@id":"224199",
+"info":{"authors":{"author":[{"@pid":"26/7710","text":"Clay Stevens"},{"@pid":"408/1252","text":"Katherine Kjeer"},{"@pid":"239/7099","text":"Ryan M. Richard"},{"@pid":"46/2149","text":"Edward F. Valeev"},{"@pid":"79/5975","text":"Myra B. Cohen"}]},"title":"Model Assisted Refinement of Metamorphic Relations for Scientific Software.","venue":"NIER@ICSE","pages":"31-35","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/StevensKRVC25","doi":"10.1109/ICSE-NIER66352.2025.00012","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00012","url":"https://dblp.org/rec/conf/icse/StevensKRVC25"},
+"url":"URL#224199"
+},
+{
+"@score":"1",
+"@id":"224223",
+"info":{"authors":{"author":[{"@pid":"157/9084","text":"Alejandro Velasco"},{"@pid":"222/6222","text":"Daniel Rodríguez-Cárdenas"},{"@pid":"395/6343","text":"Luftar Rahman Alif"},{"@pid":"222/6190","text":"David N. Palacio"},{"@pid":"02/320","text":"Denys Poshyvanyk"}]},"title":"How Propense Are Large Language Models at Producing Code Smells? A Benchmarking Study.","venue":"NIER@ICSE","pages":"96-100","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/VelascoRAPP25","doi":"10.1109/ICSE-NIER66352.2025.00025","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00025","url":"https://dblp.org/rec/conf/icse/VelascoRAPP25"},
+"url":"URL#224223"
+},
+{
+"@score":"1",
+"@id":"224225",
+"info":{"authors":{"author":[{"@pid":"210/6216","text":"Roberto Verdecchia"},{"@pid":"218/6663","text":"Emilio Cruciani"},{"@pid":"03/3919","text":"Antonia Bertolino"},{"@pid":"119/0420","text":"Breno Miranda"}]},"title":"Energy-Aware Software Testing.","venue":"NIER@ICSE","pages":"101-105","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/VerdecchiaCBM25","doi":"10.1109/ICSE-NIER66352.2025.00026","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00026","url":"https://dblp.org/rec/conf/icse/VerdecchiaCBM25"},
+"url":"URL#224225"
+},
+{
+"@score":"1",
+"@id":"224227",
+"info":{"authors":{"author":[{"@pid":"19/8725","text":"Andreas Vogelsang"},{"@pid":"27/5176","text":"Alexander Korn"},{"@pid":"207/2093","text":"Giovanna Broccia"},{"@pid":"21/7271","text":"Alessio Ferrari 0001"},{"@pid":"247/6048","text":"Jannik Fischbach"},{"@pid":"19/1006-2","text":"Chetan Arora 0002"}]},"title":"On the Impact of Requirements Smells in Prompts: The Case of Automated Traceability.","venue":"NIER@ICSE","pages":"51-55","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/VogelsangKB0F025","doi":"10.1109/ICSE-NIER66352.2025.00016","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00016","url":"https://dblp.org/rec/conf/icse/VogelsangKB0F025"},
+"url":"URL#224227"
+},
+{
+"@score":"1",
+"@id":"224274",
+"info":{"authors":{"author":[{"@pid":"10/5760","text":"Yang Yue"},{"@pid":"17/221","text":"Yi Wang"},{"@pid":"84/6534","text":"David F. Redmiles"}]},"title":"Discovering Ideologies of the Open Source Software Movement.","venue":"NIER@ICSE","pages":"21-25","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/YueWR25","doi":"10.1109/ICSE-NIER66352.2025.00010","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025.00010","url":"https://dblp.org/rec/conf/icse/YueWR25"},
+"url":"URL#224274"
+},
+{
+"@score":"1",
+"@id":"255652",
+"info":{"title":"47th IEEE/ACM International Conference on Software Engineering: New Ideas and Emerging Results, ICSE 2025 - NIER, Ottawa, ON, Canada, April 27 - May 3, 2025","venue":"NIER@ICSE","publisher":"IEEE","year":"2025","type":"Editorship","key":"conf/icse/2025nier","doi":"10.1109/ICSE-NIER66352.2025","ee":"https://doi.org/10.1109/ICSE-NIER66352.2025","url":"https://dblp.org/rec/conf/icse/2025nier"},
+"url":"URL#255652"
+}
+]
+}
+}
+}

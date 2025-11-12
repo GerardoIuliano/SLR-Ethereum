@@ -1,0 +1,110 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icse/designing2024.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"188.16"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"49822966",
+"text":":facetid:toc:db/conf/icse/designing2024.bht"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"708786",
+"info":{"authors":{"author":[{"@pid":"385/6494","text":"Gaurav Agerwala"},{"@pid":"b/LeonardJBass","text":"Len Bass"}]},"title":"Teaching Software Architecture Design - Building Intuition.","venue":"Designing@ICSE","pages":"27-31","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AgerwalaB24","ee":"https://ieeexplore.ieee.org/document/10669881","url":"https://dblp.org/rec/conf/icse/AgerwalaB24"},
+"url":"URL#708786"
+},
+{
+"@score":"1",
+"@id":"708828",
+"info":{"authors":{"author":[{"@pid":"276/3404","text":"Déaglán Connolly Bree"},{"@pid":"71/1464","text":"Mel Ó Cinnéide"}]},"title":"Weighted Metrics for the Development of Energy Efficient Software.","venue":"Designing@ICSE","pages":"64-69","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/BreeC24","ee":"https://ieeexplore.ieee.org/document/10669898","url":"https://dblp.org/rec/conf/icse/BreeC24"},
+"url":"URL#708828"
+},
+{
+"@score":"1",
+"@id":"708877",
+"info":{"authors":{"author":[{"@pid":"90/1313","text":"J. Andres Diaz-Pace"},{"@pid":"01/2201","text":"David Garlan"}]},"title":"The Architect in the Maze: On the Effective Usage of Automated Design Exploration.","venue":"Designing@ICSE","pages":"9-14","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/DiazPaceG24","ee":"https://ieeexplore.ieee.org/document/10669896","url":"https://dblp.org/rec/conf/icse/DiazPaceG24"},
+"url":"URL#708877"
+},
+{
+"@score":"1",
+"@id":"708895",
+"info":{"authors":{"author":[{"@pid":"367/4380","text":"Tobias Eisenreich"},{"@pid":"274/1795","text":"Sandro Speth"},{"@pid":"w/StefanWagner1","text":"Stefan Wagner 0001"}]},"title":"From Requirements to Architecture: An AI-Based Journey to Semi-Automatically Generate Software Architectures.","venue":"Designing@ICSE","pages":"52-55","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/EisenreichSW24","ee":"https://ieeexplore.ieee.org/document/10669862","url":"https://dblp.org/rec/conf/icse/EisenreichSW24"},
+"url":"URL#708895"
+},
+{
+"@score":"1",
+"@id":"708914",
+"info":{"authors":{"author":[{"@pid":"75/1446","text":"Steven Fraser 0001"},{"@pid":"87/3318","text":"Dennis Mancl"}]},"title":"Investing in Software DesignFrom Technology to Culture: How Collaboration and Communication Matter.","venue":"Designing@ICSE","pages":"34-39","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/FraserM24","ee":"https://ieeexplore.ieee.org/document/10669892","url":"https://dblp.org/rec/conf/icse/FraserM24"},
+"url":"URL#708914"
+},
+{
+"@score":"1",
+"@id":"708930",
+"info":{"authors":{"author":[{"@pid":"01/2201","text":"David Garlan"},{"@pid":"15/3453","text":"Bradley R. Schmerl"},{"@pid":"151/6085","text":"Rebekka Wohlrab"},{"@pid":"13/2872","text":"Javier Cámara 0001"}]},"title":"Challenges in Creating Effective Automated Design Environments: An experience report from the domain of generative manufacturing.","venue":"Designing@ICSE","pages":"15-20","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GarlanSWC24","ee":"https://ieeexplore.ieee.org/document/10669864","url":"https://dblp.org/rec/conf/icse/GarlanSWC24"},
+"url":"URL#708930"
+},
+{
+"@score":"1",
+"@id":"708978",
+"info":{"authors":{"author":[{"@pid":"385/6993","text":"Aikya Inuganti"},{"@pid":"385/6496","text":"Madhuri Goyal"},{"@pid":"278/0381","text":"Mohammad Samarah"}]},"title":"Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software.","venue":"Designing@ICSE","pages":"40-45","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/InugantiGS24","ee":"https://ieeexplore.ieee.org/document/10669866","url":"https://dblp.org/rec/conf/icse/InugantiGS24"},
+"url":"URL#708978"
+},
+{
+"@score":"1",
+"@id":"709024",
+"info":{"authors":{"author":{"@pid":"l/TimothyLethbridge","text":"Timothy Lethbridge"}},"title":"TAMVE: Properties of Design Technologies to Address Challenges to Software Design in the Era of Agility and Frameworks.","venue":"Designing@ICSE","pages":"56-59","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Lethbridge24","ee":"https://ieeexplore.ieee.org/document/10669868","url":"https://dblp.org/rec/conf/icse/Lethbridge24"},
+"url":"URL#709024"
+},
+{
+"@score":"1",
+"@id":"709057",
+"info":{"authors":{"author":[{"@pid":"08/11114","text":"Tamara Lopez"},{"@pid":"s/HelenSharp","text":"Helen Sharp"},{"@pid":"99/5832","text":"Michel Wermelinger"}]},"title":"Co-Designing Resilient Socio-Technical Software Systems.","venue":"Designing@ICSE","pages":"60-63","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/LopezSW24","ee":"https://ieeexplore.ieee.org/document/10669890","url":"https://dblp.org/rec/conf/icse/LopezSW24"},
+"url":"URL#709057"
+},
+{
+"@score":"1",
+"@id":"709070",
+"info":{"authors":{"author":[{"@pid":"61/771","text":"Stefan Malich"},{"@pid":"05/2792","text":"Humberto Cervantes"},{"@pid":"90/3774","text":"Rick Kazman"}]},"title":"Developing and Applying an Essence-based Description of the Attribute-Driven Design Method.","venue":"Designing@ICSE","pages":"21-26","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MalichCK24","ee":"https://ieeexplore.ieee.org/document/10669869","url":"https://dblp.org/rec/conf/icse/MalichCK24"},
+"url":"URL#709070"
+},
+{
+"@score":"1",
+"@id":"709142",
+"info":{"authors":{"author":[{"@pid":"304/1256","text":"Lukás Radoský"},{"@pid":"08/7414","text":"Ivan Polásek"}]},"title":"Executable Multi-Layered Software Models.","venue":"Designing@ICSE","pages":"46-51","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/RadoskyP24","ee":"https://ieeexplore.ieee.org/document/10669880","url":"https://dblp.org/rec/conf/icse/RadoskyP24"},
+"url":"URL#709142"
+},
+{
+"@score":"1",
+"@id":"709174",
+"info":{"authors":{"author":[{"@pid":"93/5634","text":"Mary Shaw"},{"@pid":"86/6244","text":"Marian Petre"}]},"title":"Design Spaces and How Software Designers Use Them: a sampler.","venue":"Designing@ICSE","pages":"1-8","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ShawP24","ee":"https://ieeexplore.ieee.org/document/10669879","url":"https://dblp.org/rec/conf/icse/ShawP24"},
+"url":"URL#709174"
+},
+{
+"@score":"1",
+"@id":"801278",
+"info":{"title":"IEEE/ACM International Workshop on Designing Software, Designing@ICSE 2024, Lisbon, Portugal, April 15, 2024","venue":"Designing@ICSE","publisher":"IEEE","year":"2024","type":"Editorship","key":"conf/icse/2024designing","ee":"https://ieeexplore.ieee.org/xpl/conhome/10669840/proceeding","url":"https://dblp.org/rec/conf/icse/2024designing"},
+"url":"URL#801278"
+}
+]
+}
+}
+}

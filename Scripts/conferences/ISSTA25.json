@@ -1,0 +1,248 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/issta/issta2025c.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"4.37"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"36",
+"@dc":"36",
+"@oc":"36",
+"@id":"49829291",
+"text":":facetid:toc:db/conf/issta/issta2025c.bht"
+}
+},
+"hits":{
+"@total":"36",
+"@computed":"36",
+"@sent":"36",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"231714",
+"info":{"authors":{"author":[{"@pid":"27/5719-10","text":"Xinpeng Liu 0010"},{"@pid":"156/1247","text":"Qinying Wang"},{"@pid":"85/670-3","text":"Peiyu Liu 0003"},{"@pid":"122/3593","text":"Wenhai Wang"},{"@pid":"07/8388","text":"Shouling Ji"}]},"title":"MQueez: Specification-Driven Fuzzing for MQTT Broker (Registered Report).","venue":"ISSTA Companion","pages":"133-142","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/0010W0WJ25","doi":"10.1145/3713081.3731724","ee":"https://doi.org/10.1145/3713081.3731724","url":"https://dblp.org/rec/conf/issta/0010W0WJ25"},
+"url":"URL#231714"
+},
+{
+"@score":"1",
+"@id":"231715",
+"info":{"authors":{"author":{"@pid":"221/6002","text":"Linxiao Bai"}},"title":"When Performance Failure Occurs in Low-Latency Storage Systems: Observation, Prediction, and Solutions.","venue":"ISSTA Companion","pages":"82-85","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/Bai25","doi":"10.1145/3713081.3731744","ee":"https://doi.org/10.1145/3713081.3731744","url":"https://dblp.org/rec/conf/issta/Bai25"},
+"url":"URL#231715"
+},
+{
+"@score":"1",
+"@id":"231716",
+"info":{"authors":{"author":[{"@pid":"248/8003","text":"Stefanos Chaliasos"},{"@pid":"405/5104","text":"Imam Al-Fath"},{"@pid":"11/5933","text":"Alastair F. Donaldson"}]},"title":"Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper).","venue":"ISSTA Companion","pages":"98-104","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/ChaliasosAD25","doi":"10.1145/3713081.3731718","ee":"https://doi.org/10.1145/3713081.3731718","url":"https://dblp.org/rec/conf/issta/ChaliasosAD25"},
+"url":"URL#231716"
+},
+{
+"@score":"1",
+"@id":"231717",
+"info":{"authors":{"author":[{"@pid":"10/11515","text":"Emilio Coppa"},{"@pid":"251/2056","text":"Daniel Sokolowski"},{"@pid":"14/7915","text":"Guido Salvaneschi"}]},"title":"Hybrid Fuzzing of Infrastructure as Code Programs (Short Paper).","venue":"ISSTA Companion","pages":"92-97","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/CoppaSS25","doi":"10.1145/3713081.3731721","ee":"https://doi.org/10.1145/3713081.3731721","url":"https://dblp.org/rec/conf/issta/CoppaSS25"},
+"url":"URL#231717"
+},
+{
+"@score":"1",
+"@id":"231718",
+"info":{"authors":{"author":[{"@pid":"60/6971","text":"Yongjian Guo"},{"@pid":"206/7127","text":"Wanlun Ma"},{"@pid":"83/6642","text":"Xi Xiao"},{"@pid":"41/3095","text":"Sheng Wen"},{"@pid":"00/9301","text":"Peng Di"},{"@pid":"171/2501","text":"Xiaogang Zhu 0001"}]},"title":"Patch the Leak: Strengthening CodeLLMs Against Privacy Extraction Threats.","venue":"ISSTA Companion","pages":"195-199","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/GuoMXWD025","doi":"10.1145/3713081.3732931","ee":"https://doi.org/10.1145/3713081.3732931","url":"https://dblp.org/rec/conf/issta/GuoMXWD025"},
+"url":"URL#231718"
+},
+{
+"@score":"1",
+"@id":"231719",
+"info":{"authors":{"author":[{"@pid":"347/7148","text":"Yiling He"},{"@pid":"405/0315","text":"Hongyu She"},{"@pid":"235/9011","text":"Xingzhi Qian"},{"@pid":"313/6537","text":"Xinran Zheng"},{"@pid":"29/6497","text":"Zhuo Chen"},{"@pid":"148/4477","text":"Zhan Qin"},{"@pid":"95/5162","text":"Lorenzo Cavallaro"}]},"title":"On Benchmarking Code LLMs for Android Malware Analysis.","venue":"ISSTA Companion","pages":"153-160","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/HeSQZCQC25","doi":"10.1145/3713081.3731745","ee":"https://doi.org/10.1145/3713081.3731745","url":"https://dblp.org/rec/conf/issta/HeSQZCQC25"},
+"url":"URL#231719"
+},
+{
+"@score":"1",
+"@id":"231720",
+"info":{"authors":{"author":[{"@pid":"87/7883","text":"Shuai He"},{"@pid":"77/6310","text":"Hao Yan"},{"@pid":"147/0516","text":"Wenke Li"},{"@pid":"34/10892","text":"Sheng Hong"},{"@pid":"59/6422","text":"Xiaowei Guo"},{"@pid":"42/6759","text":"Xiaofan Liu"},{"@pid":"74/6830","text":"Cai Fu"}]},"title":"From Large Language Models to Adversarial Malware: How far are we.","venue":"ISSTA Companion","pages":"178-182","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/HeYLHGLF25","doi":"10.1145/3713081.3732928","ee":"https://doi.org/10.1145/3713081.3732928","url":"https://dblp.org/rec/conf/issta/HeYLHGLF25"},
+"url":"URL#231720"
+},
+{
+"@score":"1",
+"@id":"231721",
+"info":{"authors":{"author":[{"@pid":"93/5629","text":"Qiang Hu"},{"@pid":"127/0713","text":"Xiaofei Xie"},{"@pid":"180/8218-1","text":"Sen Chen 0001"},{"@pid":"155/5397","text":"Lili Quan"},{"@pid":"20/6534-3","text":"Lei Ma 0003"}]},"title":"Large Language Model Supply Chain: Open Problems From the Security Perspective.","venue":"ISSTA Companion","pages":"169-173","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/HuX0QM25","doi":"10.1145/3713081.3731747","ee":"https://doi.org/10.1145/3713081.3731747","url":"https://dblp.org/rec/conf/issta/HuX0QM25"},
+"url":"URL#231721"
+},
+{
+"@score":"1",
+"@id":"231722",
+"info":{"authors":{"author":[{"@pid":"406/8214","text":"Paul Kalbitzer"},{"@pid":"386/5305","text":"José Antonio Zamudio Amaya"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"XAVIER: Grammar-Based Testing for XML Injection Attacks.","venue":"ISSTA Companion","pages":"46-50","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/KalbitzerAZ25","doi":"10.1145/3713081.3731736","ee":"https://doi.org/10.1145/3713081.3731736","url":"https://dblp.org/rec/conf/issta/KalbitzerAZ25"},
+"url":"URL#231722"
+},
+{
+"@score":"1",
+"@id":"231723",
+"info":{"authors":{"author":[{"@pid":"34/516","text":"Jungwoo Lee"},{"@pid":"275/6665","text":"Haeun Lee"},{"@pid":"65/5995","text":"Sangjun Park"},{"@pid":"49/8463","text":"Sang Kil Cha"}]},"title":"On the Applicability of Benford&apos;s Law to Detect Saturation in Fuzzing (Registered Report).","venue":"ISSTA Companion","pages":"116-123","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/LeeLPC25","doi":"10.1145/3713081.3731723","ee":"https://doi.org/10.1145/3713081.3731723","url":"https://dblp.org/rec/conf/issta/LeeLPC25"},
+"url":"URL#231723"
+},
+{
+"@score":"1",
+"@id":"231724",
+"info":{"authors":{"author":[{"@pid":"298/2914","text":"Linhan Li"},{"@pid":"19/7057","text":"ThanhVu Nguyen"}]},"title":"COOLer: A Language Support Extension for COOL in VS Code.","venue":"ISSTA Companion","pages":"11-15","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/LiN25","doi":"10.1145/3713081.3731729","ee":"https://doi.org/10.1145/3713081.3731729","url":"https://dblp.org/rec/conf/issta/LiN25"},
+"url":"URL#231724"
+},
+{
+"@score":"1",
+"@id":"231725",
+"info":{"authors":{"author":[{"@pid":"87/4697","text":"Ming Liang"},{"@pid":"63/5407","text":"Qingyu Zhang"},{"@pid":"406/8479","text":"Zhipeng Zuo"},{"@pid":"223/9438","text":"Shaoqiang Zheng"},{"@pid":"150/4873","text":"Dajun Chen"},{"@pid":"21/3839-11","text":"Wei Jiang 0011"},{"@pid":"l/YongLi4","text":"Yong Li 0004"}]},"title":"FuseApplyBench: Multilingual Benchmark for Trustworthy Code Edit Applying Task.","venue":"ISSTA Companion","pages":"183-189","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/LiangZZZC0L25","doi":"10.1145/3713081.3732929","ee":"https://doi.org/10.1145/3713081.3732929","url":"https://dblp.org/rec/conf/issta/LiangZZZC0L25"},
+"url":"URL#231725"
+},
+{
+"@score":"1",
+"@id":"231726",
+"info":{"authors":{"author":[{"@pid":"237/0520","text":"Ai Liu"},{"@pid":"51/3710","text":"Yang Liu"},{"@pid":"99/4667","text":"Shaoying Liu"}]},"title":"TBFV4J: An Automated Testing-Based Formal Verification Tool for Java.","venue":"ISSTA Companion","pages":"66-70","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/LiuLL25","doi":"10.1145/3713081.3731740","ee":"https://doi.org/10.1145/3713081.3731740","url":"https://dblp.org/rec/conf/issta/LiuLL25"},
+"url":"URL#231726"
+},
+{
+"@score":"1",
+"@id":"231727",
+"info":{"authors":{"author":[{"@pid":"273/5453","text":"Yubo Mai"},{"@pid":"25/2165-2","text":"Zhipeng Gao 0002"},{"@pid":"49/10052-8","text":"Xing Hu 0008"},{"@pid":"161/1073","text":"Lingfeng Bao"},{"@pid":"134/1184","text":"Jingyuan Chen"},{"@pid":"53/3693","text":"Jianling Sun"}]},"title":"Code2API: A Tool for Generating Reusable APIs from Stack Overflow Code Snippets.","venue":"ISSTA Companion","pages":"71-75","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/MaiG0BCS25","doi":"10.1145/3713081.3731741","ee":"https://doi.org/10.1145/3713081.3731741","url":"https://dblp.org/rec/conf/issta/MaiG0BCS25"},
+"url":"URL#231727"
+},
+{
+"@score":"1",
+"@id":"231728",
+"info":{"authors":{"author":[{"@pid":"325/0199","text":"Jakub Narebski"},{"@pid":"150/7802","text":"Mikolaj Fejzer"},{"@pid":"s/KrzysztofStencel","text":"Krzysztof Stencel"},{"@pid":"31/10203","text":"Piotr Przymus"}]},"title":"PatchScope - A Modular Tool for Annotating and Analyzing Contributions.","venue":"ISSTA Companion","pages":"1-5","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/NarebskiFSP25","doi":"10.1145/3713081.3731727","ee":"https://doi.org/10.1145/3713081.3731727","url":"https://dblp.org/rec/conf/issta/NarebskiFSP25"},
+"url":"URL#231728"
+},
+{
+"@score":"1",
+"@id":"231729",
+"info":{"authors":{"author":[{"@pid":"406/9540","text":"M. M. Abid Naziri"},{"@pid":"266/6890","text":"Aman Kumar Singh"},{"@pid":"199/7039","text":"Benjamin Wu"},{"@pid":"406/8477","text":"Feiran (Alex) Qin"},{"@pid":"146/7991","text":"Saikat Dutta 0001"},{"@pid":"16/608","text":"Marcelo d&apos;Amorim"}]},"title":"BugsInDLLs : A Database of Reproducible Bugs in Deep Learning Libraries to Enable Systematic Evaluation of Testing Techniques.","venue":"ISSTA Companion","pages":"61-65","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/NaziriSWQDd25","doi":"10.1145/3713081.3731739","ee":"https://doi.org/10.1145/3713081.3731739","url":"https://dblp.org/rec/conf/issta/NaziriSWQDd25"},
+"url":"URL#231729"
+},
+{
+"@score":"1",
+"@id":"231730",
+"info":{"authors":{"author":[{"@pid":"30/898","text":"Stephan Neuhaus"},{"@pid":"386/5305","text":"José Antonio Zamudio Amaya"},{"@pid":"z/AndreasZeller","text":"Andreas Zeller"}]},"title":"Personalized Fuzzing: A Case Study with the FANDANGO Fuzzer on a GNSS Module (Short Paper).","venue":"ISSTA Companion","pages":"86-91","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/NeuhausAZ25","doi":"10.1145/3713081.3731722","ee":"https://doi.org/10.1145/3713081.3731722","url":"https://dblp.org/rec/conf/issta/NeuhausAZ25"},
+"url":"URL#231730"
+},
+{
+"@score":"1",
+"@id":"231731",
+"info":{"authors":{"author":[{"@pid":"338/5981","text":"Lianglu Pan"},{"@pid":"170/3520","text":"Shaanan Cohney"},{"@pid":"31/6289","text":"Toby Murray"},{"@pid":"140/7942","text":"Van-Thuan Pham"}]},"title":"Trailblazer: Practical End-to-end Web API Fuzzing (Registered Report).","venue":"ISSTA Companion","pages":"143-152","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/PanCMP25","doi":"10.1145/3713081.3731717","ee":"https://doi.org/10.1145/3713081.3731717","url":"https://dblp.org/rec/conf/issta/PanCMP25"},
+"url":"URL#231731"
+},
+{
+"@score":"1",
+"@id":"231732",
+"info":{"authors":{"author":[{"@pid":"407/0112","text":"Stefania Piciorea"},{"@pid":"19/7057","text":"ThanhVu Nguyen"}]},"title":"Bringing Invariant Analysis to modern IDEs: The DIG+ Extension for VS Code.","venue":"ISSTA Companion","pages":"51-55","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/PicioreaN25","doi":"10.1145/3713081.3731737","ee":"https://doi.org/10.1145/3713081.3731737","url":"https://dblp.org/rec/conf/issta/PicioreaN25"},
+"url":"URL#231732"
+},
+{
+"@score":"1",
+"@id":"231733",
+"info":{"authors":{"author":[{"@pid":"94/1149","text":"Tong Qiu"},{"@pid":"150/8816","text":"Jiaxin Zhu"},{"@pid":"c/WeiChen18","text":"Wei Chen 0018"},{"@pid":"68/6546-1","text":"Jun Wei 0001"}]},"title":"LiPSBOMaker: A Prototype of Multi-Stage Linux Distribution Package SBOM Generator.","venue":"ISSTA Companion","pages":"56-60","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/QiuZ0025","doi":"10.1145/3713081.3731738","ee":"https://doi.org/10.1145/3713081.3731738","url":"https://dblp.org/rec/conf/issta/QiuZ0025"},
+"url":"URL#231733"
+},
+{
+"@score":"1",
+"@id":"231734",
+"info":{"authors":{"author":[{"@pid":"321/4589","text":"Nuno Saavedra"},{"@pid":"f/JoaoFFerreira","text":"João F. Ferreira 0001"},{"@pid":"26/7495","text":"Alexandra Mendes"}]},"title":"InfraFix: Technology-Agnostic Repair of Infrastructure as Code.","venue":"ISSTA Companion","pages":"41-45","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/Saavedra0M25","doi":"10.1145/3713081.3731735","ee":"https://doi.org/10.1145/3713081.3731735","url":"https://dblp.org/rec/conf/issta/Saavedra0M25"},
+"url":"URL#231734"
+},
+{
+"@score":"1",
+"@id":"231735",
+"info":{"authors":{"author":[{"@pid":"15/5674","text":"Takuya Shimizu"},{"@pid":"406/9133","text":"Ryuichi Yoshizawa"},{"@pid":"406/8576","text":"Kaoru Otsuka"},{"@pid":"271/3638","text":"Yudai Fujiwara"},{"@pid":"38/736","text":"Yuichi Sugiyama"}]},"title":"Shepherd: High-Precision Coverage Inference for Response-guided Blackbox Fuzzing (Registered Report).","venue":"ISSTA Companion","pages":"105-115","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/ShimizuYOFS25","doi":"10.1145/3713081.3731719","ee":"https://doi.org/10.1145/3713081.3731719","url":"https://dblp.org/rec/conf/issta/ShimizuYOFS25"},
+"url":"URL#231735"
+},
+{
+"@score":"1",
+"@id":"231736",
+"info":{"authors":{"author":{"@pid":"406/8432","text":"Adéla Stepková"}},"title":"Reversing Programs for Error Reachability Analysis.","venue":"ISSTA Companion","pages":"80-81","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/Stepkova25","doi":"10.1145/3713081.3731743","ee":"https://doi.org/10.1145/3713081.3731743","url":"https://dblp.org/rec/conf/issta/Stepkova25"},
+"url":"URL#231736"
+},
+{
+"@score":"1",
+"@id":"231737",
+"info":{"authors":{"author":[{"@pid":"313/9850","text":"Philipp Straubinger"},{"@pid":"405/7762","text":"Tim Greller"},{"@pid":"74/2259","text":"Gordon Fraser 0001"}]},"title":"Teaching Software Testing and Debugging with the Serious Game Sojourner under Sabotage.","venue":"ISSTA Companion","pages":"16-20","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/StraubingerG025","doi":"10.1145/3713081.3731730","ee":"https://doi.org/10.1145/3713081.3731730","url":"https://dblp.org/rec/conf/issta/StraubingerG025"},
+"url":"URL#231737"
+},
+{
+"@score":"1",
+"@id":"231738",
+"info":{"authors":{"author":[{"@pid":"203/8075","text":"Xiaoxuan Tang"},{"@pid":"91/9909","text":"Xinfang Chen"},{"@pid":"150/4873","text":"Dajun Chen"},{"@pid":"34/4858-4","text":"Sheng Zhou 0004"},{"@pid":"21/3839-11","text":"Wei Jiang 0011"},{"@pid":"l/YongLi4","text":"Yong Li 0004"}]},"title":"TestFlow: Advancing Mobile UI Testing through Multi-Step Reinforcement Learning.","venue":"ISSTA Companion","pages":"190-194","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/TangCCZJL25","doi":"10.1145/3713081.3732930","ee":"https://doi.org/10.1145/3713081.3732930","url":"https://dblp.org/rec/conf/issta/TangCCZJL25"},
+"url":"URL#231738"
+},
+{
+"@score":"1",
+"@id":"231739",
+"info":{"authors":{"author":[{"@pid":"188/4307","text":"Miriam Ugarte"},{"@pid":"283/3421","text":"Pablo Valle"},{"@pid":"33/7569","text":"José Antonio Parejo"},{"@pid":"97/1263","text":"Sergio Segura"},{"@pid":"78/8234","text":"Aitor Arrieta"}]},"title":"ASTRAL: A Tool for the Automated Safety Testing of Large Language Models.","venue":"ISSTA Companion","pages":"31-35","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/UgarteVPSA25","doi":"10.1145/3713081.3731733","ee":"https://doi.org/10.1145/3713081.3731733","url":"https://dblp.org/rec/conf/issta/UgarteVPSA25"},
+"url":"URL#231739"
+},
+{
+"@score":"1",
+"@id":"231740",
+"info":{"authors":{"author":[{"@pid":"315/8074","text":"Yuanmin Xie"},{"@pid":"297/2154","text":"Zhenyang Xu"},{"@pid":"180/5774-1","text":"Yongqiang Tian 0001"},{"@pid":"10/2513-0001","text":"Min Zhou 0001"},{"@pid":"05/7637","text":"Xintong Zhou"},{"@pid":"04/7120","text":"Chengnian Sun"}]},"title":"Kitten: A Simple Yet Effective Baseline for Evaluating LLM-Based Compiler Testing Techniques.","venue":"ISSTA Companion","pages":"21-25","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/XieX0ZZS25","doi":"10.1145/3713081.3731731","ee":"https://doi.org/10.1145/3713081.3731731","url":"https://dblp.org/rec/conf/issta/XieX0ZZS25"},
+"url":"URL#231740"
+},
+{
+"@score":"1",
+"@id":"231741",
+"info":{"authors":{"author":[{"@pid":"42/6257","text":"Yihua Xu"},{"@pid":"01/7515-1","text":"Chengyu Zhang 0001"},{"@pid":"33/1678","text":"Geguang Pu"}]},"title":"Revisiting the Combination of Static Analysis Error Traces and Dynamic Symbolic Execution: A Potential Approach for True Positive Confirmation (Registered Report).","venue":"ISSTA Companion","pages":"124-132","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/Xu0P25","doi":"10.1145/3713081.3731720","ee":"https://doi.org/10.1145/3713081.3731720","url":"https://dblp.org/rec/conf/issta/Xu0P25"},
+"url":"URL#231741"
+},
+{
+"@score":"1",
+"@id":"231742",
+"info":{"authors":{"author":[{"@pid":"182/5393","text":"Xiaofan Xu"},{"@pid":"62/1539-3","text":"Wei Song 0003"},{"@pid":"68/4706-1","text":"Jeff Huang 0001"}]},"title":"GoPV: A Static Analyzer for Finding Blocking Concurrency Bugs Due to Misuse of Shared-Memory Synchronization in Go.","venue":"ISSTA Companion","pages":"36-40","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/XuSH25","doi":"10.1145/3713081.3731734","ee":"https://doi.org/10.1145/3713081.3731734","url":"https://dblp.org/rec/conf/issta/XuSH25"},
+"url":"URL#231742"
+},
+{
+"@score":"1",
+"@id":"231743",
+"info":{"authors":{"author":[{"@pid":"125/0711","text":"Pei Xu"},{"@pid":"58/10567","text":"Yulei Sui"},{"@pid":"s/MarkStaples","text":"Mark Staples"}]},"title":"Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation.","venue":"ISSTA Companion","pages":"200-209","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/XuSS25","doi":"10.1145/3713081.3732932","ee":"https://doi.org/10.1145/3713081.3732932","url":"https://dblp.org/rec/conf/issta/XuSS25"},
+"url":"URL#231743"
+},
+{
+"@score":"1",
+"@id":"231744",
+"info":{"authors":{"author":[{"@pid":"331/6447","text":"Junji Yu"},{"@pid":"340/7859","text":"Honglin Shu"},{"@pid":"94/5283","text":"Michael Fu"},{"@pid":"40/3934-44","text":"Dong Wang 0044"},{"@pid":"140/7129","text":"Chakkrit Tantithamthavorn"},{"@pid":"88/3251","text":"Yasutaka Kamei"},{"@pid":"04/4498-3","text":"Junjie Chen 0003"}]},"title":"A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection.","venue":"ISSTA Companion","pages":"161-168","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/YuSF0TK025","doi":"10.1145/3713081.3731746","ee":"https://doi.org/10.1145/3713081.3731746","url":"https://dblp.org/rec/conf/issta/YuSF0TK025"},
+"url":"URL#231744"
+},
+{
+"@score":"1",
+"@id":"231745",
+"info":{"authors":{"author":{"@pid":"238/5984","text":"Haonan Zhang"}},"title":"On the Brittleness of Legacy Web UI Testing: A Pragmatic Perspective.","venue":"ISSTA Companion","pages":"76-79","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/Zhang25","doi":"10.1145/3713081.3731742","ee":"https://doi.org/10.1145/3713081.3731742","url":"https://dblp.org/rec/conf/issta/Zhang25"},
+"url":"URL#231745"
+},
+{
+"@score":"1",
+"@id":"231746",
+"info":{"authors":{"author":[{"@pid":"83/10442","text":"Suqiong Zhang"},{"@pid":"266/7101","text":"Dongyi Fan"},{"@pid":"28/9525","text":"Lili He"},{"@pid":"36/5376","text":"Wang Lin"},{"@pid":"75/157","text":"Zuohua Ding"}]},"title":"A Cloud Native Tool for Testing Automation in Kubernetes.","venue":"ISSTA Companion","pages":"26-30","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/ZhangFHLD25","doi":"10.1145/3713081.3731732","ee":"https://doi.org/10.1145/3713081.3731732","url":"https://dblp.org/rec/conf/issta/ZhangFHLD25"},
+"url":"URL#231746"
+},
+{
+"@score":"1",
+"@id":"231747",
+"info":{"authors":{"author":[{"@pid":"366/2862","text":"Shengming Zhao"},{"@pid":"98/7308-3","text":"Jiawei Wang 0003"}]},"title":"Best practice for supply chain in LLM-assisted medical applications.","venue":"ISSTA Companion","pages":"174-177","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/ZhaoW25","doi":"10.1145/3713081.3731748","ee":"https://doi.org/10.1145/3713081.3731748","url":"https://dblp.org/rec/conf/issta/ZhaoW25"},
+"url":"URL#231747"
+},
+{
+"@score":"1",
+"@id":"231748",
+"info":{"authors":{"author":[{"@pid":"54/40","text":"Li Zhou"},{"@pid":"76/5806","text":"Marc Dacier"},{"@pid":"145/9428","text":"Charalambos Konstantinou"}]},"title":"ReGraph: A Tool for Binary Similarity Identification.","venue":"ISSTA Companion","pages":"6-10","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/issta/ZhouDK25","doi":"10.1145/3713081.3731728","ee":"https://doi.org/10.1145/3713081.3731728","url":"https://dblp.org/rec/conf/issta/ZhouDK25"},
+"url":"URL#231748"
+},
+{
+"@score":"1",
+"@id":"255769",
+"info":{"authors":{"author":[{"@pid":"00/7677","text":"Mike Papadakis"},{"@pid":"79/5975","text":"Myra B. Cohen"},{"@pid":"54/2734","text":"Paolo Tonella"}]},"title":"Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA Companion 2025, Clarion Hotel Trondheim, Trondheim, Norway, June 25-28, 2025","venue":"ISSTA Companion","publisher":"ACM","year":"2025","type":"Editorship","key":"conf/issta/2025c","doi":"10.1145/3713081","ee":"https://doi.org/10.1145/3713081","url":"https://dblp.org/rec/conf/issta/2025c"},
+"url":"URL#255769"
+}
+]
+}
+}
+}

@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/kbse/ase2024w.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"4.75"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"49831209",
+"text":":facetid:toc:db/conf/kbse/ase2024w.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"741150",
+"info":{"authors":{"author":[{"@pid":"374/9653","text":"Haifa Abdullah Al-Shammare"},{"@pid":"355/5328","text":"Esra&apos;a Sulaiman Alshabeeb"},{"@pid":"377/9908","text":"Noor Ahmad Alakkas"},{"@pid":"51/821","text":"Mohammad Rabah Alshayeb"}]},"title":"Evaluating Usability as a Key Human Factor in Agile SPM Tools Through Expert-Based Techniques.","venue":"ASE Workshops","pages":"136-145","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Al-ShammareAAA24","doi":"10.1145/3691621.3694963","ee":"https://doi.org/10.1145/3691621.3694963","url":"https://dblp.org/rec/conf/kbse/Al-ShammareAAA24"},
+"url":"URL#741150"
+},
+{
+"@score":"1",
+"@id":"741151",
+"info":{"authors":{"author":[{"@pid":"170/7412","text":"Khubaib Amjad Alam"},{"@pid":"281/8087","text":"Ramsha Ali"},{"@pid":"388/5397","text":"Zyena Kamran"},{"@pid":"388/6351","text":"Sabeen Fatima"}]},"title":"Leveraging Data-Driven Analytics for Mobile App Feature Extraction and Recommendations.","venue":"ASE Workshops","pages":"197-207","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlamAKF24","doi":"10.1145/3691621.3694951","ee":"https://doi.org/10.1145/3691621.3694951","url":"https://dblp.org/rec/conf/kbse/AlamAKF24"},
+"url":"URL#741151"
+},
+{
+"@score":"1",
+"@id":"741156",
+"info":{"authors":{"author":[{"@pid":"21/1998","text":"Marco Autili"},{"@pid":"143/4024","text":"Alessio Bucaioni"},{"@pid":"282/8284","text":"Gianluca Filippone"},{"@pid":"198/1393","text":"Lina Marsso"},{"@pid":"168/2456","text":"Gian Luca Scoccia"}]},"title":"6th International Workshop on Automated and verifiable Software sYstem DEvelopment (ASYDE 2024).","venue":"ASE Workshops","pages":"22-23","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AutiliBFMS24","doi":"10.1145/3691621.3694960","ee":"https://doi.org/10.1145/3691621.3694960","url":"https://dblp.org/rec/conf/kbse/AutiliBFMS24"},
+"url":"URL#741156"
+},
+{
+"@score":"1",
+"@id":"741164",
+"info":{"authors":{"author":[{"@pid":"299/2259","text":"Dibyendu Brinto Bose"},{"@pid":"126/9627","text":"Chris Brown 0001"}]},"title":"An Empirical Study on Current Practices and Challenges of Core AR/VR Developers.","venue":"ASE Workshops","pages":"233-238","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Bose024","doi":"10.1145/3691621.3694956","ee":"https://doi.org/10.1145/3691621.3694956","url":"https://dblp.org/rec/conf/kbse/Bose024"},
+"url":"URL#741164"
+},
+{
+"@score":"1",
+"@id":"741172",
+"info":{"authors":{"author":[{"@pid":"17/8995","text":"Tomás Cerný"},{"@pid":"311/8856","text":"Amr S. Abdelfattah"},{"@pid":"385/0126","text":"Darek Gajewski"},{"@pid":"333/9690","text":"Patrick E. Harris"},{"@pid":"333/9675","text":"Mia E. Gortney"}]},"title":"Is the 3D model the way to go when presenting microservice architecture?","venue":"ASE Workshops","pages":"223-227","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CernyAGHG24","doi":"10.1145/3691621.3694954","ee":"https://doi.org/10.1145/3691621.3694954","url":"https://dblp.org/rec/conf/kbse/CernyAGHG24"},
+"url":"URL#741172"
+},
+{
+"@score":"1",
+"@id":"741183",
+"info":{"authors":{"author":[{"@pid":"171/3887","text":"Juntong Chen"},{"@pid":"88/5320-44","text":"Yan Zhao 0044"},{"@pid":"60/6376","text":"Na Meng 0001"}]},"title":"How Do Developers Reuse StackOverflow Answers in Their GitHub Projects?","venue":"ASE Workshops","pages":"146-155","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ChenZ024","doi":"10.1145/3691621.3694945","ee":"https://doi.org/10.1145/3691621.3694945","url":"https://dblp.org/rec/conf/kbse/ChenZ024"},
+"url":"URL#741183"
+},
+{
+"@score":"1",
+"@id":"741192",
+"info":{"authors":{"author":[{"@pid":"261/5793","text":"Rohit Dandamudi"},{"@pid":"180/0034","text":"Gema Rodríguez-Pérez"}]},"title":"A Preliminary Study of Multilingual Code Language Models for Code Generation Task Using Translated Benchmarks.","venue":"ASE Workshops","pages":"94-99","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DandamudiR24","doi":"10.1145/3691621.3694939","ee":"https://doi.org/10.1145/3691621.3694939","url":"https://dblp.org/rec/conf/kbse/DandamudiR24"},
+"url":"URL#741192"
+},
+{
+"@score":"1",
+"@id":"741193",
+"info":{"authors":{"author":[{"@pid":"144/7092","text":"Teerath Das"},{"@pid":"348/7816","text":"Adam Ali"},{"@pid":"80/5814","text":"Tommi Mikkonen"}]},"title":"Taxonomy of Security-related Issues in Android Apps: An Empirical Study.","venue":"ASE Workshops","pages":"15-21","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DasAM24","doi":"10.1145/3691621.3694929","ee":"https://doi.org/10.1145/3691621.3694929","url":"https://dblp.org/rec/conf/kbse/DasAM24"},
+"url":"URL#741193"
+},
+{
+"@score":"1",
+"@id":"741219",
+"info":{"authors":{"author":[{"@pid":"228/7139","text":"Huizi Hao"},{"@pid":"39/5423-8","text":"Yuan Tian 0008"}]},"title":"Engaging with AI: An Exploratory Study on Developers&apos; Sharing and Reactions to ChatGPT in GitHub Pull Requests.","venue":"ASE Workshops","pages":"156-160","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Hao024","doi":"10.1145/3691621.3694946","ee":"https://doi.org/10.1145/3691621.3694946","url":"https://dblp.org/rec/conf/kbse/Hao024"},
+"url":"URL#741219"
+},
+{
+"@score":"1",
+"@id":"741220",
+"info":{"authors":{"author":[{"@pid":"344/9998","text":"Kazi Amit Hasan"},{"@pid":"388/5573","text":"Vu Thanh Loc Mai"},{"@pid":"311/0053","text":"Cynthia Wang"},{"@pid":"39/5423-8","text":"Yuan Tian 0008"},{"@pid":"161/1183","text":"Steven H. H. Ding"}]},"title":"A First Look at Self-Admitted Miscommunications in GitHub Issues.","venue":"ASE Workshops","pages":"118-127","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HasanMW0D24","doi":"10.1145/3691621.3694942","ee":"https://doi.org/10.1145/3691621.3694942","url":"https://dblp.org/rec/conf/kbse/HasanMW0D24"},
+"url":"URL#741220"
+},
+{
+"@score":"1",
+"@id":"741221",
+"info":{"authors":{"author":[{"@pid":"388/5558","text":"Muhammad Hassnain"},{"@pid":"202/9985","text":"Caleb Stanford"}]},"title":"Counterexamples in Safe Rust.","venue":"ASE Workshops","pages":"128-135","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HassnainS24","doi":"10.1145/3691621.3694943","ee":"https://doi.org/10.1145/3691621.3694943","url":"https://dblp.org/rec/conf/kbse/HassnainS24"},
+"url":"URL#741221"
+},
+{
+"@score":"1",
+"@id":"741226",
+"info":{"authors":{"author":[{"@pid":"07/2158","text":"Wenjie Huang"},{"@pid":"54/4698-2","text":"Jinfu Chen 0002"},{"@pid":"40/221","text":"Huashan Chen"},{"@pid":"11/3196-5","text":"Zhenyu Qi 0005"},{"@pid":"80/5005","text":"Xiaojia Yang"},{"@pid":"208/4707","text":"Kebin Peng"},{"@pid":"166/4467-2","text":"Sen He 0002"}]},"title":"A Study of Code Clone on Open Source VR Software.","venue":"ASE Workshops","pages":"239-244","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Huang0CQYPH24","doi":"10.1145/3691621.3694957","ee":"https://doi.org/10.1145/3691621.3694957","url":"https://dblp.org/rec/conf/kbse/Huang0CQYPH24"},
+"url":"URL#741226"
+},
+{
+"@score":"1",
+"@id":"741237",
+"info":{"authors":{"author":[{"@pid":"388/6626","text":"Parnian Kamran"},{"@pid":"d/PremkumarTDevanbu","text":"Premkumar T. Devanbu"},{"@pid":"202/9985","text":"Caleb Stanford"}]},"title":"Vision Paper: Proof-Carrying Code Completions.","venue":"ASE Workshops","pages":"35-42","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KamranDS24","doi":"10.1145/3691621.3694932","ee":"https://doi.org/10.1145/3691621.3694932","url":"https://dblp.org/rec/conf/kbse/KamranDS24"},
+"url":"URL#741237"
+},
+{
+"@score":"1",
+"@id":"741240",
+"info":{"authors":{"author":[{"@pid":"342/8311","text":"Mugdha Khedkar"},{"@pid":"387/1464","text":"Ambuj Kumar Mondal"},{"@pid":"94/5744","text":"Eric Bodden"}]},"title":"Do Android App Developers Accurately Report Collection of Privacy-Related Data?","venue":"ASE Workshops","pages":"176-186","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KhedkarMB24","doi":"10.1145/3691621.3694949","ee":"https://doi.org/10.1145/3691621.3694949","url":"https://dblp.org/rec/conf/kbse/KhedkarMB24"},
+"url":"URL#741240"
+},
+{
+"@score":"1",
+"@id":"741241",
+"info":{"authors":{"author":[{"@pid":"342/8311","text":"Mugdha Khedkar"},{"@pid":"224/4428","text":"Michael Schlichtig"},{"@pid":"94/5744","text":"Eric Bodden"}]},"title":"Advancing Android Privacy Assessments with Automation.","venue":"ASE Workshops","pages":"218-222","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KhedkarSB24","doi":"10.1145/3691621.3694953","ee":"https://doi.org/10.1145/3691621.3694953","url":"https://dblp.org/rec/conf/kbse/KhedkarSB24"},
+"url":"URL#741241"
+},
+{
+"@score":"1",
+"@id":"741244",
+"info":{"authors":{"author":[{"@pid":"298/4541","text":"Linsey J. Kitt"},{"@pid":"79/5975","text":"Myra B. Cohen"}]},"title":"MorphQ++: A Reproducibility Study of Metamorphic Testing on Quantum Compilers.","venue":"ASE Workshops","pages":"8-14","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KittC24","doi":"10.1145/3691621.3694959","ee":"https://doi.org/10.1145/3691621.3694959","url":"https://dblp.org/rec/conf/kbse/KittC24"},
+"url":"URL#741244"
+},
+{
+"@score":"1",
+"@id":"741245",
+"info":{"authors":{"author":{"@pid":"97/364","text":"Radoslaw Klimek"}},"title":"Logical square-driven and state-oriented generation of behavioural models.","venue":"ASE Workshops","pages":"72-81","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Klimek24","doi":"10.1145/3691621.3694936","ee":"https://doi.org/10.1145/3691621.3694936","url":"https://dblp.org/rec/conf/kbse/Klimek24"},
+"url":"URL#741245"
+},
+{
+"@score":"1",
+"@id":"741246",
+"info":{"authors":{"author":[{"@pid":"97/364","text":"Radoslaw Klimek"},{"@pid":"388/5961","text":"Julia Witek"}]},"title":"Automatic Generation of Logical Specifications for Behavioural Models.","venue":"ASE Workshops","pages":"1-7","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KlimekW24","doi":"10.1145/3691621.3694927","ee":"https://doi.org/10.1145/3691621.3694927","url":"https://dblp.org/rec/conf/kbse/KlimekW24"},
+"url":"URL#741246"
+},
+{
+"@score":"1",
+"@id":"741248",
+"info":{"authors":{"author":[{"@pid":"304/8609","text":"Viktoria Koscinski"},{"@pid":"31/1403","text":"Mehdi Mirakhorli"}]},"title":"Formally Modeled Common Weakness Enumerations (CWEs).","venue":"ASE Workshops","pages":"88-93","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KoscinskiM24","doi":"10.1145/3691621.3694938","ee":"https://doi.org/10.1145/3691621.3694938","url":"https://dblp.org/rec/conf/kbse/KoscinskiM24"},
+"url":"URL#741248"
+},
+{
+"@score":"1",
+"@id":"741271",
+"info":{"authors":{"author":[{"@pid":"35/3221","text":"Chen Liang"},{"@pid":"50/5190","text":"Qiang Wei"},{"@pid":"244/1123","text":"Zirui Jiang"},{"@pid":"172/1346-2","text":"Yisen Wang 0002"},{"@pid":"32/724","text":"Jiang Du"}]},"title":"A Source Code Vulnerability Detection Method Based on Adaptive Graph Neural Networks.","venue":"ASE Workshops","pages":"187-196","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiangWJ0D24","doi":"10.1145/3691621.3694950","ee":"https://doi.org/10.1145/3691621.3694950","url":"https://dblp.org/rec/conf/kbse/LiangWJ0D24"},
+"url":"URL#741271"
+},
+{
+"@score":"1",
+"@id":"741287",
+"info":{"authors":{"author":[{"@pid":"174/3307","text":"Sophie McKenzie"},{"@pid":"62/10788","text":"Niroshinie Fernando"},{"@pid":"388/5551","text":"Imali Dias"},{"@pid":"74/10645","text":"Ben Cheng"},{"@pid":"76/7114","text":"Thuong Hoang 0001"},{"@pid":"82/1364-4","text":"Xiao Liu 0004"}]},"title":"Integrating Human-Centric Approaches into Undergraduate Software Engineering Education: A Scoping Review and Curriculum Analysis in the Australian Context.","venue":"ASE Workshops","pages":"100-107","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/McKenzieFDCH024","doi":"10.1145/3691621.3694940","ee":"https://doi.org/10.1145/3691621.3694940","url":"https://dblp.org/rec/conf/kbse/McKenzieFDCH024"},
+"url":"URL#741287"
+},
+{
+"@score":"1",
+"@id":"741288",
+"info":{"authors":{"author":{"@pid":"350/1734","text":"Mashal Afzal Memon"}},"title":"Automated Generation of Ethical Profile-Building Questionnaires.","venue":"ASE Workshops","pages":"66-71","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Memon24","doi":"10.1145/3691621.3694961","ee":"https://doi.org/10.1145/3691621.3694961","url":"https://dblp.org/rec/conf/kbse/Memon24"},
+"url":"URL#741288"
+},
+{
+"@score":"1",
+"@id":"741302",
+"info":{"authors":{"author":[{"@pid":"21/6705","text":"Jiwon Park"},{"@pid":"280/8310","text":"Shadaj Laddad"},{"@pid":"373/5917","text":"Dev Bali"},{"@pid":"43/2368","text":"Wen Zhang"},{"@pid":"34/5593","text":"Scott Shenker"},{"@pid":"36/2133","text":"Matei Zaharia"}]},"title":"Everything Everywhere All At Once: Efficient Cross-Service Program Analysis with OverSeer.","venue":"ASE Workshops","pages":"82-87","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ParkLBZSZ24","doi":"10.1145/3691621.3694937","ee":"https://doi.org/10.1145/3691621.3694937","url":"https://dblp.org/rec/conf/kbse/ParkLBZSZ24"},
+"url":"URL#741302"
+},
+{
+"@score":"1",
+"@id":"741306",
+"info":{"authors":{"author":[{"@pid":"31/10777","text":"Xue Qin"},{"@pid":"267/3447","text":"Garrett Weaver"}]},"title":"Utilizing Generative AI for VR Exploration Testing: A Case Study.","venue":"ASE Workshops","pages":"228-232","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/QinW24","doi":"10.1145/3691621.3694955","ee":"https://doi.org/10.1145/3691621.3694955","url":"https://dblp.org/rec/conf/kbse/QinW24"},
+"url":"URL#741306"
+},
+{
+"@score":"1",
+"@id":"741320",
+"info":{"authors":{"author":[{"@pid":"240/2774","text":"Arushi Sharma"},{"@pid":"346/0232","text":"Zefu Hu"},{"@pid":"50/8822","text":"Christopher J. Quinn"},{"@pid":"74/1277","text":"Ali Jannesari"}]},"title":"Redundancy and Concept Analysis for Code-trained Language Models.","venue":"ASE Workshops","pages":"24-34","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SharmaHQJ24","doi":"10.1145/3691621.3694931","ee":"https://doi.org/10.1145/3691621.3694931","url":"https://dblp.org/rec/conf/kbse/SharmaHQJ24"},
+"url":"URL#741320"
+},
+{
+"@score":"1",
+"@id":"741326",
+"info":{"authors":{"author":[{"@pid":"292/7076","text":"Mohammed Latif Siddiq"},{"@pid":"115/4772","text":"Joanna Cecilia da Silva Santos"},{"@pid":"388/5927","text":"Sajith Devareddy"},{"@pid":"388/5752","text":"Anna Muller"}]},"title":"SALLM: Security Assessment of Generated Code.","venue":"ASE Workshops","pages":"54-65","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SiddiqSDM24","doi":"10.1145/3691621.3694934","ee":"https://doi.org/10.1145/3691621.3694934","url":"https://dblp.org/rec/conf/kbse/SiddiqSDM24"},
+"url":"URL#741326"
+},
+{
+"@score":"1",
+"@id":"741331",
+"info":{"authors":{"author":[{"@pid":"220/9661","text":"Korn Sooksatra"},{"@pid":"357/4578","text":"Md Showkat Hossain Chy"},{"@pid":"384/8955","text":"Muhmmad Ashfakur Rahman Arju"},{"@pid":"17/8995","text":"Tomás Cerný"},{"@pid":"87/8582","text":"Pablo Rivas 0001"}]},"title":"Using Static Analysis to Aid Monolith to Microservice System Transformation: Tuning Fuzzy c-Means in a VAE-Based GNN Approach.","venue":"ASE Workshops","pages":"43-53","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SooksatraCAC024","doi":"10.1145/3691621.3694933","ee":"https://doi.org/10.1145/3691621.3694933","url":"https://dblp.org/rec/conf/kbse/SooksatraCAC024"},
+"url":"URL#741331"
+},
+{
+"@score":"1",
+"@id":"741342",
+"info":{"authors":{"author":[{"@pid":"388/6464","text":"Robin Theveniaut"},{"@pid":"68/5932","text":"Brahim Hamid"},{"@pid":"43/164","text":"Jason Jaskolka"}]},"title":"Interplay of Human Factors and Secure Architecture Design using Model-Driven Engineering.","venue":"ASE Workshops","pages":"108-117","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TheveniautHJ24","doi":"10.1145/3691621.3694962","ee":"https://doi.org/10.1145/3691621.3694962","url":"https://dblp.org/rec/conf/kbse/TheveniautHJ24"},
+"url":"URL#741342"
+},
+{
+"@score":"1",
+"@id":"741346",
+"info":{"authors":{"author":[{"@pid":"384/5264","text":"Zachary Douglas Wadhams"},{"@pid":"26/3781","text":"Clemente Izurieta"},{"@pid":"236/9856","text":"Ann Marie Reinhold"}]},"title":"Barriers to Using Static Application Security Testing (SAST) Tools: A Literature Review.","venue":"ASE Workshops","pages":"161-166","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WadhamsIR24","doi":"10.1145/3691621.3694947","ee":"https://doi.org/10.1145/3691621.3694947","url":"https://dblp.org/rec/conf/kbse/WadhamsIR24"},
+"url":"URL#741346"
+},
+{
+"@score":"1",
+"@id":"741350",
+"info":{"authors":{"author":[{"@pid":"188/7759-97","text":"Chao Wang 0097"},{"@pid":"96/5013-1","text":"Tianming Liu 0001"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"37/1629-62","text":"Lin Zhang 0062"},{"@pid":"97/6476-1","text":"Xiaoning Du 0001"},{"@pid":"53/2189-29","text":"Li Li 0029"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"}]},"title":"Towards Demystifying Android Adware: Dataset and Payload Location.","venue":"ASE Workshops","pages":"167-175","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Wang0ZZDLW24","doi":"10.1145/3691621.3694948","ee":"https://doi.org/10.1145/3691621.3694948","url":"https://dblp.org/rec/conf/kbse/Wang0ZZDLW24"},
+"url":"URL#741350"
+},
+{
+"@score":"1",
+"@id":"741370",
+"info":{"authors":{"author":[{"@pid":"378/9146","text":"Liangxuan Wu"},{"@pid":"40/622-1","text":"Yanjie Zhao 0001"},{"@pid":"188/7759-97","text":"Chao Wang 0097"},{"@pid":"96/5013-2","text":"Tianming Liu 0002"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"}]},"title":"A First Look at LLM-powered Smartphones.","venue":"ASE Workshops","pages":"208-217","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WuZW0W24","doi":"10.1145/3691621.3694952","ee":"https://doi.org/10.1145/3691621.3694952","url":"https://dblp.org/rec/conf/kbse/WuZW0W24"},
+"url":"URL#741370"
+},
+{
+"@score":"1",
+"@id":"741399",
+"info":{"authors":{"author":[{"@pid":"48/5176","text":"Xiaolu Zhang"},{"@pid":"337/0610","text":"Tahmid Rafi"},{"@pid":"388/5675","text":"Yuejun Guan"},{"@pid":"24/7513-1","text":"Shuqing Li 0001"},{"@pid":"l/MichaelRLyu","text":"Michael R. Lyu"}]},"title":"Demystifying the Privacy-Realism Dilemma in the Metaverse.","venue":"ASE Workshops","pages":"245-250","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ZhangRGLL24","doi":"10.1145/3691621.3694958","ee":"https://doi.org/10.1145/3691621.3694958","url":"https://dblp.org/rec/conf/kbse/ZhangRGLL24"},
+"url":"URL#741399"
+},
+{
+"@score":"1",
+"@id":"801625",
+"info":{"authors":{"author":[{"@pid":"f/VladimirFilkov","text":"Vladimir Filkov"},{"@pid":"74/1969","text":"Baishakhi Ray"},{"@pid":"07/4732-1","text":"Minghui Zhou 0001"}]},"title":"Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops, ASEW 2024, Sacramento, CA, USA, 27 October 2024 - 1 November 2024","venue":"ASE Workshops","publisher":"ACM","year":"2024","type":"Editorship","key":"conf/kbse/2024w","doi":"10.1145/3691621","ee":"https://doi.org/10.1145/3691621","url":"https://dblp.org/rec/conf/kbse/2024w"},
+"url":"URL#801625"
+}
+]
+}
+}
+}

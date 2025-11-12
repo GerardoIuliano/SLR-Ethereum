@@ -1,0 +1,224 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/ase/ase30.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"4.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"32",
+"@dc":"32",
+"@oc":"32",
+"@id":"49858984",
+"text":":facetid:toc:db/journals/ase/ase30.bht"
+}
+},
+"hits":{
+"@total":"32",
+"@computed":"32",
+"@sent":"32",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"961822",
+"info":{"authors":{"author":[{"@pid":"21/4140","text":"Mohsin Ahmed"},{"@pid":"57/10203","text":"Saif Ur Rehman Khan 0001"},{"@pid":"170/7412","text":"Khubaib Amjad Alam"}]},"title":"An NLP-based quality attributes extraction and prioritization framework in Agile-driven software development.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"7","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/AhmedKA23","doi":"10.1007/S10515-022-00371-9","ee":"https://doi.org/10.1007/s10515-022-00371-9","url":"https://dblp.org/rec/journals/ase/AhmedKA23"},
+"url":"URL#961822"
+},
+{
+"@score":"1",
+"@id":"961823",
+"info":{"authors":{"author":[{"@pid":"180/5818","text":"Muhammad Azeem Akbar"},{"@pid":"166/2442","text":"Arif Ali Khan"},{"@pid":"264/2970","text":"Saima Rafi"}]},"title":"A systematic decision-making framework for tackling quantum software engineering challenges.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"22","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/AkbarKR23","doi":"10.1007/S10515-023-00389-7","ee":"https://doi.org/10.1007/s10515-023-00389-7","url":"https://dblp.org/rec/journals/ase/AkbarKR23"},
+"url":"URL#961823"
+},
+{
+"@score":"1",
+"@id":"961824",
+"info":{"authors":{"author":[{"@pid":"343/1961","text":"Nouf Alturayeif"},{"@pid":"02/2893","text":"Hamoud Aljamaan"},{"@pid":"02/1809","text":"Jameleddine Hassine"}]},"title":"An automated approach to aspect-based sentiment analysis of apps reviews using machine and deep learning.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"30","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/AlturayeifAH23","doi":"10.1007/S10515-023-00397-7","ee":"https://doi.org/10.1007/s10515-023-00397-7","url":"https://dblp.org/rec/journals/ase/AlturayeifAH23"},
+"url":"URL#961824"
+},
+{
+"@score":"1",
+"@id":"961825",
+"info":{"authors":{"author":[{"@pid":"15/4063","text":"Leandro Antonelli 0001"},{"@pid":"87/3974","text":"Sandro Bimonte"},{"@pid":"75/5487","text":"Stefano Rizzi"}]},"title":"Multidimensional modeling driven from a domain language.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"6","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/AntonelliBR23","doi":"10.1007/S10515-022-00375-5","ee":"https://doi.org/10.1007/s10515-022-00375-5","url":"https://dblp.org/rec/journals/ase/AntonelliBR23"},
+"url":"URL#961825"
+},
+{
+"@score":"1",
+"@id":"961826",
+"info":{"authors":{"author":[{"@pid":"196/5438","text":"Aradea"},{"@pid":"30/10158","text":"Iping Supriana"},{"@pid":"23/2665","text":"Kridanto Surendro"}]},"title":"ARAS: adaptation requirements for adaptive systems.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"2","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/AradeaSS23","doi":"10.1007/S10515-022-00369-3","ee":"https://doi.org/10.1007/s10515-022-00369-3","url":"https://dblp.org/rec/journals/ase/AradeaSS23"},
+"url":"URL#961826"
+},
+{
+"@score":"1",
+"@id":"961827",
+"info":{"authors":{"author":[{"@pid":"279/3184","text":"Johnathan Mauricio Calle-Gallego"},{"@pid":"75/5130","text":"Carlos Mario Zapata Jaramillo"}]},"title":"QUARE: towards a question-answering model for requirements elicitation.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"25","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/CalleGallegoJ23","doi":"10.1007/S10515-023-00386-W","ee":"https://doi.org/10.1007/s10515-023-00386-w","url":"https://dblp.org/rec/journals/ase/CalleGallegoJ23"},
+"url":"URL#961827"
+},
+{
+"@score":"1",
+"@id":"961828",
+"info":{"authors":{"author":[{"@pid":"50/415","text":"Jinyin Chen"},{"@pid":"324/4001","text":"Jie Ge"},{"@pid":"175/7149","text":"Haibin Zheng"}]},"title":"ActGraph: prioritization of test cases based on deep neural network activation graph.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ChenGZ23","doi":"10.1007/S10515-023-00396-8","ee":"https://doi.org/10.1007/s10515-023-00396-8","url":"https://dblp.org/rec/journals/ase/ChenGZ23"},
+"url":"URL#961828"
+},
+{
+"@score":"1",
+"@id":"961829",
+"info":{"authors":{"author":[{"@pid":"14/9356","text":"Chung-Yang Chen"},{"@pid":"244/8013","text":"Kuang-Yen Tai"}]},"title":"Online ontological quality assessment of converted UML class diagrams in SRE.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"18","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ChenT23","doi":"10.1007/S10515-023-00385-X","ee":"https://doi.org/10.1007/s10515-023-00385-x","url":"https://dblp.org/rec/journals/ase/ChenT23"},
+"url":"URL#961829"
+},
+{
+"@score":"1",
+"@id":"961830",
+"info":{"authors":{"author":[{"@pid":"167/0511","text":"Qianguo Chen"},{"@pid":"186/1991","text":"Teng Zhou"},{"@pid":"71/7399-1","text":"Kui Liu 0001"},{"@pid":"53/2189-29","text":"Li Li 0029"},{"@pid":"20/7563-1","text":"Chunpeng Ge 0001"},{"@pid":"70/1220-1","text":"Zhe Liu 0001"},{"@pid":"k/JacquesKlein","text":"Jacques Klein"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"}]},"title":"Tips: towards automating patch suggestion for vulnerable smart contracts.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"31","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ChenZLLGLKB23","doi":"10.1007/S10515-023-00392-Y","ee":"https://doi.org/10.1007/s10515-023-00392-y","url":"https://dblp.org/rec/journals/ase/ChenZLLGLKB23"},
+"url":"URL#961830"
+},
+{
+"@score":"1",
+"@id":"961831",
+"info":{"authors":{"author":[{"@pid":"353/9974","text":"Ahmed Chikhaoui"},{"@pid":"135/2949","text":"Abdelhafid Chadli"},{"@pid":"184/8565","text":"Abdelkader Ouared"}]},"title":"A model-based DevOps process for development of mathematical database cost models.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"23","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ChikhaouiCO23","doi":"10.1007/S10515-023-00390-0","ee":"https://doi.org/10.1007/s10515-023-00390-0","url":"https://dblp.org/rec/journals/ase/ChikhaouiCO23"},
+"url":"URL#961831"
+},
+{
+"@score":"1",
+"@id":"961832",
+"info":{"authors":{"author":[{"@pid":"275/7800-2","text":"Yuning Cui 0002"},{"@pid":"65/2709-6","text":"Yi Sun 0006"},{"@pid":"65/10473","text":"Zhaowen Lin"}]},"title":"DroidHook: a novel API-hook based Android malware dynamic analysis sandbox.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"10","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/CuiSL23","doi":"10.1007/S10515-023-00378-W","ee":"https://doi.org/10.1007/s10515-023-00378-w","url":"https://dblp.org/rec/journals/ase/CuiSL23"},
+"url":"URL#961832"
+},
+{
+"@score":"1",
+"@id":"961833",
+"info":{"authors":{"author":[{"@pid":"282/1267","text":"Jean-Sébastien Dessureault"},{"@pid":"60/3962","text":"Daniel Massicotte"}]},"title":"AI2: the next leap toward native language-based and explainable machine learning framework.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"32","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/DessureaultM23","doi":"10.1007/S10515-023-00399-5","ee":"https://doi.org/10.1007/s10515-023-00399-5","url":"https://dblp.org/rec/journals/ase/DessureaultM23"},
+"url":"URL#961833"
+},
+{
+"@score":"1",
+"@id":"961834",
+"info":{"authors":{"author":[{"@pid":"237/8454","text":"Nicolas Dilley"},{"@pid":"96/7159","text":"Julien Lange"}]},"title":"Automated verification of concurrent go programs via bounded model checking.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/DilleyL23","doi":"10.1007/S10515-023-00391-Z","ee":"https://doi.org/10.1007/s10515-023-00391-z","url":"https://dblp.org/rec/journals/ase/DilleyL23"},
+"url":"URL#961834"
+},
+{
+"@score":"1",
+"@id":"961835",
+"info":{"authors":{"author":[{"@pid":"248/4615","text":"Milad Elyasi"},{"@pid":"319/9818","text":"Muhammed Esad Simitcioglu"},{"@pid":"320/0337","text":"Abdullah Saydemir"},{"@pid":"94/865","text":"Ali Ekici"},{"@pid":"54/7256","text":"Okan Örsan Özener"},{"@pid":"98/2704","text":"Hasan Sözer"}]},"title":"Genetic algorithms and heuristics hybridized for software architecture recovery.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"19","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ElyasiSSEOS23","doi":"10.1007/S10515-023-00384-Y","ee":"https://doi.org/10.1007/s10515-023-00384-y","url":"https://dblp.org/rec/journals/ase/ElyasiSSEOS23"},
+"url":"URL#961835"
+},
+{
+"@score":"1",
+"@id":"961836",
+"info":{"authors":{"author":[{"@pid":"168/6191","text":"Elahe Habibi"},{"@pid":"09/2194","text":"Seyed-Hassan Mirian-Hosseinabadi"}]},"title":"Sharif-TaaWS: a tool to automate unit testing of web services.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"1","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/HabibiM23","doi":"10.1007/S10515-022-00368-4","ee":"https://doi.org/10.1007/s10515-022-00368-4","url":"https://dblp.org/rec/journals/ase/HabibiM23"},
+"url":"URL#961836"
+},
+{
+"@score":"1",
+"@id":"961837",
+"info":{"authors":{"author":[{"@pid":"250/2542","text":"Jiaxuan Han"},{"@pid":"83/5898-3","text":"Cheng Huang 0003"},{"@pid":"120/1735","text":"Siqi Sun"},{"@pid":"156/1730","text":"Zhonglin Liu"},{"@pid":"180/5604","text":"Jiayong Liu"}]},"title":"bjXnet: an improved bug localization model based on code property graph and attention mechanism.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"12","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/HanHSLL23","doi":"10.1007/S10515-023-00379-9","ee":"https://doi.org/10.1007/s10515-023-00379-9","url":"https://dblp.org/rec/journals/ase/HanHSLL23"},
+"url":"URL#961837"
+},
+{
+"@score":"1",
+"@id":"961838",
+"info":{"authors":{"author":[{"@pid":"15/8391-2","text":"Yuan Huang 0002"},{"@pid":"28/4243","text":"Jinbo Huang"},{"@pid":"45/2913","text":"Xiangping Chen"},{"@pid":"337/3704","text":"Kunning He"},{"@pid":"71/4779","text":"Xiaocong Zhou"}]},"title":"BCGen: a comment generation method for bytecode.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"5","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/HuangHCHZ23","doi":"10.1007/S10515-022-00374-6","ee":"https://doi.org/10.1007/s10515-022-00374-6","url":"https://dblp.org/rec/journals/ase/HuangHCHZ23"},
+"url":"URL#961838"
+},
+{
+"@score":"1",
+"@id":"961839",
+"info":{"authors":{"author":{"@pid":"354/0071","text":"Pilsung Kang 0003"}},"title":"Evolving scientific code adaptations with modularization frameworks.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"24","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/Kang23","doi":"10.1007/S10515-023-00393-X","ee":"https://doi.org/10.1007/s10515-023-00393-x","url":"https://dblp.org/rec/journals/ase/Kang23"},
+"url":"URL#961839"
+},
+{
+"@score":"1",
+"@id":"961840",
+"info":{"authors":{"author":[{"@pid":"169/3827","text":"Kristian Kolthoff"},{"@pid":"15/73","text":"Christian Bartelt"},{"@pid":"04/2532","text":"Simone Paolo Ponzetto"}]},"title":"Data-driven prototyping via natural-language-based GUI retrieval.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"13","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/KolthoffBP23","doi":"10.1007/S10515-023-00377-X","ee":"https://doi.org/10.1007/s10515-023-00377-x","url":"https://dblp.org/rec/journals/ase/KolthoffBP23"},
+"url":"URL#961840"
+},
+{
+"@score":"1",
+"@id":"961841",
+"info":{"authors":{"author":[{"@pid":"169/3827","text":"Kristian Kolthoff"},{"@pid":"15/73","text":"Christian Bartelt"},{"@pid":"04/2532","text":"Simone Paolo Ponzetto"}]},"title":"Correction to: Data-driven prototyping via natural-language-based GUI retrieval.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"15","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/KolthoffBP23a","doi":"10.1007/S10515-023-00382-0","ee":"https://doi.org/10.1007/s10515-023-00382-0","url":"https://dblp.org/rec/journals/ase/KolthoffBP23a"},
+"url":"URL#961841"
+},
+{
+"@score":"1",
+"@id":"961842",
+"info":{"authors":{"author":[{"@pid":"148/6249","text":"Ankur Kumar"},{"@pid":"119/9875","text":"Mohammad Nadeem"},{"@pid":"219/7199","text":"Mohammad Shameem"}]},"title":"Machine learning based predictive modeling to effectively implement DevOps practices in software organizations.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"21","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/KumarNS23","doi":"10.1007/S10515-023-00388-8","ee":"https://doi.org/10.1007/s10515-023-00388-8","url":"https://dblp.org/rec/journals/ase/KumarNS23"},
+"url":"URL#961842"
+},
+{
+"@score":"1",
+"@id":"961843",
+"info":{"authors":{"author":[{"@pid":"81/3474","text":"Jaehyung Lee"},{"@pid":"338/9413","text":"Hangyeol Cho"},{"@pid":"57/2881","text":"Woosuk Lee"}]},"title":"Madusa: mobile application demo generation based on usage scenarios.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"8","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/LeeCL23","doi":"10.1007/S10515-022-00372-8","ee":"https://doi.org/10.1007/s10515-022-00372-8","url":"https://dblp.org/rec/journals/ase/LeeCL23"},
+"url":"URL#961843"
+},
+{
+"@score":"1",
+"@id":"961844",
+"info":{"authors":{"author":[{"@pid":"74/3697-5","text":"Yuying Li 0005"},{"@pid":"07/6095-3","text":"Yang Feng 0003"},{"@pid":"82/340","text":"Chao Guo"},{"@pid":"86/541-1","text":"Zhenyu Chen 0001"},{"@pid":"46/5742","text":"Baowen Xu"}]},"title":"Crowdsourced test case generation for android applications via static program analysis.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"26","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/LiFGCX23","doi":"10.1007/S10515-023-00394-W","ee":"https://doi.org/10.1007/s10515-023-00394-w","url":"https://dblp.org/rec/journals/ase/LiFGCX23"},
+"url":"URL#961844"
+},
+{
+"@score":"1",
+"@id":"961845",
+"info":{"authors":{"author":[{"@pid":"13/4540","text":"Laura Panizo"},{"@pid":"15/4377","text":"María-del-Mar Gallardo"}]},"title":"STAn: analysis of data traces using an event-driven interval temporal logic.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"3","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/PanizoG23","doi":"10.1007/S10515-022-00367-5","ee":"https://doi.org/10.1007/s10515-022-00367-5","url":"https://dblp.org/rec/journals/ase/PanizoG23"},
+"url":"URL#961845"
+},
+{
+"@score":"1",
+"@id":"961846",
+"info":{"authors":{"author":[{"@pid":"122/3136","text":"Jie Qian"},{"@pid":"136/4595","text":"Xiaolin Ju"},{"@pid":"64/3062-5","text":"Xiang Chen 0005"}]},"title":"GNet4FL: effective fault localization via graph convolutional neural network.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"16","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/QianJC23","doi":"10.1007/S10515-023-00383-Z","ee":"https://doi.org/10.1007/s10515-023-00383-z","url":"https://dblp.org/rec/journals/ase/QianJC23"},
+"url":"URL#961846"
+},
+{
+"@score":"1",
+"@id":"961847",
+"info":{"authors":{"author":[{"@pid":"280/5048","text":"Pattaraporn Sangaroonsilp"},{"@pid":"20/9870","text":"Morakot Choetkiertikul"},{"@pid":"75/4194","text":"Hoa Khanh Dam"},{"@pid":"g/AdityaKGhose","text":"Aditya Ghose"}]},"title":"An empirical study of automated privacy requirements classification in issue reports.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"20","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/SangaroonsilpCDG23","doi":"10.1007/S10515-023-00387-9","ee":"https://doi.org/10.1007/s10515-023-00387-9","url":"https://dblp.org/rec/journals/ase/SangaroonsilpCDG23"},
+"url":"URL#961847"
+},
+{
+"@score":"1",
+"@id":"961848",
+"info":{"authors":{"author":[{"@pid":"241/0368","text":"Christof Tinnes"},{"@pid":"24/9748","text":"Timo Kehrer"},{"@pid":"167/0200","text":"Mitchell Joblin"},{"@pid":"90/4541","text":"Uwe Hohenstein"},{"@pid":"28/7092","text":"Andreas Biesdorf"},{"@pid":"a/SvenApel","text":"Sven Apel"}]},"title":"Mining domain-specific edit operations from model repositories with applications to semantic lifting of model differences and change profiling.","venue":"Autom. Softw. Eng.","volume":"30","number":"2","pages":"17","year":"2023","type":"Journal Articles","access":"open","key":"journals/ase/TinnesKJHBA23","doi":"10.1007/S10515-023-00381-1","ee":"https://doi.org/10.1007/s10515-023-00381-1","url":"https://dblp.org/rec/journals/ase/TinnesKJHBA23"},
+"url":"URL#961848"
+},
+{
+"@score":"1",
+"@id":"961849",
+"info":{"authors":{"author":[{"@pid":"33/6100-1","text":"Huiyan Wang 0001"},{"@pid":"76/9998","text":"Ziqi Chen"},{"@pid":"97/2966-1","text":"Chang Xu 0001"}]},"title":"Freeze-and-mutate: abnormal sample identification for DL applications through model core analysis.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"9","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/WangCX23","doi":"10.1007/S10515-022-00373-7","ee":"https://doi.org/10.1007/s10515-022-00373-7","url":"https://dblp.org/rec/journals/ase/WangCX23"},
+"url":"URL#961849"
+},
+{
+"@score":"1",
+"@id":"961850",
+"info":{"authors":{"author":[{"@pid":"171/6033","text":"Zejun Wang"},{"@pid":"67/5807-32","text":"Fang Liu 0032"},{"@pid":"127/0513","text":"Yiyang Hao"},{"@pid":"22/3510-1","text":"Zhi Jin 0001"}]},"title":"AdaComplete: improve DL-based code completion method&apos;s domain adaptability.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"11","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/WangLHJ23","doi":"10.1007/S10515-023-00376-Y","ee":"https://doi.org/10.1007/s10515-023-00376-y","url":"https://dblp.org/rec/journals/ase/WangLHJ23"},
+"url":"URL#961850"
+},
+{
+"@score":"1",
+"@id":"961851",
+"info":{"authors":{"author":[{"@pid":"52/2991","text":"Xiaoyuan Xie"},{"@pid":"162/6488","text":"Shuo Jin"},{"@pid":"257/0002","text":"Songqiang Chen"}]},"title":"qaAskeR+: a novel testing method for question answering software via asking recursive questions.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"14","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/XieJC23","doi":"10.1007/S10515-023-00380-2","ee":"https://doi.org/10.1007/s10515-023-00380-2","url":"https://dblp.org/rec/journals/ase/XieJC23"},
+"url":"URL#961851"
+},
+{
+"@score":"1",
+"@id":"961852",
+"info":{"authors":{"author":[{"@pid":"76/1584","text":"Xin Zhang"},{"@pid":"z/YuZhiwen","text":"Zhiwen Yu 0001"},{"@pid":"51/2773-2","text":"Jiaqi Liu 0002"},{"@pid":"79/2151","text":"Hui Wang 0011"},{"@pid":"56/4499-17","text":"Liang Wang 0017"},{"@pid":"86/2663-1","text":"Bin Guo 0001"}]},"title":"HMPT: a human-machine cooperative program translation method.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ZhangYLWWG23","doi":"10.1007/S10515-023-00395-9","ee":"https://doi.org/10.1007/s10515-023-00395-9","url":"https://dblp.org/rec/journals/ase/ZhangYLWWG23"},
+"url":"URL#961852"
+},
+{
+"@score":"1",
+"@id":"961853",
+"info":{"authors":{"author":[{"@pid":"36/2259-57","text":"Bo Zhang 0057"},{"@pid":"29/2726-2","text":"Hongyu Zhang 0002"},{"@pid":"244/2869","text":"Van-Hoang Le"},{"@pid":"13/5176","text":"Pablo Moscato"},{"@pid":"278/9110","text":"Aozhong Zhang"}]},"title":"Semi-supervised and unsupervised anomaly detection by mining numerical workflow relations from system logs.","venue":"Autom. Softw. Eng.","volume":"30","number":"1","pages":"4","year":"2023","type":"Journal Articles","access":"closed","key":"journals/ase/ZhangZLMZ23","doi":"10.1007/S10515-022-00370-W","ee":"https://doi.org/10.1007/s10515-022-00370-w","url":"https://dblp.org/rec/journals/ase/ZhangZLMZ23"},
+"url":"URL#961853"
+}
+]
+}
+}
+}

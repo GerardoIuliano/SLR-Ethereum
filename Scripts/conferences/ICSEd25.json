@@ -1,0 +1,110 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icse/designing2025.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.99"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"49822967",
+"text":":facetid:toc:db/conf/icse/designing2025.bht"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"223925",
+"info":{"authors":{"author":[{"@pid":"242/2320","text":"Roberto O. Andrade"},{"@pid":"59/10809","text":"Jenny Torres 0001"},{"@pid":"144/0265","text":"Pamela Flores"},{"@pid":"397/7697","text":"Erick Cabezas"},{"@pid":"280/0201","text":"Jorge Segovia"}]},"title":"Adaptive Abstraction with AI for Managing Software Antipatterns Throughout the Software Lifecycle.","venue":"Designing@ICSE","pages":"35-38","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/AndradeTFCS25","doi":"10.1109/DESIGNING66910.2025.00013","ee":"https://doi.org/10.1109/Designing66910.2025.00013","url":"https://dblp.org/rec/conf/icse/AndradeTFCS25"},
+"url":"URL#223925"
+},
+{
+"@score":"1",
+"@id":"223943",
+"info":{"authors":{"author":{"@pid":"01/338","text":"David Budgen"}},"title":"Using Case Studies to Investigate Software Design Practices in Industry: Proposed Workshop Activity.","venue":"Designing@ICSE","pages":"11-12","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Budgen25","doi":"10.1109/DESIGNING66910.2025.00008","ee":"https://doi.org/10.1109/Designing66910.2025.00008","url":"https://dblp.org/rec/conf/icse/Budgen25"},
+"url":"URL#223943"
+},
+{
+"@score":"1",
+"@id":"223945",
+"info":{"authors":{"author":[{"@pid":"45/6816","text":"Yuanfang Cai"},{"@pid":"c/MRVChaudron","text":"Michel R. V. Chaudron"},{"@pid":"49/2420","text":"Eunsuk Kang"},{"@pid":"h/AndrevanderHoek","text":"André van der Hoek"}]},"title":"2nd International Workshop on Designing Software - Designing 2025 -.","venue":"Designing@ICSE","pages":"vii","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/CaiCKH25","doi":"10.1109/DESIGNING66910.2025.00005","ee":"https://doi.org/10.1109/Designing66910.2025.00005","url":"https://dblp.org/rec/conf/icse/CaiCKH25"},
+"url":"URL#223945"
+},
+{
+"@score":"1",
+"@id":"223993",
+"info":{"authors":{"author":[{"@pid":"75/1446","text":"Steven Fraser 0001"},{"@pid":"87/3318","text":"Dennis Mancl"}]},"title":"Documenting and Communicating Design Decisions.","venue":"Designing@ICSE","pages":"1-5","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/FraserM25","doi":"10.1109/DESIGNING66910.2025.00006","ee":"https://doi.org/10.1109/Designing66910.2025.00006","url":"https://dblp.org/rec/conf/icse/FraserM25"},
+"url":"URL#223993"
+},
+{
+"@score":"1",
+"@id":"224015",
+"info":{"authors":{"author":[{"@pid":"400/8257","text":"Luiz Pedro Franciscatto Guerra"},{"@pid":"68/3691","text":"Neil A. Ernst"}]},"title":"Assessing LLMs for Front-end Software Architecture Knowledge.","venue":"Designing@ICSE","pages":"6-10","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/GuerraE25","doi":"10.1109/DESIGNING66910.2025.00007","ee":"https://doi.org/10.1109/Designing66910.2025.00007","url":"https://dblp.org/rec/conf/icse/GuerraE25"},
+"url":"URL#224015"
+},
+{
+"@score":"1",
+"@id":"224100",
+"info":{"authors":{"author":[{"@pid":"357/9479","text":"Agnieszka Marczak-Czajka"},{"@pid":"320/4113","text":"Katherine R. Dearstyne"},{"@pid":"c/JaneClelandHuang","text":"Jane Cleland-Huang"}]},"title":"Assessing Compliance of Software System Designs to Laws, Regulations, and their Underlying Values.","venue":"Designing@ICSE","pages":"47-54","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/MarczakCzajkaDC25","doi":"10.1109/DESIGNING66910.2025.00015","ee":"https://doi.org/10.1109/Designing66910.2025.00015","url":"https://dblp.org/rec/conf/icse/MarczakCzajkaDC25"},
+"url":"URL#224100"
+},
+{
+"@score":"1",
+"@id":"224121",
+"info":{"authors":{"author":[{"@pid":"67/5214","text":"Elisa Yumi Nakagawa"},{"@pid":"90/3774","text":"Rick Kazman"}]},"title":"What is New When Talking About Sustainable Software Architectures?","venue":"Designing@ICSE","pages":"25-32","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/NakagawaK25","doi":"10.1109/DESIGNING66910.2025.00011","ee":"https://doi.org/10.1109/Designing66910.2025.00011","url":"https://dblp.org/rec/conf/icse/NakagawaK25"},
+"url":"URL#224121"
+},
+{
+"@score":"1",
+"@id":"224160",
+"info":{"authors":{"author":[{"@pid":"409/3163","text":"Melissa M. Sahl"},{"@pid":"278/0381","text":"Mohammad Samarah"}]},"title":"Building MVPs: An Experience Report of a Software Engineering Capstone Course.","venue":"Designing@ICSE","pages":"17-24","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SahlS25","doi":"10.1109/DESIGNING66910.2025.00010","ee":"https://doi.org/10.1109/Designing66910.2025.00010","url":"https://dblp.org/rec/conf/icse/SahlS25"},
+"url":"URL#224160"
+},
+{
+"@score":"1",
+"@id":"224161",
+"info":{"authors":{"author":[{"@pid":"409/3839","text":"Md Hasan Saju"},{"@pid":"142/9127","text":"Sanaa A. Alwidian"},{"@pid":"409/3058","text":"Partha Mazumder"},{"@pid":"02/8669","text":"Akramul Azim"}]},"title":"A Structured Approach to Accessibility in Software Development Lifecycle.","venue":"Designing@ICSE","pages":"39-46","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SajuAMA25","doi":"10.1109/DESIGNING66910.2025.00014","ee":"https://doi.org/10.1109/Designing66910.2025.00014","url":"https://dblp.org/rec/conf/icse/SajuAMA25"},
+"url":"URL#224161"
+},
+{
+"@score":"1",
+"@id":"224179",
+"info":{"authors":{"author":{"@pid":"93/5634","text":"Mary Shaw"}},"title":"Design Obligations for Software, with Examples from Data Abstraction and Adaptive Systems.","venue":"Designing@ICSE","pages":"55-58","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/Shaw25","doi":"10.1109/DESIGNING66910.2025.00016","ee":"https://doi.org/10.1109/Designing66910.2025.00016","url":"https://dblp.org/rec/conf/icse/Shaw25"},
+"url":"URL#224179"
+},
+{
+"@score":"1",
+"@id":"224180",
+"info":{"authors":{"author":[{"@pid":"93/5634","text":"Mary Shaw"},{"@pid":"86/6244","text":"Marian Petre"}]},"title":"Curating Model Problems for Software Designing.","venue":"Designing@ICSE","pages":"33-34","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/ShawP25","doi":"10.1109/DESIGNING66910.2025.00012","ee":"https://doi.org/10.1109/Designing66910.2025.00012","url":"https://dblp.org/rec/conf/icse/ShawP25"},
+"url":"URL#224180"
+},
+{
+"@score":"1",
+"@id":"224201",
+"info":{"authors":{"author":[{"@pid":"409/3441","text":"Fayaz Suleman"},{"@pid":"23/794","text":"David Wilson"}]},"title":"Integrating User Experience Design and Agile Software Development Processes.","venue":"Designing@ICSE","pages":"13-16","year":"2025","type":"Conference and Workshop Papers","access":"closed","key":"conf/icse/SulemanW25","doi":"10.1109/DESIGNING66910.2025.00009","ee":"https://doi.org/10.1109/Designing66910.2025.00009","url":"https://dblp.org/rec/conf/icse/SulemanW25"},
+"url":"URL#224201"
+},
+{
+"@score":"1",
+"@id":"255651",
+"info":{"title":"IEEE/ACM International Workshop on Designing Software, Designing@ICSE 2025, Ottawa, ON, Canada, April 27-28, 2025","venue":"Designing@ICSE","publisher":"IEEE","year":"2025","type":"Editorship","key":"conf/icse/2025designing","doi":"10.1109/DESIGNING66910.2025","ee":"https://doi.org/10.1109/Designing66910.2025","url":"https://dblp.org/rec/conf/icse/2025designing"},
+"url":"URL#255651"
+}
+]
+}
+}
+}

@@ -1,0 +1,314 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/kbse/ase2021w.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"5.73"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"47",
+"@dc":"47",
+"@oc":"47",
+"@id":"49831204",
+"text":":facetid:toc:db/conf/kbse/ase2021w.bht"
+}
+},
+"hits":{
+"@total":"47",
+"@computed":"47",
+"@sent":"47",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2281775",
+"info":{"authors":{"author":[{"@pid":"84/9497","text":"Rui Lima"},{"@pid":"f/JoaoFFerreira","text":"João F. Ferreira 0001"},{"@pid":"26/7495","text":"Alexandra Mendes"}]},"title":"Automatic Repair of Java Code with Timing Side-Channel Vulnerabilities.","venue":"ASE Workshops","pages":"1-8","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/0001FM21","doi":"10.1109/ASEW52652.2021.00014","ee":"https://doi.org/10.1109/ASEW52652.2021.00014","url":"https://dblp.org/rec/conf/kbse/0001FM21"},
+"url":"URL#2281775"
+},
+{
+"@score":"1",
+"@id":"2281783",
+"info":{"authors":{"author":[{"@pid":"214/0400","text":"Gargi Alavani"},{"@pid":"294/2614","text":"Jineet Desai"},{"@pid":"00/1826","text":"Santonu Sarkar"}]},"title":"GPPT: A Power Prediction Tool for CUDA Applications.","venue":"ASE Workshops","pages":"247-250","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlavaniDS21","doi":"10.1109/ASEW52652.2021.00054","ee":"https://doi.org/10.1109/ASEW52652.2021.00054","url":"https://dblp.org/rec/conf/kbse/AlavaniDS21"},
+"url":"URL#2281783"
+},
+{
+"@score":"1",
+"@id":"2281784",
+"info":{"authors":{"author":[{"@pid":"245/7683","text":"Wajdi Aljedaani"},{"@pid":"253/6500","text":"Furqan Rustam"},{"@pid":"58/3375","text":"Stephanie Ludi"},{"@pid":"73/6919-1","text":"Ali Ouni 0001"},{"@pid":"140/0883","text":"Mohamed Wiem Mkaouer"}]},"title":"Learning Sentiment Analysis for Accessibility User Reviews.","venue":"ASE Workshops","pages":"239-246","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AljedaaniRL0M21","doi":"10.1109/ASEW52652.2021.00053","ee":"https://doi.org/10.1109/ASEW52652.2021.00053","url":"https://dblp.org/rec/conf/kbse/AljedaaniRL0M21"},
+"url":"URL#2281784"
+},
+{
+"@score":"1",
+"@id":"2281787",
+"info":{"authors":{"author":[{"@pid":"279/1626","text":"Nouf Alturaief"},{"@pid":"02/2893","text":"Hamoud Aljamaan"},{"@pid":"154/5521","text":"Malak Baslyman"}]},"title":"AWARE: Aspect-Based Sentiment Analysis Dataset of Apps Reviews for Requirements Elicitation.","venue":"ASE Workshops","pages":"211-218","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AlturaiefAB21","doi":"10.1109/ASEW52652.2021.00049","ee":"https://doi.org/10.1109/ASEW52652.2021.00049","url":"https://dblp.org/rec/conf/kbse/AlturaiefAB21"},
+"url":"URL#2281787"
+},
+{
+"@score":"1",
+"@id":"2281788",
+"info":{"authors":{"author":[{"@pid":"21/5939","text":"Hirohisa Aman"},{"@pid":"87/4954","text":"Sousuke Amasaki"},{"@pid":"30/4670","text":"Tomoyuki Yokogawa"},{"@pid":"39/1005","text":"Minoru Kawahara"}]},"title":"An Investigation of Compound Variable Names Toward Automated Detection of Confusing Variable Pairs.","venue":"ASE Workshops","pages":"133-137","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/AmanAYK21","doi":"10.1109/ASEW52652.2021.00036","ee":"https://doi.org/10.1109/ASEW52652.2021.00036","url":"https://dblp.org/rec/conf/kbse/AmanAYK21"},
+"url":"URL#2281788"
+},
+{
+"@score":"1",
+"@id":"2281790",
+"info":{"authors":{"author":[{"@pid":"302/5582","text":"Ariadna de Arriba"},{"@pid":"18/10358","text":"Marc Oriol"},{"@pid":"f/XavierFranch","text":"Xavier Franch"}]},"title":"Merging Datasets for Emotion Analysis.","venue":"ASE Workshops","pages":"227-231","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/ArribaOF21","doi":"10.1109/ASEW52652.2021.00051","ee":"https://doi.org/10.1109/ASEW52652.2021.00051","url":"https://dblp.org/rec/conf/kbse/ArribaOF21"},
+"url":"URL#2281790"
+},
+{
+"@score":"1",
+"@id":"2281791",
+"info":{"authors":{"author":[{"@pid":"172/7281","text":"Amna Batool"},{"@pid":"l/SengWaiLoke","text":"Seng W. Loke"},{"@pid":"62/10788","text":"Niroshinie Fernando"},{"@pid":"192/3490","text":"Jonathan Kua"}]},"title":"A Methodology for Human-Centred IoT Collectives Based on Socio-Ethical Policies.","venue":"ASE Workshops","pages":"165-170","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BatoolLFK21","doi":"10.1109/ASEW52652.2021.00042","ee":"https://doi.org/10.1109/ASEW52652.2021.00042","url":"https://dblp.org/rec/conf/kbse/BatoolLFK21"},
+"url":"URL#2281791"
+},
+{
+"@score":"1",
+"@id":"2281795",
+"info":{"authors":{"author":[{"@pid":"312/4192","text":"Fares Bouaffar"},{"@pid":"42/4379","text":"Olivier Le Goaër"},{"@pid":"118/7695","text":"Adel Noureddine"}]},"title":"PowDroid: Energy Profiling of Android Applications.","venue":"ASE Workshops","pages":"251-254","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BouaffarGN21","doi":"10.1109/ASEW52652.2021.00055","ee":"https://doi.org/10.1109/ASEW52652.2021.00055","url":"https://dblp.org/rec/conf/kbse/BouaffarGN21"},
+"url":"URL#2281795"
+},
+{
+"@score":"1",
+"@id":"2281798",
+"info":{"authors":{"author":[{"@pid":"78/616","text":"Antonio Bucchiarone"},{"@pid":"28/2455","text":"Antonio Cicchetti"},{"@pid":"228/5997","text":"Enrica Loria"},{"@pid":"84/4043","text":"Annapaola Marconi"}]},"title":"Towards a Framework to Assist Iterative and Adaptive Design in Gameful Systems.","venue":"ASE Workshops","pages":"78-84","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/BucchiaroneCLM21","doi":"10.1109/ASEW52652.2021.00026","ee":"https://doi.org/10.1109/ASEW52652.2021.00026","url":"https://dblp.org/rec/conf/kbse/BucchiaroneCLM21"},
+"url":"URL#2281798"
+},
+{
+"@score":"1",
+"@id":"2281800",
+"info":{"authors":{"author":[{"@pid":"74/5570","text":"Yue Cao"},{"@pid":"119/0200","text":"Fatemeh H. Fard"}]},"title":"Pre-Trained Neural Language Models for Automatic Mobile App User Feedback Answer Generation.","venue":"ASE Workshops","pages":"120-125","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CaoF21","doi":"10.1109/ASEW52652.2021.00033","ee":"https://doi.org/10.1109/ASEW52652.2021.00033","url":"https://dblp.org/rec/conf/kbse/CaoF21"},
+"url":"URL#2281800"
+},
+{
+"@score":"1",
+"@id":"2281802",
+"info":{"authors":{"author":[{"@pid":"372/5661","text":"Diego Castro 0001"},{"@pid":"w/CMLWerner","text":"Cláudia M. L. Werner"}]},"title":"Rebuilding games at runtime.","venue":"ASE Workshops","pages":"73-77","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/CastroW21","doi":"10.1109/ASEW52652.2021.00025","ee":"https://doi.org/10.1109/ASEW52652.2021.00025","url":"https://dblp.org/rec/conf/kbse/CastroW21"},
+"url":"URL#2281802"
+},
+{
+"@score":"1",
+"@id":"2281810",
+"info":{"authors":{"author":[{"@pid":"211/1549","text":"Carlos Eduardo de Carvalho Dantas"},{"@pid":"97/4668","text":"Marcelo de Almeida Maia"}]},"title":"Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: A Comparative Study.","venue":"ASE Workshops","pages":"126-130","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DantasM21","doi":"10.1109/ASEW52652.2021.00034","ee":"https://doi.org/10.1109/ASEW52652.2021.00034","url":"https://dblp.org/rec/conf/kbse/DantasM21"},
+"url":"URL#2281810"
+},
+{
+"@score":"1",
+"@id":"2281813",
+"info":{"authors":{"author":[{"@pid":"299/8739","text":"Helen Dong"},{"@pid":"166/5038","text":"Shurui Zhou"},{"@pid":"73/4155-4","text":"Jin L. C. Guo"},{"@pid":"85/3873","text":"Christian Kästner"}]},"title":"Splitting, Renaming, Removing: A Study of Common Cleaning Activities in Jupyter Notebooks.","venue":"ASE Workshops","pages":"114-119","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/DongZGK21","doi":"10.1109/ASEW52652.2021.00032","ee":"https://doi.org/10.1109/ASEW52652.2021.00032","url":"https://dblp.org/rec/conf/kbse/DongZGK21"},
+"url":"URL#2281813"
+},
+{
+"@score":"1",
+"@id":"2281814",
+"info":{"authors":{"author":[{"@pid":"238/5097","text":"Kimberly J. Ferguson-Walter"},{"@pid":"119/6703","text":"Robert S. Gutzwiller"},{"@pid":"312/3954","text":"Dakota D. Scott"},{"@pid":"277/2024","text":"Craig J. Johnson"}]},"title":"Oppositional Human Factors in Cybersecurity: A Preliminary Analysis of Affective States.","venue":"ASE Workshops","pages":"153-158","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Ferguson-Walter21","doi":"10.1109/ASEW52652.2021.00040","ee":"https://doi.org/10.1109/ASEW52652.2021.00040","url":"https://dblp.org/rec/conf/kbse/Ferguson-Walter21"},
+"url":"URL#2281814"
+},
+{
+"@score":"1",
+"@id":"2281823",
+"info":{"authors":{"author":[{"@pid":"312/4221","text":"Stylianos Gkikas"},{"@pid":"147/4422","text":"Christina Volioti"},{"@pid":"279/0400","text":"Nikolaos Nikolaidis 0003"},{"@pid":"38/3828","text":"Apostolos Ampatzoglou"},{"@pid":"234/7810","text":"Alexander Chatzigeorgiou"},{"@pid":"31/693","text":"Ignatios S. Deligiannis"}]},"title":"Metrics for Assessing Gamers&apos; Satisfaction: Exploring the Graphics Factor.","venue":"ASE Workshops","pages":"85-89","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/GkikasV0ACD21","doi":"10.1109/ASEW52652.2021.00027","ee":"https://doi.org/10.1109/ASEW52652.2021.00027","url":"https://dblp.org/rec/conf/kbse/GkikasV0ACD21"},
+"url":"URL#2281823"
+},
+{
+"@score":"1",
+"@id":"2281826",
+"info":{"authors":{"author":[{"@pid":"296/3721","text":"Oumayma Hamdi"},{"@pid":"73/6919-1","text":"Ali Ouni 0001"},{"@pid":"243/1650","text":"Eman Abdullah AlOmar"},{"@pid":"140/0883","text":"Mohamed Wiem Mkaouer"}]},"title":"An Empirical Study on Code Smells Co-occurrences in Android Applications.","venue":"ASE Workshops","pages":"26-33","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Hamdi0AM21","doi":"10.1109/ASEW52652.2021.00018","ee":"https://doi.org/10.1109/ASEW52652.2021.00018","url":"https://dblp.org/rec/conf/kbse/Hamdi0AM21"},
+"url":"URL#2281826"
+},
+{
+"@score":"1",
+"@id":"2281827",
+"info":{"authors":{"author":[{"@pid":"221/3695","text":"Mohammadreza Hazhirpasand"},{"@pid":"119/3648","text":"Mohammad Ghafari"}]},"title":"Crypto Experts Advise What They Adopt.","venue":"ASE Workshops","pages":"179-184","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HazhirpasandG21","doi":"10.1109/ASEW52652.2021.00044","ee":"https://doi.org/10.1109/ASEW52652.2021.00044","url":"https://dblp.org/rec/conf/kbse/HazhirpasandG21"},
+"url":"URL#2281827"
+},
+{
+"@score":"1",
+"@id":"2281828",
+"info":{"authors":{"author":[{"@pid":"221/3695","text":"Mohammadreza Hazhirpasand"},{"@pid":"119/3648","text":"Mohammad Ghafari"}]},"title":"Worrisome Patterns in Developers: A Survey in Cryptography.","venue":"ASE Workshops","pages":"185-190","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HazhirpasandG21a","doi":"10.1109/ASEW52652.2021.00045","ee":"https://doi.org/10.1109/ASEW52652.2021.00045","url":"https://dblp.org/rec/conf/kbse/HazhirpasandG21a"},
+"url":"URL#2281828"
+},
+{
+"@score":"1",
+"@id":"2281831",
+"info":{"authors":{"author":[{"@pid":"40/5068","text":"Thomas Hirsch"},{"@pid":"90/8164","text":"Birgit Hofer"}]},"title":"Identifying non-natural language artifacts in bug reports.","venue":"ASE Workshops","pages":"191-197","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/HirschH21","doi":"10.1109/ASEW52652.2021.00046","ee":"https://doi.org/10.1109/ASEW52652.2021.00046","url":"https://dblp.org/rec/conf/kbse/HirschH21"},
+"url":"URL#2281831"
+},
+{
+"@score":"1",
+"@id":"2281844",
+"info":{"authors":{"author":[{"@pid":"301/5868","text":"Chelsea K. Johnson"},{"@pid":"119/6703","text":"Robert S. Gutzwiller"},{"@pid":"312/4157","text":"Joseph Gervais"},{"@pid":"238/5097","text":"Kimberly J. Ferguson-Walter"}]},"title":"Decision-Making Biases and Cyber Attackers.","venue":"ASE Workshops","pages":"140-144","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/JohnsonGGF21","doi":"10.1109/ASEW52652.2021.00038","ee":"https://doi.org/10.1109/ASEW52652.2021.00038","url":"https://dblp.org/rec/conf/kbse/JohnsonGGF21"},
+"url":"URL#2281844"
+},
+{
+"@score":"1",
+"@id":"2281852",
+"info":{"authors":{"author":[{"@pid":"156/8523","text":"Oksana Kulyk"},{"@pid":"r/KarenRenaud","text":"Karen Renaud"}]},"title":"&quot;I need to know I&apos;m safe and protected and will check&quot;: Users Want Cues to Signal Data Custodians&apos; Trustworthiness.","venue":"ASE Workshops","pages":"171-178","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KulykR21","doi":"10.1109/ASEW52652.2021.00043","ee":"https://doi.org/10.1109/ASEW52652.2021.00043","url":"https://dblp.org/rec/conf/kbse/KulykR21"},
+"url":"URL#2281852"
+},
+{
+"@score":"1",
+"@id":"2281853",
+"info":{"authors":{"author":[{"@pid":"259/1167","text":"Zarina Kurbatova"},{"@pid":"256/6199","text":"Yaroslav Golubev"},{"@pid":"223/2599","text":"Vladimir Kovalenko"},{"@pid":"136/0260","text":"Timofey Bryksin"}]},"title":"The IntelliJ Platform: A Framework for Building Plugins and Mining Software Data.","venue":"ASE Workshops","pages":"14-17","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/KurbatovaGKB21","doi":"10.1109/ASEW52652.2021.00016","ee":"https://doi.org/10.1109/ASEW52652.2021.00016","url":"https://dblp.org/rec/conf/kbse/KurbatovaGKB21"},
+"url":"URL#2281853"
+},
+{
+"@score":"1",
+"@id":"2281855",
+"info":{"authors":{"author":[{"@pid":"312/4194","text":"Eric Lacker"},{"@pid":"16/2486","text":"Jongwook Kim"},{"@pid":"312/3696","text":"Akash Kumar 0007"},{"@pid":"312/3676","text":"Lipika Chandrashekar"},{"@pid":"312/4100","text":"Srilaxmi Paramaiahgari"},{"@pid":"312/3505","text":"Jasmine Howard"}]},"title":"Statistical Analysis of Refactoring Bug Reports in Eclipse Bugzilla.","venue":"ASE Workshops","pages":"9-13","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LackerKKCPH21","doi":"10.1109/ASEW52652.2021.00015","ee":"https://doi.org/10.1109/ASEW52652.2021.00015","url":"https://dblp.org/rec/conf/kbse/LackerKKCPH21"},
+"url":"URL#2281855"
+},
+{
+"@score":"1",
+"@id":"2281866",
+"info":{"authors":{"author":[{"@pid":"225/9935","text":"Conghui Li"},{"@pid":"208/7434","text":"Humphrey O. Obie"},{"@pid":"193/7816","text":"Hourieh Khalajzadeh"}]},"title":"A First Step Towards Detecting Human Values-violating Defects in Android APIs.","venue":"ASE Workshops","pages":"53-58","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiOK21","doi":"10.1109/ASEW52652.2021.00022","ee":"https://doi.org/10.1109/ASEW52652.2021.00022","url":"https://dblp.org/rec/conf/kbse/LiOK21"},
+"url":"URL#2281866"
+},
+{
+"@score":"1",
+"@id":"2281872",
+"info":{"authors":{"author":[{"@pid":"04/1044","text":"Yonghui Liu"},{"@pid":"53/2189-29","text":"Li Li 0029"},{"@pid":"144/4778","text":"Pingfan Kong"},{"@pid":"23/7764-2","text":"Xiaoyu Sun 0002"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"}]},"title":"A First Look at Security Risks of Android TV Apps.","venue":"ASE Workshops","pages":"59-64","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/LiuLKSB21","doi":"10.1109/ASEW52652.2021.00023","ee":"https://doi.org/10.1109/ASEW52652.2021.00023","url":"https://dblp.org/rec/conf/kbse/LiuLKSB21"},
+"url":"URL#2281872"
+},
+{
+"@score":"1",
+"@id":"2281881",
+"info":{"authors":{"author":[{"@pid":"285/1622","text":"João de Macedo"},{"@pid":"00/6243","text":"Rui Abreu 0001"},{"@pid":"32/6005","text":"Rui Pereira"},{"@pid":"97/3668","text":"João Saraiva"}]},"title":"On the Runtime and Energy Performance of WebAssembly: Is WebAssembly superior to JavaScript yet?","venue":"ASE Workshops","pages":"255-262","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MacedoAPS21","doi":"10.1109/ASEW52652.2021.00056","ee":"https://doi.org/10.1109/ASEW52652.2021.00056","url":"https://dblp.org/rec/conf/kbse/MacedoAPS21"},
+"url":"URL#2281881"
+},
+{
+"@score":"1",
+"@id":"2281888",
+"info":{"authors":{"author":[{"@pid":"m/TimMenzies","text":"Tim Menzies"},{"@pid":"260/6818","text":"Kewen Peng"},{"@pid":"294/4836","text":"Andre Lustosa"}]},"title":"Fairer Software Made Easier (using &quot;Keys&quot;).","venue":"ASE Workshops","pages":"108-113","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MenziesPL21","doi":"10.1109/ASEW52652.2021.00031","ee":"https://doi.org/10.1109/ASEW52652.2021.00031","url":"https://dblp.org/rec/conf/kbse/MenziesPL21"},
+"url":"URL#2281888"
+},
+{
+"@score":"1",
+"@id":"2281892",
+"info":{"authors":{"author":[{"@pid":"226/5140","text":"Amina Mustansir"},{"@pid":"04/2970-2","text":"Khurram Shahzad 0002"},{"@pid":"71/8154","text":"Muhammad Kamran Malik"}]},"title":"Sentiment Analysis of User Feedback on Business Processes.","venue":"ASE Workshops","pages":"204-210","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/MustansirSM21","doi":"10.1109/ASEW52652.2021.00048","ee":"https://doi.org/10.1109/ASEW52652.2021.00048","url":"https://dblp.org/rec/conf/kbse/MustansirSM21"},
+"url":"URL#2281892"
+},
+{
+"@score":"1",
+"@id":"2281893",
+"info":{"authors":{"author":[{"@pid":"75/6495","text":"Muhammad Nadeem"},{"@pid":"04/2970-2","text":"Khurram Shahzad 0002"},{"@pid":"233/3927","text":"Nadeem Majeed"}]},"title":"Extracting Software Change Requests from Mobile App Reviews.","venue":"ASE Workshops","pages":"198-203","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/NadeemSM21","doi":"10.1109/ASEW52652.2021.00047","ee":"https://doi.org/10.1109/ASEW52652.2021.00047","url":"https://dblp.org/rec/conf/kbse/NadeemSM21"},
+"url":"URL#2281893"
+},
+{
+"@score":"1",
+"@id":"2281897",
+"info":{"authors":{"author":[{"@pid":"118/7695","text":"Adel Noureddine"},{"@pid":"135/6372","text":"Matias Martinez"},{"@pid":"285/1142","text":"Houssam Kanso"}]},"title":"A Preliminary Study of the Impact of Code Coverage on Software Energy Consumption.","venue":"ASE Workshops","pages":"263-264","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/NoureddineMK21","doi":"10.1109/ASEW52652.2021.00057","ee":"https://doi.org/10.1109/ASEW52652.2021.00057","url":"https://dblp.org/rec/conf/kbse/NoureddineMK21"},
+"url":"URL#2281897"
+},
+{
+"@score":"1",
+"@id":"2281898",
+"info":{"authors":{"author":{"@pid":"175/3395","text":"Delano Oliveira"}},"title":"Recommending Code Understandability Improvements Based on Code Reviews.","venue":"ASE Workshops","pages":"131-132","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Oliveira21","doi":"10.1109/ASEW52652.2021.00035","ee":"https://doi.org/10.1109/ASEW52652.2021.00035","url":"https://dblp.org/rec/conf/kbse/Oliveira21"},
+"url":"URL#2281898"
+},
+{
+"@score":"1",
+"@id":"2281899",
+"info":{"authors":{"author":[{"@pid":"128/5693","text":"Ciprian Paduraru"},{"@pid":"246/9062","text":"Miruna Paduraru"},{"@pid":"312/3470","text":"Catalina Camelia Patilea"}]},"title":"Task Distribution and Human Resource Management Using Reinforcement Learning.","venue":"ASE Workshops","pages":"96-101","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PaduraruPP21","doi":"10.1109/ASEW52652.2021.00029","ee":"https://doi.org/10.1109/ASEW52652.2021.00029","url":"https://dblp.org/rec/conf/kbse/PaduraruPP21"},
+"url":"URL#2281899"
+},
+{
+"@score":"1",
+"@id":"2281900",
+"info":{"authors":{"author":[{"@pid":"128/5693","text":"Ciprian Paduraru"},{"@pid":"246/9062","text":"Miruna Paduraru"},{"@pid":"17/512","text":"Alin Stefanescu"}]},"title":"Automated game testing using computer vision methods.","venue":"ASE Workshops","pages":"65-72","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PaduraruPS21","doi":"10.1109/ASEW52652.2021.00024","ee":"https://doi.org/10.1109/ASEW52652.2021.00024","url":"https://dblp.org/rec/conf/kbse/PaduraruPS21"},
+"url":"URL#2281900"
+},
+{
+"@score":"1",
+"@id":"2281905",
+"info":{"authors":{"author":[{"@pid":"239/9475","text":"Cole S. Peterson"},{"@pid":"133/5569","text":"Kang-Il Park"},{"@pid":"312/3548","text":"Isaac Baysinger"},{"@pid":"08/3315","text":"Bonita Sharif"}]},"title":"An Eye Tracking Perspective on How Developers Rate Source Code Readability Rules.","venue":"ASE Workshops","pages":"138-139","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PetersonPBS21","doi":"10.1109/ASEW52652.2021.00037","ee":"https://doi.org/10.1109/ASEW52652.2021.00037","url":"https://dblp.org/rec/conf/kbse/PetersonPBS21"},
+"url":"URL#2281905"
+},
+{
+"@score":"1",
+"@id":"2281909",
+"info":{"authors":{"author":[{"@pid":"202/8377","text":"Hung Phan"},{"@pid":"240/2774","text":"Arushi Sharma"},{"@pid":"74/1277","text":"Ali Jannesari"}]},"title":"Generating Context-Aware API Calls from Natural Language Description Using Neural Embeddings and Machine Translation.","venue":"ASE Workshops","pages":"219-226","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/PhanS021","doi":"10.1109/ASEW52652.2021.00050","ee":"https://doi.org/10.1109/ASEW52652.2021.00050","url":"https://dblp.org/rec/conf/kbse/PhanS021"},
+"url":"URL#2281909"
+},
+{
+"@score":"1",
+"@id":"2281912",
+"info":{"authors":{"author":[{"@pid":"53/9586","text":"Muhammad Sajidur Rahman"},{"@pid":"305/3507","text":"Blas Kojusner"},{"@pid":"305/4348","text":"Ryon Kennedy"},{"@pid":"305/4239","text":"Prerit Pathak"},{"@pid":"82/3116","text":"Lin Qi"},{"@pid":"233/9571","text":"Byron Williams"}]},"title":"So {U} R CERER: Developer-Driven Security Testing Framework for Android Apps.","venue":"ASE Workshops","pages":"40-46","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/RahmanKKPQW21","doi":"10.1109/ASEW52652.2021.00020","ee":"https://doi.org/10.1109/ASEW52652.2021.00020","url":"https://dblp.org/rec/conf/kbse/RahmanKKPQW21"},
+"url":"URL#2281912"
+},
+{
+"@score":"1",
+"@id":"2281918",
+"info":{"authors":{"author":[{"@pid":"251/6021","text":"Islem Saidani"},{"@pid":"73/6919-1","text":"Ali Ouni 0001"}]},"title":"Toward a Smell-aware Prediction Model for CI Build Failures.","venue":"ASE Workshops","pages":"18-25","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Saidani021","doi":"10.1109/ASEW52652.2021.00017","ee":"https://doi.org/10.1109/ASEW52652.2021.00017","url":"https://dblp.org/rec/conf/kbse/Saidani021"},
+"url":"URL#2281918"
+},
+{
+"@score":"1",
+"@id":"2281920",
+"info":{"authors":{"author":[{"@pid":"178/2168","text":"Hamza Sellak"},{"@pid":"48/6411","text":"Mohan Baruwal Chhetri"},{"@pid":"00/10437","text":"Marthie Grobler"},{"@pid":"167/5919","text":"Kristen Moore"}]},"title":"ACSIMA: A Cyber Security Index for Mobile Health Apps.","venue":"ASE Workshops","pages":"145-152","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SellakCGM21","doi":"10.1109/ASEW52652.2021.00039","ee":"https://doi.org/10.1109/ASEW52652.2021.00039","url":"https://dblp.org/rec/conf/kbse/SellakCGM21"},
+"url":"URL#2281920"
+},
+{
+"@score":"1",
+"@id":"2281927",
+"info":{"authors":{"author":[{"@pid":"207/9243","text":"Nelson Tavares de Sousa"},{"@pid":"h/WilhelmHasselbring","text":"Wilhelm Hasselbring"}]},"title":"JavaBERT: Training a Transformer-Based Model for the Java Programming Language.","venue":"ASE Workshops","pages":"90-95","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SousaH21","doi":"10.1109/ASEW52652.2021.00028","ee":"https://doi.org/10.1109/ASEW52652.2021.00028","url":"https://dblp.org/rec/conf/kbse/SousaH21"},
+"url":"URL#2281927"
+},
+{
+"@score":"1",
+"@id":"2281931",
+"info":{"authors":{"author":[{"@pid":"222/7955","text":"Tiezhu Sun"},{"@pid":"294/5439","text":"Nadia Daoudi"},{"@pid":"117/9316","text":"Kevin Allix"},{"@pid":"00/8006","text":"Tegawendé F. Bissyandé"}]},"title":"Android Malware Detection: Looking beyond Dalvik Bytecode.","venue":"ASE Workshops","pages":"34-39","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/SunDAB21","doi":"10.1109/ASEW52652.2021.00019","ee":"https://doi.org/10.1109/ASEW52652.2021.00019","url":"https://dblp.org/rec/conf/kbse/SunDAB21"},
+"url":"URL#2281931"
+},
+{
+"@score":"1",
+"@id":"2281939",
+"info":{"authors":{"author":{"@pid":"180/0071","text":"Binish Tanveer"}},"title":"Sustainable software engineering - have we neglected the software engineer&apos;s perspective?","venue":"ASE Workshops","pages":"267-270","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/Tanveer21","doi":"10.1109/ASEW52652.2021.00059","ee":"https://doi.org/10.1109/ASEW52652.2021.00059","url":"https://dblp.org/rec/conf/kbse/Tanveer21"},
+"url":"URL#2281939"
+},
+{
+"@score":"1",
+"@id":"2281940",
+"info":{"authors":{"author":[{"@pid":"312/3541","text":"José Fernando Tavares"},{"@pid":"116/0909","text":"Yandre M. G. Costa"},{"@pid":"84/1707","text":"Thelma Elita Colanzi"}]},"title":"Classification of UML Diagrams to Support Software Engineering Education.","venue":"ASE Workshops","pages":"102-107","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/TavaresCC21","doi":"10.1109/ASEW52652.2021.00030","ee":"https://doi.org/10.1109/ASEW52652.2021.00030","url":"https://dblp.org/rec/conf/kbse/TavaresCC21"},
+"url":"URL#2281940"
+},
+{
+"@score":"1",
+"@id":"2281951",
+"info":{"authors":{"author":[{"@pid":"15/4835","text":"Paul Walsh"},{"@pid":"312/3858","text":"Jhilam Bera"},{"@pid":"69/3337","text":"Vibhu Saujanya Sharma"},{"@pid":"09/6043","text":"Vikrant Kaulgud"},{"@pid":"223/0372","text":"Raghotham M. Rao"},{"@pid":"312/3882","text":"Orlaith Ross"}]},"title":"Sustainable AI in the Cloud: Exploring Machine Learning Energy Use in the Cloud.","venue":"ASE Workshops","pages":"265-266","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WalshBSKRR21","doi":"10.1109/ASEW52652.2021.00058","ee":"https://doi.org/10.1109/ASEW52652.2021.00058","url":"https://dblp.org/rec/conf/kbse/WalshBSKRR21"},
+"url":"URL#2281951"
+},
+{
+"@score":"1",
+"@id":"2281954",
+"info":{"authors":{"author":[{"@pid":"282/5633","text":"Owen Wang"},{"@pid":"74/10645","text":"Ben Cheng"},{"@pid":"76/7114","text":"Thuong N. Hoang"},{"@pid":"19/1006-2","text":"Chetan Arora 0002"},{"@pid":"82/1364-4","text":"Xiao Liu 0004"}]},"title":"Virtual Reality Enabled Human-Centric Requirements Engineering.","venue":"ASE Workshops","pages":"159-164","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/WangCH0L21","doi":"10.1109/ASEW52652.2021.00041","ee":"https://doi.org/10.1109/ASEW52652.2021.00041","url":"https://dblp.org/rec/conf/kbse/WangCH0L21"},
+"url":"URL#2281954"
+},
+{
+"@score":"1",
+"@id":"2281963",
+"info":{"authors":{"author":[{"@pid":"56/10361","text":"Mingyue Yang"},{"@pid":"l/DavidLie","text":"David Lie"},{"@pid":"162/1405","text":"Nicolas Papernot"}]},"title":"Accelerating Symbolic Analysis for Android Apps.","venue":"ASE Workshops","pages":"47-52","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YangLP21","doi":"10.1109/ASEW52652.2021.00021","ee":"https://doi.org/10.1109/ASEW52652.2021.00021","url":"https://dblp.org/rec/conf/kbse/YangLP21"},
+"url":"URL#2281963"
+},
+{
+"@score":"1",
+"@id":"2281971",
+"info":{"authors":{"author":[{"@pid":"241/2412","text":"Juyeon Yoon"},{"@pid":"06/1626","text":"Shin Yoo"}]},"title":"Enhancing Lexical Representation of Test Coverage for Failure Clustering.","venue":"ASE Workshops","pages":"232-238","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/kbse/YoonY21","doi":"10.1109/ASEW52652.2021.00052","ee":"https://doi.org/10.1109/ASEW52652.2021.00052","url":"https://dblp.org/rec/conf/kbse/YoonY21"},
+"url":"URL#2281971"
+},
+{
+"@score":"1",
+"@id":"2333399",
+"info":{"title":"36th IEEE/ACM International Conference on Automated Software Engineering, ASE 2021 - Workshops, Melbourne, Australia, November 15-19, 2021","venue":"ASE Workshops","publisher":"IEEE","year":"2021","type":"Editorship","key":"conf/kbse/2021w","doi":"10.1109/ASEW52652.2021","ee":"https://doi.org/10.1109/ASEW52652.2021","url":"https://dblp.org/rec/conf/kbse/2021w"},
+"url":"URL#2333399"
+}
+]
+}
+}
+}
